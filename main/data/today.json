@@ -1,0 +1,134 @@
+{
+  "collection_date": "2025-08-12",
+  "collection_timestamp": "2025-08-12T23:07:51.075606+00:00",
+  "pipeline_summary": {
+    "pipeline_timestamp": "2025-08-12T23:07:51.075625+00:00",
+    "collection_stats": {
+      "total_posts_collected": 86855,
+      "posts_with_engagement": 31128,
+      "collection_duration_seconds": 600,
+      "success": true
+    },
+    "analysis_stats": {
+      "ratios_detected": 2,
+      "analysis_timestamp": "2025-08-12T23:07:50.233400+00:00",
+      "top_ratio_score": 13.0,
+      "categories_found": [
+        "Complete Ratio",
+        "Brewing Ratio"
+      ]
+    },
+    "settings": {
+      "hours_back": 1,
+      "min_ratio_score": 1.5,
+      "min_engagement": 10,
+      "top_n_ratios": 20
+    }
+  },
+  "top_ratios": [
+    {
+      "original_post": {
+        "uri": "at://did:plc:hfyj7jg3kewvindqovjgtmkr/app.bsky.feed.post/3lwadmvpw2e2j",
+        "did": "did:plc:hfyj7jg3kewvindqovjgtmkr",
+        "rkey": "3lwadmvpw2e2j",
+        "time_us": 1755037013649048,
+        "timestamp": "2025-08-12T22:16:53.649048+00:00",
+        "text": "Brandon Blackstock was in \u2018loving\u2019 relationship with ex-wife Kelly Clarkson\u2019s former assistant at time of his death: obituary",
+        "created_at": "2025-08-12T22:16:53.018Z",
+        "character_count": 125,
+        "langs": [],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Clarkson's former assistant was described as Blackstock's \"beautiful and loving partner in life and business\" in his obituary.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiauc7bqylul2ix7tp5uf4enha6czfnmtifke5qwyijafceimwmqpu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 80719
+            },
+            "title": "Brandon Blackstock was in \u2018loving\u2019 relationship with ex-wife Kelly Clarkson\u2019s former assistant at time of his death: obituary",
+            "uri": "https://pagesix.com/2025/08/12/celebrity-news/brandon-blackstock-was-in-loving-relationship-with-ex-wife-kelly-clarksons-former-assistant-at-time-of-his-death-obituary/"
+          }
+        },
+        "facets": null,
+        "tags": null,
+        "like_count": 0,
+        "reply_count": 0,
+        "repost_count": 0,
+        "quote_count": 13,
+        "is_quote_post": false,
+        "quoted_uri": null
+      },
+      "ratio_metrics": {
+        "score": 13.0,
+        "confidence": 0.370256043106851,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 13 negative vs 0 positive in 45 minutes"
+      },
+      "top_5_replies": [],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 0,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0
+      },
+      "collection_success": true,
+      "responses_found": 0
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:g2ndvah3plcvtkonx45wcc6m/app.bsky.feed.post/3lwaf6iql6c2w",
+        "did": "did:plc:g2ndvah3plcvtkonx45wcc6m",
+        "rkey": "3lwaf6iql6c2w",
+        "time_us": 1755038677457372,
+        "timestamp": "2025-08-12T22:44:37.457372+00:00",
+        "text": "Edgardo Henriquez is here in Anaheim. Perhaps related: Brock Stewart just changed into street clothes and left the visiting clubhouse.",
+        "created_at": "2025-08-12T22:44:37.158Z",
+        "character_count": 134,
+        "langs": [
+          "en"
+        ],
+        "embed": null,
+        "facets": null,
+        "tags": null,
+        "like_count": 3,
+        "reply_count": 0,
+        "repost_count": 1,
+        "quote_count": 6,
+        "is_quote_post": false,
+        "quoted_uri": null
+      },
+      "ratio_metrics": {
+        "score": 1.5,
+        "confidence": 0.3957556046377358,
+        "category": "Brewing Ratio",
+        "explanation": "Brewing ratio: 0 replies + 6 quotes building up vs 3 likes in 17 minutes"
+      },
+      "top_5_replies": [],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 0,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0
+      },
+      "collection_success": true,
+      "responses_found": 0
+    }
+  ],
+  "metadata": {
+    "posts_collected": 86855,
+    "ratios_detected": 2,
+    "deep_dive_completed": 2,
+    "pipeline_settings": {
+      "hours_back": 1,
+      "min_ratio_score": 1.5,
+      "min_engagement": 10,
+      "deep_dive_top_n": 5
+    }
+  }
+}
