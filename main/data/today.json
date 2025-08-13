@@ -1,31 +1,137 @@
 {
-  "collection_date": "2025-08-12",
-  "collection_timestamp": "2025-08-12T23:07:51.075606+00:00",
+  "collection_date": "2025-08-13",
+  "collection_timestamp": "2025-08-13T01:18:29.146672+00:00",
   "pipeline_summary": {
-    "pipeline_timestamp": "2025-08-12T23:07:51.075625+00:00",
+    "pipeline_timestamp": "2025-08-13T01:18:29.146705+00:00",
     "collection_stats": {
-      "total_posts_collected": 86855,
-      "posts_with_engagement": 31128,
+      "total_posts_collected": 159227,
+      "posts_with_engagement": 61531,
       "collection_duration_seconds": 600,
       "success": true
     },
     "analysis_stats": {
-      "ratios_detected": 2,
-      "analysis_timestamp": "2025-08-12T23:07:50.233400+00:00",
-      "top_ratio_score": 13.0,
+      "ratios_detected": 8,
+      "analysis_timestamp": "2025-08-13T01:18:27.024525+00:00",
+      "top_ratio_score": 41.0,
       "categories_found": [
-        "Complete Ratio",
-        "Brewing Ratio"
+        "Quote Dunk",
+        "Brewing Ratio",
+        "Complete Ratio"
       ]
     },
     "settings": {
-      "hours_back": 1,
+      "hours_back": 3,
       "min_ratio_score": 1.5,
       "min_engagement": 10,
       "top_n_ratios": 20
     }
   },
   "top_ratios": [
+    {
+      "original_post": {
+        "uri": "at://did:plc:bxt3a2nfcod77oerla7jolur/app.bsky.feed.post/3lwagdqcv3s2i",
+        "text": "new topic.... what are you gonna be for halloween??",
+        "author_did": "did:plc:bxt3a2nfcod77oerla7jolur",
+        "created_at": "2025-08-12T23:05:26.612Z",
+        "engagement": {
+          "likes": 1,
+          "replies": 0,
+          "reposts": 0,
+          "quotes": 41
+        }
+      },
+      "ratio_metrics": {
+        "score": 41.0,
+        "confidence": 0.397,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 41 negative vs 1 positive in 2.0 hours",
+        "post_age_minutes": 123.0
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:7u3432i3okdpv3gxqylaxja5/app.bsky.feed.post/3lwah72bkos24",
+          "author": {
+            "did": "did:plc:7u3432i3okdpv3gxqylaxja5",
+            "handle": "nyashajunior.bsky.social",
+            "display_name": "Nyasha Junior"
+          },
+          "text": "In the bed early.",
+          "created_at": "2025-08-12T23:20:43.024Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 0,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.1,
+            "subjectivity": 0.3,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:eafqco2jimqd6x4bfsnws3g6/app.bsky.feed.post/3lwajsd43ts2t",
+          "author": {
+            "did": "did:plc:eafqco2jimqd6x4bfsnws3g6",
+            "handle": "harveybiirdmin.bsky.social",
+            "display_name": ""
+          },
+          "text": "Depressed and probably working.",
+          "created_at": "2025-08-13T00:07:17.299Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:3ndls44ookped7wtrvt2qozy/app.bsky.feed.post/3lwaiaps2o22t",
+          "author": {
+            "did": "did:plc:3ndls44ookped7wtrvt2qozy",
+            "handle": "mcoorlim.com",
+            "display_name": "Mcoorlim"
+          },
+          "text": "Homeless at this rate.",
+          "created_at": "2025-08-12T23:39:32.881Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 3,
+        "avg_polarity": 0.033,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 3
+    },
     {
       "original_post": {
         "uri": "at://did:plc:hfyj7jg3kewvindqovjgtmkr/app.bsky.feed.post/3lwadmvpw2e2j",
@@ -58,15 +164,15 @@
         "like_count": 0,
         "reply_count": 0,
         "repost_count": 0,
-        "quote_count": 13,
+        "quote_count": 14,
         "is_quote_post": false,
         "quoted_uri": null
       },
       "ratio_metrics": {
-        "score": 13.0,
-        "confidence": 0.370256043106851,
+        "score": 14.0,
+        "confidence": 0.26097167029179574,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 13 negative vs 0 positive in 45 minutes"
+        "explanation": "Completely ratio'd: 14 negative vs 0 positive in 2.9 hours"
       },
       "top_5_replies": [],
       "top_5_quotes": [],
@@ -81,32 +187,295 @@
     },
     {
       "original_post": {
-        "uri": "at://did:plc:g2ndvah3plcvtkonx45wcc6m/app.bsky.feed.post/3lwaf6iql6c2w",
-        "did": "did:plc:g2ndvah3plcvtkonx45wcc6m",
-        "rkey": "3lwaf6iql6c2w",
-        "time_us": 1755038677457372,
-        "timestamp": "2025-08-12T22:44:37.457372+00:00",
-        "text": "Edgardo Henriquez is here in Anaheim. Perhaps related: Brock Stewart just changed into street clothes and left the visiting clubhouse.",
-        "created_at": "2025-08-12T22:44:37.158Z",
-        "character_count": 134,
-        "langs": [
-          "en"
+        "uri": "at://did:plc:3czaa4fpdclbk7shjzvifaxn/app.bsky.feed.post/3lwafy2rtzk2x",
+        "text": "Well beloved, I apologize for responding to your vague post about IDs amid several cities being under siege. I forget some ppl are living a more comfortable life than others. \ud83e\udd37\ud83c\udfff\u200d\u2642\ufe0f",
+        "author_did": "did:plc:3czaa4fpdclbk7shjzvifaxn",
+        "created_at": "2025-08-12T22:58:54.935Z",
+        "engagement": {
+          "likes": 0,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 10
+        }
+      },
+      "ratio_metrics": {
+        "score": 10.0,
+        "confidence": 0.304,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 10 negative vs 1 positive in 2.2 hours",
+        "post_age_minutes": 129.5
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:nvrou3oa6quj5aqev7wgf2wl/app.bsky.feed.post/3lwagkgsjss2a",
+          "author": {
+            "did": "did:plc:nvrou3oa6quj5aqev7wgf2wl",
+            "handle": "ladidadi56.bsky.social",
+            "display_name": "Tyler\u2019s Mustache"
+          },
+          "text": "It wasn\u2019t vague. You responded without context to one of several skeets",
+          "created_at": "2025-08-12T23:09:11.520Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 0,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": -0.25,
+            "subjectivity": 0.25,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:pi6a5kro3sjj7x7j2gb7l2cq/app.bsky.feed.post/3lwagsf74tk2j",
+          "author": {
+            "did": "did:plc:pi6a5kro3sjj7x7j2gb7l2cq",
+            "handle": "locgoody.bsky.social",
+            "display_name": "Filthy Fox \ud83d\udda4\u27bf"
+          },
+          "text": "Now where did you get all that?? Walk us through identifying; \n\n-vagueness\n-comfort \n\nAll I saw was Coco saying that she doesn\u2019t understand people asking for personal information without ID.",
+          "created_at": "2025-08-12T23:13:38.271Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 0,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.3,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 2,
+        "avg_polarity": -0.125,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 2
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:jryyfycjq4gwctoumcm5bawj/app.bsky.feed.post/3lwagthijzk2j",
+        "text": "I\u2019m a Scorpio. \n\nDon\u2019t let me play in your face and act like shit squashed\u2014I still don\u2019t like you, UGLY! \ud83d\ude2d",
+        "author_did": "did:plc:jryyfycjq4gwctoumcm5bawj",
+        "created_at": "2025-08-12T23:14:14.221Z",
+        "engagement": {
+          "likes": 44,
+          "replies": 0,
+          "reposts": 7,
+          "quotes": 93
+        }
+      },
+      "ratio_metrics": {
+        "score": 1.82,
+        "confidence": 0.693,
+        "category": "Quote Dunk",
+        "explanation": "Getting dunked on: 93 quotes vs 44 likes in 1.9 hours",
+        "post_age_minutes": 114.1
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:5zbkquosikf3i73uggouq3jz/app.bsky.feed.post/3lwahytowa22v",
+          "author": {
+            "did": "did:plc:5zbkquosikf3i73uggouq3jz",
+            "handle": "kembaford.bsky.social",
+            "display_name": "Kemba Ford"
+          },
+          "text": "Where Pisces at?!",
+          "created_at": "2025-08-12T23:35:08.537Z",
+          "engagement": {
+            "likes": 19,
+            "replies": 2,
+            "reposts": 1,
+            "total": 22
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:mo3mlncxk5g6g4zwziymrawe/app.bsky.feed.post/3lwai5pat722s",
+          "author": {
+            "did": "did:plc:mo3mlncxk5g6g4zwziymrawe",
+            "handle": "notkaspeck.bsky.social",
+            "display_name": "speck"
+          },
+          "text": "Pisces: As long as the river flows to the sea.",
+          "created_at": "2025-08-12T23:37:51.649Z",
+          "engagement": {
+            "likes": 15,
+            "replies": 0,
+            "reposts": 3,
+            "total": 18
+          },
+          "sentiment": {
+            "polarity": -0.05,
+            "subjectivity": 0.4,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:uuneufjvheahzq3vq647gh7c/app.bsky.feed.post/3lwaj2abqm22t",
+          "author": {
+            "did": "did:plc:uuneufjvheahzq3vq647gh7c",
+            "handle": "tylerhardlyknower.bsky.social",
+            "display_name": "\ud83c\udf54 Tylerr \ud83c\udf2d"
+          },
+          "text": "Pisces isn\u2019t there because it\u2019s not even a question that it\u2019s permanent lol",
+          "created_at": "2025-08-12T23:53:49.032Z",
+          "engagement": {
+            "likes": 13,
+            "replies": 0,
+            "reposts": 0,
+            "total": 13
+          },
+          "sentiment": {
+            "polarity": 0.8,
+            "subjectivity": 0.7,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:z2vvnubcyzwdgn6lfv4mtt55/app.bsky.feed.post/3lwajc7x2ec2n",
+          "author": {
+            "did": "did:plc:z2vvnubcyzwdgn6lfv4mtt55",
+            "handle": "tommylamb.bsky.social",
+            "display_name": "tommylamb"
+          },
+          "text": "I cheated on a Taurus in high school and her grandkids who I had never met saw me on the street and flipped me off.",
+          "created_at": "2025-08-12T23:58:17.117Z",
+          "engagement": {
+            "likes": 11,
+            "replies": 0,
+            "reposts": 1,
+            "total": 12
+          },
+          "sentiment": {
+            "polarity": 0.16,
+            "subjectivity": 0.54,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:jryyfycjq4gwctoumcm5bawj/app.bsky.feed.post/3lwajo5ipds2j",
+          "author": {
+            "did": "did:plc:jryyfycjq4gwctoumcm5bawj",
+            "handle": "deelo502.bsky.social",
+            "display_name": "Wikipedia Brown"
+          },
+          "text": "Pisces come out the womb holding a grudge they just haven\u2019t selected their victim yet. Ask me how I know\u2026 \ud83d\ude02",
+          "created_at": "2025-08-13T00:04:57.204Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 1,
+            "reposts": 1,
+            "total": 10
+          },
+          "sentiment": {
+            "polarity": -0.075,
+            "subjectivity": 0.05,
+            "anger": 0.222,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.222
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 52,
+        "avg_polarity": 0.129,
+        "avg_anger": 0.073,
+        "avg_disgust": 0.032,
+        "high_emotion_counts": {
+          "high_anger_posts": 3,
+          "high_disgust_posts": 2
+        }
+      },
+      "collection_success": true,
+      "responses_found": 52
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:5ldkg26osbcsbbktk4n6kfr3/app.bsky.feed.post/3lwah4ibxli24",
+        "did": "did:plc:5ldkg26osbcsbbktk4n6kfr3",
+        "rkey": "3lwah4ibxli24",
+        "time_us": 1755040757577152,
+        "timestamp": "2025-08-12T23:19:17.577152+00:00",
+        "text": "Multiple sources tell THR that Warner Bros. and New Line are already talking with Zach Cregger about making a 'Weapons' prequel exploring the origin story of Aunt Gladys bit.ly/4fzr44o",
+        "created_at": "2025-08-12T23:19:17Z",
+        "character_count": 184,
+        "langs": [],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1500,
+                "width": 1200
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreide2uebglzjdqftrovxenbydcoq2gznlji7e3k7ieydkoyoaiooyq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 181524
+              }
+            }
+          ]
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://bit.ly/4fzr44o"
+              }
+            ],
+            "index": {
+              "byteEnd": 184,
+              "byteStart": 170
+            }
+          }
         ],
-        "embed": null,
-        "facets": null,
         "tags": null,
-        "like_count": 3,
+        "like_count": 5,
         "reply_count": 0,
-        "repost_count": 1,
-        "quote_count": 6,
+        "repost_count": 0,
+        "quote_count": 10,
         "is_quote_post": false,
         "quoted_uri": null
       },
       "ratio_metrics": {
-        "score": 1.5,
-        "confidence": 0.3957556046377358,
+        "score": 2.0,
+        "confidence": 0.3402755460643901,
         "category": "Brewing Ratio",
-        "explanation": "Brewing ratio: 0 replies + 6 quotes building up vs 3 likes in 17 minutes"
+        "explanation": "Brewing ratio: 0 replies + 10 quotes building up vs 5 likes in 1.8 hours"
       },
       "top_5_replies": [],
       "top_5_quotes": [],
@@ -121,11 +490,11 @@
     }
   ],
   "metadata": {
-    "posts_collected": 86855,
-    "ratios_detected": 2,
-    "deep_dive_completed": 2,
+    "posts_collected": 159227,
+    "ratios_detected": 8,
+    "deep_dive_completed": 5,
     "pipeline_settings": {
-      "hours_back": 1,
+      "hours_back": 3,
       "min_ratio_score": 1.5,
       "min_engagement": 10,
       "deep_dive_top_n": 5
