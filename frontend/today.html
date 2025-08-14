@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Today - Main Character - Preline UI</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="./node_modules/preline/dist/preline.css">
+    <link rel="stylesheet" href="node_modules/preline/dist/preline.css">
     <style>
       .grid-bg {
         background-image: 
@@ -113,14 +113,14 @@
           <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Today's Main Characters</h2>
           <p class="text-sm text-gray-500 dark:text-neutral-400">Past 24 hours</p>
         </div>
-        <div class="text-sm text-gray-500 dark:text-neutral-400">
+        <div class="text-sm text-gray-500 dark:text-neutral-400" data-timestamp>
           Updated 2 min ago
         </div>
       </div>
 
       <!-- Topics Table -->
       <div class="bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-neutral-800 dark:border-neutral-700">
-        <table class="w-full table-auto">
+        <table id="main-characters-table" class="w-full table-auto">
           <thead class="bg-gray-50 dark:bg-neutral-700">
             <tr>
               <th scope="col" class="text-left py-3 px-5 text-xs font-medium text-gray-500 uppercase dark:text-neutral-400 w-2/5">User</th>
