@@ -1,26 +1,26 @@
 {
-  "collection_date": "2025-08-13",
-  "collection_timestamp": "2025-08-13T01:18:29.146672+00:00",
+  "collection_date": "2025-08-14",
+  "collection_timestamp": "2025-08-14T00:20:39.616188+00:00",
   "pipeline_summary": {
-    "pipeline_timestamp": "2025-08-13T01:18:29.146705+00:00",
+    "pipeline_timestamp": "2025-08-14T00:20:39.616196+00:00",
     "collection_stats": {
-      "total_posts_collected": 159227,
-      "posts_with_engagement": 61531,
+      "total_posts_collected": 166812,
+      "posts_with_engagement": 66361,
       "collection_duration_seconds": 600,
       "success": true
     },
     "analysis_stats": {
       "ratios_detected": 8,
-      "analysis_timestamp": "2025-08-13T01:18:27.024525+00:00",
-      "top_ratio_score": 41.0,
+      "analysis_timestamp": "2025-08-14T00:20:35.619849+00:00",
+      "top_ratio_score": 12.0,
       "categories_found": [
-        "Quote Dunk",
         "Brewing Ratio",
+        "Quote Dunk",
         "Complete Ratio"
       ]
     },
     "settings": {
-      "hours_back": 3,
+      "hours_back": 6,
       "min_ratio_score": 1.5,
       "min_engagement": 10,
       "top_n_ratios": 20
@@ -29,89 +29,135 @@
   "top_ratios": [
     {
       "original_post": {
-        "uri": "at://did:plc:bxt3a2nfcod77oerla7jolur/app.bsky.feed.post/3lwagdqcv3s2i",
-        "text": "new topic.... what are you gonna be for halloween??",
-        "author_did": "did:plc:bxt3a2nfcod77oerla7jolur",
-        "created_at": "2025-08-12T23:05:26.612Z",
+        "uri": "at://did:plc:cvgfgkowwcxwpcrr5o6dq4lg/app.bsky.feed.post/3lwcgjmg4lk2q",
+        "text": "Actually, you know what? Let\u2019s stop complaining for a second. QT this with a GOOD airport. Defend that title as much or as little as you like. But let\u2019s hear about airports that don\u2019t suck.",
+        "author_did": "did:plc:cvgfgkowwcxwpcrr5o6dq4lg",
+        "created_at": "2025-08-13T18:14:03.327Z",
         "engagement": {
-          "likes": 1,
+          "likes": 98,
           "replies": 0,
-          "reposts": 0,
-          "quotes": 41
+          "reposts": 14,
+          "quotes": 585
         }
       },
       "ratio_metrics": {
-        "score": 41.0,
-        "confidence": 0.397,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 41 negative vs 1 positive in 2.0 hours",
-        "post_age_minutes": 123.0
+        "score": 5.22,
+        "confidence": 0.549,
+        "category": "Quote Dunk",
+        "explanation": "Getting dunked on: 585 quotes vs 98 likes in 5.9 hours",
+        "post_age_minutes": 356.5
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:7u3432i3okdpv3gxqylaxja5/app.bsky.feed.post/3lwah72bkos24",
+          "uri": "at://did:plc:cvgfgkowwcxwpcrr5o6dq4lg/app.bsky.feed.post/3lwcgz6ib3s2q",
           "author": {
-            "did": "did:plc:7u3432i3okdpv3gxqylaxja5",
-            "handle": "nyashajunior.bsky.social",
-            "display_name": "Nyasha Junior"
+            "did": "did:plc:cvgfgkowwcxwpcrr5o6dq4lg",
+            "handle": "mattbrown.bsky.social",
+            "display_name": "Matt Brown"
           },
-          "text": "In the bed early.",
-          "created_at": "2025-08-12T23:20:43.024Z",
+          "text": "ALSO: Pullman WA is a great airport because it has a canned cheese vending machine",
+          "created_at": "2025-08-13T18:22:45.588Z",
           "engagement": {
-            "likes": 2,
-            "replies": 0,
-            "reposts": 0,
-            "total": 2
+            "likes": 102,
+            "replies": 8,
+            "reposts": 1,
+            "total": 111
           },
           "sentiment": {
-            "polarity": 0.1,
-            "subjectivity": 0.3,
+            "polarity": 0.8,
+            "subjectivity": 0.75,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
           }
         },
         {
-          "uri": "at://did:plc:eafqco2jimqd6x4bfsnws3g6/app.bsky.feed.post/3lwajsd43ts2t",
+          "uri": "at://did:plc:g4woxmzf4tmtaxuubj2aos62/app.bsky.feed.post/3lwchcqjpps2x",
           "author": {
-            "did": "did:plc:eafqco2jimqd6x4bfsnws3g6",
-            "handle": "harveybiirdmin.bsky.social",
+            "did": "did:plc:g4woxmzf4tmtaxuubj2aos62",
+            "handle": "normcharlatan.bsky.social",
+            "display_name": "Norm Charlatan"
+          },
+          "text": "MSP and Detroit, two airports that might not be hubs today but are for historical reasons, and, more importantly, where I don\u2019t usually connect, so I get to take advantage of the large number of amenities and personnel.",
+          "created_at": "2025-08-13T18:28:06.500Z",
+          "engagement": {
+            "likes": 68,
+            "replies": 12,
+            "reposts": 0,
+            "total": 80
+          },
+          "sentiment": {
+            "polarity": 0.173,
+            "subjectivity": 0.436,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:cvgfgkowwcxwpcrr5o6dq4lg/app.bsky.feed.post/3lwcgvtc2ik2q",
+          "author": {
+            "did": "did:plc:cvgfgkowwcxwpcrr5o6dq4lg",
+            "handle": "mattbrown.bsky.social",
+            "display_name": "Matt Brown"
+          },
+          "text": "IMO, Louisville, Reagan and the new Salt Lake are good airports.",
+          "created_at": "2025-08-13T18:20:53.186Z",
+          "engagement": {
+            "likes": 55,
+            "replies": 22,
+            "reposts": 0,
+            "total": 77
+          },
+          "sentiment": {
+            "polarity": 0.418,
+            "subjectivity": 0.527,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:s7zsutaoyjyewg2nuv5sazno/app.bsky.feed.post/3lwchchw6dk27",
+          "author": {
+            "did": "did:plc:s7zsutaoyjyewg2nuv5sazno",
+            "handle": "jlazarus.bsky.social",
+            "display_name": "Jeff Lazarus"
+          },
+          "text": "I fly in and out of Hartsfield-Jackson in ATL all the time and find it to be incredibly well run and efficient. Better by miles than all of the nation\u2019s other giant airports.",
+          "created_at": "2025-08-13T18:27:57.471Z",
+          "engagement": {
+            "likes": 62,
+            "replies": 14,
+            "reposts": 1,
+            "total": 77
+          },
+          "sentiment": {
+            "polarity": 0.415,
+            "subjectivity": 0.735,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:fudjoxva52lwakanvvjx7mjw/app.bsky.feed.post/3lwcgtzk6ns2e",
+          "author": {
+            "did": "did:plc:fudjoxva52lwakanvvjx7mjw",
+            "handle": "crazyjoedavola.bsky.social",
             "display_name": ""
           },
-          "text": "Depressed and probably working.",
-          "created_at": "2025-08-13T00:07:17.299Z",
+          "text": "Other than the distance from security to  gate, LaGuardia has turned into a good/great airport. Inconceivable considering what it was for most of my life.",
+          "created_at": "2025-08-13T18:19:52.636Z",
           "engagement": {
-            "likes": 0,
-            "replies": 0,
+            "likes": 38,
+            "replies": 7,
             "reposts": 0,
-            "total": 0
+            "total": 45
           },
           "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:3ndls44ookped7wtrvt2qozy/app.bsky.feed.post/3lwaiaps2o22t",
-          "author": {
-            "did": "did:plc:3ndls44ookped7wtrvt2qozy",
-            "handle": "mcoorlim.com",
-            "display_name": "Mcoorlim"
-          },
-          "text": "Homeless at this rate.",
-          "created_at": "2025-08-12T23:39:32.881Z",
-          "engagement": {
-            "likes": 0,
-            "replies": 0,
-            "reposts": 0,
-            "total": 0
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
+            "polarity": 0.188,
+            "subjectivity": 0.438,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
@@ -120,133 +166,80 @@
       ],
       "top_5_quotes": [],
       "overall_sentiment": {
-        "analyzed_total_responses": 3,
-        "avg_polarity": 0.033,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0,
+        "analyzed_total_responses": 429,
+        "avg_polarity": 0.205,
+        "avg_anger": 0.022,
+        "avg_disgust": 0.022,
         "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
+          "high_anger_posts": 5,
+          "high_disgust_posts": 8
         }
       },
       "collection_success": true,
-      "responses_found": 3
+      "responses_found": 429
     },
     {
       "original_post": {
-        "uri": "at://did:plc:hfyj7jg3kewvindqovjgtmkr/app.bsky.feed.post/3lwadmvpw2e2j",
-        "did": "did:plc:hfyj7jg3kewvindqovjgtmkr",
-        "rkey": "3lwadmvpw2e2j",
-        "time_us": 1755037013649048,
-        "timestamp": "2025-08-12T22:16:53.649048+00:00",
-        "text": "Brandon Blackstock was in \u2018loving\u2019 relationship with ex-wife Kelly Clarkson\u2019s former assistant at time of his death: obituary",
-        "created_at": "2025-08-12T22:16:53.018Z",
-        "character_count": 125,
-        "langs": [],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "description": "Clarkson's former assistant was described as Blackstock's \"beautiful and loving partner in life and business\" in his obituary.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiauc7bqylul2ix7tp5uf4enha6czfnmtifke5qwyijafceimwmqpu"
-              },
-              "mimeType": "image/jpeg",
-              "size": 80719
-            },
-            "title": "Brandon Blackstock was in \u2018loving\u2019 relationship with ex-wife Kelly Clarkson\u2019s former assistant at time of his death: obituary",
-            "uri": "https://pagesix.com/2025/08/12/celebrity-news/brandon-blackstock-was-in-loving-relationship-with-ex-wife-kelly-clarksons-former-assistant-at-time-of-his-death-obituary/"
-          }
-        },
-        "facets": null,
-        "tags": null,
-        "like_count": 0,
-        "reply_count": 0,
-        "repost_count": 0,
-        "quote_count": 14,
-        "is_quote_post": false,
-        "quoted_uri": null
-      },
-      "ratio_metrics": {
-        "score": 14.0,
-        "confidence": 0.26097167029179574,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 14 negative vs 0 positive in 2.9 hours"
-      },
-      "top_5_replies": [],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 0,
-        "avg_polarity": 0.0,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0
-      },
-      "collection_success": true,
-      "responses_found": 0
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:3czaa4fpdclbk7shjzvifaxn/app.bsky.feed.post/3lwafy2rtzk2x",
-        "text": "Well beloved, I apologize for responding to your vague post about IDs amid several cities being under siege. I forget some ppl are living a more comfortable life than others. \ud83e\udd37\ud83c\udfff\u200d\u2642\ufe0f",
-        "author_did": "did:plc:3czaa4fpdclbk7shjzvifaxn",
-        "created_at": "2025-08-12T22:58:54.935Z",
+        "uri": "at://did:plc:geo2etkysco35k7yfd6aojgn/app.bsky.feed.post/3lwchodl6wr2e",
+        "text": "\u26ea\ufe0fYou Are Known By The Company You\nKeep - Pete Hegseth\n\nPete Hegseth, a CREC church member, praised Pastor Doug Wilson\u2014who officiated pedophile Steven Sitler\u2019s wedding & allowed him to worship post-conviction. \n\nWilson\u2019s church has faced backlash for harboring sex offenders.",
+        "author_did": "did:plc:geo2etkysco35k7yfd6aojgn",
+        "created_at": "2025-08-13T18:34:35.545Z",
         "engagement": {
           "likes": 0,
           "replies": 0,
-          "reposts": 1,
-          "quotes": 10
+          "reposts": 0,
+          "quotes": 12
         }
       },
       "ratio_metrics": {
-        "score": 10.0,
-        "confidence": 0.304,
+        "score": 12.0,
+        "confidence": 0.168,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 10 negative vs 1 positive in 2.2 hours",
-        "post_age_minutes": 129.5
+        "explanation": "Completely ratio'd: 12 negative vs 0 positive in 5.6 hours",
+        "post_age_minutes": 335.8
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:nvrou3oa6quj5aqev7wgf2wl/app.bsky.feed.post/3lwagkgsjss2a",
+          "uri": "at://did:plc:geo2etkysco35k7yfd6aojgn/app.bsky.feed.post/3lwcholvyzj2e",
           "author": {
-            "did": "did:plc:nvrou3oa6quj5aqev7wgf2wl",
-            "handle": "ladidadi56.bsky.social",
-            "display_name": "Tyler\u2019s Mustache"
+            "did": "did:plc:geo2etkysco35k7yfd6aojgn",
+            "handle": "phoenix5.bsky.social",
+            "display_name": "PhoenixRisin"
           },
-          "text": "It wasn\u2019t vague. You responded without context to one of several skeets",
-          "created_at": "2025-08-12T23:09:11.520Z",
+          "text": "\u26ea\ufe0fYou Are Known By The Company You\nKeep - Pete Hegseth",
+          "created_at": "2025-08-13T18:34:35.546Z",
           "engagement": {
-            "likes": 8,
-            "replies": 0,
+            "likes": 0,
+            "replies": 1,
             "reposts": 0,
-            "total": 8
+            "total": 1
           },
           "sentiment": {
-            "polarity": -0.25,
-            "subjectivity": 0.25,
+            "polarity": 0.0,
+            "subjectivity": 0.0,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
           }
         },
         {
-          "uri": "at://did:plc:pi6a5kro3sjj7x7j2gb7l2cq/app.bsky.feed.post/3lwagsf74tk2j",
+          "uri": "at://did:plc:geo2etkysco35k7yfd6aojgn/app.bsky.feed.post/3lwchongftz2e",
           "author": {
-            "did": "did:plc:pi6a5kro3sjj7x7j2gb7l2cq",
-            "handle": "locgoody.bsky.social",
-            "display_name": "Filthy Fox \ud83d\udda4\u27bf"
+            "did": "did:plc:geo2etkysco35k7yfd6aojgn",
+            "handle": "phoenix5.bsky.social",
+            "display_name": "PhoenixRisin"
           },
-          "text": "Now where did you get all that?? Walk us through identifying; \n\n-vagueness\n-comfort \n\nAll I saw was Coco saying that she doesn\u2019t understand people asking for personal information without ID.",
-          "created_at": "2025-08-12T23:13:38.271Z",
+          "text": "\u26ea\ufe0fYou Are Known By The Company You\nKeep - Pete Hegseth",
+          "created_at": "2025-08-13T18:34:35.547Z",
           "engagement": {
-            "likes": 3,
+            "likes": 0,
             "replies": 0,
             "reposts": 0,
-            "total": 3
+            "total": 0
           },
           "sentiment": {
             "polarity": 0.0,
-            "subjectivity": 0.3,
+            "subjectivity": 0.0,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
@@ -256,7 +249,7 @@
       "top_5_quotes": [],
       "overall_sentiment": {
         "analyzed_total_responses": 2,
-        "avg_polarity": -0.125,
+        "avg_polarity": 0.0,
         "avg_anger": 0.0,
         "avg_disgust": 0.0,
         "high_emotion_counts": {
@@ -269,39 +262,108 @@
     },
     {
       "original_post": {
-        "uri": "at://did:plc:jryyfycjq4gwctoumcm5bawj/app.bsky.feed.post/3lwagthijzk2j",
-        "text": "I\u2019m a Scorpio. \n\nDon\u2019t let me play in your face and act like shit squashed\u2014I still don\u2019t like you, UGLY! \ud83d\ude2d",
-        "author_did": "did:plc:jryyfycjq4gwctoumcm5bawj",
-        "created_at": "2025-08-12T23:14:14.221Z",
+        "uri": "at://did:plc:w5pxbmkjntxfw6mt4emennhv/app.bsky.feed.post/3lwckj3b6uk2p",
+        "text": "Conservative MP calls on Ottawa to do more on wildfires, attacks forest entry ban",
+        "author_did": "did:plc:w5pxbmkjntxfw6mt4emennhv",
+        "created_at": "2025-08-13T19:25:20.307Z",
         "engagement": {
-          "likes": 44,
+          "likes": 1,
           "replies": 0,
-          "reposts": 7,
-          "quotes": 93
+          "reposts": 0,
+          "quotes": 10
         }
       },
       "ratio_metrics": {
-        "score": 1.82,
-        "confidence": 0.693,
-        "category": "Quote Dunk",
-        "explanation": "Getting dunked on: 93 quotes vs 44 likes in 1.9 hours",
-        "post_age_minutes": 114.1
+        "score": 10.0,
+        "confidence": 0.137,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 10 negative vs 1 positive in 4.8 hours",
+        "post_age_minutes": 285.2
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:5zbkquosikf3i73uggouq3jz/app.bsky.feed.post/3lwahytowa22v",
+          "uri": "at://did:plc:bumu6s332o24fppobse7j3ms/app.bsky.feed.post/3lwcl7qavik2e",
           "author": {
-            "did": "did:plc:5zbkquosikf3i73uggouq3jz",
-            "handle": "kembaford.bsky.social",
-            "display_name": "Kemba Ford"
+            "did": "did:plc:bumu6s332o24fppobse7j3ms",
+            "handle": "matttomic.bsky.social",
+            "display_name": "\u2133att"
           },
-          "text": "Where Pisces at?!",
-          "created_at": "2025-08-12T23:35:08.537Z",
+          "text": "why the fuck's an Alberta MP commenting on policy in Nova Scotia? keep your eyes on your own paper.",
+          "created_at": "2025-08-13T19:38:00.515Z",
           "engagement": {
-            "likes": 19,
-            "replies": 2,
+            "likes": 26,
+            "replies": 1,
+            "reposts": 0,
+            "total": 27
+          },
+          "sentiment": {
+            "polarity": 0.1,
+            "subjectivity": 0.8,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:tgxfmcqlm2lw65r5dlsveuao/app.bsky.feed.post/3lwckstwpms26",
+          "author": {
+            "did": "did:plc:tgxfmcqlm2lw65r5dlsveuao",
+            "handle": "mikevlasic.bsky.social",
+            "display_name": "Mike Vlasic"
+          },
+          "text": "So she says nothing about Ford cutting forest fighting services by 67% in 2023? Isn't he a Con, or is he just a con artist?\nMRGA \u2015 Make Rempel Go Away.",
+          "created_at": "2025-08-13T19:30:48.167Z",
+          "engagement": {
+            "likes": 21,
+            "replies": 0,
+            "reposts": 5,
+            "total": 26
+          },
+          "sentiment": {
+            "polarity": -0.6,
+            "subjectivity": 0.9,
+            "anger": 0.286,
+            "disgust": 0.143,
+            "total_negative_emotion": 0.429
+          }
+        },
+        {
+          "uri": "at://did:plc:iz5poogjhyxpnnb6nhoilkf4/app.bsky.feed.post/3lwcloijuq226",
+          "author": {
+            "did": "did:plc:iz5poogjhyxpnnb6nhoilkf4",
+            "handle": "globalcatastrophe.bsky.social",
+            "display_name": "\ud83c\udde8\ud83c\udde6"
+          },
+          "text": "Here's a more appropriate headline to use:\n\n\"Hypocritical Albertan MAGA-loving MP who has done everything possible to make global warming worse now says wildfires are bad but her idiot supporters should be allowed to start them anyway\"",
+          "created_at": "2025-08-13T19:46:15.737Z",
+          "engagement": {
+            "likes": 11,
+            "replies": 0,
+            "reposts": 2,
+            "total": 13
+          },
+          "sentiment": {
+            "polarity": -0.129,
+            "subjectivity": 0.581,
+            "anger": 0.091,
+            "disgust": 0.182,
+            "total_negative_emotion": 0.273
+          }
+        },
+        {
+          "uri": "at://did:plc:djolctlrht73lhjlhwujix35/app.bsky.feed.post/3lwcnalta7k2v",
+          "author": {
+            "did": "did:plc:djolctlrht73lhjlhwujix35",
+            "handle": "rbulnes.bsky.social",
+            "display_name": "Rob Bulnes \ud83c\udf41"
+          },
+          "text": "she read about it in her home in Oklahoma.",
+          "created_at": "2025-08-13T20:14:16.909Z",
+          "engagement": {
+            "likes": 12,
+            "replies": 0,
             "reposts": 1,
-            "total": 22
+            "total": 13
           },
           "sentiment": {
             "polarity": 0.0,
@@ -312,139 +374,72 @@
           }
         },
         {
-          "uri": "at://did:plc:mo3mlncxk5g6g4zwziymrawe/app.bsky.feed.post/3lwai5pat722s",
+          "uri": "at://did:plc:fzqmukly7vczteri6kl5kckv/app.bsky.feed.post/3lwckrl24ms2y",
           "author": {
-            "did": "did:plc:mo3mlncxk5g6g4zwziymrawe",
-            "handle": "notkaspeck.bsky.social",
-            "display_name": "speck"
+            "did": "did:plc:fzqmukly7vczteri6kl5kckv",
+            "handle": "arkayne242.bsky.social",
+            "display_name": "Edward"
           },
-          "text": "Pisces: As long as the river flows to the sea.",
-          "created_at": "2025-08-12T23:37:51.649Z",
+          "text": "\"We demand Ottawa do more about these fires also we want to go stand next to them so you have to waste resources rescuing us\" feels contradictory.",
+          "created_at": "2025-08-13T19:30:05.288Z",
           "engagement": {
-            "likes": 15,
+            "likes": 10,
             "replies": 0,
-            "reposts": 3,
-            "total": 18
-          },
-          "sentiment": {
-            "polarity": -0.05,
-            "subjectivity": 0.4,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:uuneufjvheahzq3vq647gh7c/app.bsky.feed.post/3lwaj2abqm22t",
-          "author": {
-            "did": "did:plc:uuneufjvheahzq3vq647gh7c",
-            "handle": "tylerhardlyknower.bsky.social",
-            "display_name": "\ud83c\udf54 Tylerr \ud83c\udf2d"
-          },
-          "text": "Pisces isn\u2019t there because it\u2019s not even a question that it\u2019s permanent lol",
-          "created_at": "2025-08-12T23:53:49.032Z",
-          "engagement": {
-            "likes": 13,
-            "replies": 0,
-            "reposts": 0,
-            "total": 13
-          },
-          "sentiment": {
-            "polarity": 0.8,
-            "subjectivity": 0.7,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:z2vvnubcyzwdgn6lfv4mtt55/app.bsky.feed.post/3lwajc7x2ec2n",
-          "author": {
-            "did": "did:plc:z2vvnubcyzwdgn6lfv4mtt55",
-            "handle": "tommylamb.bsky.social",
-            "display_name": "tommylamb"
-          },
-          "text": "I cheated on a Taurus in high school and her grandkids who I had never met saw me on the street and flipped me off.",
-          "created_at": "2025-08-12T23:58:17.117Z",
-          "engagement": {
-            "likes": 11,
-            "replies": 0,
-            "reposts": 1,
+            "reposts": 2,
             "total": 12
           },
           "sentiment": {
-            "polarity": 0.16,
-            "subjectivity": 0.54,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:jryyfycjq4gwctoumcm5bawj/app.bsky.feed.post/3lwajo5ipds2j",
-          "author": {
-            "did": "did:plc:jryyfycjq4gwctoumcm5bawj",
-            "handle": "deelo502.bsky.social",
-            "display_name": "Wikipedia Brown"
-          },
-          "text": "Pisces come out the womb holding a grudge they just haven\u2019t selected their victim yet. Ask me how I know\u2026 \ud83d\ude02",
-          "created_at": "2025-08-13T00:04:57.204Z",
-          "engagement": {
-            "likes": 8,
-            "replies": 1,
-            "reposts": 1,
-            "total": 10
-          },
-          "sentiment": {
-            "polarity": -0.075,
-            "subjectivity": 0.05,
-            "anger": 0.222,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.222
+            "polarity": 0.1,
+            "subjectivity": 0.167,
+            "anger": 0.125,
+            "disgust": 0.125,
+            "total_negative_emotion": 0.25
           }
         }
       ],
       "top_5_quotes": [],
       "overall_sentiment": {
-        "analyzed_total_responses": 52,
-        "avg_polarity": 0.129,
-        "avg_anger": 0.073,
-        "avg_disgust": 0.032,
+        "analyzed_total_responses": 35,
+        "avg_polarity": -0.068,
+        "avg_anger": 0.038,
+        "avg_disgust": 0.049,
         "high_emotion_counts": {
-          "high_anger_posts": 3,
+          "high_anger_posts": 0,
           "high_disgust_posts": 2
         }
       },
       "collection_success": true,
-      "responses_found": 52
+      "responses_found": 35
     },
     {
       "original_post": {
-        "uri": "at://did:plc:5ldkg26osbcsbbktk4n6kfr3/app.bsky.feed.post/3lwah4ibxli24",
-        "did": "did:plc:5ldkg26osbcsbbktk4n6kfr3",
-        "rkey": "3lwah4ibxli24",
-        "time_us": 1755040757577152,
-        "timestamp": "2025-08-12T23:19:17.577152+00:00",
-        "text": "Multiple sources tell THR that Warner Bros. and New Line are already talking with Zach Cregger about making a 'Weapons' prequel exploring the origin story of Aunt Gladys bit.ly/4fzr44o",
-        "created_at": "2025-08-12T23:19:17Z",
-        "character_count": 184,
-        "langs": [],
+        "uri": "at://did:plc:xgc7iaa4qf2nrnnhlyn73xrr/app.bsky.feed.post/3lwchydxcbk2g",
+        "did": "did:plc:xgc7iaa4qf2nrnnhlyn73xrr",
+        "rkey": "3lwchydxcbk2g",
+        "time_us": 1755110421742488,
+        "timestamp": "2025-08-13T18:40:21.742488+00:00",
+        "text": "Question 3: \n\nIntroduce your current WIP in the form of a breaking news headline (10 words or fewer) \n\nNo links, save them for the outro. \n\nQuote post and include the tag #HorrorWritersChat. It's the only way other participants will find you.",
+        "created_at": "2025-08-13T18:40:11.492Z",
+        "character_count": 242,
+        "langs": [
+          "en"
+        ],
         "embed": {
           "$type": "app.bsky.embed.images",
           "images": [
             {
-              "alt": "",
+              "alt": "Image shows creepy figures behind a curtain. All text in post.",
               "aspectRatio": {
-                "height": 1500,
-                "width": 1200
+                "height": 1100,
+                "width": 1467
               },
               "image": {
                 "$type": "blob",
                 "ref": {
-                  "$link": "bafkreide2uebglzjdqftrovxenbydcoq2gznlji7e3k7ieydkoyoaiooyq"
+                  "$link": "bafkreiblefhechlhgcn7ckwfyj36wz5ssqeqited4qyxt6fqjxpipvfdnq"
                 },
                 "mimeType": "image/jpeg",
-                "size": 181524
+                "size": 413825
               }
             }
           ]
@@ -453,29 +448,29 @@
           {
             "features": [
               {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://bit.ly/4fzr44o"
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "HorrorWritersChat"
               }
             ],
             "index": {
-              "byteEnd": 184,
-              "byteStart": 170
+              "byteEnd": 189,
+              "byteStart": 171
             }
           }
         ],
         "tags": null,
-        "like_count": 5,
+        "like_count": 33,
         "reply_count": 0,
-        "repost_count": 0,
-        "quote_count": 10,
+        "repost_count": 2,
+        "quote_count": 53,
         "is_quote_post": false,
         "quoted_uri": null
       },
       "ratio_metrics": {
-        "score": 2.0,
-        "confidence": 0.3402755460643901,
+        "score": 1.5142857142857142,
+        "confidence": 0.47392106507527954,
         "category": "Brewing Ratio",
-        "explanation": "Brewing ratio: 0 replies + 10 quotes building up vs 5 likes in 1.8 hours"
+        "explanation": "Brewing ratio: 0 replies + 53 quotes building up vs 33 likes in 5.5 hours"
       },
       "top_5_replies": [],
       "top_5_quotes": [],
@@ -487,17 +482,381 @@
       },
       "collection_success": true,
       "responses_found": 0
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:xgc7iaa4qf2nrnnhlyn73xrr/app.bsky.feed.post/3lwcitloeu22g",
+        "did": "did:plc:xgc7iaa4qf2nrnnhlyn73xrr",
+        "rkey": "3lwcitloeu22g",
+        "time_us": 1755111334154218,
+        "timestamp": "2025-08-13T18:55:34.154218+00:00",
+        "text": "Question 4 (last Q but stick around for the outro):\n\nFinish this sentence by writing a one-post short story or poem.\n\n\u201cWe stayed up to watch The Perseids\u201d (that's a meteor shower)\n\nQuote post and include the tag #HorrorWritersChat. It's the only way other participants will find you.",
+        "created_at": "2025-08-13T18:55:25.566Z",
+        "character_count": 283,
+        "langs": [
+          "en"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Image shows creepy figures behind a curtain. All text is in the post. ",
+              "aspectRatio": {
+                "height": 1100,
+                "width": 1467
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreib2zwgfhnuf4fagpo4wu4hkjhyewpdwqxsbwcyggysbxqhu3mfwgi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 428930
+              }
+            }
+          ]
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "HorrorWritersChat"
+              }
+            ],
+            "index": {
+              "byteEnd": 234,
+              "byteStart": 216
+            }
+          }
+        ],
+        "tags": null,
+        "like_count": 28,
+        "reply_count": 0,
+        "repost_count": 2,
+        "quote_count": 45,
+        "is_quote_post": false,
+        "quoted_uri": null
+      },
+      "ratio_metrics": {
+        "score": 1.5,
+        "confidence": 0.4470286923254735,
+        "category": "Brewing Ratio",
+        "explanation": "Brewing ratio: 0 replies + 45 quotes building up vs 28 likes in 5.2 hours"
+      },
+      "top_5_replies": [],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 0,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0
+      },
+      "collection_success": true,
+      "responses_found": 0
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:gsfcatjdodevhzfveiaacqht/app.bsky.feed.post/3lwch6g3i5c2f",
+        "text": "Are you required to have sex if an alien flies you out? I'm only asking because that's a LONG way and it's not like you have your own spaceship to get back if you don't consent",
+        "author_did": "did:plc:gsfcatjdodevhzfveiaacqht",
+        "created_at": "2025-08-13T18:25:41.329Z",
+        "engagement": {
+          "likes": 14,
+          "replies": 0,
+          "reposts": 7,
+          "quotes": 38
+        }
+      },
+      "ratio_metrics": {
+        "score": 1.81,
+        "confidence": 0.318,
+        "category": "Quote Dunk",
+        "explanation": "Getting dunked on: 38 quotes vs 14 likes in 5.7 hours",
+        "post_age_minutes": 344.9
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:u3o6re4emgbjvmiqqbj4c5bn/app.bsky.feed.post/3lwct5vcues25",
+          "author": {
+            "did": "did:plc:u3o6re4emgbjvmiqqbj4c5bn",
+            "handle": "warrenwp.bsky.social",
+            "display_name": "Warren Shadespot"
+          },
+          "text": "Thats a good point, glad to know up front",
+          "created_at": "2025-08-13T22:00:08.648Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.6,
+            "subjectivity": 0.8,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": 0.6,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:5t3ms4bgtrpllgoggcctps6u/app.bsky.feed.post/3lwchrprf6z2d",
+        "text": "Feij\u00f3o acusa al Gobierno de \"seguir de vacaciones\" mientras Espa\u00f1a est\u00e1 \"ante un riesgo m\u00e1ximo\" por los incendios dozz.es/tbhjn2",
+        "author_did": "did:plc:5t3ms4bgtrpllgoggcctps6u",
+        "created_at": "2025-08-13T18:36:28+00:00",
+        "engagement": {
+          "likes": 3,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 8
+        }
+      },
+      "ratio_metrics": {
+        "score": 2.0,
+        "confidence": 0.117,
+        "category": "Quote Dunk",
+        "explanation": "Getting dunked on: 8 quotes vs 3 likes in 5.6 hours",
+        "post_age_minutes": 334.1
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:jbof5yyndyh2vnpc7vui26hj/app.bsky.feed.post/3lwcjeszhxc2i",
+          "author": {
+            "did": "did:plc:jbof5yyndyh2vnpc7vui26hj",
+            "handle": "magonegro2.bsky.social",
+            "display_name": ""
+          },
+          "text": "\u00bfC\u00f3mo puede ser tan hip\u00f3crita?",
+          "created_at": "2025-08-13T19:05:03.706Z",
+          "engagement": {
+            "likes": 5,
+            "replies": 1,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:hnrj5kcmrinulbt3clzu2yus/app.bsky.feed.post/3lwckkd6gws2n",
+          "author": {
+            "did": "did:plc:hnrj5kcmrinulbt3clzu2yus",
+            "handle": "silvian77.bsky.social",
+            "display_name": "Lalinda Cumberbatch"
+          },
+          "text": "Estar\u00eda bien que contarais que las competencias son de las CCAA, no del gobierno central.",
+          "created_at": "2025-08-13T19:26:02.159Z",
+          "engagement": {
+            "likes": 6,
+            "replies": 0,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.25,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:4qbit2nvaltlk4ekax57vy7d/app.bsky.feed.post/3lwchxt345c24",
+          "author": {
+            "did": "did:plc:4qbit2nvaltlk4ekax57vy7d",
+            "handle": "mr-world-flowers.bsky.social",
+            "display_name": ""
+          },
+          "text": "Feijoo Miente. La gente normal lo sabe. Lo saben en Zamora, en Le\u00f3n, en Ourense, en C\u00e1diz, en Madrid y en C\u00e1ceres. \n\nSu inepta gesti\u00f3n trae esto. La gesti\u00f3n del PP #GestionPP",
+          "created_at": "2025-08-13T18:39:53.810Z",
+          "engagement": {
+            "likes": 5,
+            "replies": 0,
+            "reposts": 0,
+            "total": 5
+          },
+          "sentiment": {
+            "polarity": 0.15,
+            "subjectivity": 0.65,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:6kh5x473j6j4rgc644h34otm/app.bsky.feed.post/3lwcjibrg7c2i",
+          "author": {
+            "did": "did:plc:6kh5x473j6j4rgc644h34otm",
+            "handle": "ortizmaesso.bsky.social",
+            "display_name": "Isbilya"
+          },
+          "text": "Lo malo es que le funciona, la derechita, como ya ha dicho algo, no tiene seguidores, tiene sectarios \ud83e\udd26",
+          "created_at": "2025-08-13T19:06:59.834Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 1,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:rsc5vwbrbo4oryznvvgrrof7/app.bsky.feed.post/3lwci5nkysc2v",
+          "author": {
+            "did": "did:plc:rsc5vwbrbo4oryznvvgrrof7",
+            "handle": "miri-86.bsky.social",
+            "display_name": ""
+          },
+          "text": "Hay q tener poco verg\u00fcenza y creerse de verdad q somos tontos, pero de q va esta oposici\u00f3n sin cerebro. Son tertulianos de Tele five estos peperos",
+          "created_at": "2025-08-13T18:43:09.365Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 1,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.2,
+            "disgust": 0.2,
+            "total_negative_emotion": 0.4
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 18,
+        "avg_polarity": -0.014,
+        "avg_anger": 0.025,
+        "avg_disgust": 0.025,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 18
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:aii7twankqtrkspfpvetcxvq/app.bsky.feed.post/3lwchecb6i22v",
+        "text": "13 ghosts\u2026I can stand in the house for a year\u2026",
+        "author_did": "did:plc:aii7twankqtrkspfpvetcxvq",
+        "created_at": "2025-08-13T18:28:58.648Z",
+        "engagement": {
+          "likes": 3,
+          "replies": 0,
+          "reposts": 0,
+          "quotes": 8
+        }
+      },
+      "ratio_metrics": {
+        "score": 2.67,
+        "confidence": 0.077,
+        "category": "Quote Dunk",
+        "explanation": "Getting dunked on: 8 quotes vs 3 likes in 5.7 hours",
+        "post_age_minutes": 341.5
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:3rcglwckvzpcao4rhlni6ccs/app.bsky.feed.post/3lwcjstum322v",
+          "author": {
+            "did": "did:plc:3rcglwckvzpcao4rhlni6ccs",
+            "handle": "authorambermalloy.bsky.social",
+            "display_name": ""
+          },
+          "text": "Right, all you have to do is stay upstairs.",
+          "created_at": "2025-08-13T19:12:54.357Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 1,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.286,
+            "subjectivity": 0.536,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:aii7twankqtrkspfpvetcxvq/app.bsky.feed.post/3lwcjucuvrc2o",
+          "author": {
+            "did": "did:plc:aii7twankqtrkspfpvetcxvq",
+            "handle": "jazzreads.bsky.social",
+            "display_name": "JazzReads\ud83d\udcda"
+          },
+          "text": "",
+          "created_at": "2025-08-13T19:13:43.649Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 2,
+        "avg_polarity": 0.143,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 2
     }
   ],
   "metadata": {
-    "posts_collected": 159227,
+    "posts_collected": 166812,
     "ratios_detected": 8,
-    "deep_dive_completed": 5,
+    "deep_dive_completed": 8,
     "pipeline_settings": {
-      "hours_back": 3,
+      "hours_back": 6,
       "min_ratio_score": 1.5,
       "min_engagement": 10,
-      "deep_dive_top_n": 5
+      "deep_dive_top_n": 10
     }
   }
 }
