@@ -241,26 +241,26 @@ def format_all_engagement_metrics(engagement: Dict[str, int]) -> Dict[str, str]:
 
 def calculate_ratio_display(engagement: Dict[str, int]) -> str:
     """
-    Create ratio display like '47:1' or '1:2'
+    Create ratio display like '37:1' for quotes vs reposts
     
     Args:
         engagement: Dict with engagement numbers
         
     Returns:
-        Ratio string formatted for display
+        Ratio string formatted for display (quotes:reposts)
     """
-    negative = engagement.get('replies', 0) + engagement.get('quotes', 0)
-    positive = engagement.get('likes', 0) + engagement.get('reposts', 0)
+    quotes = engagement.get('quotes', 0)
+    reposts = engagement.get('reposts', 0)
     
     # Handle edge cases
-    if positive == 0 and negative == 0:
+    if quotes == 0 and reposts == 0:
         return "0:0"
-    elif positive == 0:
-        return f"{negative}:0"
-    elif negative == 0:
-        return f"0:{positive}"
+    elif reposts == 0:
+        return f"{quotes}:0"
+    elif quotes == 0:
+        return f"0:{reposts}"
     else:
-        ratio = negative / positive
+        ratio = quotes / reposts
         if ratio >= 1:
             return f"{ratio:.0f}:1"
         else:
@@ -382,3 +382,89 @@ def resolve_did_to_handle(did: str, client: Optional[Any] = None) -> Optional[Di
     except Exception as e:
         print(f"Error resolving DID {did}: {e}")
         return None
+
+
+def migrate_legacy_data(data: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Migrate legacy data structure to rolling window format
+    
+    Args:
+        data: Legacy today.json data
+        
+    Returns:
+        Migrated data with rolling window fields
+    """
+    if not data or 'main_characters' not in data:
+        return data
+    
+    current_timestamp = get_current_timestamp()
+    migrated = data.copy()
+    
+    # Migrate main characters
+    for char in migrated.get('main_characters', []):
+        # Add rolling window fields if missing
+        if 'first_detected' not in char:
+            char['first_detected'] = current_timestamp
+        
+        if 'last_updated' not in char:
+            char['last_updated'] = current_timestamp
+        
+        if 'analysis_windows' not in char:
+            char['analysis_windows'] = [current_timestamp]
+        
+        if 'peak_controversy' not in char:
+            char['peak_controversy'] = char.get('controversy', 0)
+        
+        if 'trend' not in char:
+            char['trend'] = 'stable'  # Assume existing data is stable
+    
+    # Migrate metadata
+    metadata = migrated.get('metadata', {})
+    
+    # Add rolling window metadata if missing
+    if 'rolling_window' not in metadata:
+        metadata['rolling_window'] = {
+            'enabled': True,
+            'window_hours': 24,
+            'update_interval_hours': 6,
+            'last_update': current_timestamp,
+            'total_updates': 1,
+            'first_update': current_timestamp
+        }
+    
+    # Update collection period info
+    if 'window_period_hours' not in metadata:
+        metadata['window_period_hours'] = 24
+    
+    if 'collection_period_hours' not in metadata:
+        metadata['collection_period_hours'] = 6
+    
+    migrated['metadata'] = metadata
+    
+    return migrated
+
+
+def is_legacy_format(data: Dict[str, Any]) -> bool:
+    """
+    Check if data is in legacy format and needs migration
+    
+    Args:
+        data: Data to check
+        
+    Returns:
+        True if legacy format, False if already migrated
+    """
+    if not data or 'main_characters' not in data:
+        return False
+    
+    # Check if any main character is missing rolling window fields
+    for char in data['main_characters']:
+        if 'first_detected' not in char or 'trend' not in char:
+            return True
+    
+    # Check if metadata is missing rolling window info
+    metadata = data.get('metadata', {})
+    if 'rolling_window' not in metadata:
+        return True
+    
+    return False

@@ -35,11 +35,22 @@ class RatioResult:
 
 class RatioDetector:
     def __init__(self, 
-                 min_engagement_threshold: int = 10,
-                 max_post_age_hours: float = 6.0):
-        self.min_engagement_threshold = min_engagement_threshold
+                 min_quotes_threshold: int = 5,
+                 min_likes_threshold: int = 3,
+                 min_replies_threshold: int = 2,
+                 min_ratio_threshold: float = 0.5,
+                 max_post_age_hours: float = 6.0,
+                 collection_window_hours: float = 6.0):
+        self.min_quotes_threshold = min_quotes_threshold
+        self.min_likes_threshold = min_likes_threshold
+        self.min_replies_threshold = min_replies_threshold
+        self.min_ratio_threshold = min_ratio_threshold
         self.max_post_age_hours = max_post_age_hours
+        self.collection_window_hours = collection_window_hours
         self.current_time = datetime.now(timezone.utc)
+        
+        # Calculate dynamic fresh threshold (10% of collection window)
+        self.fresh_threshold_minutes = collection_window_hours * 60 * 0.1
     
     def calculate_post_age_minutes(self, post: Dict[str, Any]) -> float:
         """Calculate how old the post is in minutes"""
@@ -50,27 +61,28 @@ class RatioDetector:
         except:
             return 0.0
     
-    def calculate_engagement_metrics(self, post: Dict[str, Any]) -> Tuple[int, int, int]:
-        """Calculate positive, negative, and total engagement"""
-        likes = post.get('like_count', 0)
+    def calculate_engagement_metrics(self, post: Dict[str, Any]) -> Tuple[int, int, int, int]:
+        """Calculate quotes, reposts, replies, and total engagement"""
+        quotes = post.get('quote_count', 0)
         reposts = post.get('repost_count', 0) 
         replies = post.get('reply_count', 0)
-        quotes = post.get('quote_count', 0)
+        likes = post.get('like_count', 0)
         
-        positive_engagement = likes + reposts
-        negative_engagement = replies + quotes
-        total_engagement = positive_engagement + negative_engagement
+        # Total engagement for general metrics
+        total_engagement = quotes + reposts + replies + likes
         
-        return positive_engagement, negative_engagement, total_engagement
+        return quotes, reposts, replies, total_engagement
     
-    def calculate_ratio_score(self, positive: int, negative: int) -> float:
-        """Calculate basic ratio score"""
-        if positive == 0 and negative == 0:
-            return 0.0
+    def calculate_ratio_score(self, quotes: int, reposts: int, replies: int) -> float:
+        """Calculate quotes vs reposts ratio score"""
+        # If no reposts, require replies and use (quotes + replies) as controversy
+        if reposts == 0:
+            if replies == 0:
+                return 0.0  # No engagement pattern, not controversial
+            return quotes + replies  # Pure controversy score when no reposts
         
-        # Avoid division by zero
-        denominator = max(positive, 1)
-        return negative / denominator
+        # Standard quotes/reposts ratio
+        return quotes / reposts
     
     def calculate_confidence(self, post: Dict[str, Any], 
                            total_engagement: int,
@@ -102,69 +114,60 @@ class RatioDetector:
         
         return sum(confidence_factors)
     
-    def classify_ratio(self, post: Dict[str, Any], 
-                      ratio_score: float,
-                      positive: int,
-                      negative: int,
-                      post_age_minutes: float) -> RatioCategory:
+    def classify_ratio(self, quotes: int, reposts: int, replies: int, 
+                      ratio_score: float, post_age_minutes: float) -> RatioCategory:
         """Classify the type of ratio occurring"""
-        replies = post.get('reply_count', 0)
-        quotes = post.get('quote_count', 0)
-        likes = post.get('like_count', 0)
         
-        # Fresh ratio - happening very recently
-        if post_age_minutes < 30 and ratio_score >= 3.0:
+        # Fresh ratio - happening recently and high quotes activity
+        if post_age_minutes < self.fresh_threshold_minutes and ratio_score >= 2.0:
             return RatioCategory.FRESH_RATIO
         
-        # Complete ratio - overwhelming negative engagement
-        elif ratio_score >= 10.0:
+        # Complete ratio - overwhelming quotes vs reposts
+        elif reposts > 0 and ratio_score >= 10.0:
             return RatioCategory.COMPLETE_RATIO
             
-        # Quote dunk - mainly getting quoted negatively
-        elif quotes > replies and quotes > likes * 2:
+        # Quote dunk - mainly getting quoted (standard case)
+        elif reposts > 0 and quotes > reposts:
             return RatioCategory.QUOTE_DUNK
             
-        # Classic ratio - mainly replies overwhelming likes
-        elif replies > likes * 3:
-            return RatioCategory.CLASSIC_RATIO
-            
-        # Brewing ratio - early signs
-        elif ratio_score >= 1.5 and negative >= 5:
+        # Brewing ratio - quotes building up vs reposts
+        elif reposts > 0 and ratio_score >= 0.5:
             return RatioCategory.BREWING_RATIO
             
+        # Pure controversy - no reposts but has replies and quotes
+        elif reposts == 0 and replies > 0:
+            return RatioCategory.COMPLETE_RATIO
+            
         else:
-            return RatioCategory.CLASSIC_RATIO
+            return RatioCategory.BREWING_RATIO
     
-    def generate_explanation(self, post: Dict[str, Any], 
-                           category: RatioCategory,
-                           post_age_minutes: float) -> str:
+    def generate_explanation(self, quotes: int, reposts: int, replies: int, 
+                           category: RatioCategory, post_age_minutes: float) -> str:
         """Generate human-readable explanation of the ratio"""
-        likes = post.get('like_count', 0)
-        reposts = post.get('repost_count', 0)
-        replies = post.get('reply_count', 0) 
-        quotes = post.get('quote_count', 0)
-        
         age_str = f"{int(post_age_minutes)} minutes" if post_age_minutes < 60 else f"{post_age_minutes/60:.1f} hours"
         
         if category == RatioCategory.FRESH_RATIO:
-            return f"{replies} replies + {quotes} quotes vs {likes} likes in just {age_str}"
+            return f"Fresh controversy: {quotes} quotes vs {reposts} reposts in just {age_str}"
         elif category == RatioCategory.QUOTE_DUNK:
-            return f"Getting dunked on: {quotes} quotes vs {likes} likes in {age_str}"
+            return f"Getting quote-dunked: {quotes} quotes vs {reposts} reposts in {age_str}"
         elif category == RatioCategory.COMPLETE_RATIO:
-            return f"Completely ratio'd: {replies + quotes} negative vs {likes + reposts} positive in {age_str}"
+            if reposts == 0:
+                return f"Pure controversy: {quotes} quotes + {replies} replies, no reposts in {age_str}"
+            else:
+                return f"Completely ratio'd: {quotes} quotes vs {reposts} reposts in {age_str}"
         elif category == RatioCategory.BREWING_RATIO:
-            return f"Brewing ratio: {replies} replies + {quotes} quotes building up vs {likes} likes in {age_str}"
+            return f"Brewing controversy: {quotes} quotes vs {reposts} reposts in {age_str}"
         else:
-            return f"Classic ratio: {replies} replies vs {likes} likes in {age_str}"
+            return f"Controversial: {quotes} quotes vs {reposts} reposts in {age_str}"
     
     def analyze_post(self, post: Dict[str, Any]) -> RatioResult:
         """Analyze a single post for ratio patterns"""
         post_age_minutes = self.calculate_post_age_minutes(post)
-        positive, negative, total = self.calculate_engagement_metrics(post)
-        ratio_score = self.calculate_ratio_score(positive, negative)
+        quotes, reposts, replies, total = self.calculate_engagement_metrics(post)
+        ratio_score = self.calculate_ratio_score(quotes, reposts, replies)
         confidence = self.calculate_confidence(post, total, post_age_minutes)
-        category = self.classify_ratio(post, ratio_score, positive, negative, post_age_minutes)
-        explanation = self.generate_explanation(post, category, post_age_minutes)
+        category = self.classify_ratio(quotes, reposts, replies, ratio_score, post_age_minutes)
+        explanation = self.generate_explanation(quotes, reposts, replies, category, post_age_minutes)
         
         return RatioResult(
             post=post,
@@ -173,22 +176,32 @@ class RatioDetector:
             category=category,
             explanation=explanation,
             total_engagement=total,
-            negative_engagement=negative,
-            positive_engagement=positive,
+            negative_engagement=quotes + replies,
+            positive_engagement=reposts,
             post_age_minutes=post_age_minutes
         )
     
     def detect_ratios(self, posts_data: Dict[str, Any], 
-                     min_ratio_score: float = 1.5,
+                     min_ratio_score: float = None,
                      top_n: int = 50) -> List[RatioResult]:
         """Detect ratios in a collection of posts"""
         posts = posts_data.get('posts', [])
         candidates = []
         
+        # Use instance threshold if not provided
+        if min_ratio_score is None:
+            min_ratio_score = self.min_ratio_threshold
+        
         for post in posts:
-            # Skip posts with insufficient engagement
-            positive, negative, total = self.calculate_engagement_metrics(post)
-            if total < self.min_engagement_threshold:
+            quotes, reposts, replies, total = self.calculate_engagement_metrics(post)
+            likes = post.get('like_count', 0)
+            
+            # Require engagement diversity - must have likes, replies, AND quotes
+            if quotes < self.min_quotes_threshold:
+                continue
+            if likes < self.min_likes_threshold:
+                continue
+            if replies < self.min_replies_threshold:
                 continue
             
             # Skip very old posts
@@ -196,10 +209,18 @@ class RatioDetector:
             if post_age_minutes > self.max_post_age_hours * 60:
                 continue
             
-            # Calculate ratio score
-            ratio_score = self.calculate_ratio_score(positive, negative)
-            if ratio_score < min_ratio_score:
-                continue
+            # Calculate ratio score and apply filtering logic
+            ratio_score = self.calculate_ratio_score(quotes, reposts, replies)
+            
+            # Filter based on our new logic:
+            # If reposts > 0: need quotes/reposts >= threshold
+            # If reposts = 0: need replies > 0 (and score will be quotes + replies)
+            if reposts > 0:
+                if ratio_score < min_ratio_score:
+                    continue
+            else:
+                if replies == 0:  # No reposts AND no replies = not controversial
+                    continue
             
             # Analyze the post
             result = self.analyze_post(post)
@@ -224,7 +245,7 @@ class RatioDetector:
                     'explanation': result.explanation,
                     'post': {
                         'uri': result.post['uri'],
-                        'text': result.post['text'][:200] + '...' if len(result.post['text']) > 200 else result.post['text'],
+                        'text': result.post['text'],  # Save full text without truncation
                         'likes': result.post['like_count'],
                         'replies': result.post['reply_count'],
                         'reposts': result.post['repost_count'],
@@ -251,7 +272,7 @@ def main():
     parser = argparse.ArgumentParser(description='Detect ratio patterns in Bluesky posts')
     parser.add_argument('input_file', help='JSON file from collect_posts.py')
     parser.add_argument('--min-ratio', type=float, default=1.5, help='Minimum ratio score (default: 1.5)')
-    parser.add_argument('--min-engagement', type=int, default=10, help='Minimum total engagement (default: 10)')
+    parser.add_argument('--min-quotes', type=int, default=5, help='Minimum quotes (default: 5)')
     parser.add_argument('--top-n', type=int, default=20, help='Number of top ratios to show (default: 20)')
     parser.add_argument('--output', help='Output file for results (default: print to console)')
     
@@ -262,7 +283,7 @@ def main():
         posts_data = json.load(f)
     
     # Initialize detector
-    detector = RatioDetector(min_engagement_threshold=args.min_engagement)
+    detector = RatioDetector(min_quotes_threshold=args.min_quotes)
     
     # Detect ratios
     results = detector.detect_ratios(

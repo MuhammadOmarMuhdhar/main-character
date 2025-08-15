@@ -1,1 +1,5 @@
 websocket-client==1.6.4
+atproto>=0.0.46
+python-dotenv>=1.0.0
+textblob>=0.17.1
+nrclex>=3.0.0

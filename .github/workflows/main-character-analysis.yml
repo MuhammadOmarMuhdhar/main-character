@@ -1,0 +1,141 @@
+name: Main Character Analysis
+
+on:
+  repository_dispatch:
+    types: [trigger-analysis]
+  workflow_dispatch:
+    inputs:
+      force_full_analysis:
+        description: 'Force full analysis (ignore 6-hour timer)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Check last analysis time
+      id: check_timer
+      run: |
+        cd main
+        python -c "
+        import json
+        from datetime import datetime, timezone
+        import sys
+        
+        try:
+            with open('../frontend/today.json', 'r') as f:
+                data = json.load(f)
+            
+            last_analysis = data.get('metadata', {}).get('last_full_analysis')
+            force_full = '${{ github.event.inputs.force_full_analysis }}' == 'true'
+            
+            if not last_analysis or force_full:
+                print('ANALYSIS_TYPE=full')
+                print('HOURS_SINCE_LAST=999')
+            else:
+                last_time = datetime.fromisoformat(last_analysis.replace('Z', '+00:00'))
+                now = datetime.now(timezone.utc)
+                hours_diff = (now - last_time).total_seconds() / 3600
+                
+                if hours_diff >= 6:
+                    print('ANALYSIS_TYPE=full')
+                else:
+                    print('ANALYSIS_TYPE=metrics')
+                    
+                print(f'HOURS_SINCE_LAST={hours_diff:.1f}')
+        except Exception as e:
+            print('ANALYSIS_TYPE=full')
+            print('HOURS_SINCE_LAST=999')
+            print(f'Error: {e}', file=sys.stderr)
+        " >> $GITHUB_OUTPUT
+
+    - name: Run Full Analysis
+      if: steps.check_timer.outputs.ANALYSIS_TYPE == 'full'
+      env:
+        BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+      run: |
+        cd main/analysis
+        echo "🎯 Running full analysis (last run: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }} hours ago)"
+        python full_analysis.py --verbose --hours 6
+
+    - name: Run Metrics Update
+      if: steps.check_timer.outputs.ANALYSIS_TYPE == 'metrics'
+      env:
+        BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+      run: |
+        cd main/analysis
+        echo "📊 Running metrics update (last full analysis: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }} hours ago)"
+        python metrics_updater.py --verbose
+
+    - name: Commit and push results
+      if: success()
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add frontend/today.json
+        
+        # Check if there are changes to commit
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          if [ "${{ steps.check_timer.outputs.ANALYSIS_TYPE }}" == "full" ]; then
+            git commit -m "🎯 Full analysis update - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          else
+            git commit -m "📊 Metrics update - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          fi
+          git push
+        fi
+
+    - name: Deploy to GitHub Pages
+      if: success()
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./frontend
+        publish_branch: gh-pages
+        commit_message: |
+          Deploy: ${{ steps.check_timer.outputs.ANALYSIS_TYPE }} analysis
+          Last analysis: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }}h ago
+
+    - name: Summary
+      if: always()
+      run: |
+        echo "## 📊 Analysis Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Type**: ${{ steps.check_timer.outputs.ANALYSIS_TYPE }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Last full analysis**: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }} hours ago" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status**: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Timestamp**: $(date -u)" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "frontend/today.json" ]; then
+          CHAR_COUNT=$(python -c "import json; data=json.load(open('frontend/today.json')); print(len(data.get('main_characters', [])))")
+          echo "- **Main characters found**: $CHAR_COUNT" >> $GITHUB_STEP_SUMMARY
+        fi
+
+    - name: Cleanup on failure
+      if: failure()
+      run: |
+        echo "❌ Workflow failed. Check logs for details."
+        # Could add notification logic here

@@ -5,7 +5,7 @@ Data transformer for converting pipeline results to main characters format
 
 import json
 from datetime import datetime, timezone
-from typing import Dict, List, Any, Optional
+from typing import Dict, List, Any, Optional, Tuple
 
 from .utils import (
     format_engagement_number, 
@@ -73,6 +73,16 @@ class MainCharacterTransformer:
         
         # Calculate engagement metrics
         engagement = original_post.get('engagement', {})
+        
+        # If engagement is empty, try to get from raw post data
+        if not engagement:
+            engagement = {
+                'likes': original_post.get('like_count', 0),
+                'replies': original_post.get('reply_count', 0),
+                'reposts': original_post.get('repost_count', 0),
+                'quotes': original_post.get('quote_count', 0)
+            }
+        
         engagement_formatted = format_all_engagement_metrics(engagement)
         
         # Calculate controversy score
@@ -88,7 +98,9 @@ class MainCharacterTransformer:
         # Extract sample replies
         sample_replies = self._select_sample_replies(ratio_result.get('top_5_replies', []))
         
-        # Create main character entry
+        # Create main character entry with rolling window fields
+        current_timestamp = get_current_timestamp()
+        
         character = {
             "rank": rank,
             "user": user_info,
@@ -97,7 +109,7 @@ class MainCharacterTransformer:
             "change": change_info['display'],
             "change_type": change_info['type'],
             "post": {
-                "text": clean_text_for_display(original_post.get('text', ''), 200),
+                "text": original_post.get('text', ''),  # Save full text without truncation
                 "uri": original_post.get('uri', ''),
                 "created_at": original_post.get('created_at', '')
             },
@@ -115,7 +127,13 @@ class MainCharacterTransformer:
             "previous_analysis": {
                 "controversy": change_info.get('previous_controversy', 0),
                 "rank": change_info.get('previous_rank', None)
-            }
+            },
+            # Rolling window fields
+            "first_detected": current_timestamp,
+            "last_updated": current_timestamp,
+            "analysis_windows": [current_timestamp],
+            "peak_controversy": round(controversy, 1),
+            "trend": "new"
         }
         
         return character
@@ -295,7 +313,8 @@ class MainCharacterTransformer:
         return {
             "last_full_analysis": get_current_timestamp(),
             "last_metrics_update": get_current_timestamp(),
-            "collection_period_hours": 6,  # Default, should be configurable
+            "collection_period_hours": 6,  # 6-hour collection cycles
+            "window_period_hours": 24,  # 24-hour rolling window
             "total_posts_analyzed": collection_stats.get('total_posts_collected', 0),
             "ratios_detected": len(pipeline_results.get('deep_dive_results', [])),
             "main_characters_count": main_characters_count,
@@ -303,6 +322,12 @@ class MainCharacterTransformer:
                 "min_ratio_score": 1.5,
                 "min_engagement": 10,
                 "deep_dive_top_n": 5
+            },
+            "rolling_window": {
+                "enabled": True,
+                "window_hours": 24,
+                "update_interval_hours": 6,
+                "last_update": get_current_timestamp()
             }
         }
     
@@ -360,3 +385,34 @@ class MainCharacterTransformer:
         updated_data['metadata']['last_metrics_update'] = get_current_timestamp()
         
         return updated_data
+    
+    def transform_for_rolling_window(self, pipeline_results: Dict[str, Any], 
+                                   previous_data: Optional[Dict[str, Any]] = None) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
+        """
+        Transform pipeline results for rolling window integration
+        
+        Args:
+            pipeline_results: Output from RatioPipeline.run_full_pipeline()
+            previous_data: Previous analysis for metadata preservation
+            
+        Returns:
+            Tuple of (main_characters_list, metadata_dict)
+        """
+        # Get the main characters using existing transformation logic
+        main_characters = self.transform_pipeline_results(pipeline_results, previous_data)
+        
+        # Create metadata
+        metadata = self.create_metadata(pipeline_results, len(main_characters))
+        
+        # If we have previous data, preserve some metadata
+        if previous_data and 'metadata' in previous_data:
+            prev_metadata = previous_data['metadata']
+            
+            # Preserve rolling window stats if they exist
+            if 'rolling_window' in prev_metadata:
+                metadata['rolling_window'].update({
+                    'total_updates': prev_metadata['rolling_window'].get('total_updates', 0) + 1,
+                    'first_update': prev_metadata['rolling_window'].get('first_update', metadata['rolling_window']['last_update'])
+                })
+        
+        return main_characters, metadata

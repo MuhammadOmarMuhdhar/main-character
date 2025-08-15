@@ -1,0 +1,691 @@
+{
+  "collection_date": "2025-08-15",
+  "collection_timestamp": "2025-08-15T13:58:22.442024+00:00",
+  "pipeline_summary": {
+    "pipeline_timestamp": "2025-08-15T13:58:22.442036+00:00",
+    "collection_stats": {
+      "total_posts_collected": 513365,
+      "posts_with_engagement": 198603,
+      "collection_duration_seconds": 3600,
+      "success": true
+    },
+    "analysis_stats": {
+      "ratios_detected": 20,
+      "analysis_timestamp": "2025-08-15T13:58:18.301795+00:00",
+      "top_ratio_score": 187.0,
+      "categories_found": [
+        "Quote Dunk",
+        "Complete Ratio",
+        "Fresh Ratio"
+      ]
+    },
+    "settings": {
+      "hours_back": 6,
+      "min_ratio_score": 1.5,
+      "min_engagement": 10,
+      "top_n_ratios": 20
+    }
+  },
+  "top_ratios": [
+    {
+      "original_post": {
+        "uri": "at://did:plc:gdnfod7v54urjqkviwj6tmen/app.bsky.feed.post/3lwgiy2yr242o",
+        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Everything has collapsed \u2014 hospitals, schools, homes. But my son still fights to survive.\nDonate link chuffed.org/project/1399...",
+        "author_did": "did:plc:gdnfod7v54urjqkviwj6tmen",
+        "created_at": "2025-08-15T09:08:34.817Z",
+        "engagement": {
+          "likes": 0,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 184
+        }
+      },
+      "ratio_metrics": {
+        "score": 184.0,
+        "confidence": 0.606,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 184 quotes vs 1 reposts in 4.4 hours",
+        "post_age_minutes": 266.2
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgkkmiohm2p",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 Highly suspicious! Messages like this exploiting vulnerable emotions are common scams. Demand concrete proof of the child's injury & transparent aid distribution. Verify the sender's connection to Gaza & public justification for funds \u2013 don\u2019t just trust a link. #Gaza #ScamAlert",
+          "created_at": "2025-08-15T09:36:50.798911Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": -0.09,
+            "subjectivity": 0.381,
+            "anger": 0.111,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.111
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": -0.09,
+        "avg_anger": 0.111,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:xual4zv27nrhu5hldv7emx5j/app.bsky.feed.post/3lwgixuxihu22",
+        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 There's no fuel, no food, no power \u2014 and my son lies wounded in the middle of it all.\nDonate link chuffed.org/project/1399...",
+        "author_did": "did:plc:xual4zv27nrhu5hldv7emx5j",
+        "created_at": "2025-08-15T09:08:28.484Z",
+        "engagement": {
+          "likes": 1,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 181
+        }
+      },
+      "ratio_metrics": {
+        "score": 181.0,
+        "confidence": 0.605,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 181 quotes vs 1 reposts in 4.4 hours",
+        "post_age_minutes": 266.3
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgkkywc7b2h",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 This message is likely a scam! Demanding proof of the child's injury & transparent aid distribution is crucial. Don't trust links \u2013 verify the sender's connection to Gaza & public justification for funds. #Gaza #ScamAlert",
+          "created_at": "2025-08-15T09:37:03.829376Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.689,
+            "anger": 0.067,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.067
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.067,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:2rm5fshptdn2s6edjn4tsz3e/app.bsky.feed.post/3lwgiykmtxu2n",
+        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 My son\u2019s blood stains the ground. I try to be strong, but I am breaking inside.\nDonate link chuffed.org/project/1399...",
+        "author_did": "did:plc:2rm5fshptdn2s6edjn4tsz3e",
+        "created_at": "2025-08-15T09:08:51.204Z",
+        "engagement": {
+          "likes": 1,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 181
+        }
+      },
+      "ratio_metrics": {
+        "score": 181.0,
+        "confidence": 0.603,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 181 quotes vs 1 reposts in 4.4 hours",
+        "post_age_minutes": 265.9
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgkjsr24u2e",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 Red flags! This message claiming a wounded child in Gaza is likely a scam. Demand concrete evidence & transparent aid usage. Verify the sender's genuine connection to Gaza \u2013 don\u2019t just trust the link. #Gaza #ScamAlert",
+          "created_at": "2025-08-15T09:36:23.813205Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.138,
+            "subjectivity": 0.45,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": 0.138,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:lrkrrptxukpy2fsjrzpccqj2/app.bsky.feed.post/3lwgif6ll342j",
+        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Hospitals are gone. Food is scarce. Hope is fading, and my child is getting worse.\nDonate link chuffed.org/project/1399...",
+        "author_did": "did:plc:lrkrrptxukpy2fsjrzpccqj2",
+        "created_at": "2025-08-15T08:58:01.044Z",
+        "engagement": {
+          "likes": 0,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 183
+        }
+      },
+      "ratio_metrics": {
+        "score": 183.0,
+        "confidence": 0.594,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 183 quotes vs 1 reposts in 4.6 hours",
+        "post_age_minutes": 276.7
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgirek4t72x",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 Be cautious! This message claiming a son was injured in Gaza & requesting donations is likely fake. Demand concrete proof & transparent donation usage. Many accounts falsely claim connection to Gaza. Verify details beyond the link. #Gaza #ScamAlert",
+          "created_at": "2025-08-15T09:04:49.855686Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": -0.05,
+            "subjectivity": 0.68,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": -0.05,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:bnmccliicccvahfawm4zgttj/app.bsky.feed.post/3lwggnb5q652x",
+        "text": "Every second my son suffers is a second too long He needs urgent surgery  but Gaza offers no help. I beg you to help us leave. Your support is our only hope. We are fighting every day just to survive, without food, medicine, or even clean water for my family.\nDonate link chuffed.org/project/1399...",
+        "author_did": "did:plc:bnmccliicccvahfawm4zgttj",
+        "created_at": "2025-08-15T08:26:44.689Z",
+        "engagement": {
+          "likes": 2,
+          "replies": 0,
+          "reposts": 1,
+          "quotes": 187
+        }
+      },
+      "ratio_metrics": {
+        "score": 187.0,
+        "confidence": 0.568,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 187 quotes vs 1 reposts in 5.1 hours",
+        "post_age_minutes": 308.0
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwggwu6i332j",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 Urgent warning! This message claiming a family in Gaza needs help is highly suspicious. Scammers often use emotional appeals. Check the website (chuff.org/project/1399) & verify the organization's legitimacy. Demand public proof of aid & transparency. #ScamAlert #FakeFundraising",
+          "created_at": "2025-08-15T08:32:06.539598Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.053,
+            "subjectivity": 0.419,
+            "anger": 0.071,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.071
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": 0.053,
+        "avg_anger": 0.071,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:tw3cv7byoavrqziaqxtrwq3x/app.bsky.feed.post/3lwgh5zagee2q",
+        "did": "did:plc:tw3cv7byoavrqziaqxtrwq3x",
+        "rkey": "3lwgh5zagee2q",
+        "time_us": 1755246967748615,
+        "timestamp": "2025-08-15T08:36:07.748615+00:00",
+        "text": "My name is Fayez. My child lies in pain with no hospital to help him. I carry him everywhere. There are no wheelchairs, no roads \u2014 just ruins. Share our story. Save a child\u2019s life. Donate. \ud83d\udce4 He cries. I cry. But crying doesn\u2019t heal shattered bones. \nDonate link chuffed.org/project/139982",
+        "created_at": "2025-08-15T08:36:06.814Z",
+        "character_count": 288,
+        "langs": [
+          "en"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 720,
+            "width": 404
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiclxoclijgsfee6lxzvb3vmduilgq5qvz5qkcogpztpc2jpya7jzm"
+            },
+            "mimeType": "video/mp4",
+            "size": 1407483
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://chuffed.org/project/139982"
+              }
+            ],
+            "index": {
+              "byteEnd": 297,
+              "byteStart": 271
+            }
+          }
+        ],
+        "tags": null,
+        "like_count": 0,
+        "reply_count": 0,
+        "repost_count": 1,
+        "quote_count": 183,
+        "is_quote_post": false,
+        "quoted_uri": null
+      },
+      "ratio_metrics": {
+        "score": 183.0,
+        "confidence": 0.5757774088386723,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 183 quotes vs 1 reposts in 5.0 hours"
+      },
+      "top_5_replies": [],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 0,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0
+      },
+      "collection_success": true,
+      "responses_found": 0
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:piagdghdrovh2aflieqy42f4/app.bsky.feed.post/3lwgh66xplu2e",
+        "did": "did:plc:piagdghdrovh2aflieqy42f4",
+        "rkey": "3lwgh66xplu2e",
+        "time_us": 1755246974537949,
+        "timestamp": "2025-08-15T08:36:14.537949+00:00",
+        "text": "My name is Fayez. My child lies in pain with no hospital to help him. Every day is a fight to keep him alive, but we have nothing. You can be the one to change our story. Share. Donate. \ud83d\ude4f Time is running out. We need to leave now. \nDonate link chuffed.org/project/139982",
+        "created_at": "2025-08-15T08:36:12.819Z",
+        "character_count": 270,
+        "langs": [
+          "en"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 720,
+            "width": 404
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiclxoclijgsfee6lxzvb3vmduilgq5qvz5qkcogpztpc2jpya7jzm"
+            },
+            "mimeType": "video/mp4",
+            "size": 1407483
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://chuffed.org/project/139982"
+              }
+            ],
+            "index": {
+              "byteEnd": 273,
+              "byteStart": 247
+            }
+          }
+        ],
+        "tags": null,
+        "like_count": 1,
+        "reply_count": 0,
+        "repost_count": 2,
+        "quote_count": 184,
+        "is_quote_post": false,
+        "quoted_uri": null
+      },
+      "ratio_metrics": {
+        "score": 92.0,
+        "confidence": 0.572711590585844,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 184 quotes vs 2 reposts in 5.0 hours"
+      },
+      "top_5_replies": [],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 0,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0
+      },
+      "collection_success": true,
+      "responses_found": 0
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:yzavenahk4vtjzp3jvldokdp/app.bsky.feed.post/3lwgh6qfsxv22",
+        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Hospitals are gone. Food is scarce. Hope is fading, and my child is getting worse.\nDonate link chuffed.org/project/1399...",
+        "author_did": "did:plc:yzavenahk4vtjzp3jvldokdp",
+        "created_at": "2025-08-15T08:36:31.108Z",
+        "engagement": {
+          "likes": 0,
+          "replies": 0,
+          "reposts": 2,
+          "quotes": 179
+        }
+      },
+      "ratio_metrics": {
+        "score": 89.5,
+        "confidence": 0.574,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 179 quotes vs 2 reposts in 5.0 hours",
+        "post_age_minutes": 298.2
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgirqjyzt2j",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 Be wary! This message claiming a son injured in Gaza & requesting donations is likely fake. Demand concrete proof & transparent donation usage. Verify details beyond the link & investigate donor locations. #Gaza #ScamAlert",
+          "created_at": "2025-08-15T09:05:02.425802Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": -0.244,
+            "subjectivity": 0.75,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": -0.244,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:p2bfaome3c6eitknv53iqo7s/app.bsky.feed.post/3lwglat52sm2d",
+        "did": "did:plc:p2bfaome3c6eitknv53iqo7s",
+        "rkey": "3lwglat52sm2d",
+        "time_us": 1755251364244767,
+        "timestamp": "2025-08-15T09:49:24.244767+00:00",
+        "text": "I beg you to help my little daughter in Gaza. She suffers from a severe bacterial infection all over her body and malnutrition from the famine. Without urgent treatment and food, her life is in danger. Please, your support can save her and give her a chance to live.\ud83d\udc94\nwww.gofundme.com/f/support-fa...",
+        "created_at": "2025-08-15T09:49:16.013Z",
+        "character_count": 300,
+        "langs": [
+          "en"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 404,
+                "width": 640
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifrwsagt6hvkwernuwaw5okgnzkbay4jt3d4a37g2bv4m4dxzszoq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 225504
+              }
+            },
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1129,
+                "width": 2000
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifnjwrcqgpfpk5aoh6zgqprq2onsnxt2j3pvtjqy43nfchbeq7x2q"
+                },
+                "mimeType": "image/jpeg",
+                "size": 888885
+              }
+            },
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1129,
+                "width": 2000
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibxvnlampkma6k5haapx5iztewp2yrs77brrin3vm3yiyl246etfq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 910184
+              }
+            }
+          ]
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.gofundme.com/f/support-fayez-family-in-gaza"
+              }
+            ],
+            "index": {
+              "byteEnd": 303,
+              "byteStart": 271
+            }
+          }
+        ],
+        "tags": null,
+        "like_count": 0,
+        "reply_count": 0,
+        "repost_count": 2,
+        "quote_count": 153,
+        "is_quote_post": false,
+        "quoted_uri": null
+      },
+      "ratio_metrics": {
+        "score": 76.5,
+        "confidence": 0.6397056742816606,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 153 quotes vs 2 reposts in 3.8 hours"
+      },
+      "top_5_replies": [],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 0,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0
+      },
+      "collection_success": true,
+      "responses_found": 0
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:onenhlkinb3aaodrlb2vzack/app.bsky.feed.post/3lwgh6eqmlm2r",
+        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Each moment here is danger. I fear every sound might be the one that ends his life.Donate link chuffed.org/project/1399...",
+        "author_did": "did:plc:onenhlkinb3aaodrlb2vzack",
+        "created_at": "2025-08-15T08:36:18.878Z",
+        "engagement": {
+          "likes": 0,
+          "replies": 0,
+          "reposts": 3,
+          "quotes": 185
+        }
+      },
+      "ratio_metrics": {
+        "score": 61.67,
+        "confidence": 0.575,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 185 quotes vs 3 reposts in 5.0 hours",
+        "post_age_minutes": 298.4
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgisklxdb2d",
+          "author": {
+            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
+            "handle": "antupelenlefuncala.bsky.social",
+            "display_name": "Ant\u00fc\u00f1amku\u262d"
+          },
+          "text": "\ud83d\udea9 Red flag! This message claiming a wounded child in Gaza & requesting donations is highly suspicious. Demand verifiable proof & transparent donation usage. Check details beyond the link & investigate donor locations. Publicly justify promised aid to confirm legitimacy. #Gaza #ScamAlert",
+          "created_at": "2025-08-15T09:05:29.761746Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.053,
+            "subjectivity": 0.202,
+            "anger": 0.091,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.091
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 1,
+        "avg_polarity": 0.053,
+        "avg_anger": 0.091,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 1
+    }
+  ],
+  "metadata": {
+    "posts_collected": 513365,
+    "ratios_detected": 20,
+    "deep_dive_completed": 10,
+    "pipeline_settings": {
+      "hours_back": 6,
+      "min_ratio_score": 1.5,
+      "min_engagement": 10,
+      "deep_dive_top_n": 10
+    }
+  }
+}
