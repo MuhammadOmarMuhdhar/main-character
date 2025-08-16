@@ -88,6 +88,7 @@ class RatioPipeline:
             
             # Create posts data structure
             posts_data = {
+                'success': True,
                 'collection_info': {
                     'start_time': datetime.fromtimestamp(
                         self.collector.start_time / 1000000, tz=timezone.utc
@@ -126,7 +127,17 @@ class RatioPipeline:
                 'success': False,
                 'error': str(e)
             }
-            raise
+            
+            # Return failure structure instead of raising
+            return {
+                'success': False,
+                'error': str(e),
+                'collection_info': {
+                    'total_posts': 0,
+                    'collection_timestamp': datetime.now(tz=timezone.utc).isoformat()
+                },
+                'posts': []
+            }
     
     def detect_ratios(self) -> List[RatioResult]:
         """

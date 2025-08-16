@@ -1,22 +1,21 @@
 {
-  "collection_date": "2025-08-15",
-  "collection_timestamp": "2025-08-15T13:58:22.442024+00:00",
+  "collection_date": "2025-08-16",
+  "collection_timestamp": "2025-08-16T22:22:01.588745+00:00",
   "pipeline_summary": {
-    "pipeline_timestamp": "2025-08-15T13:58:22.442036+00:00",
+    "pipeline_timestamp": "2025-08-16T22:22:01.588753+00:00",
     "collection_stats": {
-      "total_posts_collected": 513365,
-      "posts_with_engagement": 198603,
+      "total_posts_collected": 525491,
+      "posts_with_engagement": 244332,
       "collection_duration_seconds": 3600,
       "success": true
     },
     "analysis_stats": {
       "ratios_detected": 20,
-      "analysis_timestamp": "2025-08-15T13:58:18.301795+00:00",
-      "top_ratio_score": 187.0,
+      "analysis_timestamp": "2025-08-16T22:21:56.759623+00:00",
+      "top_ratio_score": 156.0,
       "categories_found": [
-        "Quote Dunk",
         "Complete Ratio",
-        "Fresh Ratio"
+        "Quote Dunk"
       ]
     },
     "settings": {
@@ -29,34 +28,208 @@
   "top_ratios": [
     {
       "original_post": {
-        "uri": "at://did:plc:gdnfod7v54urjqkviwj6tmen/app.bsky.feed.post/3lwgiy2yr242o",
-        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Everything has collapsed \u2014 hospitals, schools, homes. But my son still fights to survive.\nDonate link chuffed.org/project/1399...",
-        "author_did": "did:plc:gdnfod7v54urjqkviwj6tmen",
-        "created_at": "2025-08-15T09:08:34.817Z",
+        "uri": "at://did:plc:swdxpxe3snyoynvquru7mofe/app.bsky.feed.post/3lwjypo74sk2e",
+        "text": "what is the band that is most like the stuff you like that you nevertheless hate. or dislike. for me it\u2019s Fleet Foxes. seems obvious i should like them but i DONT",
+        "author_did": "did:plc:swdxpxe3snyoynvquru7mofe",
+        "created_at": "2025-08-16T18:28:12.043Z",
         "engagement": {
-          "likes": 0,
-          "replies": 0,
-          "reposts": 1,
-          "quotes": 184
+          "likes": 185,
+          "replies": 84,
+          "reposts": 2,
+          "quotes": 312
         }
       },
       "ratio_metrics": {
-        "score": 184.0,
-        "confidence": 0.606,
+        "score": 156.0,
+        "confidence": 0.706,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 184 quotes vs 1 reposts in 4.4 hours",
-        "post_age_minutes": 266.2
+        "explanation": "Completely ratio'd: 312 quotes vs 2 reposts in 3.4 hours",
+        "post_age_minutes": 201.3
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgkkmiohm2p",
+          "uri": "at://did:plc:swdxpxe3snyoynvquru7mofe/app.bsky.feed.post/3lwjyulb4tk2e",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:swdxpxe3snyoynvquru7mofe",
+            "handle": "libbycwatson.com",
+            "display_name": "libby watson"
           },
-          "text": "\ud83d\udea9 Highly suspicious! Messages like this exploiting vulnerable emotions are common scams. Demand concrete proof of the child's injury & transparent aid distribution. Verify the sender's connection to Gaza & public justification for funds \u2013 don\u2019t just trust a link. #Gaza #ScamAlert",
-          "created_at": "2025-08-15T09:36:50.798911Z",
+          "text": "once a year spotify will be like, you love fleet foxes right? you sufjan stevens-bon iver-okkervil river lovin bitch? and i have to say nope still no sorry",
+          "created_at": "2025-08-16T18:30:56.734Z",
+          "engagement": {
+            "likes": 105,
+            "replies": 9,
+            "reposts": 3,
+            "total": 117
+          },
+          "sentiment": {
+            "polarity": 0.345,
+            "subjectivity": 0.712,
+            "anger": 0.125,
+            "disgust": 0.125,
+            "total_negative_emotion": 0.25
+          }
+        },
+        {
+          "uri": "at://did:plc:ogvqhoood3hggtdoylbm5cb3/app.bsky.feed.post/3lwjyqljf7s24",
+          "author": {
+            "did": "did:plc:ogvqhoood3hggtdoylbm5cb3",
+            "handle": "orleancooper.bsky.social",
+            "display_name": "Orlean Cooper"
+          },
+          "text": "A song you should love but hate could be called a doppelbanger.",
+          "created_at": "2025-08-16T18:28:42.787Z",
+          "engagement": {
+            "likes": 43,
+            "replies": 1,
+            "reposts": 2,
+            "total": 46
+          },
+          "sentiment": {
+            "polarity": -0.15,
+            "subjectivity": 0.75,
+            "anger": 0.143,
+            "disgust": 0.143,
+            "total_negative_emotion": 0.286
+          }
+        },
+        {
+          "uri": "at://did:plc:smjq3vewiokoafh5k5vdjriv/app.bsky.feed.post/3lwjzlc3jfc2q",
+          "author": {
+            "did": "did:plc:smjq3vewiokoafh5k5vdjriv",
+            "handle": "crushbort.bsky.social",
+            "display_name": "bort"
+          },
+          "text": "the national live at a big open air concert with a huge crowd basically inverted everything i liked about the national",
+          "created_at": "2025-08-16T18:43:38.865Z",
+          "engagement": {
+            "likes": 27,
+            "replies": 4,
+            "reposts": 0,
+            "total": 31
+          },
+          "sentiment": {
+            "polarity": 0.227,
+            "subjectivity": 0.56,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:kmuhrjaftva24ktwof6xnzyp/app.bsky.feed.post/3lwk2t6fets2n",
+          "author": {
+            "did": "did:plc:kmuhrjaftva24ktwof6xnzyp",
+            "handle": "slowpuke.bsky.social",
+            "display_name": "puke (was almost in Priscilla)"
+          },
+          "text": "I feel like i should like Billy Joel but i wanna cut his fingers off",
+          "created_at": "2025-08-16T19:05:57.171Z",
+          "engagement": {
+            "likes": 20,
+            "replies": 1,
+            "reposts": 0,
+            "total": 21
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:bhnsqxtpscmm6n5jefbnzscc/app.bsky.feed.post/3lwjz2jnqpc23",
+          "author": {
+            "did": "did:plc:bhnsqxtpscmm6n5jefbnzscc",
+            "handle": "bikemogacz.bsky.social",
+            "display_name": "Mike Bogacz"
+          },
+          "text": "I feel like Deafheaven is a prank being specifically played on me",
+          "created_at": "2025-08-16T18:34:16.378Z",
+          "engagement": {
+            "likes": 17,
+            "replies": 2,
+            "reposts": 1,
+            "total": 20
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 168,
+        "avg_polarity": 0.103,
+        "avg_anger": 0.036,
+        "avg_disgust": 0.026,
+        "high_emotion_counts": {
+          "high_anger_posts": 3,
+          "high_disgust_posts": 2
+        }
+      },
+      "collection_success": true,
+      "responses_found": 168
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:5ygnzf2j4lnpftdlvanxqmf2/app.bsky.feed.post/3lwjymvaiz22q",
+        "text": "forget the usual \"whats ur fursona smell like\" engagement bait. give me the real shit. put them in a video game. whats their \"idle for 30+ seconds\" flavor animation",
+        "author_did": "did:plc:5ygnzf2j4lnpftdlvanxqmf2",
+        "created_at": "2025-08-16T18:26:38.764Z",
+        "engagement": {
+          "likes": 19,
+          "replies": 3,
+          "reposts": 1,
+          "quotes": 31
+        }
+      },
+      "ratio_metrics": {
+        "score": 31.0,
+        "confidence": 0.416,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 31 quotes vs 1 reposts in 3.4 hours",
+        "post_age_minutes": 202.9
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:4axfbgfwqxtcp4okns5dgn55/app.bsky.feed.post/3lwk5ogfsls2f",
+          "author": {
+            "did": "did:plc:4axfbgfwqxtcp4okns5dgn55",
+            "handle": "moondogtk.bsky.social",
+            "display_name": "Moondog"
+          },
+          "text": "Definitely undoing his braids, flipping his hair sassily, and re-doing them.",
+          "created_at": "2025-08-16T19:56:59.027Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 0,
+            "reposts": 0,
+            "total": 1
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.5,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:roryixcoyioepmtbs5wco3jl/app.bsky.feed.post/3lwk7mgnjus2u",
+          "author": {
+            "did": "did:plc:roryixcoyioepmtbs5wco3jl",
+            "handle": "desulto.bsky.social",
+            "display_name": "Desulto"
+          },
+          "text": "Probably wrap their arms behind their head to stretch them, or just look around a little bit. Or both.",
+          "created_at": "2025-08-16T20:31:39.653Z",
           "engagement": {
             "likes": 0,
             "replies": 0,
@@ -64,58 +237,22 @@
             "total": 0
           },
           "sentiment": {
-            "polarity": -0.09,
-            "subjectivity": 0.381,
-            "anger": 0.111,
+            "polarity": -0.294,
+            "subjectivity": 0.6,
+            "anger": 0.0,
             "disgust": 0.0,
-            "total_negative_emotion": 0.111
+            "total_negative_emotion": 0.0
           }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": -0.09,
-        "avg_anger": 0.111,
-        "avg_disgust": 0.0,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 1
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:xual4zv27nrhu5hldv7emx5j/app.bsky.feed.post/3lwgixuxihu22",
-        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 There's no fuel, no food, no power \u2014 and my son lies wounded in the middle of it all.\nDonate link chuffed.org/project/1399...",
-        "author_did": "did:plc:xual4zv27nrhu5hldv7emx5j",
-        "created_at": "2025-08-15T09:08:28.484Z",
-        "engagement": {
-          "likes": 1,
-          "replies": 0,
-          "reposts": 1,
-          "quotes": 181
-        }
-      },
-      "ratio_metrics": {
-        "score": 181.0,
-        "confidence": 0.605,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 181 quotes vs 1 reposts in 4.4 hours",
-        "post_age_minutes": 266.3
-      },
-      "top_5_replies": [
+        },
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgkkywc7b2h",
+          "uri": "at://did:plc:l5btejh5mmq5rupedvkcaaps/app.bsky.feed.post/3lwjz5htsvk2y",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:l5btejh5mmq5rupedvkcaaps",
+            "handle": "autumngogogoat.bsky.social",
+            "display_name": "Autumn Goat \u79cb\u30e4\u30ae"
           },
-          "text": "\ud83d\udea9 This message is likely a scam! Demanding proof of the child's injury & transparent aid distribution is crucial. Don't trust links \u2013 verify the sender's connection to Gaza & public justification for funds. #Gaza #ScamAlert",
-          "created_at": "2025-08-15T09:37:03.829376Z",
+          "text": "I wonder what my fursona smells like",
+          "created_at": "2025-08-16T18:35:55.143Z",
           "engagement": {
             "likes": 0,
             "replies": 0,
@@ -124,10 +261,220 @@
           },
           "sentiment": {
             "polarity": 0.0,
-            "subjectivity": 0.689,
-            "anger": 0.067,
+            "subjectivity": 0.0,
+            "anger": 0.0,
             "disgust": 0.0,
-            "total_negative_emotion": 0.067
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 3,
+        "avg_polarity": -0.098,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 3
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:qzqqxxsbfamk2uhgh5n5tltk/app.bsky.feed.post/3lwjx5uqasc2k",
+        "text": "I had to see this, so now you do too.\n\nAlso, get out of her bed, you creep. #BB27",
+        "author_did": "did:plc:qzqqxxsbfamk2uhgh5n5tltk",
+        "created_at": "2025-08-16T18:00:21.171Z",
+        "engagement": {
+          "likes": 32,
+          "replies": 19,
+          "reposts": 0,
+          "quotes": 5
+        }
+      },
+      "ratio_metrics": {
+        "score": 24,
+        "confidence": 0.372,
+        "category": "Complete Ratio",
+        "explanation": "Pure controversy: 5 quotes + 19 replies, no reposts in 3.8 hours",
+        "post_age_minutes": 229.2
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:gmsmsdwr6pznyv5y5zipdqvw/app.bsky.feed.post/3lwjxo37wfc2g",
+          "author": {
+            "did": "did:plc:gmsmsdwr6pznyv5y5zipdqvw",
+            "handle": "notkala.bsky.social",
+            "display_name": "kala"
+          },
+          "text": "That arch is diabolical",
+          "created_at": "2025-08-16T18:09:24.850Z",
+          "engagement": {
+            "likes": 18,
+            "replies": 0,
+            "reposts": 0,
+            "total": 18
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.25,
+            "disgust": 0.25,
+            "total_negative_emotion": 0.5
+          }
+        },
+        {
+          "uri": "at://did:plc:hbd3oakvi7cgrueccgtobmdb/app.bsky.feed.post/3lwjxta3qks2p",
+          "author": {
+            "did": "did:plc:hbd3oakvi7cgrueccgtobmdb",
+            "handle": "tookieclothespin.bsky.social",
+            "display_name": "Tookie"
+          },
+          "text": "",
+          "created_at": "2025-08-16T18:12:17.724Z",
+          "engagement": {
+            "likes": 14,
+            "replies": 1,
+            "reposts": 0,
+            "total": 15
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:xqu625yczelfp337tjfzj5sv/app.bsky.feed.post/3lwjxxggad223",
+          "author": {
+            "did": "did:plc:xqu625yczelfp337tjfzj5sv",
+            "handle": "thebrypie.bsky.social",
+            "display_name": "TheBryPie"
+          },
+          "text": "insert juile saying No no no no video here",
+          "created_at": "2025-08-16T18:14:38.581Z",
+          "engagement": {
+            "likes": 11,
+            "replies": 0,
+            "reposts": 0,
+            "total": 11
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:v5c3df2k6jegr6acv5wmsbka/app.bsky.feed.post/3lwjylsp2yc2p",
+          "author": {
+            "did": "did:plc:v5c3df2k6jegr6acv5wmsbka",
+            "handle": "thecoolestsquirtle.bsky.social",
+            "display_name": "cool squirtle (delusional Vincenzo stan)"
+          },
+          "text": "",
+          "created_at": "2025-08-16T18:26:02.540Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 0,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:fdu6bbqioqkli36qpj37ehhx/app.bsky.feed.post/3lwk3ajnnk22y",
+          "author": {
+            "did": "did:plc:fdu6bbqioqkli36qpj37ehhx",
+            "handle": "jrdoozy10.bsky.social",
+            "display_name": "TVtrashJen"
+          },
+          "text": "#bb27",
+          "created_at": "2025-08-16T19:13:25.177Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 0,
+            "reposts": 0,
+            "total": 7
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 22,
+        "avg_polarity": -0.053,
+        "avg_anger": 0.048,
+        "avg_disgust": 0.028,
+        "high_emotion_counts": {
+          "high_anger_posts": 1,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 22
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwju3gfqbk25",
+        "text": "#PatrickLovellTheProducer #71TrillionTruth #CrushCorruption #FuckFascism #TheCleanNewDeal #NIN #TrentReznor #DonTheConRicoPig\nwww.thecleannewdeal.org\nwww.thecon.tv\nyoutu.be/4vDkxOHLEx4?...",
+        "author_did": "did:plc:owasym32475ohumf7bwkxn54",
+        "created_at": "2025-08-16T17:05:17.814Z",
+        "engagement": {
+          "likes": 4,
+          "replies": 2,
+          "reposts": 4,
+          "quotes": 69
+        }
+      },
+      "ratio_metrics": {
+        "score": 17.25,
+        "confidence": 0.457,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 69 quotes vs 4 reposts in 4.7 hours",
+        "post_age_minutes": 284.2
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwjuhfq7mk2c",
+          "author": {
+            "did": "did:plc:owasym32475ohumf7bwkxn54",
+            "handle": "patricklovellpresentsthecleannewdeal.com",
+            "display_name": "Patrick Lovell The Producer  "
+          },
+          "text": "youtu.be/b75Fz8CqAW4?...",
+          "created_at": "2025-08-16T17:11:59.763Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "total": 0
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
           }
         }
       ],
@@ -135,7 +482,7 @@
       "overall_sentiment": {
         "analyzed_total_responses": 1,
         "avg_polarity": 0.0,
-        "avg_anger": 0.067,
+        "avg_anger": 0.0,
         "avg_disgust": 0.0,
         "high_emotion_counts": {
           "high_anger_posts": 0,
@@ -147,102 +494,135 @@
     },
     {
       "original_post": {
-        "uri": "at://did:plc:2rm5fshptdn2s6edjn4tsz3e/app.bsky.feed.post/3lwgiykmtxu2n",
-        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 My son\u2019s blood stains the ground. I try to be strong, but I am breaking inside.\nDonate link chuffed.org/project/1399...",
-        "author_did": "did:plc:2rm5fshptdn2s6edjn4tsz3e",
-        "created_at": "2025-08-15T09:08:51.204Z",
+        "uri": "at://did:plc:eamw76ihnc7fpdq2da3vm5wq/app.bsky.feed.post/3lwjrdqzfgk2y",
+        "text": "The Big Ten is, indeed, in the *very* early stages of discussing the idea of a 28-team College Football Playoff model, source confirms to NBC Sports (as ESPN reported). \n\nWould eliminate conference championship games & have most spots designated per league.",
+        "author_did": "did:plc:eamw76ihnc7fpdq2da3vm5wq",
+        "created_at": "2025-08-16T16:16:16.155Z",
         "engagement": {
-          "likes": 1,
-          "replies": 0,
-          "reposts": 1,
-          "quotes": 181
+          "likes": 57,
+          "replies": 22,
+          "reposts": 17,
+          "quotes": 176
         }
       },
       "ratio_metrics": {
-        "score": 181.0,
-        "confidence": 0.603,
+        "score": 10.35,
+        "confidence": 0.547,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 181 quotes vs 1 reposts in 4.4 hours",
-        "post_age_minutes": 265.9
+        "explanation": "Completely ratio'd: 176 quotes vs 17 reposts in 5.6 hours",
+        "post_age_minutes": 333.3
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgkjsr24u2e",
+          "uri": "at://did:plc:zbpdmlnpf2dxmjqzn7awfqe4/app.bsky.feed.post/3lwjrpi7mnk2w",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:zbpdmlnpf2dxmjqzn7awfqe4",
+            "handle": "notredale.bsky.social",
+            "display_name": "NotreDale"
           },
-          "text": "\ud83d\udea9 Red flags! This message claiming a wounded child in Gaza is likely a scam. Demand concrete evidence & transparent aid usage. Verify the sender's genuine connection to Gaza \u2013 don\u2019t just trust the link. #Gaza #ScamAlert",
-          "created_at": "2025-08-15T09:36:23.813205Z",
+          "text": "Dan Patrick: With the first nine months of the College Football postseason out of the way, the playoff picture is starting to emerge.",
+          "created_at": "2025-08-16T16:22:49.565Z",
           "engagement": {
-            "likes": 0,
+            "likes": 74,
             "replies": 0,
-            "reposts": 0,
-            "total": 0
+            "reposts": 4,
+            "total": 78
           },
           "sentiment": {
-            "polarity": 0.138,
+            "polarity": 0.125,
+            "subjectivity": 0.217,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:twpy7zen3pu4rbojv4ecsc2m/app.bsky.feed.post/3lwjrrrykhc2b",
+          "author": {
+            "did": "did:plc:twpy7zen3pu4rbojv4ecsc2m",
+            "handle": "vg-plus.bsky.social",
+            "display_name": "Blondish on bsky"
+          },
+          "text": "As usual, the Big 10 is stupid. Nobody asked for this.",
+          "created_at": "2025-08-16T16:24:06.937Z",
+          "engagement": {
+            "likes": 44,
+            "replies": 1,
+            "reposts": 1,
+            "total": 46
+          },
+          "sentiment": {
+            "polarity": -0.35,
             "subjectivity": 0.45,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
           }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": 0.138,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 1
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:lrkrrptxukpy2fsjrzpccqj2/app.bsky.feed.post/3lwgif6ll342j",
-        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Hospitals are gone. Food is scarce. Hope is fading, and my child is getting worse.\nDonate link chuffed.org/project/1399...",
-        "author_did": "did:plc:lrkrrptxukpy2fsjrzpccqj2",
-        "created_at": "2025-08-15T08:58:01.044Z",
-        "engagement": {
-          "likes": 0,
-          "replies": 0,
-          "reposts": 1,
-          "quotes": 183
-        }
-      },
-      "ratio_metrics": {
-        "score": 183.0,
-        "confidence": 0.594,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 183 quotes vs 1 reposts in 4.6 hours",
-        "post_age_minutes": 276.7
-      },
-      "top_5_replies": [
+        },
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgirek4t72x",
+          "uri": "at://did:plc:eamw76ihnc7fpdq2da3vm5wq/app.bsky.feed.post/3lwjrerhxsk2y",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:eamw76ihnc7fpdq2da3vm5wq",
+            "handle": "nauerbach.com",
+            "display_name": "Nicole Auerbach"
           },
-          "text": "\ud83d\udea9 Be cautious! This message claiming a son was injured in Gaza & requesting donations is likely fake. Demand concrete proof & transparent donation usage. Many accounts falsely claim connection to Gaza. Verify details beyond the link. #Gaza #ScamAlert",
-          "created_at": "2025-08-15T09:04:49.855686Z",
+          "text": "The idea was described to me as 7 spots for Big Ten, 7 spots for SEC, 5 for ACC, 5 for Big 12, 2 G5, 2 at-large. First two rounds would be played on campuses. First round could be played during the current conference championship weekend.",
+          "created_at": "2025-08-16T16:16:50.187Z",
           "engagement": {
-            "likes": 0,
-            "replies": 0,
-            "reposts": 0,
-            "total": 0
+            "likes": 24,
+            "replies": 11,
+            "reposts": 3,
+            "total": 38
           },
           "sentiment": {
-            "polarity": -0.05,
-            "subjectivity": 0.68,
+            "polarity": 0.025,
+            "subjectivity": 0.283,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:q2lh7nspkurno5yq3nehnnpy/app.bsky.feed.post/3lwjszahc7s2n",
+          "author": {
+            "did": "did:plc:q2lh7nspkurno5yq3nehnnpy",
+            "handle": "kvntodd.bsky.social",
+            "display_name": "Kevin Todd"
+          },
+          "text": "",
+          "created_at": "2025-08-16T16:46:10.712Z",
+          "engagement": {
+            "likes": 29,
+            "replies": 0,
+            "reposts": 2,
+            "total": 31
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:lrbxjfv2zvnigxwgcqo2rlwd/app.bsky.feed.post/3lwjskuo2y22j",
+          "author": {
+            "did": "did:plc:lrbxjfv2zvnigxwgcqo2rlwd",
+            "handle": "terpmlis.bsky.social",
+            "display_name": "David van den Berg"
+          },
+          "text": "Why is the commissioner of the B1G so consumed with the idea that an 8-4 team (maybe a 7-5 team?) should have a chance to play for a national championship?",
+          "created_at": "2025-08-16T16:38:08.599Z",
+          "engagement": {
+            "likes": 21,
+            "replies": 0,
+            "reposts": 0,
+            "total": 21
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
@@ -251,68 +631,311 @@
       ],
       "top_5_quotes": [],
       "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": -0.05,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0,
+        "analyzed_total_responses": 36,
+        "avg_polarity": -0.056,
+        "avg_anger": 0.011,
+        "avg_disgust": 0.006,
         "high_emotion_counts": {
           "high_anger_posts": 0,
           "high_disgust_posts": 0
         }
       },
       "collection_success": true,
-      "responses_found": 1
+      "responses_found": 36
     },
     {
       "original_post": {
-        "uri": "at://did:plc:bnmccliicccvahfawm4zgttj/app.bsky.feed.post/3lwggnb5q652x",
-        "text": "Every second my son suffers is a second too long He needs urgent surgery  but Gaza offers no help. I beg you to help us leave. Your support is our only hope. We are fighting every day just to survive, without food, medicine, or even clean water for my family.\nDonate link chuffed.org/project/1399...",
-        "author_did": "did:plc:bnmccliicccvahfawm4zgttj",
-        "created_at": "2025-08-15T08:26:44.689Z",
+        "uri": "at://did:plc:uhopaz5a3le52hgw4qo3tphd/app.bsky.feed.post/3lwk3uhi7ac2f",
+        "text": "What\u2019s your dumbest superiority complex?\n\nMine is that I\u2019m better than you because my house was built in the 1870s.",
+        "author_did": "did:plc:uhopaz5a3le52hgw4qo3tphd",
+        "created_at": "2025-08-16T19:24:33.998Z",
         "engagement": {
-          "likes": 2,
-          "replies": 0,
-          "reposts": 1,
-          "quotes": 187
+          "likes": 14,
+          "replies": 10,
+          "reposts": 0,
+          "quotes": 6
         }
       },
       "ratio_metrics": {
-        "score": 187.0,
-        "confidence": 0.568,
+        "score": 16,
+        "confidence": 0.349,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 187 quotes vs 1 reposts in 5.1 hours",
-        "post_age_minutes": 308.0
+        "explanation": "Pure controversy: 6 quotes + 10 replies, no reposts in 2.4 hours",
+        "post_age_minutes": 144.9
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwggwu6i332j",
+          "uri": "at://did:plc:bsnfhnuvhsjlhjt3nnjffebl/app.bsky.feed.post/3lwk4tpe7ck2p",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:bsnfhnuvhsjlhjt3nnjffebl",
+            "handle": "christinastephens.bsky.social",
+            "display_name": "Christina Stephens \ud83d\udc2f\u2728"
           },
-          "text": "\ud83d\udea9 Urgent warning! This message claiming a family in Gaza needs help is highly suspicious. Scammers often use emotional appeals. Check the website (chuff.org/project/1399) & verify the organization's legitimacy. Demand public proof of aid & transparency. #ScamAlert #FakeFundraising",
-          "created_at": "2025-08-15T08:32:06.539598Z",
+          "text": "I have a superior knowledge of how the government actually works.",
+          "created_at": "2025-08-16T19:42:02.443Z",
           "engagement": {
-            "likes": 0,
+            "likes": 7,
             "replies": 0,
             "reposts": 0,
-            "total": 0
+            "total": 7
           },
           "sentiment": {
-            "polarity": 0.053,
-            "subjectivity": 0.419,
-            "anger": 0.071,
+            "polarity": 0.35,
+            "subjectivity": 0.5,
+            "anger": 0.0,
             "disgust": 0.0,
-            "total_negative_emotion": 0.071
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:vqws3zws2zskclaaneqo6yiy/app.bsky.feed.post/3lwk43v2auc2w",
+          "author": {
+            "did": "did:plc:vqws3zws2zskclaaneqo6yiy",
+            "handle": "jonfmorse.com",
+            "display_name": "\u029d\u0585\u057c \u028d\u0585\u0280\u0586\u025b"
+          },
+          "text": "Mine is that I'm a better Christian than most Christians even though I'm agnostic.",
+          "created_at": "2025-08-16T19:28:43.101Z",
+          "engagement": {
+            "likes": 5,
+            "replies": 1,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.333,
+            "subjectivity": 0.333,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:zyg3a3cmo7jpg6ubq443h44j/app.bsky.feed.post/3lwkc3trp2s2m",
+          "author": {
+            "did": "did:plc:zyg3a3cmo7jpg6ubq443h44j",
+            "handle": "kbuts.bsky.social",
+            "display_name": "Pete Sastone"
+          },
+          "text": "I don't have a car",
+          "created_at": "2025-08-16T21:16:04.223Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 0,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:zsghsvwshxlsansdf5axrxnz/app.bsky.feed.post/3lwk4w6x3ck2x",
+          "author": {
+            "did": "did:plc:zsghsvwshxlsansdf5axrxnz",
+            "handle": "socratesjohnson.bsky.social",
+            "display_name": "S\u014dcr\u0101tes Johnson Ferry Cross the Mersey"
+          },
+          "text": "Mine is probably not having a yard.",
+          "created_at": "2025-08-16T19:43:25.899Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 1,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:zvbhd66gjci62kxtzd3eh2v4/app.bsky.feed.post/3lwk6gpl4xc2y",
+          "author": {
+            "did": "did:plc:zvbhd66gjci62kxtzd3eh2v4",
+            "handle": "gabbklein.bsky.social",
+            "display_name": "Gabrielle"
+          },
+          "text": "I lift my nose in the air because I pull all the way up to the stop line at red lights.",
+          "created_at": "2025-08-16T20:10:33.946Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 0,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.5,
+            "total_negative_emotion": 0.5
           }
         }
       ],
       "top_5_quotes": [],
       "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": 0.053,
-        "avg_anger": 0.071,
+        "analyzed_total_responses": 13,
+        "avg_polarity": 0.083,
+        "avg_anger": 0.008,
+        "avg_disgust": 0.075,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 1
+        }
+      },
+      "collection_success": true,
+      "responses_found": 13
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3lwk623sc5s2f",
+        "text": "Exames de Bolsonaro mostram imagem residual de infec\u00e7\u00f5es pulmonares, esofagite e gastrite, diz boletim m\u00e9dico jnascim.info/Er28wR",
+        "author_did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+        "created_at": "2025-08-16T20:03:30.555Z",
+        "engagement": {
+          "likes": 55,
+          "replies": 30,
+          "reposts": 4,
+          "quotes": 31
+        }
+      },
+      "ratio_metrics": {
+        "score": 7.75,
+        "confidence": 0.703,
+        "category": "Quote Dunk",
+        "explanation": "Getting quote-dunked: 31 quotes vs 4 reposts in 1.8 hours",
+        "post_age_minutes": 105.9
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:fvr3prervecqi5lpgaxwd5nt/app.bsky.feed.post/3lwk6fydlyc2y",
+          "author": {
+            "did": "did:plc:fvr3prervecqi5lpgaxwd5nt",
+            "handle": "avodopudim.bsky.social",
+            "display_name": "Av\u00f3 Curupira do Pudim \ud83d\udc15\ud83c\udf49"
+          },
+          "text": "Saramago lhes diz:",
+          "created_at": "2025-08-16T20:10:09.574Z",
+          "engagement": {
+            "likes": 30,
+            "replies": 0,
+            "reposts": 2,
+            "total": 32
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:nhx3xlv666ielv3nbr6f35rt/app.bsky.feed.post/3lwk6fjtt622i",
+          "author": {
+            "did": "did:plc:nhx3xlv666ielv3nbr6f35rt",
+            "handle": "alancart.bsky.social",
+            "display_name": "Alancart \ud83c\udf20\ud83d\udea9\ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+          },
+          "text": "S\u00f3 dar cloroquina pra ele dia sim, dia n\u00e3o .",
+          "created_at": "2025-08-16T20:09:54.384Z",
+          "engagement": {
+            "likes": 17,
+            "replies": 1,
+            "reposts": 0,
+            "total": 18
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:jgu3jkn7fvucmziiphrdksbc/app.bsky.feed.post/3lwk64y3ypk26",
+          "author": {
+            "did": "did:plc:jgu3jkn7fvucmziiphrdksbc",
+            "handle": "kings-br.bsky.social",
+            "display_name": "Kings BR"
+          },
+          "text": "E da\u00ed? Nao sou coveiro.",
+          "created_at": "2025-08-16T20:05:07.343Z",
+          "engagement": {
+            "likes": 13,
+            "replies": 0,
+            "reposts": 0,
+            "total": 13
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:s7fwsdxo36bafeqdscuplhya/app.bsky.feed.post/3lwk72n7fi22e",
+          "author": {
+            "did": "did:plc:s7fwsdxo36bafeqdscuplhya",
+            "handle": "lsanches-rj.bsky.social",
+            "display_name": "\ud83d\udea9 Lsanches_RJ \ud83d\udea9\ud83c\udde7\ud83c\uddf7 \ud83c\uddf5\ud83c\uddf8"
+          },
+          "text": "Junto com ivermectina. \u00c9 tiro e queda.",
+          "created_at": "2025-08-16T20:21:42.553Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 0,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:kecge2emu2goaa5vy4qu6x2g/app.bsky.feed.post/3lwk6lhzyy22r",
+          "author": {
+            "did": "did:plc:kecge2emu2goaa5vy4qu6x2g",
+            "handle": "brnmatous.bsky.social",
+            "display_name": "Brunno H Matou\u0161"
+          },
+          "text": "S\u00f3 tomar Cloroquina e Ivermectina 6x por dia.",
+          "created_at": "2025-08-16T20:13:13.816Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 0,
+            "reposts": 0,
+            "total": 7
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 31,
+        "avg_polarity": 0.0,
+        "avg_anger": 0.0,
         "avg_disgust": 0.0,
         "high_emotion_counts": {
           "high_anger_posts": 0,
@@ -320,333 +943,130 @@
         }
       },
       "collection_success": true,
-      "responses_found": 1
+      "responses_found": 31
     },
     {
       "original_post": {
-        "uri": "at://did:plc:tw3cv7byoavrqziaqxtrwq3x/app.bsky.feed.post/3lwgh5zagee2q",
-        "did": "did:plc:tw3cv7byoavrqziaqxtrwq3x",
-        "rkey": "3lwgh5zagee2q",
-        "time_us": 1755246967748615,
-        "timestamp": "2025-08-15T08:36:07.748615+00:00",
-        "text": "My name is Fayez. My child lies in pain with no hospital to help him. I carry him everywhere. There are no wheelchairs, no roads \u2014 just ruins. Share our story. Save a child\u2019s life. Donate. \ud83d\udce4 He cries. I cry. But crying doesn\u2019t heal shattered bones. \nDonate link chuffed.org/project/139982",
-        "created_at": "2025-08-15T08:36:06.814Z",
-        "character_count": 288,
-        "langs": [
-          "en"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "aspectRatio": {
-            "height": 720,
-            "width": 404
-          },
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreiclxoclijgsfee6lxzvb3vmduilgq5qvz5qkcogpztpc2jpya7jzm"
-            },
-            "mimeType": "video/mp4",
-            "size": 1407483
-          }
-        },
-        "facets": [
-          {
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://chuffed.org/project/139982"
-              }
-            ],
-            "index": {
-              "byteEnd": 297,
-              "byteStart": 271
-            }
-          }
-        ],
-        "tags": null,
-        "like_count": 0,
-        "reply_count": 0,
-        "repost_count": 1,
-        "quote_count": 183,
-        "is_quote_post": false,
-        "quoted_uri": null
-      },
-      "ratio_metrics": {
-        "score": 183.0,
-        "confidence": 0.5757774088386723,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 183 quotes vs 1 reposts in 5.0 hours"
-      },
-      "top_5_replies": [],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 0,
-        "avg_polarity": 0.0,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0
-      },
-      "collection_success": true,
-      "responses_found": 0
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:piagdghdrovh2aflieqy42f4/app.bsky.feed.post/3lwgh66xplu2e",
-        "did": "did:plc:piagdghdrovh2aflieqy42f4",
-        "rkey": "3lwgh66xplu2e",
-        "time_us": 1755246974537949,
-        "timestamp": "2025-08-15T08:36:14.537949+00:00",
-        "text": "My name is Fayez. My child lies in pain with no hospital to help him. Every day is a fight to keep him alive, but we have nothing. You can be the one to change our story. Share. Donate. \ud83d\ude4f Time is running out. We need to leave now. \nDonate link chuffed.org/project/139982",
-        "created_at": "2025-08-15T08:36:12.819Z",
-        "character_count": 270,
-        "langs": [
-          "en"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "aspectRatio": {
-            "height": 720,
-            "width": 404
-          },
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreiclxoclijgsfee6lxzvb3vmduilgq5qvz5qkcogpztpc2jpya7jzm"
-            },
-            "mimeType": "video/mp4",
-            "size": 1407483
-          }
-        },
-        "facets": [
-          {
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://chuffed.org/project/139982"
-              }
-            ],
-            "index": {
-              "byteEnd": 273,
-              "byteStart": 247
-            }
-          }
-        ],
-        "tags": null,
-        "like_count": 1,
-        "reply_count": 0,
-        "repost_count": 2,
-        "quote_count": 184,
-        "is_quote_post": false,
-        "quoted_uri": null
-      },
-      "ratio_metrics": {
-        "score": 92.0,
-        "confidence": 0.572711590585844,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 184 quotes vs 2 reposts in 5.0 hours"
-      },
-      "top_5_replies": [],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 0,
-        "avg_polarity": 0.0,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0
-      },
-      "collection_success": true,
-      "responses_found": 0
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:yzavenahk4vtjzp3jvldokdp/app.bsky.feed.post/3lwgh6qfsxv22",
-        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Hospitals are gone. Food is scarce. Hope is fading, and my child is getting worse.\nDonate link chuffed.org/project/1399...",
-        "author_did": "did:plc:yzavenahk4vtjzp3jvldokdp",
-        "created_at": "2025-08-15T08:36:31.108Z",
+        "uri": "at://did:plc:n2kurkne2vwpccuqwz37ggdm/app.bsky.feed.post/3lwk4iwuu3x2l",
+        "text": "What's the worst song you love so much that you'd defend it with your life? defector.com/the-worst-so...",
+        "author_did": "did:plc:n2kurkne2vwpccuqwz37ggdm",
+        "created_at": "2025-08-16T19:36:00.825Z",
         "engagement": {
-          "likes": 0,
-          "replies": 0,
-          "reposts": 2,
-          "quotes": 179
+          "likes": 10,
+          "replies": 5,
+          "reposts": 1,
+          "quotes": 15
         }
       },
       "ratio_metrics": {
-        "score": 89.5,
-        "confidence": 0.574,
+        "score": 15.0,
+        "confidence": 0.359,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 179 quotes vs 2 reposts in 5.0 hours",
-        "post_age_minutes": 298.2
+        "explanation": "Completely ratio'd: 15 quotes vs 1 reposts in 2.2 hours",
+        "post_age_minutes": 133.5
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgirqjyzt2j",
+          "uri": "at://did:plc:vwbppgyuk3v4fei25cwlqfbc/app.bsky.feed.post/3lwk4rlt32k2o",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:vwbppgyuk3v4fei25cwlqfbc",
+            "handle": "upperblackeddypa.bsky.social",
+            "display_name": "ProfessorAlbertWickwire"
           },
-          "text": "\ud83d\udea9 Be wary! This message claiming a son injured in Gaza & requesting donations is likely fake. Demand concrete proof & transparent donation usage. Verify details beyond the link & investigate donor locations. #Gaza #ScamAlert",
-          "created_at": "2025-08-15T09:05:02.425802Z",
+          "text": "Rock Me Amadeus is a good pull, it just came up in my playlist last night; I'll raise you 'Mexican Radio' by Wall of Voodoo.",
+          "created_at": "2025-08-16T19:40:51.627Z",
           "engagement": {
-            "likes": 0,
+            "likes": 2,
             "replies": 0,
             "reposts": 0,
-            "total": 0
+            "total": 2
           },
           "sentiment": {
-            "polarity": -0.244,
+            "polarity": 0.233,
+            "subjectivity": 0.222,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:biz3yh66pilqatjriatoyxqd/app.bsky.feed.post/3lwk4ost6ak2h",
+          "author": {
+            "did": "did:plc:biz3yh66pilqatjriatoyxqd",
+            "handle": "bike2beer.bsky.social",
+            "display_name": "Paul"
+          },
+          "text": "Neil Diamond\u2019s entire discography.",
+          "created_at": "2025-08-16T19:39:18.307Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 1,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.625,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:6nxey4hku54gijelodpzbmmv/app.bsky.feed.post/3lwk4yo6vs22d",
+          "author": {
+            "did": "did:plc:6nxey4hku54gijelodpzbmmv",
+            "handle": "tim-gibson.bsky.social",
+            "display_name": "Tim Gibson"
+          },
+          "text": "Totally. I'm a Believer, Cherry Cherry, Solitary Man. All bangers. Some cringe.",
+          "created_at": "2025-08-16T19:44:48.992Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 0,
+            "reposts": 0,
+            "total": 1
+          },
+          "sentiment": {
+            "polarity": 0.0,
             "subjectivity": 0.75,
             "anger": 0.0,
+            "disgust": 0.25,
+            "total_negative_emotion": 0.25
+          }
+        },
+        {
+          "uri": "at://did:plc:4ypydtsxlmkfyoyoxb26o4wd/app.bsky.feed.post/3lwk4jfndes2v",
+          "author": {
+            "did": "did:plc:4ypydtsxlmkfyoyoxb26o4wd",
+            "handle": "booktweeting.bsky.social",
+            "display_name": "Julia DOESN\u2019T WANT YOUR MONEY"
+          },
+          "text": "\u201cBrandy\u201d",
+          "created_at": "2025-08-16T19:36:16.711Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 0,
+            "reposts": 0,
+            "total": 1
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
           }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": -0.244,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 1
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:p2bfaome3c6eitknv53iqo7s/app.bsky.feed.post/3lwglat52sm2d",
-        "did": "did:plc:p2bfaome3c6eitknv53iqo7s",
-        "rkey": "3lwglat52sm2d",
-        "time_us": 1755251364244767,
-        "timestamp": "2025-08-15T09:49:24.244767+00:00",
-        "text": "I beg you to help my little daughter in Gaza. She suffers from a severe bacterial infection all over her body and malnutrition from the famine. Without urgent treatment and food, her life is in danger. Please, your support can save her and give her a chance to live.\ud83d\udc94\nwww.gofundme.com/f/support-fa...",
-        "created_at": "2025-08-15T09:49:16.013Z",
-        "character_count": 300,
-        "langs": [
-          "en"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "alt": "",
-              "aspectRatio": {
-                "height": 404,
-                "width": 640
-              },
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifrwsagt6hvkwernuwaw5okgnzkbay4jt3d4a37g2bv4m4dxzszoq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 225504
-              }
-            },
-            {
-              "alt": "",
-              "aspectRatio": {
-                "height": 1129,
-                "width": 2000
-              },
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifnjwrcqgpfpk5aoh6zgqprq2onsnxt2j3pvtjqy43nfchbeq7x2q"
-                },
-                "mimeType": "image/jpeg",
-                "size": 888885
-              }
-            },
-            {
-              "alt": "",
-              "aspectRatio": {
-                "height": 1129,
-                "width": 2000
-              },
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibxvnlampkma6k5haapx5iztewp2yrs77brrin3vm3yiyl246etfq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 910184
-              }
-            }
-          ]
         },
-        "facets": [
-          {
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.gofundme.com/f/support-fayez-family-in-gaza"
-              }
-            ],
-            "index": {
-              "byteEnd": 303,
-              "byteStart": 271
-            }
-          }
-        ],
-        "tags": null,
-        "like_count": 0,
-        "reply_count": 0,
-        "repost_count": 2,
-        "quote_count": 153,
-        "is_quote_post": false,
-        "quoted_uri": null
-      },
-      "ratio_metrics": {
-        "score": 76.5,
-        "confidence": 0.6397056742816606,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 153 quotes vs 2 reposts in 3.8 hours"
-      },
-      "top_5_replies": [],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 0,
-        "avg_polarity": 0.0,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0
-      },
-      "collection_success": true,
-      "responses_found": 0
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:onenhlkinb3aaodrlb2vzack/app.bsky.feed.post/3lwgh6eqmlm2r",
-        "text": "I\u2019m Fayez, my son was wounded in Gaza. He\u2019s only 5. We are trapped under bombs and pain. Please share our story and help us reach treatment. \ud83d\ude4f Donate. \ud83d\udce4 Each moment here is danger. I fear every sound might be the one that ends his life.Donate link chuffed.org/project/1399...",
-        "author_did": "did:plc:onenhlkinb3aaodrlb2vzack",
-        "created_at": "2025-08-15T08:36:18.878Z",
-        "engagement": {
-          "likes": 0,
-          "replies": 0,
-          "reposts": 3,
-          "quotes": 185
-        }
-      },
-      "ratio_metrics": {
-        "score": 61.67,
-        "confidence": 0.575,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 185 quotes vs 3 reposts in 5.0 hours",
-        "post_age_minutes": 298.4
-      },
-      "top_5_replies": [
         {
-          "uri": "at://did:plc:evg7a4lzbafgi7blmfdgkakm/app.bsky.feed.post/3lwgisklxdb2d",
+          "uri": "at://did:plc:nsyncvyf4cbualbrgzit2uvd/app.bsky.feed.post/3lwkbjowlxc2v",
           "author": {
-            "did": "did:plc:evg7a4lzbafgi7blmfdgkakm",
-            "handle": "antupelenlefuncala.bsky.social",
-            "display_name": "Ant\u00fc\u00f1amku\u262d"
+            "did": "did:plc:nsyncvyf4cbualbrgzit2uvd",
+            "handle": "andyharwood.bsky.social",
+            "display_name": "Andy"
           },
-          "text": "\ud83d\udea9 Red flag! This message claiming a wounded child in Gaza & requesting donations is highly suspicious. Demand verifiable proof & transparent donation usage. Check details beyond the link & investigate donor locations. Publicly justify promised aid to confirm legitimacy. #Gaza #ScamAlert",
-          "created_at": "2025-08-15T09:05:29.761746Z",
+          "text": "Shiny Happy People",
+          "created_at": "2025-08-16T21:05:55.160Z",
           "engagement": {
             "likes": 0,
             "replies": 0,
@@ -654,31 +1074,333 @@
             "total": 0
           },
           "sentiment": {
-            "polarity": 0.053,
-            "subjectivity": 0.202,
-            "anger": 0.091,
+            "polarity": 0.8,
+            "subjectivity": 1.0,
+            "anger": 0.0,
             "disgust": 0.0,
-            "total_negative_emotion": 0.091
+            "total_negative_emotion": 0.0
           }
         }
       ],
       "top_5_quotes": [],
       "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": 0.053,
-        "avg_anger": 0.091,
-        "avg_disgust": 0.0,
+        "analyzed_total_responses": 6,
+        "avg_polarity": 0.197,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.083,
         "high_emotion_counts": {
           "high_anger_posts": 0,
           "high_disgust_posts": 0
         }
       },
       "collection_success": true,
-      "responses_found": 1
+      "responses_found": 6
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:nvoontkz4hmkd2n4xpzrlpib/app.bsky.feed.post/3lwk22ixxmc2f",
+        "text": "Wenn du einen 80er-Jahre-Titel aus der Geschichte tilgen k\u00f6nntest, welcher w\u00e4re das?\n\nIrgendwie, Irgendwo, Irgendwann",
+        "author_did": "did:plc:nvoontkz4hmkd2n4xpzrlpib",
+        "created_at": "2025-08-16T18:52:09.405Z",
+        "engagement": {
+          "likes": 28,
+          "replies": 6,
+          "reposts": 0,
+          "quotes": 7
+        }
+      },
+      "ratio_metrics": {
+        "score": 13,
+        "confidence": 0.367,
+        "category": "Complete Ratio",
+        "explanation": "Pure controversy: 7 quotes + 6 replies, no reposts in 3.0 hours",
+        "post_age_minutes": 177.4
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:nvoontkz4hmkd2n4xpzrlpib/app.bsky.feed.post/3lwk4o7win22f",
+          "author": {
+            "did": "did:plc:nvoontkz4hmkd2n4xpzrlpib",
+            "handle": "frau-s-aus-a.bsky.social",
+            "display_name": "Frau_S"
+          },
+          "text": "Und Nena ist Nena, ich mag die Stimme einfach nicht.",
+          "created_at": "2025-08-16T19:38:58.492Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 4,
+            "reposts": 0,
+            "total": 12
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:sei2fccjkpra3qkuaemujbog/app.bsky.feed.post/3lwk54i2b3k2s",
+          "author": {
+            "did": "did:plc:sei2fccjkpra3qkuaemujbog",
+            "handle": "dkleenevdreinigung.bsky.social",
+            "display_name": "Phosie (Geh mal aus dem Internet, ich muss telefonieren - Era)"
+          },
+          "text": "Ich mag die ganze Frau nicht",
+          "created_at": "2025-08-16T19:46:56.767Z",
+          "engagement": {
+            "likes": 5,
+            "replies": 1,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:2hnz3cyetceno6nh5vlj3uq5/app.bsky.feed.post/3lwk5ecphsc2w",
+          "author": {
+            "did": "did:plc:2hnz3cyetceno6nh5vlj3uq5",
+            "handle": "zebrakater.bsky.social",
+            "display_name": "Zebrakater \ud83d\udc9a"
+          },
+          "text": "Ich mittlerweile auch nicht mehr... \ud83e\udd37",
+          "created_at": "2025-08-16T19:51:19.606Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 2,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:qeaqnrxkfw2rl63zjycdstdy/app.bsky.feed.post/3lwk2ologks2g",
+          "author": {
+            "did": "did:plc:qeaqnrxkfw2rl63zjycdstdy",
+            "handle": "phobie.org",
+            "display_name": "phobie"
+          },
+          "text": "Klar, bissi Stehblues oder Gefummel im Nebel......",
+          "created_at": "2025-08-16T19:03:23.328Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 2,
+            "reposts": 0,
+            "total": 5
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:rlv3uzs2hu25k4qs47s3pdnp/app.bsky.feed.post/3lwk2fefv2c2p",
+          "author": {
+            "did": "did:plc:rlv3uzs2hu25k4qs47s3pdnp",
+            "handle": "teejot.bsky.social",
+            "display_name": "Grinch"
+          },
+          "text": "Dann nimm die Version von Bl\u00fcmchen. Die ist eh s\u00fc\u00dfer \ud83d\ude01 Also Bl\u00fcmchen",
+          "created_at": "2025-08-16T18:58:13.718Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 1,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 35,
+        "avg_polarity": 0.046,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.057,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 2
+        }
+      },
+      "collection_success": true,
+      "responses_found": 35
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3lwk5gssrf32w",
+        "text": "The \"Real Time\" host appeared to suggest that Democrats could win more elections if they came on his show \u2014 and named several notable figures.",
+        "author_did": "did:plc:j4eroku3volozvv6ljsnnfec",
+        "created_at": "2025-08-16T19:52:43.577Z",
+        "engagement": {
+          "likes": 7,
+          "replies": 30,
+          "reposts": 2,
+          "quotes": 17
+        }
+      },
+      "ratio_metrics": {
+        "score": 8.5,
+        "confidence": 0.497,
+        "category": "Quote Dunk",
+        "explanation": "Getting quote-dunked: 17 quotes vs 2 reposts in 1.9 hours",
+        "post_age_minutes": 116.8
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:tlcp3jtds6v3evb74nncf6fx/app.bsky.feed.post/3lwk5iu2fus2m",
+          "author": {
+            "did": "did:plc:tlcp3jtds6v3evb74nncf6fx",
+            "handle": "druidscircle.bsky.social",
+            "display_name": "Drew Warned You"
+          },
+          "text": "Maybe they just don't want to waste their time with a pro-Trump hack",
+          "created_at": "2025-08-16T19:53:52.007Z",
+          "engagement": {
+            "likes": 22,
+            "replies": 0,
+            "reposts": 0,
+            "total": 22
+          },
+          "sentiment": {
+            "polarity": -0.2,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.333,
+            "total_negative_emotion": 0.333
+          }
+        },
+        {
+          "uri": "at://did:plc:m2wazjxhvknmeco5jiwk2lti/app.bsky.feed.post/3lwk6e5z2ik2i",
+          "author": {
+            "did": "did:plc:m2wazjxhvknmeco5jiwk2lti",
+            "handle": "ogsaigonbond.bsky.social",
+            "display_name": "Saigonbond"
+          },
+          "text": "He only wants them on his show because he continues to hemorrhage viewers.",
+          "created_at": "2025-08-16T20:09:08.404Z",
+          "engagement": {
+            "likes": 16,
+            "replies": 1,
+            "reposts": 0,
+            "total": 17
+          },
+          "sentiment": {
+            "polarity": 0.1,
+            "subjectivity": 0.55,
+            "anger": 0.0,
+            "disgust": 0.2,
+            "total_negative_emotion": 0.2
+          }
+        },
+        {
+          "uri": "at://did:plc:hncl6qelnjq4cdh6eofg27ms/app.bsky.feed.post/3lwk6mlqw7s2p",
+          "author": {
+            "did": "did:plc:hncl6qelnjq4cdh6eofg27ms",
+            "handle": "rustbeltdave.bsky.social",
+            "display_name": "Dave from the Rust Belt"
+          },
+          "text": "New Rule: Nobody should give a rat's ass what Bill Maher says.",
+          "created_at": "2025-08-16T20:13:51.268Z",
+          "engagement": {
+            "likes": 13,
+            "replies": 0,
+            "reposts": 0,
+            "total": 13
+          },
+          "sentiment": {
+            "polarity": 0.136,
+            "subjectivity": 0.455,
+            "anger": 0.0,
+            "disgust": 0.25,
+            "total_negative_emotion": 0.25
+          }
+        },
+        {
+          "uri": "at://did:plc:h6hbschriaxakyws34uvu4ei/app.bsky.feed.post/3lwk5uaofu22z",
+          "author": {
+            "did": "did:plc:h6hbschriaxakyws34uvu4ei",
+            "handle": "jcmedia1.bsky.social",
+            "display_name": "J.C."
+          },
+          "text": "No one is afraid to go on his trash ass show.\nSince Real Time has basically turned into the Hannity Show, what's the fucking point?",
+          "created_at": "2025-08-16T20:00:14.345Z",
+          "engagement": {
+            "likes": 9,
+            "replies": 0,
+            "reposts": 0,
+            "total": 9
+          },
+          "sentiment": {
+            "polarity": -0.333,
+            "subjectivity": 0.667,
+            "anger": 0.0,
+            "disgust": 0.143,
+            "total_negative_emotion": 0.143
+          }
+        },
+        {
+          "uri": "at://did:plc:hbcal7dpdi22xnh4jneqjn4z/app.bsky.feed.post/3lwk6pqakmc27",
+          "author": {
+            "did": "did:plc:hbcal7dpdi22xnh4jneqjn4z",
+            "handle": "getradified.net",
+            "display_name": "Jonathan Kennedy"
+          },
+          "text": "Nah he always sucked.",
+          "created_at": "2025-08-16T20:15:36.638Z",
+          "engagement": {
+            "likes": 6,
+            "replies": 0,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 36,
+        "avg_polarity": -0.014,
+        "avg_anger": 0.057,
+        "avg_disgust": 0.068,
+        "high_emotion_counts": {
+          "high_anger_posts": 1,
+          "high_disgust_posts": 1
+        }
+      },
+      "collection_success": true,
+      "responses_found": 36
     }
   ],
   "metadata": {
-    "posts_collected": 513365,
+    "posts_collected": 525491,
     "ratios_detected": 20,
     "deep_dive_completed": 10,
     "pipeline_settings": {
