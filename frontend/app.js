@@ -14,10 +14,11 @@ document.addEventListener('DOMContentLoaded', function() {
     
     console.log('Preline UI initialized successfully');
     
-    // Load main characters data if we're on the today page
+    // Load main characters data if we're on the today page or index page
     if (window.location.pathname.includes('today.html') || 
         window.location.pathname.endsWith('/today') ||
-        document.getElementById('main-characters-section')) {
+        document.getElementById('main-characters-section') ||
+        document.getElementById('main-characters-table')) {
         loadMainCharacters();
         
         // Refresh data every 2 minutes
