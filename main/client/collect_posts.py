@@ -20,6 +20,7 @@ class JetstreamCollector:
         self.max_timeout = max_timeout
         self.posts = []
         self.posts_dict = {}  # URI -> post data for quick lookup
+        self.collected_replies = []  # Store reply info for later processing
         self.engagement_events = []
         self.connected = False
         self.finished = False
@@ -60,9 +61,17 @@ class JetstreamCollector:
                         if quoted_uri in self.posts_dict:
                             self.posts_dict[quoted_uri]['quote_count'] += 1
                     
-                    # Skip replies - only collect original posts
+                    # Store replies for later processing (no real-time modification)
                     if record.get('reply'):
-                        return
+                        parent_uri = record.get('reply', {}).get('parent', {}).get('uri')
+                        if parent_uri:
+                            reply_info = {
+                                'parent_uri': parent_uri,
+                                'reply_time': data['time_us'],
+                                'reply_author': data['did']
+                            }
+                            self.collected_replies.append(reply_info)
+                        return  # Don't collect reply as its own post
                     
                     post_uri = f"at://{data['did']}/app.bsky.feed.post/{commit.get('rkey', '')}"
                     post_data = {
@@ -101,14 +110,6 @@ class JetstreamCollector:
                     if subject_uri and subject_uri in self.posts_dict:
                         self.posts_dict[subject_uri]['repost_count'] += 1
                 
-                # Handle replies in a separate check (since we already handled posts above)
-                if collection == 'app.bsky.feed.post':
-                    record = commit.get('record', {})
-                    reply_info = record.get('reply')
-                    if reply_info:
-                        parent_uri = reply_info.get('parent', {}).get('uri')
-                        if parent_uri and parent_uri in self.posts_dict:
-                            self.posts_dict[parent_uri]['reply_count'] += 1
                 
                 # Check if we've reached the current time (end of our window)
                 if data['time_us'] >= self.end_time:
@@ -195,7 +196,24 @@ class JetstreamCollector:
         thread.join(timeout=5)
         
         print(f"Collection finished. Total posts: {len(self.posts)}")
+        
+        # Process collected replies after firehose collection is complete
+        self.process_replies()
+        
         return self.posts
+    
+    def process_replies(self):
+        """Process collected replies to count replies for each post"""
+        print(f"📊 Processing {len(self.collected_replies)} collected replies...")
+        
+        reply_count = 0
+        for reply in self.collected_replies:
+            parent_uri = reply['parent_uri']
+            if parent_uri and parent_uri in self.posts_dict:
+                self.posts_dict[parent_uri]['reply_count'] += 1
+                reply_count += 1
+        
+        print(f"✅ Reply processing complete: {reply_count} replies counted for collected posts")
     
     def save_posts(self, filename: str = None) -> str:
         """Save collected posts to JSON file"""

@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-16T21:48:14.746460+00:00",
-    "last_metrics_update": "2025-08-16T21:48:14.746460+00:00",
-    "collection_period_hours": 0.5,
+    "last_full_analysis": "2025-08-16T22:22:03.216698+00:00",
+    "last_metrics_update": "2025-08-16T22:22:03.216698+00:00",
+    "collection_period_hours": 6,
     "total_posts_analyzed": 0,
     "ratios_detected": 0,
-    "main_characters_count": 1,
+    "main_characters_count": 11,
     "analysis_settings": {
       "min_ratio_score": 0.5,
       "min_quotes_threshold": 5,
@@ -14,17 +14,540 @@
       "deep_dive_top_n": 10
     },
     "rolling_window": {
-      "last_update": "2025-08-16T21:48:14.746460+00:00",
-      "new_entries_added": 1,
-      "total_in_window": 1,
+      "last_update": "2025-08-16T22:22:03.216698+00:00",
+      "new_entries_added": 10,
+      "total_in_window": 11,
       "window_hours": 24,
-      "update_interval_hours": 0.5
+      "update_interval_hours": 6
     },
     "window_period_hours": 24
   },
   "main_characters": [
     {
       "rank": 1,
+      "user": {
+        "handle": "libbycwatson.com",
+        "display_name": "libby watson",
+        "initials": "LW",
+        "did": "did:plc:swdxpxe3snyoynvquru7mofe"
+      },
+      "ratio": "156:1",
+      "controversy": 6.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "what is the band that is most like the stuff you like that you nevertheless hate. or dislike. for me it’s Fleet Foxes. seems obvious i should like them but i DONT",
+        "uri": "at://did:plc:swdxpxe3snyoynvquru7mofe/app.bsky.feed.post/3lwjypo74sk2e",
+        "created_at": "2025-08-16T18:28:12.043Z"
+      },
+      "engagement": {
+        "likes": 185,
+        "replies": 84,
+        "reposts": 2,
+        "quotes": 312,
+        "formatted": {
+          "likes": "185",
+          "replies": "84",
+          "reposts": "2",
+          "quotes": "312"
+        }
+      },
+      "sample_replies": [
+        "once a year spotify will be like, you love fleet foxes right? you sufjan stevens-bon iver-okkervil...",
+        "A song you should love but hate could be called a doppelbanger.",
+        "the national live at a big open air concert with a huge crowd basically inverted everything i liked...",
+        "I feel like i should like Billy Joel but i wanna cut his fingers off"
+      ],
+      "metrics": {
+        "ratio_score": 156.0,
+        "confidence": 0.706,
+        "category": "Complete Ratio",
+        "post_age_minutes": 201.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.290895+00:00",
+      "last_updated": "2025-08-16T22:22:02.290895+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.290895+00:00"
+      ],
+      "peak_controversy": 6.9,
+      "trend": "new"
+    },
+    {
+      "rank": 2,
+      "user": {
+        "handle": "innuendowo",
+        "display_name": "‏",
+        "initials": "‏‏",
+        "did": "did:plc:5ygnzf2j4lnpftdlvanxqmf2"
+      },
+      "ratio": "31:1",
+      "controversy": 4.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "forget the usual \"whats ur fursona smell like\" engagement bait. give me the real shit. put them in a video game. whats their \"idle for 30+ seconds\" flavor animation",
+        "uri": "at://did:plc:5ygnzf2j4lnpftdlvanxqmf2/app.bsky.feed.post/3lwjymvaiz22q",
+        "created_at": "2025-08-16T18:26:38.764Z"
+      },
+      "engagement": {
+        "likes": 19,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 31,
+        "formatted": {
+          "likes": "19",
+          "replies": "3",
+          "reposts": "1",
+          "quotes": "31"
+        }
+      },
+      "sample_replies": [
+        "Definitely undoing his braids, flipping his hair sassily, and re-doing them.",
+        "Probably wrap their arms behind their head to stretch them, or just look around a little bit. Or...",
+        "I wonder what my fursona smells like"
+      ],
+      "metrics": {
+        "ratio_score": 31.0,
+        "confidence": 0.416,
+        "category": "Complete Ratio",
+        "post_age_minutes": 202.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.397854+00:00",
+      "last_updated": "2025-08-16T22:22:02.397854+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.397854+00:00"
+      ],
+      "peak_controversy": 4.0,
+      "trend": "new"
+    },
+    {
+      "rank": 3,
+      "user": {
+        "handle": "patricklovellpresentsthecleannewdeal.com",
+        "display_name": "Patrick Lovell The Producer  ",
+        "initials": "PL",
+        "did": "did:plc:owasym32475ohumf7bwkxn54"
+      },
+      "ratio": "17:1",
+      "controversy": 3.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#PatrickLovellTheProducer #71TrillionTruth #CrushCorruption #FuckFascism #TheCleanNewDeal #NIN #TrentReznor #DonTheConRicoPig\nwww.thecleannewdeal.org\nwww.thecon.tv\nyoutu.be/4vDkxOHLEx4?...",
+        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwju3gfqbk25",
+        "created_at": "2025-08-16T17:05:17.814Z"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 4,
+        "quotes": 69,
+        "formatted": {
+          "likes": "4",
+          "replies": "2",
+          "reposts": "4",
+          "quotes": "69"
+        }
+      },
+      "sample_replies": [
+        "youtu.be/b75Fz8CqAW4?..."
+      ],
+      "metrics": {
+        "ratio_score": 17.25,
+        "confidence": 0.457,
+        "category": "Complete Ratio",
+        "post_age_minutes": 284.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.618790+00:00",
+      "last_updated": "2025-08-16T22:22:02.618790+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.618790+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
+      "user": {
+        "handle": "whitless256",
+        "display_name": "Whit",
+        "initials": "WH",
+        "did": "did:plc:qzqqxxsbfamk2uhgh5n5tltk"
+      },
+      "ratio": "5:0",
+      "controversy": 3.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I had to see this, so now you do too.\n\nAlso, get out of her bed, you creep. #BB27",
+        "uri": "at://did:plc:qzqqxxsbfamk2uhgh5n5tltk/app.bsky.feed.post/3lwjx5uqasc2k",
+        "created_at": "2025-08-16T18:00:21.171Z"
+      },
+      "engagement": {
+        "likes": 32,
+        "replies": 19,
+        "reposts": 0,
+        "quotes": 5,
+        "formatted": {
+          "likes": "32",
+          "replies": "19",
+          "reposts": "0",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "That arch is diabolical",
+        "insert juile saying No no no no video here"
+      ],
+      "metrics": {
+        "ratio_score": 24,
+        "confidence": 0.372,
+        "category": "Complete Ratio",
+        "post_age_minutes": 229.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.518709+00:00",
+      "last_updated": "2025-08-16T22:22:02.518709+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.518709+00:00"
+      ],
+      "peak_controversy": 3.6,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
+      "user": {
+        "handle": "nauerbach.com",
+        "display_name": "Nicole Auerbach",
+        "initials": "NA",
+        "did": "did:plc:eamw76ihnc7fpdq2da3vm5wq"
+      },
+      "ratio": "10:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The Big Ten is, indeed, in the *very* early stages of discussing the idea of a 28-team College Football Playoff model, source confirms to NBC Sports (as ESPN reported). \n\nWould eliminate conference championship games & have most spots designated per league.",
+        "uri": "at://did:plc:eamw76ihnc7fpdq2da3vm5wq/app.bsky.feed.post/3lwjrdqzfgk2y",
+        "created_at": "2025-08-16T16:16:16.155Z"
+      },
+      "engagement": {
+        "likes": 57,
+        "replies": 22,
+        "reposts": 17,
+        "quotes": 176,
+        "formatted": {
+          "likes": "57",
+          "replies": "22",
+          "reposts": "17",
+          "quotes": "176"
+        }
+      },
+      "sample_replies": [
+        "Dan Patrick: With the first nine months of the College Football postseason out of the way, the...",
+        "As usual, the Big 10 is stupid. Nobody asked for this.",
+        "The idea was described to me as 7 spots for Big Ten, 7 spots for SEC, 5 for ACC, 5 for Big 12, 2..."
+      ],
+      "metrics": {
+        "ratio_score": 10.35,
+        "confidence": 0.547,
+        "category": "Complete Ratio",
+        "post_age_minutes": 333.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.720424+00:00",
+      "last_updated": "2025-08-16T22:22:02.720424+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.720424+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
+    },
+    {
+      "rank": 6,
+      "user": {
+        "handle": "applecores",
+        "display_name": "Applecores in the Applecar",
+        "initials": "AI",
+        "did": "did:plc:uhopaz5a3le52hgw4qo3tphd"
+      },
+      "ratio": "6:0",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What’s your dumbest superiority complex?\n\nMine is that I’m better than you because my house was built in the 1870s.",
+        "uri": "at://did:plc:uhopaz5a3le52hgw4qo3tphd/app.bsky.feed.post/3lwk3uhi7ac2f",
+        "created_at": "2025-08-16T19:24:33.998Z"
+      },
+      "engagement": {
+        "likes": 14,
+        "replies": 10,
+        "reposts": 0,
+        "quotes": 6,
+        "formatted": {
+          "likes": "14",
+          "replies": "10",
+          "reposts": "0",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "I have a superior knowledge of how the government actually works.",
+        "Mine is that I'm a better Christian than most Christians even though I'm agnostic.",
+        "I don't have a car",
+        "Mine is probably not having a yard."
+      ],
+      "metrics": {
+        "ratio_score": 16,
+        "confidence": 0.349,
+        "category": "Complete Ratio",
+        "post_age_minutes": 144.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.815881+00:00",
+      "last_updated": "2025-08-16T22:22:02.815881+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.815881+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "defector.com",
+        "display_name": "Defector",
+        "initials": "DE",
+        "did": "did:plc:n2kurkne2vwpccuqwz37ggdm"
+      },
+      "ratio": "15:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What's the worst song you love so much that you'd defend it with your life? defector.com/the-worst-so...",
+        "uri": "at://did:plc:n2kurkne2vwpccuqwz37ggdm/app.bsky.feed.post/3lwk4iwuu3x2l",
+        "created_at": "2025-08-16T19:36:00.825Z"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 15,
+        "formatted": {
+          "likes": "10",
+          "replies": "5",
+          "reposts": "1",
+          "quotes": "15"
+        }
+      },
+      "sample_replies": [
+        "Rock Me Amadeus is a good pull, it just came up in my playlist last night; I'll raise you 'Mexican...",
+        "Neil Diamond’s entire discography.",
+        "Totally. I'm a Believer, Cherry Cherry, Solitary Man. All bangers. Some cringe.",
+        "“Brandy”"
+      ],
+      "metrics": {
+        "ratio_score": 15.0,
+        "confidence": 0.359,
+        "category": "Complete Ratio",
+        "post_age_minutes": 133.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:03.016426+00:00",
+      "last_updated": "2025-08-16T22:22:03.016426+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:03.016426+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "frau-s-aus-a",
+        "display_name": "Frau_S",
+        "initials": "FR",
+        "did": "did:plc:nvoontkz4hmkd2n4xpzrlpib"
+      },
+      "ratio": "7:0",
+      "controversy": 2.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Wenn du einen 80er-Jahre-Titel aus der Geschichte tilgen könntest, welcher wäre das?\n\nIrgendwie, Irgendwo, Irgendwann",
+        "uri": "at://did:plc:nvoontkz4hmkd2n4xpzrlpib/app.bsky.feed.post/3lwk22ixxmc2f",
+        "created_at": "2025-08-16T18:52:09.405Z"
+      },
+      "engagement": {
+        "likes": 28,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 7,
+        "formatted": {
+          "likes": "28",
+          "replies": "6",
+          "reposts": "0",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Und Nena ist Nena, ich mag die Stimme einfach nicht.",
+        "Ich mag die ganze Frau nicht",
+        "Ich mittlerweile auch nicht mehr... 🤷",
+        "Klar, bissi Stehblues oder Gefummel im Nebel......"
+      ],
+      "metrics": {
+        "ratio_score": 13,
+        "confidence": 0.367,
+        "category": "Complete Ratio",
+        "post_age_minutes": 177.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:03.115026+00:00",
+      "last_updated": "2025-08-16T22:22:03.115026+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:03.115026+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
+      "user": {
+        "handle": "jnascim.info",
+        "display_name": "Jeff Nascimento",
+        "initials": "JN",
+        "did": "did:plc:gpunjjgvlyb4racypz3yfiq4"
+      },
+      "ratio": "8:1",
+      "controversy": 2.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Exames de Bolsonaro mostram imagem residual de infecções pulmonares, esofagite e gastrite, diz boletim médico jnascim.info/Er28wR",
+        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3lwk623sc5s2f",
+        "created_at": "2025-08-16T20:03:30.555Z"
+      },
+      "engagement": {
+        "likes": 55,
+        "replies": 30,
+        "reposts": 4,
+        "quotes": 31,
+        "formatted": {
+          "likes": "55",
+          "replies": "30",
+          "reposts": "4",
+          "quotes": "31"
+        }
+      },
+      "sample_replies": [
+        "Saramago lhes diz:",
+        "Só dar cloroquina pra ele dia sim, dia não .",
+        "E daí? Nao sou coveiro.",
+        "Junto com ivermectina. É tiro e queda."
+      ],
+      "metrics": {
+        "ratio_score": 7.75,
+        "confidence": 0.703,
+        "category": "Quote Dunk",
+        "post_age_minutes": 105.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:02.915551+00:00",
+      "last_updated": "2025-08-16T22:22:02.915551+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:02.915551+00:00"
+      ],
+      "peak_controversy": 2.2,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
+      "user": {
+        "handle": "huffpost.com",
+        "display_name": "HuffPost",
+        "initials": "HU",
+        "did": "did:plc:j4eroku3volozvv6ljsnnfec"
+      },
+      "ratio": "8:1",
+      "controversy": 1.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The \"Real Time\" host appeared to suggest that Democrats could win more elections if they came on his show — and named several notable figures.",
+        "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3lwk5gssrf32w",
+        "created_at": "2025-08-16T19:52:43.577Z"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 30,
+        "reposts": 2,
+        "quotes": 17,
+        "formatted": {
+          "likes": "7",
+          "replies": "30",
+          "reposts": "2",
+          "quotes": "17"
+        }
+      },
+      "sample_replies": [
+        "Maybe they just don't want to waste their time with a pro-Trump hack",
+        "He only wants them on his show because he continues to hemorrhage viewers.",
+        "New Rule: Nobody should give a rat's ass what Bill Maher says.",
+        "No one is afraid to go on his trash ass show.\nSince Real Time has basically turned into the Hannity..."
+      ],
+      "metrics": {
+        "ratio_score": 8.5,
+        "confidence": 0.497,
+        "category": "Quote Dunk",
+        "post_age_minutes": 116.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-16T22:22:03.216168+00:00",
+      "last_updated": "2025-08-16T22:22:03.216168+00:00",
+      "analysis_windows": [
+        "2025-08-16T22:22:03.216168+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
+      "rank": 11,
       "user": {
         "handle": "chadbourn",
         "display_name": "Mark Chadbourn",
