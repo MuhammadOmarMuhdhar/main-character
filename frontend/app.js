@@ -24,6 +24,15 @@ document.addEventListener('DOMContentLoaded', function() {
         // Refresh data every 2 minutes
         setInterval(loadMainCharacters, 120000);
     }
+    
+    // Load trending topics if trending topics container exists
+    const topicsContainer = document.getElementById('trending-topics-list');
+    if (topicsContainer) {
+        console.log('Found trending topics container, loading topics...');
+        loadTrendingTopics();
+    } else {
+        console.log('Trending topics container not found');
+    }
 });
 
 // Main Characters Data Loading
@@ -217,4 +226,68 @@ function updateTimestamps(metadata) {
             statsElement.textContent = `${metadata.total_posts_analyzed.toLocaleString()} posts analyzed`;
         }
     }
+}
+
+// Trending Topics Data Loading
+async function loadTrendingTopics() {
+    try {
+        console.log('Loading trending topics data...');
+        
+        // Fetch data from topics.json
+        const response = await fetch('./topics.json');
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        
+        const data = await response.json();
+        
+        // Update the UI with topics data
+        renderTrendingTopics(data.topics || []);
+        
+        // Sync heights after topics are loaded
+        if (window.syncHeights) {
+            setTimeout(window.syncHeights, 200);
+        }
+        
+        console.log(`Loaded ${data.topics?.length || 0} trending topics`);
+        
+    } catch (error) {
+        console.error('Failed to load trending topics data:', error);
+        
+        // If loading fails, show fallback message
+        const container = document.getElementById('trending-topics-list');
+        if (container) {
+            container.innerHTML = '<div class="text-sm text-gray-500 dark:text-neutral-400">Unable to load topics</div>';
+        }
+    }
+}
+
+function renderTrendingTopics(topics) {
+    const container = document.getElementById('trending-topics-list');
+    
+    if (!container) {
+        console.warn('Trending topics container not found');
+        return;
+    }
+    
+    // If no topics, show message
+    if (!topics || topics.length === 0) {
+        container.innerHTML = '<div class="text-sm text-gray-500 dark:text-neutral-400">No topics available</div>';
+        return;
+    }
+    
+    // Clear existing content
+    container.innerHTML = '';
+    
+    // Render each topic (without ratings)
+    topics.forEach(topic => {
+        const topicElement = document.createElement('div');
+        topicElement.className = 'flex justify-between items-center';
+        topicElement.innerHTML = `
+            <span class="text-sm text-gray-700 dark:text-neutral-300">${topic.label}</span>
+            <span class="text-xs text-gray-500 dark:text-neutral-500">${topic.post_count} posts</span>
+        `;
+        container.appendChild(topicElement);
+    });
 }

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Main Character - Preline UI</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="./node_modules/preline/dist/preline.css">
+    <link rel="stylesheet" href="./node_modules/preline/variants.css">
     <style>
       .grid-bg {
         background-image: 
@@ -477,27 +477,8 @@
             <h3 class="text-base font-bold text-gray-800 dark:text-white mb-3">
               Trending Topics
             </h3>
-            <div class="space-y-2 mb-4">
-              <div class="flex justify-between items-center">
-                <span class="text-sm text-gray-700 dark:text-neutral-300">AI Ethics</span>
-                <span class="text-xs text-red-600 dark:text-red-400 font-semibold">8.7/10</span>
-              </div>
-              <div class="flex justify-between items-center">
-                <span class="text-sm text-gray-700 dark:text-neutral-300">Crypto Regulation</span>
-                <span class="text-xs text-orange-600 dark:text-orange-400 font-semibold">6.2/10</span>
-              </div>
-              <div class="flex justify-between items-center">
-                <span class="text-sm text-gray-700 dark:text-neutral-300">Social Media Addiction</span>
-                <span class="text-xs text-orange-600 dark:text-orange-400 font-semibold">5.8/10</span>
-              </div>
-              <div class="flex justify-between items-center">
-                <span class="text-sm text-gray-700 dark:text-neutral-300">Remote Work Culture</span>
-                <span class="text-xs text-gray-600 dark:text-neutral-400 font-semibold">3.4/10</span>
-              </div>
-              <div class="flex justify-between items-center">
-                <span class="text-sm text-gray-700 dark:text-neutral-300">Climate Policy</span>
-                <span class="text-xs text-gray-600 dark:text-neutral-400 font-semibold">2.9/10</span>
-              </div>
+            <div class="space-y-2 mb-4" id="trending-topics-list">
+              <!-- Topics will be loaded dynamically from topics.json -->
             </div>
             <a class="inline-flex items-center gap-x-1 text-sm font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-600" href="#">
               View Dashboard
@@ -799,13 +780,19 @@ function syncHeights() {
   const rightContent = document.getElementById('right-content');
   
   if (leftSidebar && rightContent && window.innerWidth >= 1024) { // Only on desktop
-    const leftHeight = leftSidebar.offsetHeight;
-    rightContent.style.height = leftHeight + 'px';
+    // Wait a bit for any dynamic content to finish loading
+    setTimeout(() => {
+      const leftHeight = leftSidebar.offsetHeight;
+      rightContent.style.height = leftHeight + 'px';
+    }, 100);
   } else if (rightContent) {
     // Reset height on mobile
     rightContent.style.height = 'auto';
   }
 }
+
+// Make syncHeights globally available for dynamic content
+window.syncHeights = syncHeights;
 
 // Run on page load
 document.addEventListener('DOMContentLoaded', syncHeights);
@@ -815,6 +802,9 @@ window.addEventListener('resize', syncHeights);
 
 // Run after content loads (in case of dynamic content)
 window.addEventListener('load', syncHeights);
+
+// Run periodically to catch any missed dynamic content updates
+setInterval(syncHeights, 2000);
 </script>
 
 </body>
