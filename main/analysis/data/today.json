@@ -1,21 +1,22 @@
 {
-  "collection_date": "2025-08-16",
-  "collection_timestamp": "2025-08-16T22:22:01.588745+00:00",
+  "collection_date": "2025-08-17",
+  "collection_timestamp": "2025-08-17T15:02:35.678719+00:00",
   "pipeline_summary": {
-    "pipeline_timestamp": "2025-08-16T22:22:01.588753+00:00",
+    "pipeline_timestamp": "2025-08-17T15:02:35.678740+00:00",
     "collection_stats": {
-      "total_posts_collected": 525491,
-      "posts_with_engagement": 244332,
+      "total_posts_collected": 472499,
+      "posts_with_engagement": 204091,
       "collection_duration_seconds": 3600,
       "success": true
     },
     "analysis_stats": {
       "ratios_detected": 20,
-      "analysis_timestamp": "2025-08-16T22:21:56.759623+00:00",
-      "top_ratio_score": 156.0,
+      "analysis_timestamp": "2025-08-17T15:02:24.246167+00:00",
+      "top_ratio_score": 16,
       "categories_found": [
-        "Complete Ratio",
-        "Quote Dunk"
+        "Fresh Ratio",
+        "Quote Dunk",
+        "Complete Ratio"
       ]
     },
     "settings": {
@@ -28,108 +29,62 @@
   "top_ratios": [
     {
       "original_post": {
-        "uri": "at://did:plc:swdxpxe3snyoynvquru7mofe/app.bsky.feed.post/3lwjypo74sk2e",
-        "text": "what is the band that is most like the stuff you like that you nevertheless hate. or dislike. for me it\u2019s Fleet Foxes. seems obvious i should like them but i DONT",
-        "author_did": "did:plc:swdxpxe3snyoynvquru7mofe",
-        "created_at": "2025-08-16T18:28:12.043Z",
+        "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3lwm3dihkjk2u",
+        "text": "Looking for backup, I turned to an AI chatbot for relationship wisdom. It took my side. It was only when I challenged the bot's biases \u2014 and my own \u2014 that we had a communication breakthrough.",
+        "author_did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+        "created_at": "2025-08-17T14:20:24.037302Z",
         "engagement": {
-          "likes": 185,
-          "replies": 84,
-          "reposts": 2,
-          "quotes": 312
+          "likes": 37,
+          "replies": 38,
+          "reposts": 1,
+          "quotes": 12
         }
       },
       "ratio_metrics": {
-        "score": 156.0,
-        "confidence": 0.706,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 312 quotes vs 2 reposts in 3.4 hours",
-        "post_age_minutes": 201.3
+        "score": 12.0,
+        "confidence": 0.904,
+        "category": "Fresh Ratio",
+        "explanation": "Fresh controversy: 12 quotes vs 1 reposts in just 17 minutes",
+        "post_age_minutes": 17.7
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:swdxpxe3snyoynvquru7mofe/app.bsky.feed.post/3lwjyulb4tk2e",
+          "uri": "at://did:plc:plyuhhsw5a3ukmeqo2dkjxb2/app.bsky.feed.post/3lwm3fwvbck2c",
           "author": {
-            "did": "did:plc:swdxpxe3snyoynvquru7mofe",
-            "handle": "libbycwatson.com",
-            "display_name": "libby watson"
+            "did": "did:plc:plyuhhsw5a3ukmeqo2dkjxb2",
+            "handle": "mlamb.bsky.social",
+            "display_name": "Michele Lamb"
           },
-          "text": "once a year spotify will be like, you love fleet foxes right? you sufjan stevens-bon iver-okkervil river lovin bitch? and i have to say nope still no sorry",
-          "created_at": "2025-08-16T18:30:56.734Z",
+          "text": "Oligarch Techbro propaganda tripe.",
+          "created_at": "2025-08-17T14:21:46.315Z",
           "engagement": {
-            "likes": 105,
-            "replies": 9,
-            "reposts": 3,
-            "total": 117
-          },
-          "sentiment": {
-            "polarity": 0.345,
-            "subjectivity": 0.712,
-            "anger": 0.125,
-            "disgust": 0.125,
-            "total_negative_emotion": 0.25
-          }
-        },
-        {
-          "uri": "at://did:plc:ogvqhoood3hggtdoylbm5cb3/app.bsky.feed.post/3lwjyqljf7s24",
-          "author": {
-            "did": "did:plc:ogvqhoood3hggtdoylbm5cb3",
-            "handle": "orleancooper.bsky.social",
-            "display_name": "Orlean Cooper"
-          },
-          "text": "A song you should love but hate could be called a doppelbanger.",
-          "created_at": "2025-08-16T18:28:42.787Z",
-          "engagement": {
-            "likes": 43,
+            "likes": 36,
             "replies": 1,
-            "reposts": 2,
-            "total": 46
-          },
-          "sentiment": {
-            "polarity": -0.15,
-            "subjectivity": 0.75,
-            "anger": 0.143,
-            "disgust": 0.143,
-            "total_negative_emotion": 0.286
-          }
-        },
-        {
-          "uri": "at://did:plc:smjq3vewiokoafh5k5vdjriv/app.bsky.feed.post/3lwjzlc3jfc2q",
-          "author": {
-            "did": "did:plc:smjq3vewiokoafh5k5vdjriv",
-            "handle": "crushbort.bsky.social",
-            "display_name": "bort"
-          },
-          "text": "the national live at a big open air concert with a huge crowd basically inverted everything i liked about the national",
-          "created_at": "2025-08-16T18:43:38.865Z",
-          "engagement": {
-            "likes": 27,
-            "replies": 4,
             "reposts": 0,
-            "total": 31
+            "total": 37
           },
           "sentiment": {
-            "polarity": 0.227,
-            "subjectivity": 0.56,
+            "polarity": -0.1,
+            "subjectivity": 0.1,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
           }
         },
         {
-          "uri": "at://did:plc:kmuhrjaftva24ktwof6xnzyp/app.bsky.feed.post/3lwk2t6fets2n",
+          "uri": "at://did:plc:xojfrexhdncmlmjdxlzbhnqy/app.bsky.feed.post/3lwm3jgspqs22",
           "author": {
-            "did": "did:plc:kmuhrjaftva24ktwof6xnzyp",
-            "handle": "slowpuke.bsky.social",
-            "display_name": "puke (was almost in Priscilla)"
+            "did": "did:plc:xojfrexhdncmlmjdxlzbhnqy",
+            "handle": "thewillestfox.bsky.social",
+            "display_name": "The WillestFox"
           },
-          "text": "I feel like i should like Billy Joel but i wanna cut his fingers off",
-          "created_at": "2025-08-16T19:05:57.171Z",
+          "text": "Please stop doing these",
+          "created_at": "2025-08-17T14:23:43.672Z",
           "engagement": {
-            "likes": 20,
-            "replies": 1,
+            "likes": 34,
+            "replies": 0,
             "reposts": 0,
-            "total": 21
+            "total": 34
           },
           "sentiment": {
             "polarity": 0.0,
@@ -140,19 +95,216 @@
           }
         },
         {
-          "uri": "at://did:plc:bhnsqxtpscmm6n5jefbnzscc/app.bsky.feed.post/3lwjz2jnqpc23",
+          "uri": "at://did:plc:5p5jxtpo2lvrhwhzg7lhdgqg/app.bsky.feed.post/3lwm3pltrhs2f",
           "author": {
-            "did": "did:plc:bhnsqxtpscmm6n5jefbnzscc",
-            "handle": "bikemogacz.bsky.social",
-            "display_name": "Mike Bogacz"
+            "did": "did:plc:5p5jxtpo2lvrhwhzg7lhdgqg",
+            "handle": "thermochronic.bsky.social",
+            "display_name": "Jim Metcalf"
           },
-          "text": "I feel like Deafheaven is a prank being specifically played on me",
-          "created_at": "2025-08-16T18:34:16.378Z",
+          "text": "\u201cInstead of donating to my local NPR station I asked ChatGPT to make me stories and sound like NPR\u201d",
+          "created_at": "2025-08-17T14:27:10.276Z",
           "engagement": {
-            "likes": 17,
-            "replies": 2,
-            "reposts": 1,
+            "likes": 25,
+            "replies": 0,
+            "reposts": 2,
+            "total": 27
+          },
+          "sentiment": {
+            "polarity": 0.2,
+            "subjectivity": 0.2,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:5p5jxtpo2lvrhwhzg7lhdgqg/app.bsky.feed.post/3lwm3jcmitc2f",
+          "author": {
+            "did": "did:plc:5p5jxtpo2lvrhwhzg7lhdgqg",
+            "handle": "thermochronic.bsky.social",
+            "display_name": "Jim Metcalf"
+          },
+          "text": "Was it worth the energy and water? Was it worth supporting a plagiarism fueled garbage machine?",
+          "created_at": "2025-08-17T14:23:39.274Z",
+          "engagement": {
+            "likes": 23,
+            "replies": 0,
+            "reposts": 0,
+            "total": 23
+          },
+          "sentiment": {
+            "polarity": 0.283,
+            "subjectivity": 0.15,
+            "anger": 0.0,
+            "disgust": 0.222,
+            "total_negative_emotion": 0.222
+          }
+        },
+        {
+          "uri": "at://did:plc:6l7nryppz5itahjpxqwfvr2f/app.bsky.feed.post/3lwm3hk2rp22d",
+          "author": {
+            "did": "did:plc:6l7nryppz5itahjpxqwfvr2f",
+            "handle": "ramblon.bsky.social",
+            "display_name": "Dan Dan Noodles"
+          },
+          "text": "Shorter: AI is crap",
+          "created_at": "2025-08-17T14:22:39.972Z",
+          "engagement": {
+            "likes": 20,
+            "replies": 0,
+            "reposts": 0,
             "total": 20
+          },
+          "sentiment": {
+            "polarity": -0.8,
+            "subjectivity": 0.8,
+            "anger": 0.0,
+            "disgust": 0.5,
+            "total_negative_emotion": 0.5
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 48,
+        "avg_polarity": -0.063,
+        "avg_anger": 0.037,
+        "avg_disgust": 0.04,
+        "high_emotion_counts": {
+          "high_anger_posts": 1,
+          "high_disgust_posts": 2
+        }
+      },
+      "collection_success": true,
+      "responses_found": 48
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:sv2ivxvf7fxchmo2xamo3wwx/app.bsky.feed.post/3lwm3vix7xc2u",
+        "text": "Ayuso acusa al Gobierno central de par\u00e1lisis frente a los incendios para \u201cbuscar culpables\u201d",
+        "author_did": "did:plc:sv2ivxvf7fxchmo2xamo3wwx",
+        "created_at": "2025-08-17T14:30:28.569Z",
+        "engagement": {
+          "likes": 7,
+          "replies": 10,
+          "reposts": 0,
+          "quotes": 5
+        }
+      },
+      "ratio_metrics": {
+        "score": 15,
+        "confidence": 0.53,
+        "category": "Fresh Ratio",
+        "explanation": "Fresh controversy: 5 quotes vs 0 reposts in just 7 minutes",
+        "post_age_minutes": 7.6
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:yu2lsb64fydtcayg3nl4kbda/app.bsky.feed.post/3lwm42dzkus2s",
+          "author": {
+            "did": "did:plc:yu2lsb64fydtcayg3nl4kbda",
+            "handle": "imperiodelasandez.bsky.social",
+            "display_name": "El Imperio de la sandez"
+          },
+          "text": "7291",
+          "created_at": "2025-08-17T14:33:11.169Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 0,
+            "reposts": 2,
+            "total": 10
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:jqaa23ho3lhoawc573yqcrhh/app.bsky.feed.post/3lwm46ziz6s26",
+          "author": {
+            "did": "did:plc:jqaa23ho3lhoawc573yqcrhh",
+            "handle": "unmalpaso.bsky.social",
+            "display_name": "Josey Wales"
+          },
+          "text": "\u00bfYa est\u00e1is otra vez haciendo de simple altavoz de los fascistas?",
+          "created_at": "2025-08-17T14:35:47.920Z",
+          "engagement": {
+            "likes": 10,
+            "replies": 0,
+            "reposts": 0,
+            "total": 10
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.357,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:yu2lsb64fydtcayg3nl4kbda/app.bsky.feed.post/3lwm4iyvxis2o",
+          "author": {
+            "did": "did:plc:yu2lsb64fydtcayg3nl4kbda",
+            "handle": "imperiodelasandez.bsky.social",
+            "display_name": "El Imperio de la sandez"
+          },
+          "text": "",
+          "created_at": "2025-08-17T14:41:22.833Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 0,
+            "reposts": 2,
+            "total": 9
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:xcud5jslrqypwb4e73iaidin/app.bsky.feed.post/3lwm4crmzy22y",
+          "author": {
+            "did": "did:plc:xcud5jslrqypwb4e73iaidin",
+            "handle": "garper56.bsky.social",
+            "display_name": ""
+          },
+          "text": "La que ha estado ausente en el incendio de Madrid con un muerto, la que tiene mal pagados a los bomberos, no s\u00e9 qu\u00e9 autoridad tiene para decir esto.\nPero cuenta con sus medios que tienen como misi\u00f3n dar voz a todo lo que diga.",
+          "created_at": "2025-08-17T14:37:53.878Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 0,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:4uxlbkajjdzzpris2lj7ma6l/app.bsky.feed.post/3lwm5aqoy422m",
+          "author": {
+            "did": "did:plc:4uxlbkajjdzzpris2lj7ma6l",
+            "handle": "cascarondenuez.bsky.social",
+            "display_name": "Barrio Viejo"
+          },
+          "text": "Par\u00e1lisis es esto:\nLo que pide la p\u00e1jara \u00e9sta, es que despu\u00e9s de no haber hecho nada en prevenci\u00f3n contra incendios y liarla parda en toda Espa\u00f1a por su incompetencia, y sus pactos con v0x y el negacionismo del cambio clim\u00e1tico, el Gobierno les saque las casta\u00f1as del fuego.",
+          "created_at": "2025-08-17T14:54:39.512Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 0,
+            "reposts": 1,
+            "total": 3
           },
           "sentiment": {
             "polarity": 0.0,
@@ -165,48 +317,396 @@
       ],
       "top_5_quotes": [],
       "overall_sentiment": {
-        "analyzed_total_responses": 168,
-        "avg_polarity": 0.103,
-        "avg_anger": 0.036,
-        "avg_disgust": 0.026,
+        "analyzed_total_responses": 27,
+        "avg_polarity": 0.004,
+        "avg_anger": 0.02,
+        "avg_disgust": 0.007,
+        "high_emotion_counts": {
+          "high_anger_posts": 1,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 27
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lwlyga3nrc2t",
+        "text": "Eberechi Eze thought he had given #CPFC the lead \u2014 but his free-kick was chalked off following a VAR check.\n\nThe reason VAR disallowed the goal: Marc Guehi was within a metre of the Chelsea wall as the free-kick was taken.\n\n#CHECRY",
+        "author_did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
+        "created_at": "2025-08-17T13:28:14.487Z",
+        "engagement": {
+          "likes": 20,
+          "replies": 15,
+          "reposts": 1,
+          "quotes": 10
+        }
+      },
+      "ratio_metrics": {
+        "score": 10.0,
+        "confidence": 0.535,
+        "category": "Complete Ratio",
+        "explanation": "Completely ratio'd: 10 quotes vs 1 reposts in 1.2 hours",
+        "post_age_minutes": 69.9
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:3bjerclly6auxww6lgxkath2/app.bsky.feed.post/3lwlymld5yk27",
+          "author": {
+            "did": "did:plc:3bjerclly6auxww6lgxkath2",
+            "handle": "richtoffee.bsky.social",
+            "display_name": "Rich Toffee \ud83d\udd35"
+          },
+          "text": "Looking forward to all free kick goals being disallowed in the same scenario \ud83d\ude43",
+          "created_at": "2025-08-17T13:31:47.843Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 0,
+            "reposts": 0,
+            "total": 7
+          },
+          "sentiment": {
+            "polarity": 0.2,
+            "subjectivity": 0.463,
+            "anger": 0.25,
+            "disgust": 0.125,
+            "total_negative_emotion": 0.375
+          }
+        },
+        {
+          "uri": "at://did:plc:7isdxptmu2n76k7tpa22taek/app.bsky.feed.post/3lwm2mt37tk2o",
+          "author": {
+            "did": "did:plc:7isdxptmu2n76k7tpa22taek",
+            "handle": "rosshodgson.bsky.social",
+            "display_name": ""
+          },
+          "text": "I've just watched a video with the FK goals from last season in the PL, pretty much all of them should have been disallowed if that was the rule then. Not saying it wasnt, but its odd this was disallowed given last season.",
+          "created_at": "2025-08-17T14:07:43.451Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 1,
+            "reposts": 0,
+            "total": 5
+          },
+          "sentiment": {
+            "polarity": 0.057,
+            "subjectivity": 0.317,
+            "anger": 0.125,
+            "disgust": 0.125,
+            "total_negative_emotion": 0.25
+          }
+        },
+        {
+          "uri": "at://did:plc:tjftie3ksg5d6wspd4va753c/app.bsky.feed.post/3lwlys6a2bs27",
+          "author": {
+            "did": "did:plc:tjftie3ksg5d6wspd4va753c",
+            "handle": "saintracing.bsky.social",
+            "display_name": "Side7"
+          },
+          "text": "What? Attackers can't be within a meter of the wall? Since when? Half the time they stand in the wall or next to it? New rule?",
+          "created_at": "2025-08-17T13:34:55.436Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 1,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": -0.01,
+            "subjectivity": 0.207,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:dod3avwa2zp774hp5cthy63n/app.bsky.feed.post/3lwlypsuv2k2l",
+          "author": {
+            "did": "did:plc:dod3avwa2zp774hp5cthy63n",
+            "handle": "gizzi-m.bsky.social",
+            "display_name": "\ud835\udd73 \ud835\udd94 \ud835\udd99 \ud835\udd8d \ud835\udd8e \ud83c\udf83"
+          },
+          "text": "Yeah terrible that they correctly disallowed a goal by applying the laws of the game\n\nI'm sure you'd be fuming if the goal stood v Bournemouth",
+          "created_at": "2025-08-17T13:33:36.427Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 0,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": -0.3,
+            "subjectivity": 0.763,
+            "anger": 0.25,
+            "disgust": 0.167,
+            "total_negative_emotion": 0.417
+          }
+        },
+        {
+          "uri": "at://did:plc:cycsm3ml2x4x674zy35ailja/app.bsky.feed.post/3lwlyrqvmrk2z",
+          "author": {
+            "did": "did:plc:cycsm3ml2x4x674zy35ailja",
+            "handle": "james-brooksy.bsky.social",
+            "display_name": "James Brooks"
+          },
+          "text": "Why are concessions being given to the  offending team? \n\nThe team that was fouled should have the advantage - and can put players in the wall if they want. \n\nDumb. As. Fuck. \n\n#pgmol #useless",
+          "created_at": "2025-08-17T13:34:41.462Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 1,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": -0.425,
+            "subjectivity": 0.433,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 31,
+        "avg_polarity": -0.001,
+        "avg_anger": 0.097,
+        "avg_disgust": 0.042,
+        "high_emotion_counts": {
+          "high_anger_posts": 1,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 31
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:suw36afklreb5mkd4r43xd6j/app.bsky.feed.post/3lwlvstqc6k2t",
+        "text": "If you see this, QTP with 10 games to get to know you by:\n\nBaldur's Gate 3\nSekiro Shadows Die Twice\nThe Witcher 3\nAlan Wake 2\nThe Last of Us 2\nElden Ring\nDoom (1993)\nDisco Elysium\nDark Souls",
+        "author_did": "did:plc:suw36afklreb5mkd4r43xd6j",
+        "created_at": "2025-08-17T12:41:36.762Z",
+        "engagement": {
+          "likes": 17,
+          "replies": 5,
+          "reposts": 0,
+          "quotes": 8
+        }
+      },
+      "ratio_metrics": {
+        "score": 13,
+        "confidence": 0.401,
+        "category": "Complete Ratio",
+        "explanation": "Pure controversy: 8 quotes + 5 replies, no reposts in 1.9 hours",
+        "post_age_minutes": 116.5
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:t6yct37g7himpkl6ocqx4vbi/app.bsky.feed.post/3lwlvxicb522b",
+          "author": {
+            "did": "did:plc:t6yct37g7himpkl6ocqx4vbi",
+            "handle": "resilover.bsky.social",
+            "display_name": "Laila"
+          },
+          "text": "There's no Resident Evil \ud83d\ude14",
+          "created_at": "2025-08-17T12:44:12.541Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 1,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": -1.0,
+            "subjectivity": 1.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:suw36afklreb5mkd4r43xd6j/app.bsky.feed.post/3lwm26hftnc2t",
+          "author": {
+            "did": "did:plc:suw36afklreb5mkd4r43xd6j",
+            "handle": "sammmystern.bsky.social",
+            "display_name": "Sammmy"
+          },
+          "text": "Oh shit I forgot to add a 10th\n\nResident Evil (2002)\n\n@resilover.bsky.social",
+          "created_at": "2025-08-17T13:59:41.456Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 1,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": -0.6,
+            "subjectivity": 0.9,
+            "anger": 0.333,
+            "disgust": 0.333,
+            "total_negative_emotion": 0.667
+          }
+        },
+        {
+          "uri": "at://did:plc:x5dhfa5mr5c5c7hz7qmtznaa/app.bsky.feed.post/3lwlzk3kcr22a",
+          "author": {
+            "did": "did:plc:x5dhfa5mr5c5c7hz7qmtznaa",
+            "handle": "southerntrendbc.bsky.social",
+            "display_name": "cam"
+          },
+          "text": "You might be a defender of summer but at least I can say you have good taste in video games",
+          "created_at": "2025-08-17T13:48:17.932Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 1,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.2,
+            "subjectivity": 0.5,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:suw36afklreb5mkd4r43xd6j/app.bsky.feed.post/3lwlvzntk4k2t",
+          "author": {
+            "did": "did:plc:suw36afklreb5mkd4r43xd6j",
+            "handle": "sammmystern.bsky.social",
+            "display_name": "Sammmy"
+          },
+          "text": "It was in contention with Dark Souls but my recency bias took control \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+          "created_at": "2025-08-17T12:45:25.458Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 1,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": -0.15,
+            "subjectivity": 0.4,
+            "anger": 0.5,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.5
+          }
+        },
+        {
+          "uri": "at://did:plc:jyezwz4g766d64ye3cp4573e/app.bsky.feed.post/3lwm23fm3cc2n",
+          "author": {
+            "did": "did:plc:jyezwz4g766d64ye3cp4573e",
+            "handle": "videopolis.bsky.social",
+            "display_name": "Videopolis"
+          },
+          "text": "Only 9 dude. What\u2019s 10?",
+          "created_at": "2025-08-17T13:57:58.901Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 1,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 1.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 13,
+        "avg_polarity": -0.116,
+        "avg_anger": 0.09,
+        "avg_disgust": 0.051,
         "high_emotion_counts": {
           "high_anger_posts": 3,
           "high_disgust_posts": 2
         }
       },
       "collection_success": true,
-      "responses_found": 168
+      "responses_found": 13
     },
     {
       "original_post": {
-        "uri": "at://did:plc:5ygnzf2j4lnpftdlvanxqmf2/app.bsky.feed.post/3lwjymvaiz22q",
-        "text": "forget the usual \"whats ur fursona smell like\" engagement bait. give me the real shit. put them in a video game. whats their \"idle for 30+ seconds\" flavor animation",
-        "author_did": "did:plc:5ygnzf2j4lnpftdlvanxqmf2",
-        "created_at": "2025-08-16T18:26:38.764Z",
+        "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3lwlx3xjes22t",
+        "text": "Painel: Zanatta avalia que saiu maior ap\u00f3s levar beb\u00ea a motim ",
+        "author_did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+        "created_at": "2025-08-17T10:04:36-03:00",
         "engagement": {
-          "likes": 19,
-          "replies": 3,
-          "reposts": 1,
-          "quotes": 31
+          "likes": 3,
+          "replies": 9,
+          "reposts": 0,
+          "quotes": 5
         }
       },
       "ratio_metrics": {
-        "score": 31.0,
-        "confidence": 0.416,
+        "score": 14,
+        "confidence": 0.319,
         "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 31 quotes vs 1 reposts in 3.4 hours",
-        "post_age_minutes": 202.9
+        "explanation": "Pure controversy: 5 quotes + 9 replies, no reposts in 1.6 hours",
+        "post_age_minutes": 93.5
       },
       "top_5_replies": [
         {
-          "uri": "at://did:plc:4axfbgfwqxtcp4okns5dgn55/app.bsky.feed.post/3lwk5ogfsls2f",
+          "uri": "at://did:plc:qb2dfdklgd7pb22cp7vzy3x7/app.bsky.feed.post/3lwlxx5blds27",
           "author": {
-            "did": "did:plc:4axfbgfwqxtcp4okns5dgn55",
-            "handle": "moondogtk.bsky.social",
-            "display_name": "Moondog"
+            "did": "did:plc:qb2dfdklgd7pb22cp7vzy3x7",
+            "handle": "knotsinhishair.bsky.social",
+            "display_name": "Falsetes de Malafaia"
           },
-          "text": "Definitely undoing his braids, flipping his hair sassily, and re-doing them.",
-          "created_at": "2025-08-16T19:56:59.027Z",
+          "text": "imagina vc passar 4 anos na faculdade de jornalismo e quando termina sua fun\u00e7\u00e3o \u00e9 publicar autoavalia\u00e7\u00e3o de deputada de um estado que at\u00e9 esses dias ningu\u00e9m nem lembrava que existia.\n\njornalismo \u00e9 uma profiss\u00e3o que nunca estar\u00e1 sucatizada o suficiente.",
+          "created_at": "2025-08-17T13:19:48.468Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 0,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:35qnw32dc5vvwvyyjalsvoz3/app.bsky.feed.post/3lwlxhxg3ss2l",
+          "author": {
+            "did": "did:plc:35qnw32dc5vvwvyyjalsvoz3",
+            "handle": "jotatx.bsky.social",
+            "display_name": "Json Momoa"
+          },
+          "text": "saiu maior:\n- babaca\n- irrespons\u00e1vel\n- imbecil\n\na lista \u00e9 longa",
+          "created_at": "2025-08-17T13:11:19.008Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 0,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:zjwojc4uhkvdvw3v6pnqnspt/app.bsky.feed.post/3lwlxyafqy22o",
+          "author": {
+            "did": "did:plc:zjwojc4uhkvdvw3v6pnqnspt",
+            "handle": "antiidiota.bsky.social",
+            "display_name": "Jo\u00e3o Neto "
+          },
+          "text": "A maior FDP.",
+          "created_at": "2025-08-17T13:20:25.305Z",
           "engagement": {
             "likes": 1,
             "replies": 0,
@@ -215,6 +715,633 @@
           },
           "sentiment": {
             "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:s3wvuj2pwtmfeajdytbiv62t/app.bsky.feed.post/3lwlxnowsl225",
+          "author": {
+            "did": "did:plc:s3wvuj2pwtmfeajdytbiv62t",
+            "handle": "hectorplasma.bsky.social",
+            "display_name": "Hector Plasma"
+          },
+          "text": "Maior idiota",
+          "created_at": "2025-08-17T13:14:31.445Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 0,
+            "reposts": 0,
+            "total": 1
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:7j7j3vj4oji67eztnjhw2n72/app.bsky.feed.post/3lwlxjtzzws2s",
+          "author": {
+            "did": "did:plc:7j7j3vj4oji67eztnjhw2n72",
+            "handle": "brity2024.bsky.social",
+            "display_name": "Lucy\ud83c\udf0e"
+          },
+          "text": "Maior no que?",
+          "created_at": "2025-08-17T13:12:22.575Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 0,
+            "reposts": 0,
+            "total": 1
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 8,
+        "avg_polarity": -0.031,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.0,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 8
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:pl76rz7lfiz4mbp6wcwatzos/app.bsky.feed.post/3lwlpcsivcc2m",
+        "text": "Maximilian #W\u00f6ber f\u00e4llt vorerst aus. \ud83d\ude10\n\nDer 27-J\u00e4hrige zog sich eine muskul\u00e4re Verletzung im rechten Oberschenkel zu. Alle Infos \ud83d\udc49 svw.de/UpdateW%C3%B...\n\n#Werder",
+        "author_did": "did:plc:pl76rz7lfiz4mbp6wcwatzos",
+        "created_at": "2025-08-17T10:45:16.147Z",
+        "engagement": {
+          "likes": 23,
+          "replies": 9,
+          "reposts": 0,
+          "quotes": 5
+        }
+      },
+      "ratio_metrics": {
+        "score": 14,
+        "confidence": 0.318,
+        "category": "Complete Ratio",
+        "explanation": "Pure controversy: 5 quotes + 9 replies, no reposts in 3.9 hours",
+        "post_age_minutes": 232.8
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:qimshd4juu62wirhehwvfyss/app.bsky.feed.post/3lwlq3ekzw22x",
+          "author": {
+            "did": "did:plc:qimshd4juu62wirhehwvfyss",
+            "handle": "bjan84.bsky.social",
+            "display_name": "Bj\u00f6rn (cooper)"
+          },
+          "text": "",
+          "created_at": "2025-08-17T10:59:00.397Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 1,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:gb6szba7vmju5zvtjxyluaqn/app.bsky.feed.post/3lwlpgikacc2p",
+          "author": {
+            "did": "did:plc:gb6szba7vmju5zvtjxyluaqn",
+            "handle": "flymcmarty.bsky.social",
+            "display_name": "Marty McFly"
+          },
+          "text": "3 Monate Raus",
+          "created_at": "2025-08-17T10:47:19.926Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 1,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:dtcj2avyrblfpqmzjbmnsrdb/app.bsky.feed.post/3lwlrpextmk24",
+          "author": {
+            "did": "did:plc:dtcj2avyrblfpqmzjbmnsrdb",
+            "handle": "gsflairarcorde1.bsky.social",
+            "display_name": "PierreHB84"
+          },
+          "text": "Auf jeden Fall immer ein schlechtes Zeichen, wenn Werder gar keine Ausfallzeit angibt.",
+          "created_at": "2025-08-17T11:28:05.651Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 0,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:3bqt73iydtr24x63ef2l7bow/app.bsky.feed.post/3lwlr5xlrpk2c",
+          "author": {
+            "did": "did:plc:3bqt73iydtr24x63ef2l7bow",
+            "handle": "mosherqueen313.bsky.social",
+            "display_name": "Simone #Tassenerhalt"
+          },
+          "text": "Genau das kam mir grad in den Sinn. \ud83e\udee3",
+          "created_at": "2025-08-17T11:18:21.199Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 0,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:nmcoane4w4mmmodgkwix4iw3/app.bsky.feed.post/3lwlpplwdfc2w",
+          "author": {
+            "did": "did:plc:nmcoane4w4mmmodgkwix4iw3",
+            "handle": "vegesackbomber.bsky.social",
+            "display_name": "Vegesack Bomber"
+          },
+          "text": "Es wird immer wilder, aber gut dass unsere verantwortlichen schnell handeln werden - oh wait \ud83d\udc80",
+          "created_at": "2025-08-17T10:52:25.458Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 0,
+            "reposts": 0,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.333,
+            "total_negative_emotion": 0.333
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 13,
+        "avg_polarity": 0.077,
+        "avg_anger": 0.0,
+        "avg_disgust": 0.026,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 1
+        }
+      },
+      "collection_success": true,
+      "responses_found": 13
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:cysof2oejv556kfernq2iyrd/app.bsky.feed.post/3lwlwgcfqgs2p",
+        "text": "can we talk about forgiveness for a second? do we think folks make room for forgiveness these days? \n\nwith cancel culture, and all the rest of that shit i feel like we\u2019ve completely ignored the art and act of forgiving.",
+        "author_did": "did:plc:cysof2oejv556kfernq2iyrd",
+        "created_at": "2025-08-17T12:52:29.680Z",
+        "engagement": {
+          "likes": 3,
+          "replies": 2,
+          "reposts": 0,
+          "quotes": 10
+        }
+      },
+      "ratio_metrics": {
+        "score": 12,
+        "confidence": 0.356,
+        "category": "Complete Ratio",
+        "explanation": "Pure controversy: 10 quotes + 2 replies, no reposts in 1.8 hours",
+        "post_age_minutes": 105.6
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:saiganjog7vslstdffzowy4w/app.bsky.feed.post/3lwlyemqdqs2n",
+          "author": {
+            "did": "did:plc:saiganjog7vslstdffzowy4w",
+            "handle": "crazyeddie404.bsky.social",
+            "display_name": "Crazy3ddie"
+          },
+          "text": "Forgiveness as a concept comes from the forgiveness of debts. \n\nNormally, if someone wrongs you, you expect then to make restitution for it in a real way. I wreck your car, I pay for repairs. Revenge is what happens when restitution is not given or offered and you try to get it on your own terms...",
+          "created_at": "2025-08-17T13:27:20.887Z",
+          "engagement": {
+            "likes": 1,
+            "replies": 1,
+            "reposts": 1,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.317,
+            "subjectivity": 0.65,
+            "anger": 0.15,
+            "disgust": 0.05,
+            "total_negative_emotion": 0.2
+          }
+        },
+        {
+          "uri": "at://did:plc:cysof2oejv556kfernq2iyrd/app.bsky.feed.post/3lwlwkyysfk2p",
+          "author": {
+            "did": "did:plc:cysof2oejv556kfernq2iyrd",
+            "handle": "tpkthunder.bsky.social",
+            "display_name": "dr. lowercase dd"
+          },
+          "text": "now, i know there is someone out there that\u2019s like i forgive but i don\u2019t forget. \n\nyeah girl, we know. but i am talking about the art of letting go.",
+          "created_at": "2025-08-17T12:55:07.591Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 0,
+            "reposts": 0,
+            "total": 3
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:saiganjog7vslstdffzowy4w/app.bsky.feed.post/3lwlyf4v2vs2n",
+          "author": {
+            "did": "did:plc:saiganjog7vslstdffzowy4w",
+            "handle": "crazyeddie404.bsky.social",
+            "display_name": "Crazy3ddie"
+          },
+          "text": "Forgiveness is the opposite of revenge. It's when you take the debts you are owed for harms done and decide you don't need to collect on them anyway. Forgiveness can come for many reasons. Compassion, or mercy, or indifference, or simply a lack of interest in collecting.",
+          "created_at": "2025-08-17T13:27:37.820Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 1,
+            "reposts": 1,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.167,
+            "subjectivity": 0.286,
+            "anger": 0.154,
+            "disgust": 0.077,
+            "total_negative_emotion": 0.231
+          }
+        },
+        {
+          "uri": "at://did:plc:saiganjog7vslstdffzowy4w/app.bsky.feed.post/3lwlyfipfe22n",
+          "author": {
+            "did": "did:plc:saiganjog7vslstdffzowy4w",
+            "handle": "crazyeddie404.bsky.social",
+            "display_name": "Crazy3ddie"
+          },
+          "text": "I think forgiveness is harder these days because people have started believing in, to an almost unhealthy degree, intangible harms that can't be said quantified or restored materially. If you can't put an actual price on the harm that was done, then you can never be satisfied by any solution.",
+          "created_at": "2025-08-17T13:27:50.217Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 1,
+            "reposts": 1,
+            "total": 2
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.45,
+            "anger": 0.0,
+            "disgust": 0.077,
+            "total_negative_emotion": 0.077
+          }
+        },
+        {
+          "uri": "at://did:plc:saiganjog7vslstdffzowy4w/app.bsky.feed.post/3lwlyfpisf22n",
+          "author": {
+            "did": "did:plc:saiganjog7vslstdffzowy4w",
+            "handle": "crazyeddie404.bsky.social",
+            "display_name": "Crazy3ddie"
+          },
+          "text": "Forgiveness becomes possible if you can actually sit down and decide what a person would have to actually DO in order to settle accounts, and then make up your mind whether or not convincing them to do that is worth your time.",
+          "created_at": "2025-08-17T13:27:57.340Z",
+          "engagement": {
+            "likes": 0,
+            "replies": 0,
+            "reposts": 1,
+            "total": 1
+          },
+          "sentiment": {
+            "polarity": -0.018,
+            "subjectivity": 0.431,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 5,
+        "avg_polarity": 0.093,
+        "avg_anger": 0.061,
+        "avg_disgust": 0.041,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 5
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lwly55njlc22",
+        "text": "Without saying The Silence of the Lambs, fav Jodie Foster Film?",
+        "author_did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "created_at": "2025-08-17T13:23:10.180Z",
+        "engagement": {
+          "likes": 40,
+          "replies": 35,
+          "reposts": 4,
+          "quotes": 23
+        }
+      },
+      "ratio_metrics": {
+        "score": 5.75,
+        "confidence": 0.714,
+        "category": "Quote Dunk",
+        "explanation": "Getting quote-dunked: 23 quotes vs 4 reposts in 1.3 hours",
+        "post_age_minutes": 75.0
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:qs6udhie3stmhfaktk7lzupp/app.bsky.feed.post/3lwlyjaqx2224",
+          "author": {
+            "did": "did:plc:qs6udhie3stmhfaktk7lzupp",
+            "handle": "faceblur.com",
+            "display_name": "G\u0428\u039e\u0418\u2076\u2074 \ud83c\udff3\ufe0f\u200d\u26a7"
+          },
+          "text": "Contact",
+          "created_at": "2025-08-17T13:29:56.097Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 1,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:ayocvzyguorg7cuzpdgxib5u/app.bsky.feed.post/3lwlyesuqvs2f",
+          "author": {
+            "did": "did:plc:ayocvzyguorg7cuzpdgxib5u",
+            "handle": "aimkag.bsky.social",
+            "display_name": "Amie Gillingham"
+          },
+          "text": "The OG Freaky Friday",
+          "created_at": "2025-08-17T13:27:27.323Z",
+          "engagement": {
+            "likes": 6,
+            "replies": 2,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:mu2jdn3r2bblwni3dty4zmtq/app.bsky.feed.post/3lwlzb2mofs2v",
+          "author": {
+            "did": "did:plc:mu2jdn3r2bblwni3dty4zmtq",
+            "handle": "bruceweinberger.bsky.social",
+            "display_name": "B. Roo Sweinberger"
+          },
+          "text": "",
+          "created_at": "2025-08-17T13:43:14.945Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 1,
+            "reposts": 0,
+            "total": 5
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:ztvdohzrepeqsttndwpmxdgd/app.bsky.feed.post/3lwlzaiuuic2j",
+          "author": {
+            "did": "did:plc:ztvdohzrepeqsttndwpmxdgd",
+            "handle": "artielarkin9.bsky.social",
+            "display_name": "Arthur Larkin"
+          },
+          "text": "The Accused \u2026 shattering film \ud83d\ude4f",
+          "created_at": "2025-08-17T13:42:56.366Z",
+          "engagement": {
+            "likes": 3,
+            "replies": 1,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:e7g5upjt24ieox7l3djitp4y/app.bsky.feed.post/3lwm2bovbhk2t",
+          "author": {
+            "did": "did:plc:e7g5upjt24ieox7l3djitp4y",
+            "handle": "blackcoffeegames.bsky.social",
+            "display_name": "Black Coffee Games"
+          },
+          "text": "Hotel Artemis is one of the best shadowrun movies that no one talks about. \nI would not be surprised at all if the story was originally some geeks' basement gaming session.\nAnd good on Foster for doing a phenomenal job at playing a broken character. \nAnd of course, contact is just plain brilliant.",
+          "created_at": "2025-08-17T14:01:29.967Z",
+          "engagement": {
+            "likes": 2,
+            "replies": 2,
+            "reposts": 0,
+            "total": 4
+          },
+          "sentiment": {
+            "polarity": 0.37,
+            "subjectivity": 0.601,
+            "anger": 0.062,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.062
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 65,
+        "avg_polarity": 0.052,
+        "avg_anger": 0.006,
+        "avg_disgust": 0.002,
+        "high_emotion_counts": {
+          "high_anger_posts": 0,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 65
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lwlyq3judk22",
+        "text": "Without saying Raiders of the Lost Ark, fav Harrison Ford Film?",
+        "author_did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "created_at": "2025-08-17T13:33:45.495Z",
+        "engagement": {
+          "likes": 31,
+          "replies": 27,
+          "reposts": 2,
+          "quotes": 12
+        }
+      },
+      "ratio_metrics": {
+        "score": 6.0,
+        "confidence": 0.601,
+        "category": "Quote Dunk",
+        "explanation": "Getting quote-dunked: 12 quotes vs 2 reposts in 1.1 hours",
+        "post_age_minutes": 64.4
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:7uu7jqo6k3hfpiv6xae53cd2/app.bsky.feed.post/3lwlzccp6h22t",
+          "author": {
+            "did": "did:plc:7uu7jqo6k3hfpiv6xae53cd2",
+            "handle": "dylantidepressant.bsky.social",
+            "display_name": "Dylan T. Depressant\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\u267f\ufe0f\ud83d\ude3e"
+          },
+          "text": "Bladerunner, hands down. And so much of Cyberpunk media can trace its roots to it.",
+          "created_at": "2025-08-17T13:43:56.997Z",
+          "engagement": {
+            "likes": 9,
+            "replies": 2,
+            "reposts": 0,
+            "total": 11
+          },
+          "sentiment": {
+            "polarity": 0.022,
+            "subjectivity": 0.244,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:r4a2q4t4zlw3xz2uljbrwnpu/app.bsky.feed.post/3lwlyqvge2k2a",
+          "author": {
+            "did": "did:plc:r4a2q4t4zlw3xz2uljbrwnpu",
+            "handle": "tezrak.bsky.social",
+            "display_name": "Craig (he/him) \"Tezrak the Impslayer\""
+          },
+          "text": "The Fugitive",
+          "created_at": "2025-08-17T13:34:12.650Z",
+          "engagement": {
+            "likes": 6,
+            "replies": 1,
+            "reposts": 0,
+            "total": 7
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:fmtfg34d2xacxih65odz6sbd/app.bsky.feed.post/3lwlzeqz6tc2o",
+          "author": {
+            "did": "did:plc:fmtfg34d2xacxih65odz6sbd",
+            "handle": "mumshoes.bsky.social",
+            "display_name": "Lynda D"
+          },
+          "text": "Witness",
+          "created_at": "2025-08-17T13:45:19.114Z",
+          "engagement": {
+            "likes": 6,
+            "replies": 0,
+            "reposts": 0,
+            "total": 6
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:2chpg3o4dlses2cg44otjnwd/app.bsky.feed.post/3lwlyy7sspc2u",
+          "author": {
+            "did": "did:plc:2chpg3o4dlses2cg44otjnwd",
+            "handle": "marianherra.bsky.social",
+            "display_name": "Mitchie's Mom@marianherra.bsky.social"
+          },
+          "text": "I've seen that at least 10 times. Love that movie.",
+          "created_at": "2025-08-17T13:38:18.426Z",
+          "engagement": {
+            "likes": 4,
+            "replies": 1,
+            "reposts": 0,
+            "total": 5
+          },
+          "sentiment": {
+            "polarity": 0.1,
             "subjectivity": 0.5,
             "anger": 0.0,
             "disgust": 0.0,
@@ -222,37 +1349,119 @@
           }
         },
         {
-          "uri": "at://did:plc:roryixcoyioepmtbs5wco3jl/app.bsky.feed.post/3lwk7mgnjus2u",
+          "uri": "at://did:plc:2chpg3o4dlses2cg44otjnwd/app.bsky.feed.post/3lwlzx6ektc2u",
           "author": {
-            "did": "did:plc:roryixcoyioepmtbs5wco3jl",
-            "handle": "desulto.bsky.social",
-            "display_name": "Desulto"
+            "did": "did:plc:2chpg3o4dlses2cg44otjnwd",
+            "handle": "marianherra.bsky.social",
+            "display_name": "Mitchie's Mom@marianherra.bsky.social"
           },
-          "text": "Probably wrap their arms behind their head to stretch them, or just look around a little bit. Or both.",
-          "created_at": "2025-08-16T20:31:39.653Z",
+          "text": "Me, too.  One of his best.  Great cast.",
+          "created_at": "2025-08-17T13:55:37.098Z",
           "engagement": {
-            "likes": 0,
-            "replies": 0,
+            "likes": 4,
+            "replies": 1,
             "reposts": 0,
-            "total": 0
+            "total": 5
           },
           "sentiment": {
-            "polarity": -0.294,
-            "subjectivity": 0.6,
+            "polarity": 0.9,
+            "subjectivity": 0.525,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        }
+      ],
+      "top_5_quotes": [],
+      "overall_sentiment": {
+        "analyzed_total_responses": 48,
+        "avg_polarity": 0.079,
+        "avg_anger": 0.026,
+        "avg_disgust": 0.012,
+        "high_emotion_counts": {
+          "high_anger_posts": 2,
+          "high_disgust_posts": 0
+        }
+      },
+      "collection_success": true,
+      "responses_found": 48
+    },
+    {
+      "original_post": {
+        "uri": "at://did:plc:anpfslmr5xhyw7oqzai3dprd/app.bsky.feed.post/3lwll3nivwj23",
+        "text": "Cette aide, attribu\u00e9e sous condition de ressources, est attendue par bien des familles pour effectuer les courses de fournitures. \n\nBonne nouvelle, son montant a \u00e9t\u00e9 r\u00e9\u00e9valu\u00e9 cette ann\u00e9e.\n\n\u27a1\ufe0f https://l.leparisien.fr/LTbq",
+        "author_did": "did:plc:anpfslmr5xhyw7oqzai3dprd",
+        "created_at": "2025-08-17T09:29:37.000Z",
+        "engagement": {
+          "likes": 4,
+          "replies": 2,
+          "reposts": 0,
+          "quotes": 14
+        }
+      },
+      "ratio_metrics": {
+        "score": 16,
+        "confidence": 0.204,
+        "category": "Complete Ratio",
+        "explanation": "Pure controversy: 14 quotes + 2 replies, no reposts in 5.1 hours",
+        "post_age_minutes": 308.5
+      },
+      "top_5_replies": [
+        {
+          "uri": "at://did:plc:sun2x237gv4pgva6rkqr4erb/app.bsky.feed.post/3lwlq42xqic24",
+          "author": {
+            "did": "did:plc:sun2x237gv4pgva6rkqr4erb",
+            "handle": "bretoninspire.bsky.social",
+            "display_name": "Antoine Messon (donc pas zontil)"
+          },
+          "text": "Ah on arrive a la saison ou on nous explique que c'est pour acheter des \u00e9crans plats alors que c'est surprouv\u00e9 que non ?",
+          "created_at": "2025-08-17T10:59:23.886Z",
+          "engagement": {
+            "likes": 8,
+            "replies": 0,
+            "reposts": 0,
+            "total": 8
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
             "anger": 0.0,
             "disgust": 0.0,
             "total_negative_emotion": 0.0
           }
         },
         {
-          "uri": "at://did:plc:l5btejh5mmq5rupedvkcaaps/app.bsky.feed.post/3lwjz5htsvk2y",
+          "uri": "at://did:plc:jut2foo7j25idv65xv3dyu4u/app.bsky.feed.post/3lwlqngzexs2r",
           "author": {
-            "did": "did:plc:l5btejh5mmq5rupedvkcaaps",
-            "handle": "autumngogogoat.bsky.social",
-            "display_name": "Autumn Goat \u79cb\u30e4\u30ae"
+            "did": "did:plc:jut2foo7j25idv65xv3dyu4u",
+            "handle": "abigaellerl.bsky.social",
+            "display_name": ""
           },
-          "text": "I wonder what my fursona smells like",
-          "created_at": "2025-08-16T18:35:55.143Z",
+          "text": "Mauvaise nouvelle: la hausse est inf\u00e9rieur \u00e0 celle de l'inflation, et donc c'est pas une hausse",
+          "created_at": "2025-08-17T11:09:06.947Z",
+          "engagement": {
+            "likes": 7,
+            "replies": 0,
+            "reposts": 0,
+            "total": 7
+          },
+          "sentiment": {
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "anger": 0.0,
+            "disgust": 0.0,
+            "total_negative_emotion": 0.0
+          }
+        },
+        {
+          "uri": "at://did:plc:pfxuavb2uhh3rhaycum6a76v/app.bsky.feed.post/3lwm4j5zvls2i",
+          "author": {
+            "did": "did:plc:pfxuavb2uhh3rhaycum6a76v",
+            "handle": "tatdelrioperez.bsky.social",
+            "display_name": "TatDelrioPerez"
+          },
+          "text": "On va pouvoir pur enfin avoir un \u00e9cran plat!",
+          "created_at": "2025-08-17T14:41:28.211Z",
           "engagement": {
             "likes": 0,
             "replies": 0,
@@ -271,7 +1480,7 @@
       "top_5_quotes": [],
       "overall_sentiment": {
         "analyzed_total_responses": 3,
-        "avg_polarity": -0.098,
+        "avg_polarity": 0.0,
         "avg_anger": 0.0,
         "avg_disgust": 0.0,
         "high_emotion_counts": {
@@ -281,1126 +1490,10 @@
       },
       "collection_success": true,
       "responses_found": 3
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:qzqqxxsbfamk2uhgh5n5tltk/app.bsky.feed.post/3lwjx5uqasc2k",
-        "text": "I had to see this, so now you do too.\n\nAlso, get out of her bed, you creep. #BB27",
-        "author_did": "did:plc:qzqqxxsbfamk2uhgh5n5tltk",
-        "created_at": "2025-08-16T18:00:21.171Z",
-        "engagement": {
-          "likes": 32,
-          "replies": 19,
-          "reposts": 0,
-          "quotes": 5
-        }
-      },
-      "ratio_metrics": {
-        "score": 24,
-        "confidence": 0.372,
-        "category": "Complete Ratio",
-        "explanation": "Pure controversy: 5 quotes + 19 replies, no reposts in 3.8 hours",
-        "post_age_minutes": 229.2
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:gmsmsdwr6pznyv5y5zipdqvw/app.bsky.feed.post/3lwjxo37wfc2g",
-          "author": {
-            "did": "did:plc:gmsmsdwr6pznyv5y5zipdqvw",
-            "handle": "notkala.bsky.social",
-            "display_name": "kala"
-          },
-          "text": "That arch is diabolical",
-          "created_at": "2025-08-16T18:09:24.850Z",
-          "engagement": {
-            "likes": 18,
-            "replies": 0,
-            "reposts": 0,
-            "total": 18
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.25,
-            "disgust": 0.25,
-            "total_negative_emotion": 0.5
-          }
-        },
-        {
-          "uri": "at://did:plc:hbd3oakvi7cgrueccgtobmdb/app.bsky.feed.post/3lwjxta3qks2p",
-          "author": {
-            "did": "did:plc:hbd3oakvi7cgrueccgtobmdb",
-            "handle": "tookieclothespin.bsky.social",
-            "display_name": "Tookie"
-          },
-          "text": "",
-          "created_at": "2025-08-16T18:12:17.724Z",
-          "engagement": {
-            "likes": 14,
-            "replies": 1,
-            "reposts": 0,
-            "total": 15
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:xqu625yczelfp337tjfzj5sv/app.bsky.feed.post/3lwjxxggad223",
-          "author": {
-            "did": "did:plc:xqu625yczelfp337tjfzj5sv",
-            "handle": "thebrypie.bsky.social",
-            "display_name": "TheBryPie"
-          },
-          "text": "insert juile saying No no no no video here",
-          "created_at": "2025-08-16T18:14:38.581Z",
-          "engagement": {
-            "likes": 11,
-            "replies": 0,
-            "reposts": 0,
-            "total": 11
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:v5c3df2k6jegr6acv5wmsbka/app.bsky.feed.post/3lwjylsp2yc2p",
-          "author": {
-            "did": "did:plc:v5c3df2k6jegr6acv5wmsbka",
-            "handle": "thecoolestsquirtle.bsky.social",
-            "display_name": "cool squirtle (delusional Vincenzo stan)"
-          },
-          "text": "",
-          "created_at": "2025-08-16T18:26:02.540Z",
-          "engagement": {
-            "likes": 8,
-            "replies": 0,
-            "reposts": 0,
-            "total": 8
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:fdu6bbqioqkli36qpj37ehhx/app.bsky.feed.post/3lwk3ajnnk22y",
-          "author": {
-            "did": "did:plc:fdu6bbqioqkli36qpj37ehhx",
-            "handle": "jrdoozy10.bsky.social",
-            "display_name": "TVtrashJen"
-          },
-          "text": "#bb27",
-          "created_at": "2025-08-16T19:13:25.177Z",
-          "engagement": {
-            "likes": 7,
-            "replies": 0,
-            "reposts": 0,
-            "total": 7
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 22,
-        "avg_polarity": -0.053,
-        "avg_anger": 0.048,
-        "avg_disgust": 0.028,
-        "high_emotion_counts": {
-          "high_anger_posts": 1,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 22
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwju3gfqbk25",
-        "text": "#PatrickLovellTheProducer #71TrillionTruth #CrushCorruption #FuckFascism #TheCleanNewDeal #NIN #TrentReznor #DonTheConRicoPig\nwww.thecleannewdeal.org\nwww.thecon.tv\nyoutu.be/4vDkxOHLEx4?...",
-        "author_did": "did:plc:owasym32475ohumf7bwkxn54",
-        "created_at": "2025-08-16T17:05:17.814Z",
-        "engagement": {
-          "likes": 4,
-          "replies": 2,
-          "reposts": 4,
-          "quotes": 69
-        }
-      },
-      "ratio_metrics": {
-        "score": 17.25,
-        "confidence": 0.457,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 69 quotes vs 4 reposts in 4.7 hours",
-        "post_age_minutes": 284.2
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwjuhfq7mk2c",
-          "author": {
-            "did": "did:plc:owasym32475ohumf7bwkxn54",
-            "handle": "patricklovellpresentsthecleannewdeal.com",
-            "display_name": "Patrick Lovell The Producer  "
-          },
-          "text": "youtu.be/b75Fz8CqAW4?...",
-          "created_at": "2025-08-16T17:11:59.763Z",
-          "engagement": {
-            "likes": 0,
-            "replies": 0,
-            "reposts": 0,
-            "total": 0
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 1,
-        "avg_polarity": 0.0,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 1
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:eamw76ihnc7fpdq2da3vm5wq/app.bsky.feed.post/3lwjrdqzfgk2y",
-        "text": "The Big Ten is, indeed, in the *very* early stages of discussing the idea of a 28-team College Football Playoff model, source confirms to NBC Sports (as ESPN reported). \n\nWould eliminate conference championship games & have most spots designated per league.",
-        "author_did": "did:plc:eamw76ihnc7fpdq2da3vm5wq",
-        "created_at": "2025-08-16T16:16:16.155Z",
-        "engagement": {
-          "likes": 57,
-          "replies": 22,
-          "reposts": 17,
-          "quotes": 176
-        }
-      },
-      "ratio_metrics": {
-        "score": 10.35,
-        "confidence": 0.547,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 176 quotes vs 17 reposts in 5.6 hours",
-        "post_age_minutes": 333.3
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:zbpdmlnpf2dxmjqzn7awfqe4/app.bsky.feed.post/3lwjrpi7mnk2w",
-          "author": {
-            "did": "did:plc:zbpdmlnpf2dxmjqzn7awfqe4",
-            "handle": "notredale.bsky.social",
-            "display_name": "NotreDale"
-          },
-          "text": "Dan Patrick: With the first nine months of the College Football postseason out of the way, the playoff picture is starting to emerge.",
-          "created_at": "2025-08-16T16:22:49.565Z",
-          "engagement": {
-            "likes": 74,
-            "replies": 0,
-            "reposts": 4,
-            "total": 78
-          },
-          "sentiment": {
-            "polarity": 0.125,
-            "subjectivity": 0.217,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:twpy7zen3pu4rbojv4ecsc2m/app.bsky.feed.post/3lwjrrrykhc2b",
-          "author": {
-            "did": "did:plc:twpy7zen3pu4rbojv4ecsc2m",
-            "handle": "vg-plus.bsky.social",
-            "display_name": "Blondish on bsky"
-          },
-          "text": "As usual, the Big 10 is stupid. Nobody asked for this.",
-          "created_at": "2025-08-16T16:24:06.937Z",
-          "engagement": {
-            "likes": 44,
-            "replies": 1,
-            "reposts": 1,
-            "total": 46
-          },
-          "sentiment": {
-            "polarity": -0.35,
-            "subjectivity": 0.45,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:eamw76ihnc7fpdq2da3vm5wq/app.bsky.feed.post/3lwjrerhxsk2y",
-          "author": {
-            "did": "did:plc:eamw76ihnc7fpdq2da3vm5wq",
-            "handle": "nauerbach.com",
-            "display_name": "Nicole Auerbach"
-          },
-          "text": "The idea was described to me as 7 spots for Big Ten, 7 spots for SEC, 5 for ACC, 5 for Big 12, 2 G5, 2 at-large. First two rounds would be played on campuses. First round could be played during the current conference championship weekend.",
-          "created_at": "2025-08-16T16:16:50.187Z",
-          "engagement": {
-            "likes": 24,
-            "replies": 11,
-            "reposts": 3,
-            "total": 38
-          },
-          "sentiment": {
-            "polarity": 0.025,
-            "subjectivity": 0.283,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:q2lh7nspkurno5yq3nehnnpy/app.bsky.feed.post/3lwjszahc7s2n",
-          "author": {
-            "did": "did:plc:q2lh7nspkurno5yq3nehnnpy",
-            "handle": "kvntodd.bsky.social",
-            "display_name": "Kevin Todd"
-          },
-          "text": "",
-          "created_at": "2025-08-16T16:46:10.712Z",
-          "engagement": {
-            "likes": 29,
-            "replies": 0,
-            "reposts": 2,
-            "total": 31
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:lrbxjfv2zvnigxwgcqo2rlwd/app.bsky.feed.post/3lwjskuo2y22j",
-          "author": {
-            "did": "did:plc:lrbxjfv2zvnigxwgcqo2rlwd",
-            "handle": "terpmlis.bsky.social",
-            "display_name": "David van den Berg"
-          },
-          "text": "Why is the commissioner of the B1G so consumed with the idea that an 8-4 team (maybe a 7-5 team?) should have a chance to play for a national championship?",
-          "created_at": "2025-08-16T16:38:08.599Z",
-          "engagement": {
-            "likes": 21,
-            "replies": 0,
-            "reposts": 0,
-            "total": 21
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 36,
-        "avg_polarity": -0.056,
-        "avg_anger": 0.011,
-        "avg_disgust": 0.006,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 36
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:uhopaz5a3le52hgw4qo3tphd/app.bsky.feed.post/3lwk3uhi7ac2f",
-        "text": "What\u2019s your dumbest superiority complex?\n\nMine is that I\u2019m better than you because my house was built in the 1870s.",
-        "author_did": "did:plc:uhopaz5a3le52hgw4qo3tphd",
-        "created_at": "2025-08-16T19:24:33.998Z",
-        "engagement": {
-          "likes": 14,
-          "replies": 10,
-          "reposts": 0,
-          "quotes": 6
-        }
-      },
-      "ratio_metrics": {
-        "score": 16,
-        "confidence": 0.349,
-        "category": "Complete Ratio",
-        "explanation": "Pure controversy: 6 quotes + 10 replies, no reposts in 2.4 hours",
-        "post_age_minutes": 144.9
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:bsnfhnuvhsjlhjt3nnjffebl/app.bsky.feed.post/3lwk4tpe7ck2p",
-          "author": {
-            "did": "did:plc:bsnfhnuvhsjlhjt3nnjffebl",
-            "handle": "christinastephens.bsky.social",
-            "display_name": "Christina Stephens \ud83d\udc2f\u2728"
-          },
-          "text": "I have a superior knowledge of how the government actually works.",
-          "created_at": "2025-08-16T19:42:02.443Z",
-          "engagement": {
-            "likes": 7,
-            "replies": 0,
-            "reposts": 0,
-            "total": 7
-          },
-          "sentiment": {
-            "polarity": 0.35,
-            "subjectivity": 0.5,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:vqws3zws2zskclaaneqo6yiy/app.bsky.feed.post/3lwk43v2auc2w",
-          "author": {
-            "did": "did:plc:vqws3zws2zskclaaneqo6yiy",
-            "handle": "jonfmorse.com",
-            "display_name": "\u029d\u0585\u057c \u028d\u0585\u0280\u0586\u025b"
-          },
-          "text": "Mine is that I'm a better Christian than most Christians even though I'm agnostic.",
-          "created_at": "2025-08-16T19:28:43.101Z",
-          "engagement": {
-            "likes": 5,
-            "replies": 1,
-            "reposts": 0,
-            "total": 6
-          },
-          "sentiment": {
-            "polarity": 0.333,
-            "subjectivity": 0.333,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:zyg3a3cmo7jpg6ubq443h44j/app.bsky.feed.post/3lwkc3trp2s2m",
-          "author": {
-            "did": "did:plc:zyg3a3cmo7jpg6ubq443h44j",
-            "handle": "kbuts.bsky.social",
-            "display_name": "Pete Sastone"
-          },
-          "text": "I don't have a car",
-          "created_at": "2025-08-16T21:16:04.223Z",
-          "engagement": {
-            "likes": 4,
-            "replies": 0,
-            "reposts": 0,
-            "total": 4
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:zsghsvwshxlsansdf5axrxnz/app.bsky.feed.post/3lwk4w6x3ck2x",
-          "author": {
-            "did": "did:plc:zsghsvwshxlsansdf5axrxnz",
-            "handle": "socratesjohnson.bsky.social",
-            "display_name": "S\u014dcr\u0101tes Johnson Ferry Cross the Mersey"
-          },
-          "text": "Mine is probably not having a yard.",
-          "created_at": "2025-08-16T19:43:25.899Z",
-          "engagement": {
-            "likes": 3,
-            "replies": 1,
-            "reposts": 0,
-            "total": 4
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:zvbhd66gjci62kxtzd3eh2v4/app.bsky.feed.post/3lwk6gpl4xc2y",
-          "author": {
-            "did": "did:plc:zvbhd66gjci62kxtzd3eh2v4",
-            "handle": "gabbklein.bsky.social",
-            "display_name": "Gabrielle"
-          },
-          "text": "I lift my nose in the air because I pull all the way up to the stop line at red lights.",
-          "created_at": "2025-08-16T20:10:33.946Z",
-          "engagement": {
-            "likes": 3,
-            "replies": 0,
-            "reposts": 0,
-            "total": 3
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.5,
-            "total_negative_emotion": 0.5
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 13,
-        "avg_polarity": 0.083,
-        "avg_anger": 0.008,
-        "avg_disgust": 0.075,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 1
-        }
-      },
-      "collection_success": true,
-      "responses_found": 13
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3lwk623sc5s2f",
-        "text": "Exames de Bolsonaro mostram imagem residual de infec\u00e7\u00f5es pulmonares, esofagite e gastrite, diz boletim m\u00e9dico jnascim.info/Er28wR",
-        "author_did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
-        "created_at": "2025-08-16T20:03:30.555Z",
-        "engagement": {
-          "likes": 55,
-          "replies": 30,
-          "reposts": 4,
-          "quotes": 31
-        }
-      },
-      "ratio_metrics": {
-        "score": 7.75,
-        "confidence": 0.703,
-        "category": "Quote Dunk",
-        "explanation": "Getting quote-dunked: 31 quotes vs 4 reposts in 1.8 hours",
-        "post_age_minutes": 105.9
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:fvr3prervecqi5lpgaxwd5nt/app.bsky.feed.post/3lwk6fydlyc2y",
-          "author": {
-            "did": "did:plc:fvr3prervecqi5lpgaxwd5nt",
-            "handle": "avodopudim.bsky.social",
-            "display_name": "Av\u00f3 Curupira do Pudim \ud83d\udc15\ud83c\udf49"
-          },
-          "text": "Saramago lhes diz:",
-          "created_at": "2025-08-16T20:10:09.574Z",
-          "engagement": {
-            "likes": 30,
-            "replies": 0,
-            "reposts": 2,
-            "total": 32
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:nhx3xlv666ielv3nbr6f35rt/app.bsky.feed.post/3lwk6fjtt622i",
-          "author": {
-            "did": "did:plc:nhx3xlv666ielv3nbr6f35rt",
-            "handle": "alancart.bsky.social",
-            "display_name": "Alancart \ud83c\udf20\ud83d\udea9\ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-          },
-          "text": "S\u00f3 dar cloroquina pra ele dia sim, dia n\u00e3o .",
-          "created_at": "2025-08-16T20:09:54.384Z",
-          "engagement": {
-            "likes": 17,
-            "replies": 1,
-            "reposts": 0,
-            "total": 18
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:jgu3jkn7fvucmziiphrdksbc/app.bsky.feed.post/3lwk64y3ypk26",
-          "author": {
-            "did": "did:plc:jgu3jkn7fvucmziiphrdksbc",
-            "handle": "kings-br.bsky.social",
-            "display_name": "Kings BR"
-          },
-          "text": "E da\u00ed? Nao sou coveiro.",
-          "created_at": "2025-08-16T20:05:07.343Z",
-          "engagement": {
-            "likes": 13,
-            "replies": 0,
-            "reposts": 0,
-            "total": 13
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:s7fwsdxo36bafeqdscuplhya/app.bsky.feed.post/3lwk72n7fi22e",
-          "author": {
-            "did": "did:plc:s7fwsdxo36bafeqdscuplhya",
-            "handle": "lsanches-rj.bsky.social",
-            "display_name": "\ud83d\udea9 Lsanches_RJ \ud83d\udea9\ud83c\udde7\ud83c\uddf7 \ud83c\uddf5\ud83c\uddf8"
-          },
-          "text": "Junto com ivermectina. \u00c9 tiro e queda.",
-          "created_at": "2025-08-16T20:21:42.553Z",
-          "engagement": {
-            "likes": 8,
-            "replies": 0,
-            "reposts": 0,
-            "total": 8
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:kecge2emu2goaa5vy4qu6x2g/app.bsky.feed.post/3lwk6lhzyy22r",
-          "author": {
-            "did": "did:plc:kecge2emu2goaa5vy4qu6x2g",
-            "handle": "brnmatous.bsky.social",
-            "display_name": "Brunno H Matou\u0161"
-          },
-          "text": "S\u00f3 tomar Cloroquina e Ivermectina 6x por dia.",
-          "created_at": "2025-08-16T20:13:13.816Z",
-          "engagement": {
-            "likes": 7,
-            "replies": 0,
-            "reposts": 0,
-            "total": 7
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 31,
-        "avg_polarity": 0.0,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.0,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 31
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:n2kurkne2vwpccuqwz37ggdm/app.bsky.feed.post/3lwk4iwuu3x2l",
-        "text": "What's the worst song you love so much that you'd defend it with your life? defector.com/the-worst-so...",
-        "author_did": "did:plc:n2kurkne2vwpccuqwz37ggdm",
-        "created_at": "2025-08-16T19:36:00.825Z",
-        "engagement": {
-          "likes": 10,
-          "replies": 5,
-          "reposts": 1,
-          "quotes": 15
-        }
-      },
-      "ratio_metrics": {
-        "score": 15.0,
-        "confidence": 0.359,
-        "category": "Complete Ratio",
-        "explanation": "Completely ratio'd: 15 quotes vs 1 reposts in 2.2 hours",
-        "post_age_minutes": 133.5
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:vwbppgyuk3v4fei25cwlqfbc/app.bsky.feed.post/3lwk4rlt32k2o",
-          "author": {
-            "did": "did:plc:vwbppgyuk3v4fei25cwlqfbc",
-            "handle": "upperblackeddypa.bsky.social",
-            "display_name": "ProfessorAlbertWickwire"
-          },
-          "text": "Rock Me Amadeus is a good pull, it just came up in my playlist last night; I'll raise you 'Mexican Radio' by Wall of Voodoo.",
-          "created_at": "2025-08-16T19:40:51.627Z",
-          "engagement": {
-            "likes": 2,
-            "replies": 0,
-            "reposts": 0,
-            "total": 2
-          },
-          "sentiment": {
-            "polarity": 0.233,
-            "subjectivity": 0.222,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:biz3yh66pilqatjriatoyxqd/app.bsky.feed.post/3lwk4ost6ak2h",
-          "author": {
-            "did": "did:plc:biz3yh66pilqatjriatoyxqd",
-            "handle": "bike2beer.bsky.social",
-            "display_name": "Paul"
-          },
-          "text": "Neil Diamond\u2019s entire discography.",
-          "created_at": "2025-08-16T19:39:18.307Z",
-          "engagement": {
-            "likes": 1,
-            "replies": 1,
-            "reposts": 0,
-            "total": 2
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.625,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:6nxey4hku54gijelodpzbmmv/app.bsky.feed.post/3lwk4yo6vs22d",
-          "author": {
-            "did": "did:plc:6nxey4hku54gijelodpzbmmv",
-            "handle": "tim-gibson.bsky.social",
-            "display_name": "Tim Gibson"
-          },
-          "text": "Totally. I'm a Believer, Cherry Cherry, Solitary Man. All bangers. Some cringe.",
-          "created_at": "2025-08-16T19:44:48.992Z",
-          "engagement": {
-            "likes": 1,
-            "replies": 0,
-            "reposts": 0,
-            "total": 1
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.75,
-            "anger": 0.0,
-            "disgust": 0.25,
-            "total_negative_emotion": 0.25
-          }
-        },
-        {
-          "uri": "at://did:plc:4ypydtsxlmkfyoyoxb26o4wd/app.bsky.feed.post/3lwk4jfndes2v",
-          "author": {
-            "did": "did:plc:4ypydtsxlmkfyoyoxb26o4wd",
-            "handle": "booktweeting.bsky.social",
-            "display_name": "Julia DOESN\u2019T WANT YOUR MONEY"
-          },
-          "text": "\u201cBrandy\u201d",
-          "created_at": "2025-08-16T19:36:16.711Z",
-          "engagement": {
-            "likes": 1,
-            "replies": 0,
-            "reposts": 0,
-            "total": 1
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:nsyncvyf4cbualbrgzit2uvd/app.bsky.feed.post/3lwkbjowlxc2v",
-          "author": {
-            "did": "did:plc:nsyncvyf4cbualbrgzit2uvd",
-            "handle": "andyharwood.bsky.social",
-            "display_name": "Andy"
-          },
-          "text": "Shiny Happy People",
-          "created_at": "2025-08-16T21:05:55.160Z",
-          "engagement": {
-            "likes": 0,
-            "replies": 0,
-            "reposts": 0,
-            "total": 0
-          },
-          "sentiment": {
-            "polarity": 0.8,
-            "subjectivity": 1.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 6,
-        "avg_polarity": 0.197,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.083,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 0
-        }
-      },
-      "collection_success": true,
-      "responses_found": 6
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:nvoontkz4hmkd2n4xpzrlpib/app.bsky.feed.post/3lwk22ixxmc2f",
-        "text": "Wenn du einen 80er-Jahre-Titel aus der Geschichte tilgen k\u00f6nntest, welcher w\u00e4re das?\n\nIrgendwie, Irgendwo, Irgendwann",
-        "author_did": "did:plc:nvoontkz4hmkd2n4xpzrlpib",
-        "created_at": "2025-08-16T18:52:09.405Z",
-        "engagement": {
-          "likes": 28,
-          "replies": 6,
-          "reposts": 0,
-          "quotes": 7
-        }
-      },
-      "ratio_metrics": {
-        "score": 13,
-        "confidence": 0.367,
-        "category": "Complete Ratio",
-        "explanation": "Pure controversy: 7 quotes + 6 replies, no reposts in 3.0 hours",
-        "post_age_minutes": 177.4
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:nvoontkz4hmkd2n4xpzrlpib/app.bsky.feed.post/3lwk4o7win22f",
-          "author": {
-            "did": "did:plc:nvoontkz4hmkd2n4xpzrlpib",
-            "handle": "frau-s-aus-a.bsky.social",
-            "display_name": "Frau_S"
-          },
-          "text": "Und Nena ist Nena, ich mag die Stimme einfach nicht.",
-          "created_at": "2025-08-16T19:38:58.492Z",
-          "engagement": {
-            "likes": 8,
-            "replies": 4,
-            "reposts": 0,
-            "total": 12
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:sei2fccjkpra3qkuaemujbog/app.bsky.feed.post/3lwk54i2b3k2s",
-          "author": {
-            "did": "did:plc:sei2fccjkpra3qkuaemujbog",
-            "handle": "dkleenevdreinigung.bsky.social",
-            "display_name": "Phosie (Geh mal aus dem Internet, ich muss telefonieren - Era)"
-          },
-          "text": "Ich mag die ganze Frau nicht",
-          "created_at": "2025-08-16T19:46:56.767Z",
-          "engagement": {
-            "likes": 5,
-            "replies": 1,
-            "reposts": 0,
-            "total": 6
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:2hnz3cyetceno6nh5vlj3uq5/app.bsky.feed.post/3lwk5ecphsc2w",
-          "author": {
-            "did": "did:plc:2hnz3cyetceno6nh5vlj3uq5",
-            "handle": "zebrakater.bsky.social",
-            "display_name": "Zebrakater \ud83d\udc9a"
-          },
-          "text": "Ich mittlerweile auch nicht mehr... \ud83e\udd37",
-          "created_at": "2025-08-16T19:51:19.606Z",
-          "engagement": {
-            "likes": 4,
-            "replies": 2,
-            "reposts": 0,
-            "total": 6
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:qeaqnrxkfw2rl63zjycdstdy/app.bsky.feed.post/3lwk2ologks2g",
-          "author": {
-            "did": "did:plc:qeaqnrxkfw2rl63zjycdstdy",
-            "handle": "phobie.org",
-            "display_name": "phobie"
-          },
-          "text": "Klar, bissi Stehblues oder Gefummel im Nebel......",
-          "created_at": "2025-08-16T19:03:23.328Z",
-          "engagement": {
-            "likes": 3,
-            "replies": 2,
-            "reposts": 0,
-            "total": 5
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        },
-        {
-          "uri": "at://did:plc:rlv3uzs2hu25k4qs47s3pdnp/app.bsky.feed.post/3lwk2fefv2c2p",
-          "author": {
-            "did": "did:plc:rlv3uzs2hu25k4qs47s3pdnp",
-            "handle": "teejot.bsky.social",
-            "display_name": "Grinch"
-          },
-          "text": "Dann nimm die Version von Bl\u00fcmchen. Die ist eh s\u00fc\u00dfer \ud83d\ude01 Also Bl\u00fcmchen",
-          "created_at": "2025-08-16T18:58:13.718Z",
-          "engagement": {
-            "likes": 3,
-            "replies": 1,
-            "reposts": 0,
-            "total": 4
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 35,
-        "avg_polarity": 0.046,
-        "avg_anger": 0.0,
-        "avg_disgust": 0.057,
-        "high_emotion_counts": {
-          "high_anger_posts": 0,
-          "high_disgust_posts": 2
-        }
-      },
-      "collection_success": true,
-      "responses_found": 35
-    },
-    {
-      "original_post": {
-        "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3lwk5gssrf32w",
-        "text": "The \"Real Time\" host appeared to suggest that Democrats could win more elections if they came on his show \u2014 and named several notable figures.",
-        "author_did": "did:plc:j4eroku3volozvv6ljsnnfec",
-        "created_at": "2025-08-16T19:52:43.577Z",
-        "engagement": {
-          "likes": 7,
-          "replies": 30,
-          "reposts": 2,
-          "quotes": 17
-        }
-      },
-      "ratio_metrics": {
-        "score": 8.5,
-        "confidence": 0.497,
-        "category": "Quote Dunk",
-        "explanation": "Getting quote-dunked: 17 quotes vs 2 reposts in 1.9 hours",
-        "post_age_minutes": 116.8
-      },
-      "top_5_replies": [
-        {
-          "uri": "at://did:plc:tlcp3jtds6v3evb74nncf6fx/app.bsky.feed.post/3lwk5iu2fus2m",
-          "author": {
-            "did": "did:plc:tlcp3jtds6v3evb74nncf6fx",
-            "handle": "druidscircle.bsky.social",
-            "display_name": "Drew Warned You"
-          },
-          "text": "Maybe they just don't want to waste their time with a pro-Trump hack",
-          "created_at": "2025-08-16T19:53:52.007Z",
-          "engagement": {
-            "likes": 22,
-            "replies": 0,
-            "reposts": 0,
-            "total": 22
-          },
-          "sentiment": {
-            "polarity": -0.2,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.333,
-            "total_negative_emotion": 0.333
-          }
-        },
-        {
-          "uri": "at://did:plc:m2wazjxhvknmeco5jiwk2lti/app.bsky.feed.post/3lwk6e5z2ik2i",
-          "author": {
-            "did": "did:plc:m2wazjxhvknmeco5jiwk2lti",
-            "handle": "ogsaigonbond.bsky.social",
-            "display_name": "Saigonbond"
-          },
-          "text": "He only wants them on his show because he continues to hemorrhage viewers.",
-          "created_at": "2025-08-16T20:09:08.404Z",
-          "engagement": {
-            "likes": 16,
-            "replies": 1,
-            "reposts": 0,
-            "total": 17
-          },
-          "sentiment": {
-            "polarity": 0.1,
-            "subjectivity": 0.55,
-            "anger": 0.0,
-            "disgust": 0.2,
-            "total_negative_emotion": 0.2
-          }
-        },
-        {
-          "uri": "at://did:plc:hncl6qelnjq4cdh6eofg27ms/app.bsky.feed.post/3lwk6mlqw7s2p",
-          "author": {
-            "did": "did:plc:hncl6qelnjq4cdh6eofg27ms",
-            "handle": "rustbeltdave.bsky.social",
-            "display_name": "Dave from the Rust Belt"
-          },
-          "text": "New Rule: Nobody should give a rat's ass what Bill Maher says.",
-          "created_at": "2025-08-16T20:13:51.268Z",
-          "engagement": {
-            "likes": 13,
-            "replies": 0,
-            "reposts": 0,
-            "total": 13
-          },
-          "sentiment": {
-            "polarity": 0.136,
-            "subjectivity": 0.455,
-            "anger": 0.0,
-            "disgust": 0.25,
-            "total_negative_emotion": 0.25
-          }
-        },
-        {
-          "uri": "at://did:plc:h6hbschriaxakyws34uvu4ei/app.bsky.feed.post/3lwk5uaofu22z",
-          "author": {
-            "did": "did:plc:h6hbschriaxakyws34uvu4ei",
-            "handle": "jcmedia1.bsky.social",
-            "display_name": "J.C."
-          },
-          "text": "No one is afraid to go on his trash ass show.\nSince Real Time has basically turned into the Hannity Show, what's the fucking point?",
-          "created_at": "2025-08-16T20:00:14.345Z",
-          "engagement": {
-            "likes": 9,
-            "replies": 0,
-            "reposts": 0,
-            "total": 9
-          },
-          "sentiment": {
-            "polarity": -0.333,
-            "subjectivity": 0.667,
-            "anger": 0.0,
-            "disgust": 0.143,
-            "total_negative_emotion": 0.143
-          }
-        },
-        {
-          "uri": "at://did:plc:hbcal7dpdi22xnh4jneqjn4z/app.bsky.feed.post/3lwk6pqakmc27",
-          "author": {
-            "did": "did:plc:hbcal7dpdi22xnh4jneqjn4z",
-            "handle": "getradified.net",
-            "display_name": "Jonathan Kennedy"
-          },
-          "text": "Nah he always sucked.",
-          "created_at": "2025-08-16T20:15:36.638Z",
-          "engagement": {
-            "likes": 6,
-            "replies": 0,
-            "reposts": 0,
-            "total": 6
-          },
-          "sentiment": {
-            "polarity": 0.0,
-            "subjectivity": 0.0,
-            "anger": 0.0,
-            "disgust": 0.0,
-            "total_negative_emotion": 0.0
-          }
-        }
-      ],
-      "top_5_quotes": [],
-      "overall_sentiment": {
-        "analyzed_total_responses": 36,
-        "avg_polarity": -0.014,
-        "avg_anger": 0.057,
-        "avg_disgust": 0.068,
-        "high_emotion_counts": {
-          "high_anger_posts": 1,
-          "high_disgust_posts": 1
-        }
-      },
-      "collection_success": true,
-      "responses_found": 36
     }
   ],
   "metadata": {
-    "posts_collected": 525491,
+    "posts_collected": 472499,
     "ratios_detected": 20,
     "deep_dive_completed": 10,
     "pipeline_settings": {

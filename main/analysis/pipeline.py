@@ -19,6 +19,7 @@ from client.collect_posts import JetstreamCollector
 from client.post_responses_collector import PostResponsesCollector
 from algos.ratio_detector import RatioDetector, RatioResult
 from algos.sentiment_analyzer import SentimentAnalyzer
+from algos.topic_modeler import EnglishTopicModeler
 
 
 class RatioPipeline:
@@ -72,6 +73,7 @@ class RatioPipeline:
         
         self.responses_collector = PostResponsesCollector()
         self.sentiment_analyzer = SentimentAnalyzer()
+        self.topic_modeler = EnglishTopicModeler()
     
     def collect_posts(self) -> Dict[str, Any]:
         """
@@ -336,6 +338,60 @@ class RatioPipeline:
         print(f"\n🎯 Deep dive complete: {len(deep_dive_results)} ratios analyzed")
         return deep_dive_results
     
+    def analyze_main_character_topics(self) -> Dict[str, Any]:
+        """
+        Analyze topics across main character posts and their responses
+        
+        Returns:
+            Dict containing main character topic analysis results
+        """
+        if not self.detected_ratios:
+            raise ValueError("No ratios detected yet. Run detect_ratios() first.")
+        
+        if not self.deep_dive_results:
+            raise ValueError("No deep dive results yet. Run deep_dive_responses() first.")
+        
+        print(f"🏷️ Starting main character topic analysis...")
+        
+        try:
+            # Load Gemini API key from environment
+            import os
+            from dotenv import load_dotenv
+            
+            # Load environment variables from .env file
+            env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env')
+            if os.path.exists(env_path):
+                load_dotenv(env_path)
+            
+            gemini_api_key = os.getenv('GEMINI_API_KEY')
+            if gemini_api_key:
+                print("✅ Gemini API key loaded")
+            else:
+                print("⚠️ No Gemini API key found - will use fallback labeling")
+            
+            # Use the new method that handles corpus building and API key
+            topic_results = self.topic_modeler.analyze_main_character_corpus(
+                posts_data=self.collected_posts,
+                deep_dive_results=self.deep_dive_results,
+                api_key=gemini_api_key
+            )
+            
+            print(f"✅ Main character topic analysis complete: {len(topic_results.get('topics', []))} topics identified")
+            return topic_results
+            
+        except Exception as e:
+            print(f"❌ Main character topic analysis failed: {e}")
+            return {
+                "collection_date": datetime.now(tz=timezone.utc).strftime('%Y-%m-%d'),
+                "collection_timestamp": datetime.now(tz=timezone.utc).isoformat(),
+                "metadata": {
+                    "error": str(e),
+                    "total_posts": 0,
+                    "timestamp": datetime.now(tz=timezone.utc).isoformat()
+                },
+                "topics": []
+            }
+    
     def get_summary(self) -> Dict[str, Any]:
         """
         Get a summary of the pipeline results
@@ -465,10 +521,13 @@ class RatioPipeline:
             # Step 3: Deep dive into top ratios
             deep_dive_results = self.deep_dive_responses()
             
-            # Step 4: Save daily results
+            # Step 4: Analyze main character topics
+            global_topics = self.analyze_main_character_topics()
+            
+            # Step 5: Save daily results
             output_path = self.save_daily_results()
             
-            # Step 5: Generate summary
+            # Step 6: Generate summary
             summary = self.get_summary()
             top_ratios = self.get_top_ratios()
             
@@ -476,6 +535,7 @@ class RatioPipeline:
             print(f"   Posts collected: {summary['collection_stats']['total_posts_collected']}")
             print(f"   Ratios detected: {summary['analysis_stats']['ratios_detected']}")
             print(f"   Deep dive completed: {len(deep_dive_results)}")
+            print(f"   Topics identified: {len(global_topics.get('topics', []))}")
             print(f"   Results saved: {output_path}")
             
             if top_ratios:
@@ -496,6 +556,7 @@ class RatioPipeline:
                 'summary': summary,
                 'top_ratios': top_ratios,
                 'deep_dive_results': deep_dive_results,
+                'global_topics': global_topics,
                 'saved_file': output_path,
                 'timestamp': datetime.now(tz=timezone.utc).isoformat()
             }

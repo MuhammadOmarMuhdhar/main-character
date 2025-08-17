@@ -18,7 +18,7 @@ sys.path.append(os.path.dirname(current_dir))
 from pipeline import RatioPipeline
 from shared.data_transformer import MainCharacterTransformer
 from shared.rolling_window import RollingWindowManager
-from shared.utils import load_today_json, save_today_json, get_current_timestamp, migrate_legacy_data, is_legacy_format
+from shared.utils import load_today_json, save_today_json, save_topics_json, get_current_timestamp, migrate_legacy_data, is_legacy_format
 
 
 def load_previous_analysis() -> dict:
@@ -163,6 +163,16 @@ def run_full_analysis(hours_back: int = 6,
                 'error': 'Failed to save results',
                 'timestamp': get_current_timestamp()
             }
+        
+        # Save topics data
+        print("💾 Saving topics analysis data...")
+        topics_data = results.get('global_topics', {})
+        if topics_data:
+            topics_success = save_topics_json(topics_data)
+            if not topics_success:
+                print("⚠️ Warning: Failed to save topics.json (main analysis still successful)")
+        else:
+            print("⚠️ Warning: No topics data found in pipeline results")
         
         # Print summary
         print("\n📊 Analysis Complete!")

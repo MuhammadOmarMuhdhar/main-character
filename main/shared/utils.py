@@ -173,6 +173,38 @@ def save_today_json(data: Dict[str, Any], file_path: str = None) -> bool:
         return False
 
 
+def save_topics_json(data: Dict[str, Any], file_path: str = None) -> bool:
+    """
+    Save topics data to topics.json with error handling
+    
+    Args:
+        data: Topics data to save
+        file_path: Custom file path (default: frontend/topics.json)
+        
+    Returns:
+        True if successful, False otherwise
+    """
+    if not file_path:
+        # Get path relative to this file - go to frontend directory
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        file_path = os.path.join(current_dir, '..', '..', 'frontend', 'topics.json')
+    
+    try:
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        
+        # Save with proper formatting
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        
+        print(f"💾 Topics data saved to {file_path}")
+        return True
+        
+    except Exception as e:
+        print(f"Error saving topics.json: {e}")
+        return False
+
+
 def get_fresh_engagement(post_uri: str, client: Optional[Any] = None) -> Optional[Dict[str, int]]:
     """
     Fetch current engagement metrics for a post

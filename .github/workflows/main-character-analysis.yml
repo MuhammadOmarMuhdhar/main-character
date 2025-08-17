@@ -95,7 +95,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add frontend/today.json
+        git add frontend/today.json frontend/topics.json
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then

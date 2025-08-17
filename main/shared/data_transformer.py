@@ -26,6 +26,29 @@ class MainCharacterTransformer:
         self.current_time = datetime.now(timezone.utc)
         self.client = client
     
+    def _is_english_text(self, text: str) -> bool:
+        """
+        Check if text is in English
+        
+        Args:
+            text: Text to check
+            
+        Returns:
+            True if text is English, False otherwise
+        """
+        try:
+            import langdetect
+            
+            # Skip very short texts (< 10 chars) - assume English
+            if len(text.strip()) < 10:
+                return True
+            
+            detected = langdetect.detect(text)
+            return detected == 'en'
+        except Exception:
+            # If detection fails, assume English (conservative approach)
+            return True
+    
     def transform_pipeline_results(self, pipeline_results: Dict[str, Any], 
                                  previous_data: Optional[Dict[str, Any]] = None) -> List[Dict[str, Any]]:
         """
@@ -67,6 +90,12 @@ class MainCharacterTransformer:
         original_post = ratio_result.get('original_post', {})
         ratio_metrics = ratio_result.get('ratio_metrics', {})
         overall_sentiment = ratio_result.get('overall_sentiment', {})
+        
+        # Filter out non-English posts
+        post_text = original_post.get('text', '').strip()
+        if post_text and not self._is_english_text(post_text):
+            print(f"Filtering out non-English post: {post_text[:50]}...")
+            return None
         
         # Extract user information
         user_info = self._extract_user_info(original_post)
