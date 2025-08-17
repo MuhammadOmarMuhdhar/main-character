@@ -1,602 +1,340 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-16T22:22:03.216698+00:00",
-    "last_metrics_update": "2025-08-16T22:22:03.216698+00:00",
+    "last_full_analysis": "2025-08-17T15:02:39.118885+00:00",
+    "last_metrics_update": "2025-08-17T15:02:39.118885+00:00",
     "collection_period_hours": 6,
-    "total_posts_analyzed": 0,
-    "ratios_detected": 0,
-    "main_characters_count": 11,
-    "analysis_settings": {
-      "min_ratio_score": 0.5,
-      "min_quotes_threshold": 5,
-      "min_likes_threshold": 3,
-      "min_replies_threshold": 2,
-      "deep_dive_top_n": 10
-    },
+    "window_period_hours": 24,
+    "main_characters_count": 6,
     "rolling_window": {
-      "last_update": "2025-08-16T22:22:03.216698+00:00",
-      "new_entries_added": 10,
-      "total_in_window": 11,
+      "last_update": "2025-08-17T15:02:39.118885+00:00",
+      "new_entries_added": 6,
+      "total_in_window": 6,
       "window_hours": 24,
       "update_interval_hours": 6
-    },
-    "window_period_hours": 24
+    }
   },
   "main_characters": [
     {
       "rank": 1,
       "user": {
-        "handle": "libbycwatson.com",
-        "display_name": "libby watson",
-        "initials": "LW",
-        "did": "did:plc:swdxpxe3snyoynvquru7mofe"
+        "handle": "npr.org",
+        "display_name": "NPR",
+        "initials": "NP",
+        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh"
       },
-      "ratio": "156:1",
-      "controversy": 6.9,
+      "ratio": "12:1",
+      "controversy": 4.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "what is the band that is most like the stuff you like that you nevertheless hate. or dislike. for me it’s Fleet Foxes. seems obvious i should like them but i DONT",
-        "uri": "at://did:plc:swdxpxe3snyoynvquru7mofe/app.bsky.feed.post/3lwjypo74sk2e",
-        "created_at": "2025-08-16T18:28:12.043Z"
+        "text": "Looking for backup, I turned to an AI chatbot for relationship wisdom. It took my side. It was only when I challenged the bot's biases — and my own — that we had a communication breakthrough.",
+        "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3lwm3dihkjk2u",
+        "created_at": "2025-08-17T14:20:24.037302Z"
       },
       "engagement": {
-        "likes": 185,
-        "replies": 84,
-        "reposts": 2,
-        "quotes": 312,
+        "likes": 37,
+        "replies": 38,
+        "reposts": 1,
+        "quotes": 12,
         "formatted": {
-          "likes": "185",
-          "replies": "84",
-          "reposts": "2",
-          "quotes": "312"
+          "likes": "37",
+          "replies": "38",
+          "reposts": "1",
+          "quotes": "12"
         }
       },
       "sample_replies": [
-        "once a year spotify will be like, you love fleet foxes right? you sufjan stevens-bon iver-okkervil...",
-        "A song you should love but hate could be called a doppelbanger.",
-        "the national live at a big open air concert with a huge crowd basically inverted everything i liked...",
-        "I feel like i should like Billy Joel but i wanna cut his fingers off"
+        "Oligarch Techbro propaganda tripe.",
+        "Please stop doing these",
+        "“Instead of donating to my local NPR station I asked ChatGPT to make me stories and sound like NPR”",
+        "Was it worth the energy and water? Was it worth supporting a plagiarism fueled garbage machine?"
       ],
       "metrics": {
-        "ratio_score": 156.0,
-        "confidence": 0.706,
-        "category": "Complete Ratio",
-        "post_age_minutes": 201.3
+        "ratio_score": 12.0,
+        "confidence": 0.904,
+        "category": "Fresh Ratio",
+        "post_age_minutes": 17.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-16T22:22:02.290895+00:00",
-      "last_updated": "2025-08-16T22:22:02.290895+00:00",
+      "first_detected": "2025-08-17T15:02:38.112171+00:00",
+      "last_updated": "2025-08-17T15:02:38.112171+00:00",
       "analysis_windows": [
-        "2025-08-16T22:22:02.290895+00:00"
+        "2025-08-17T15:02:38.112171+00:00"
       ],
-      "peak_controversy": 6.9,
+      "peak_controversy": 4.9,
       "trend": "new"
     },
     {
       "rank": 2,
       "user": {
-        "handle": "innuendowo",
-        "display_name": "‏",
-        "initials": "‏‏",
-        "did": "did:plc:5ygnzf2j4lnpftdlvanxqmf2"
+        "handle": "sammmystern",
+        "display_name": "Sammmy",
+        "initials": "SA",
+        "did": "did:plc:suw36afklreb5mkd4r43xd6j"
       },
-      "ratio": "31:1",
-      "controversy": 4.0,
-      "change": "NEW",
-      "change_type": "new",
+      "ratio": "8:0",
+      "controversy": 2.6,
+      "change": "+0.9",
+      "change_type": "positive",
       "post": {
-        "text": "forget the usual \"whats ur fursona smell like\" engagement bait. give me the real shit. put them in a video game. whats their \"idle for 30+ seconds\" flavor animation",
-        "uri": "at://did:plc:5ygnzf2j4lnpftdlvanxqmf2/app.bsky.feed.post/3lwjymvaiz22q",
-        "created_at": "2025-08-16T18:26:38.764Z"
+        "text": "If you see this, QTP with 10 games to get to know you by:\n\nBaldur's Gate 3\nSekiro Shadows Die Twice\nThe Witcher 3\nAlan Wake 2\nThe Last of Us 2\nElden Ring\nDoom (1993)\nDisco Elysium\nDark Souls",
+        "uri": "at://did:plc:suw36afklreb5mkd4r43xd6j/app.bsky.feed.post/3lwlvstqc6k2t",
+        "created_at": "2025-08-17T12:41:36.762Z"
       },
       "engagement": {
-        "likes": 19,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 31,
+        "likes": 17,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 8,
         "formatted": {
-          "likes": "19",
-          "replies": "3",
-          "reposts": "1",
-          "quotes": "31"
+          "likes": "17",
+          "replies": "5",
+          "reposts": "0",
+          "quotes": "8"
         }
       },
       "sample_replies": [
-        "Definitely undoing his braids, flipping his hair sassily, and re-doing them.",
-        "Probably wrap their arms behind their head to stretch them, or just look around a little bit. Or...",
-        "I wonder what my fursona smells like"
+        "There's no Resident Evil 😔",
+        "Oh shit I forgot to add a 10th\n\nResident Evil (2002)\n\n@resilover.bsky.social",
+        "You might be a defender of summer but at least I can say you have good taste in video games",
+        "It was in contention with Dark Souls but my recency bias took control 😭😭😭😭😭😭😭"
       ],
       "metrics": {
-        "ratio_score": 31.0,
-        "confidence": 0.416,
+        "ratio_score": 13,
+        "confidence": 0.401,
         "category": "Complete Ratio",
-        "post_age_minutes": 202.9
+        "post_age_minutes": 116.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-16T22:22:02.397854+00:00",
-      "last_updated": "2025-08-16T22:22:02.397854+00:00",
+      "first_detected": "2025-08-17T14:16:33.450803+00:00",
+      "last_updated": "2025-08-17T15:02:39.118664+00:00",
       "analysis_windows": [
-        "2025-08-16T22:22:02.397854+00:00"
+        "2025-08-17T14:16:33.450803+00:00",
+        "2025-08-17T15:02:39.118664+00:00"
       ],
-      "peak_controversy": 4.0,
-      "trend": "new"
+      "peak_controversy": 2.6,
+      "trend": "rising"
     },
     {
       "rank": 3,
       "user": {
-        "handle": "patricklovellpresentsthecleannewdeal.com",
-        "display_name": "Patrick Lovell The Producer  ",
-        "initials": "PL",
-        "did": "did:plc:owasym32475ohumf7bwkxn54"
-      },
-      "ratio": "17:1",
-      "controversy": 3.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "#PatrickLovellTheProducer #71TrillionTruth #CrushCorruption #FuckFascism #TheCleanNewDeal #NIN #TrentReznor #DonTheConRicoPig\nwww.thecleannewdeal.org\nwww.thecon.tv\nyoutu.be/4vDkxOHLEx4?...",
-        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwju3gfqbk25",
-        "created_at": "2025-08-16T17:05:17.814Z"
-      },
-      "engagement": {
-        "likes": 4,
-        "replies": 2,
-        "reposts": 4,
-        "quotes": 69,
-        "formatted": {
-          "likes": "4",
-          "replies": "2",
-          "reposts": "4",
-          "quotes": "69"
-        }
-      },
-      "sample_replies": [
-        "youtu.be/b75Fz8CqAW4?..."
-      ],
-      "metrics": {
-        "ratio_score": 17.25,
-        "confidence": 0.457,
-        "category": "Complete Ratio",
-        "post_age_minutes": 284.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T22:22:02.618790+00:00",
-      "last_updated": "2025-08-16T22:22:02.618790+00:00",
-      "analysis_windows": [
-        "2025-08-16T22:22:02.618790+00:00"
-      ],
-      "peak_controversy": 3.8,
-      "trend": "new"
-    },
-    {
-      "rank": 4,
-      "user": {
-        "handle": "whitless256",
-        "display_name": "Whit",
-        "initials": "WH",
-        "did": "did:plc:qzqqxxsbfamk2uhgh5n5tltk"
-      },
-      "ratio": "5:0",
-      "controversy": 3.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I had to see this, so now you do too.\n\nAlso, get out of her bed, you creep. #BB27",
-        "uri": "at://did:plc:qzqqxxsbfamk2uhgh5n5tltk/app.bsky.feed.post/3lwjx5uqasc2k",
-        "created_at": "2025-08-16T18:00:21.171Z"
-      },
-      "engagement": {
-        "likes": 32,
-        "replies": 19,
-        "reposts": 0,
-        "quotes": 5,
-        "formatted": {
-          "likes": "32",
-          "replies": "19",
-          "reposts": "0",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "That arch is diabolical",
-        "insert juile saying No no no no video here"
-      ],
-      "metrics": {
-        "ratio_score": 24,
-        "confidence": 0.372,
-        "category": "Complete Ratio",
-        "post_age_minutes": 229.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T22:22:02.518709+00:00",
-      "last_updated": "2025-08-16T22:22:02.518709+00:00",
-      "analysis_windows": [
-        "2025-08-16T22:22:02.518709+00:00"
-      ],
-      "peak_controversy": 3.6,
-      "trend": "new"
-    },
-    {
-      "rank": 5,
-      "user": {
-        "handle": "nauerbach.com",
-        "display_name": "Nicole Auerbach",
-        "initials": "NA",
-        "did": "did:plc:eamw76ihnc7fpdq2da3vm5wq"
+        "handle": "theathleticfc",
+        "display_name": "The Athletic | Football",
+        "initials": "TA",
+        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi"
       },
       "ratio": "10:1",
       "controversy": 2.7,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "The Big Ten is, indeed, in the *very* early stages of discussing the idea of a 28-team College Football Playoff model, source confirms to NBC Sports (as ESPN reported). \n\nWould eliminate conference championship games & have most spots designated per league.",
-        "uri": "at://did:plc:eamw76ihnc7fpdq2da3vm5wq/app.bsky.feed.post/3lwjrdqzfgk2y",
-        "created_at": "2025-08-16T16:16:16.155Z"
+        "text": "Eberechi Eze thought he had given #CPFC the lead — but his free-kick was chalked off following a VAR check.\n\nThe reason VAR disallowed the goal: Marc Guehi was within a metre of the Chelsea wall as the free-kick was taken.\n\n#CHECRY",
+        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lwlyga3nrc2t",
+        "created_at": "2025-08-17T13:28:14.487Z"
       },
       "engagement": {
-        "likes": 57,
-        "replies": 22,
-        "reposts": 17,
-        "quotes": 176,
+        "likes": 20,
+        "replies": 15,
+        "reposts": 1,
+        "quotes": 10,
         "formatted": {
-          "likes": "57",
-          "replies": "22",
-          "reposts": "17",
-          "quotes": "176"
+          "likes": "20",
+          "replies": "15",
+          "reposts": "1",
+          "quotes": "10"
         }
       },
       "sample_replies": [
-        "Dan Patrick: With the first nine months of the College Football postseason out of the way, the...",
-        "As usual, the Big 10 is stupid. Nobody asked for this.",
-        "The idea was described to me as 7 spots for Big Ten, 7 spots for SEC, 5 for ACC, 5 for Big 12, 2..."
+        "Looking forward to all free kick goals being disallowed in the same scenario 🙃",
+        "I've just watched a video with the FK goals from last season in the PL, pretty much all of them...",
+        "What? Attackers can't be within a meter of the wall? Since when? Half the time they stand in the...",
+        "Yeah terrible that they correctly disallowed a goal by applying the laws of the game\n\nI'm sure..."
       ],
       "metrics": {
-        "ratio_score": 10.35,
-        "confidence": 0.547,
+        "ratio_score": 10.0,
+        "confidence": 0.535,
         "category": "Complete Ratio",
-        "post_age_minutes": 333.3
+        "post_age_minutes": 69.9
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-16T22:22:02.720424+00:00",
-      "last_updated": "2025-08-16T22:22:02.720424+00:00",
+      "first_detected": "2025-08-17T15:02:38.204383+00:00",
+      "last_updated": "2025-08-17T15:02:38.204383+00:00",
       "analysis_windows": [
-        "2025-08-16T22:22:02.720424+00:00"
+        "2025-08-17T15:02:38.204383+00:00"
       ],
       "peak_controversy": 2.7,
       "trend": "new"
+    },
+    {
+      "rank": 4,
+      "user": {
+        "handle": "tpkthunder",
+        "display_name": "dr. lowercase dd",
+        "initials": "DL",
+        "did": "did:plc:cysof2oejv556kfernq2iyrd"
+      },
+      "ratio": "10:0",
+      "controversy": 2.1,
+      "change": "=",
+      "change_type": "neutral",
+      "post": {
+        "text": "can we talk about forgiveness for a second? do we think folks make room for forgiveness these days? \n\nwith cancel culture, and all the rest of that shit i feel like we’ve completely ignored the art and act of forgiving.",
+        "uri": "at://did:plc:cysof2oejv556kfernq2iyrd/app.bsky.feed.post/3lwlwgcfqgs2p",
+        "created_at": "2025-08-17T12:52:29.680Z"
+      },
+      "engagement": {
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 10,
+        "formatted": {
+          "likes": "3",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "Forgiveness as a concept comes from the forgiveness of debts. \n\nNormally, if someone wrongs you,...",
+        "now, i know there is someone out there that’s like i forgive but i don’t forget. \n\nyeah girl, we...",
+        "Forgiveness is the opposite of revenge. It's when you take the debts you are owed for harms done...",
+        "I think forgiveness is harder these days because people have started believing in, to an almost..."
+      ],
+      "metrics": {
+        "ratio_score": 12,
+        "confidence": 0.356,
+        "category": "Complete Ratio",
+        "post_age_minutes": 105.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-17T14:16:33.269124+00:00",
+      "last_updated": "2025-08-17T15:02:39.118664+00:00",
+      "analysis_windows": [
+        "2025-08-17T14:16:33.269124+00:00",
+        "2025-08-17T15:02:39.118664+00:00"
+      ],
+      "peak_controversy": 2.2,
+      "trend": "rising"
+    },
+    {
+      "rank": 5,
+      "user": {
+        "handle": "sophianyx",
+        "display_name": "Sophia_Nyx 🏳️‍⚧️",
+        "initials": "S🏳",
+        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo"
+      },
+      "ratio": "6:1",
+      "controversy": 1.5,
+      "change": "+0.2",
+      "change_type": "positive",
+      "post": {
+        "text": "Without saying Raiders of the Lost Ark, fav Harrison Ford Film?",
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lwlyq3judk22",
+        "created_at": "2025-08-17T13:33:45.495Z"
+      },
+      "engagement": {
+        "likes": 31,
+        "replies": 27,
+        "reposts": 2,
+        "quotes": 12,
+        "formatted": {
+          "likes": "31",
+          "replies": "27",
+          "reposts": "2",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "Bladerunner, hands down. And so much of Cyberpunk media can trace its roots to it.",
+        "The Fugitive",
+        "Witness",
+        "I've seen that at least 10 times. Love that movie."
+      ],
+      "metrics": {
+        "ratio_score": 6.0,
+        "confidence": 0.601,
+        "category": "Quote Dunk",
+        "post_age_minutes": 64.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-17T14:16:33.356750+00:00",
+      "last_updated": "2025-08-17T15:02:39.118664+00:00",
+      "analysis_windows": [
+        "2025-08-17T14:16:33.356750+00:00",
+        "2025-08-17T14:16:33.651647+00:00",
+        "2025-08-17T15:02:39.118664+00:00",
+        "2025-08-17T15:02:39.118664+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "rising"
     },
     {
       "rank": 6,
       "user": {
-        "handle": "applecores",
-        "display_name": "Applecores in the Applecar",
+        "handle": "aarum",
+        "display_name": "Air-rum",
         "initials": "AI",
-        "did": "did:plc:uhopaz5a3le52hgw4qo3tphd"
+        "did": "did:plc:znna2anzmrwg3nt757kt4gvo"
       },
-      "ratio": "6:0",
-      "controversy": 2.7,
+      "ratio": "8:1",
+      "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "What’s your dumbest superiority complex?\n\nMine is that I’m better than you because my house was built in the 1870s.",
-        "uri": "at://did:plc:uhopaz5a3le52hgw4qo3tphd/app.bsky.feed.post/3lwk3uhi7ac2f",
-        "created_at": "2025-08-16T19:24:33.998Z"
+        "text": "I took Long Islands down in college 😂 #GenX",
+        "uri": "at://did:plc:znna2anzmrwg3nt757kt4gvo/app.bsky.feed.post/3lwlur3k3zc2s",
+        "created_at": "2025-08-17T12:22:44.092Z"
       },
       "engagement": {
-        "likes": 14,
-        "replies": 10,
-        "reposts": 0,
-        "quotes": 6,
-        "formatted": {
-          "likes": "14",
-          "replies": "10",
-          "reposts": "0",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "I have a superior knowledge of how the government actually works.",
-        "Mine is that I'm a better Christian than most Christians even though I'm agnostic.",
-        "I don't have a car",
-        "Mine is probably not having a yard."
-      ],
-      "metrics": {
-        "ratio_score": 16,
-        "confidence": 0.349,
-        "category": "Complete Ratio",
-        "post_age_minutes": 144.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T22:22:02.815881+00:00",
-      "last_updated": "2025-08-16T22:22:02.815881+00:00",
-      "analysis_windows": [
-        "2025-08-16T22:22:02.815881+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "defector.com",
-        "display_name": "Defector",
-        "initials": "DE",
-        "did": "did:plc:n2kurkne2vwpccuqwz37ggdm"
-      },
-      "ratio": "15:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What's the worst song you love so much that you'd defend it with your life? defector.com/the-worst-so...",
-        "uri": "at://did:plc:n2kurkne2vwpccuqwz37ggdm/app.bsky.feed.post/3lwk4iwuu3x2l",
-        "created_at": "2025-08-16T19:36:00.825Z"
-      },
-      "engagement": {
-        "likes": 10,
+        "likes": 6,
         "replies": 5,
         "reposts": 1,
-        "quotes": 15,
+        "quotes": 8,
         "formatted": {
-          "likes": "10",
+          "likes": "6",
           "replies": "5",
           "reposts": "1",
-          "quotes": "15"
+          "quotes": "8"
         }
       },
       "sample_replies": [
-        "Rock Me Amadeus is a good pull, it just came up in my playlist last night; I'll raise you 'Mexican...",
-        "Neil Diamond’s entire discography.",
-        "Totally. I'm a Believer, Cherry Cherry, Solitary Man. All bangers. Some cringe.",
-        "“Brandy”"
+        "🍹",
+        "Same! I can’t even think about having one now 🤢",
+        "My go to in college if I was buying my own drink 🤣",
+        "LOL the Appletini had Black women in a chokehold back in the day.  Can't tell you how many dates I..."
       ],
       "metrics": {
-        "ratio_score": 15.0,
-        "confidence": 0.359,
-        "category": "Complete Ratio",
-        "post_age_minutes": 133.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T22:22:03.016426+00:00",
-      "last_updated": "2025-08-16T22:22:03.016426+00:00",
-      "analysis_windows": [
-        "2025-08-16T22:22:03.016426+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
-        "handle": "frau-s-aus-a",
-        "display_name": "Frau_S",
-        "initials": "FR",
-        "did": "did:plc:nvoontkz4hmkd2n4xpzrlpib"
-      },
-      "ratio": "7:0",
-      "controversy": 2.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Wenn du einen 80er-Jahre-Titel aus der Geschichte tilgen könntest, welcher wäre das?\n\nIrgendwie, Irgendwo, Irgendwann",
-        "uri": "at://did:plc:nvoontkz4hmkd2n4xpzrlpib/app.bsky.feed.post/3lwk22ixxmc2f",
-        "created_at": "2025-08-16T18:52:09.405Z"
-      },
-      "engagement": {
-        "likes": 28,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 7,
-        "formatted": {
-          "likes": "28",
-          "replies": "6",
-          "reposts": "0",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "Und Nena ist Nena, ich mag die Stimme einfach nicht.",
-        "Ich mag die ganze Frau nicht",
-        "Ich mittlerweile auch nicht mehr... 🤷",
-        "Klar, bissi Stehblues oder Gefummel im Nebel......"
-      ],
-      "metrics": {
-        "ratio_score": 13,
-        "confidence": 0.367,
-        "category": "Complete Ratio",
-        "post_age_minutes": 177.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T22:22:03.115026+00:00",
-      "last_updated": "2025-08-16T22:22:03.115026+00:00",
-      "analysis_windows": [
-        "2025-08-16T22:22:03.115026+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "jnascim.info",
-        "display_name": "Jeff Nascimento",
-        "initials": "JN",
-        "did": "did:plc:gpunjjgvlyb4racypz3yfiq4"
-      },
-      "ratio": "8:1",
-      "controversy": 2.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Exames de Bolsonaro mostram imagem residual de infecções pulmonares, esofagite e gastrite, diz boletim médico jnascim.info/Er28wR",
-        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3lwk623sc5s2f",
-        "created_at": "2025-08-16T20:03:30.555Z"
-      },
-      "engagement": {
-        "likes": 55,
-        "replies": 30,
-        "reposts": 4,
-        "quotes": 31,
-        "formatted": {
-          "likes": "55",
-          "replies": "30",
-          "reposts": "4",
-          "quotes": "31"
-        }
-      },
-      "sample_replies": [
-        "Saramago lhes diz:",
-        "Só dar cloroquina pra ele dia sim, dia não .",
-        "E daí? Nao sou coveiro.",
-        "Junto com ivermectina. É tiro e queda."
-      ],
-      "metrics": {
-        "ratio_score": 7.75,
-        "confidence": 0.703,
+        "ratio_score": 8.0,
+        "confidence": 0.328,
         "category": "Quote Dunk",
-        "post_age_minutes": 105.9
+        "post_age_minutes": 91.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-16T22:22:02.915551+00:00",
-      "last_updated": "2025-08-16T22:22:02.915551+00:00",
+      "first_detected": "2025-08-17T14:16:33.650458+00:00",
+      "last_updated": "2025-08-17T14:16:33.650458+00:00",
       "analysis_windows": [
-        "2025-08-16T22:22:02.915551+00:00"
+        "2025-08-17T14:16:33.650458+00:00"
       ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 10,
-      "user": {
-        "handle": "huffpost.com",
-        "display_name": "HuffPost",
-        "initials": "HU",
-        "did": "did:plc:j4eroku3volozvv6ljsnnfec"
-      },
-      "ratio": "8:1",
-      "controversy": 1.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The \"Real Time\" host appeared to suggest that Democrats could win more elections if they came on his show — and named several notable figures.",
-        "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3lwk5gssrf32w",
-        "created_at": "2025-08-16T19:52:43.577Z"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 30,
-        "reposts": 2,
-        "quotes": 17,
-        "formatted": {
-          "likes": "7",
-          "replies": "30",
-          "reposts": "2",
-          "quotes": "17"
-        }
-      },
-      "sample_replies": [
-        "Maybe they just don't want to waste their time with a pro-Trump hack",
-        "He only wants them on his show because he continues to hemorrhage viewers.",
-        "New Rule: Nobody should give a rat's ass what Bill Maher says.",
-        "No one is afraid to go on his trash ass show.\nSince Real Time has basically turned into the Hannity..."
-      ],
-      "metrics": {
-        "ratio_score": 8.5,
-        "confidence": 0.497,
-        "category": "Quote Dunk",
-        "post_age_minutes": 116.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T22:22:03.216168+00:00",
-      "last_updated": "2025-08-16T22:22:03.216168+00:00",
-      "analysis_windows": [
-        "2025-08-16T22:22:03.216168+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
-      "user": {
-        "handle": "chadbourn",
-        "display_name": "Mark Chadbourn",
-        "initials": "MC",
-        "did": "did:plc:movn6xzezospl7lnkhy7nzpt"
-      },
-      "ratio": "1:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Melania Trump letter to Putin.\n\nStupid signature.",
-        "uri": "at://did:plc:movn6xzezospl7lnkhy7nzpt/app.bsky.feed.post/3lwkc6w32gk2e",
-        "created_at": "2025-08-16T21:17:47.277Z"
-      },
-      "engagement": {
-        "likes": 75,
-        "replies": 51,
-        "reposts": 9,
-        "quotes": 9,
-        "formatted": {
-          "likes": "75",
-          "replies": "51",
-          "reposts": "9",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "I've read this twice and it just doesn't mean anything!",
-        "I’m positive there’s a code in there. Maybe asking how much longer she has to stay undercover.",
-        "She didn't write that and they just created a signature for her modeled after Donald's. 😂",
-        "Man... what the fuck"
-      ],
-      "metrics": {
-        "ratio_score": 1.0,
-        "confidence": 0.894,
-        "category": "Brewing Ratio",
-        "post_age_minutes": 27.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-16T21:48:14.746166+00:00",
-      "last_updated": "2025-08-16T21:48:14.746166+00:00",
-      "analysis_windows": [
-        "2025-08-16T21:48:14.746166+00:00"
-      ],
-      "peak_controversy": 0.4,
+      "peak_controversy": 1.1,
       "trend": "new"
     }
   ]
