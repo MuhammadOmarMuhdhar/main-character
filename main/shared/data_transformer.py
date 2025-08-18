@@ -140,7 +140,8 @@ class MainCharacterTransformer:
             "post": {
                 "text": original_post.get('text', ''),  # Save full text without truncation
                 "uri": original_post.get('uri', ''),
-                "created_at": original_post.get('created_at', '')
+                "created_at": original_post.get('created_at', ''),
+                "url": self._generate_post_url(original_post, user_info['handle'])
             },
             "engagement": {
                 **engagement,
@@ -173,7 +174,7 @@ class MainCharacterTransformer:
         # Try to get from author field first
         if 'author' in post and isinstance(post['author'], dict):
             author = post['author']
-            handle = author.get('handle', '').replace('.bsky.social', '').replace('@', '')
+            handle = author.get('handle', '').replace('@', '')
             display_name = author.get('display_name', '')
             did = author.get('did', '')
         else:
@@ -183,13 +184,20 @@ class MainCharacterTransformer:
             did = post.get('author_did', post.get('did', ''))
         
         # If we don't have a real handle, try to resolve from DID
+        avatar_url = None
+        profile_url = None
         if (not handle or handle.startswith('user_')) and did and self.client:
             print(f"Resolving DID {did[-8:]}... to real handle")
             profile_info = resolve_did_to_handle(did, self.client)
             if profile_info:
                 handle = profile_info['handle']
                 display_name = profile_info['display_name']
+                avatar_url = profile_info.get('avatar', '')
                 print(f"✅ Resolved to @{handle}")
+        
+        # Generate profile URL - handle already includes domain (.bsky.social or custom)
+        if handle and not handle.startswith('user_'):
+            profile_url = f"https://bsky.app/profile/{handle}"
         
         # Generate initials
         initials = generate_initials(display_name, handle)
@@ -202,7 +210,9 @@ class MainCharacterTransformer:
             "handle": handle,
             "display_name": display_name or handle.replace('_', ' ').title(),
             "initials": initials,
-            "did": did
+            "did": did,
+            "avatar_url": avatar_url or "",
+            "profile_url": profile_url or ""
         }
     
     def _calculate_controversy_score(self, ratio_metrics: Dict[str, Any], 
@@ -445,3 +455,31 @@ class MainCharacterTransformer:
                 })
         
         return main_characters, metadata
+    
+    def _generate_post_url(self, original_post: Dict[str, Any], handle: str) -> str:
+        """
+        Generate a web URL for the post
+        
+        Args:
+            original_post: Post data
+            handle: User handle
+            
+        Returns:
+            URL to the post on Bluesky web interface
+        """
+        try:
+            # Try to extract post ID from URI
+            uri = original_post.get('uri', '')
+            if uri and 'app.bsky.feed.post' in uri:
+                # Extract post ID from at:// URI
+                # Format: at://did:plc:xxx/app.bsky.feed.post/postid
+                parts = uri.split('/')
+                if len(parts) >= 4:
+                    post_id = parts[-1]
+                    if handle and not handle.startswith('user_'):
+                        return f"https://bsky.app/profile/{handle}/post/{post_id}"
+            
+            return ""
+        except Exception as e:
+            print(f"Error generating post URL: {e}")
+            return ""

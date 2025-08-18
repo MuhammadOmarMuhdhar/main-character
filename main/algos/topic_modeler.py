@@ -56,14 +56,24 @@ except ImportError:
 
 @dataclass
 class TopicResult:
-    """Single topic result with embeddings"""
+    """Single topic result with embeddings and persistence fields"""
     id: int
     label: str
     keywords: List[str]
     post_count: int
     percentage: float
     word_scores: Dict[str, float]
-    topic_embedding: List[float]  # New: topic centroid embedding
+    topic_embedding: List[float]  # Topic centroid embedding
+    
+    # Persistence fields (optional, added when persistence is enabled)
+    persistent_id: Optional[str] = None
+    first_detected: Optional[str] = None
+    last_updated: Optional[str] = None
+    trend: Optional[str] = None  # 'rising', 'falling', 'stable', 'new', 'fading'
+    post_count_change: Optional[int] = None
+    peak_post_count: Optional[int] = None
+    analysis_windows: Optional[List[str]] = None
+    status: Optional[str] = None  # 'active', 'fading', 'archived'
 
 
 @dataclass
@@ -86,6 +96,7 @@ class GeminiTopicLabeler(BaseRepresentation):
         """
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model)
+        self.gemini_labels = {}  # Store LLM labels separately
     
     def extract_topics(self, topic_model, documents, c_tf_idf, topics, **kwargs):
         """
@@ -186,7 +197,9 @@ class GeminiTopicLabeler(BaseRepresentation):
                     else:
                         label = topic_words[0].title() if topic_words else f"Topic {topic}"
                 
-                topic_representations[topic] = [label]
+                # Store LLM label separately and return TF-IDF keywords
+                self.gemini_labels[topic] = label
+                topic_representations[topic] = topic_words[:25]  # Return TF-IDF keywords
                 
             except Exception as e:
                 print(f"Gemini labeling failed for topic {topic}: {e}")
@@ -195,7 +208,9 @@ class GeminiTopicLabeler(BaseRepresentation):
                     label = f"{topic_words[0].title()} {topic_words[1].title()}"
                 else:
                     label = topic_words[0].title() if topic_words else f"Topic {topic}"
-                topic_representations[topic] = [label]
+                # Store fallback label and return TF-IDF keywords
+                self.gemini_labels[topic] = label
+                topic_representations[topic] = topic_words[:25]  # Return TF-IDF keywords
         
         return topic_representations
 
@@ -423,10 +438,10 @@ class EnglishTopicModeler:
                 if topic_id == -1:
                     continue
                 
-                # Get topic label (from Gemini or fallback)
+                # Get topic label (from Gemini labels)
                 topic_repr = topic_model.get_topic(topic_id)
-                if self.gemini_labeler and topic_id in topic_model.topic_representations_:
-                    label = topic_model.topic_representations_[topic_id][0]
+                if self.gemini_labeler and topic_id in self.gemini_labeler.gemini_labels:
+                    label = self.gemini_labeler.gemini_labels[topic_id]
                 else:
                     # Fallback to keyword-based label
                     top_words = [word for word, _ in topic_repr[:2]]
@@ -540,11 +555,12 @@ class EnglishTopicModeler:
             "collection_date": datetime.now(timezone.utc).strftime('%Y-%m-%d'),
             "collection_timestamp": datetime.now(timezone.utc).isoformat(),
             "metadata": result.metadata,
-            "topics": []
+            "topics": [],
+            "archived_topics": []  # For topic persistence
         }
         
         for topic in result.topics:
-            topics_json["topics"].append({
+            topic_dict = {
                 "id": topic.id,
                 "label": topic.label,
                 "keywords": topic.keywords,
@@ -552,7 +568,27 @@ class EnglishTopicModeler:
                 "percentage": topic.percentage,
                 "word_scores": topic.word_scores,
                 "topic_embedding": topic.topic_embedding
-            })
+            }
+            
+            # Add persistence fields if they exist
+            if topic.persistent_id is not None:
+                topic_dict["persistent_id"] = topic.persistent_id
+            if topic.first_detected is not None:
+                topic_dict["first_detected"] = topic.first_detected
+            if topic.last_updated is not None:
+                topic_dict["last_updated"] = topic.last_updated
+            if topic.trend is not None:
+                topic_dict["trend"] = topic.trend
+            if topic.post_count_change is not None:
+                topic_dict["post_count_change"] = topic.post_count_change
+            if topic.peak_post_count is not None:
+                topic_dict["peak_post_count"] = topic.peak_post_count
+            if topic.analysis_windows is not None:
+                topic_dict["analysis_windows"] = topic.analysis_windows
+            if topic.status is not None:
+                topic_dict["status"] = topic.status
+            
+            topics_json["topics"].append(topic_dict)
         
         return topics_json
 

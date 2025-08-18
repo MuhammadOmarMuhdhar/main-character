@@ -59,11 +59,13 @@ def generate_initials(display_name: str = "", handle: str = "") -> str:
     
     # Fallback to handle
     if handle:
-        clean_handle = handle.replace('.bsky.social', '').replace('@', '')
-        if len(clean_handle) >= 2:
-            return (clean_handle[0] + clean_handle[1]).upper()
-        elif len(clean_handle) == 1:
-            return (clean_handle[0] + clean_handle[0]).upper()
+        clean_handle = handle.replace('@', '')
+        # For initials, use just the username part (before domain)
+        username = clean_handle.split('.')[0] if '.' in clean_handle else clean_handle
+        if len(username) >= 2:
+            return (username[0] + username[1]).upper()
+        elif len(username) == 1:
+            return (username[0] + username[0]).upper()
     
     # Ultimate fallback
     return "MC"
@@ -171,6 +173,45 @@ def save_today_json(data: Dict[str, Any], file_path: str = None) -> bool:
     except Exception as e:
         print(f"Error saving today.json: {e}")
         return False
+
+
+def load_topics_json(file_path: str = None) -> Dict[str, Any]:
+    """
+    Load and parse topics.json safely
+    
+    Args:
+        file_path: Custom file path (default: frontend/topics.json)
+        
+    Returns:
+        Parsed JSON data or empty structure if file doesn't exist
+    """
+    if not file_path:
+        # Get path relative to this file - go to frontend directory
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        file_path = os.path.join(current_dir, '..', '..', 'frontend', 'topics.json')
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        # Return empty structure if file doesn't exist
+        return {
+            "collection_date": "",
+            "collection_timestamp": "",
+            "metadata": {
+                "total_posts": 0,
+                "topics_found": 0,
+                "persistence_enabled": True
+            },
+            "topics": [],
+            "archived_topics": []
+        }
+    except json.JSONDecodeError as e:
+        print(f"Error parsing topics.json: {e}")
+        return {"metadata": {}, "topics": [], "archived_topics": []}
+    except Exception as e:
+        print(f"Error loading topics.json: {e}")
+        return {"metadata": {}, "topics": [], "archived_topics": []}
 
 
 def save_topics_json(data: Dict[str, Any], file_path: str = None) -> bool:
@@ -333,9 +374,9 @@ def extract_handle_from_did(post: Dict[str, Any]) -> str:
         else:
             handle = "unknown_user"
     
-    # Clean the handle
+    # Clean the handle - only remove @ symbol, preserve domain
     if handle:
-        handle = handle.replace('.bsky.social', '').replace('@', '')
+        handle = handle.replace('@', '')
     
     return handle or "unknown"
 
@@ -402,7 +443,7 @@ def resolve_did_to_handle(did: str, client: Optional[Any] = None) -> Optional[Di
         
         if profile_response:
             return {
-                'handle': profile_response.handle.replace('.bsky.social', ''),
+                'handle': profile_response.handle,  # Keep full handle with domain
                 'display_name': getattr(profile_response, 'display_name', '') or '',
                 'description': getattr(profile_response, 'description', '') or '',
                 'avatar': getattr(profile_response, 'avatar', '') or '',

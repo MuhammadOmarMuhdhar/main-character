@@ -376,6 +376,31 @@ class RatioPipeline:
                 api_key=gemini_api_key
             )
             
+            # Apply topic persistence if enabled
+            try:
+                from shared.topic_evolution import TopicPersistenceManager
+                from shared.utils import load_topics_json
+                
+                # Load existing topics for persistence comparison
+                existing_topics_data = load_topics_json()
+                
+                # Check if persistence should be enabled (default: True)
+                enable_persistence = existing_topics_data.get('metadata', {}).get('persistence_enabled', True)
+                
+                if enable_persistence and existing_topics_data.get('topics'):
+                    print("🔄 Applying topic persistence...")
+                    persistence_manager = TopicPersistenceManager()
+                    topic_results = persistence_manager.update_topics_with_persistence(
+                        new_topics=topic_results.get('topics', []),
+                        existing_topics_data=existing_topics_data
+                    )
+                else:
+                    print("📝 Topic persistence disabled or no previous topics found")
+                    
+            except Exception as e:
+                print(f"⚠️ Topic persistence failed, continuing without: {e}")
+                # Continue with original results if persistence fails
+            
             print(f"✅ Main character topic analysis complete: {len(topic_results.get('topics', []))} topics identified")
             return topic_results
             

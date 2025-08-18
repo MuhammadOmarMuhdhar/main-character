@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-17T15:02:39.118885+00:00",
-    "last_metrics_update": "2025-08-17T15:02:39.118885+00:00",
+    "last_full_analysis": "2025-08-18T05:53:54.732812+00:00",
+    "last_metrics_update": "2025-08-18T05:53:54.732812+00:00",
     "collection_period_hours": 6,
     "window_period_hours": 24,
-    "main_characters_count": 6,
+    "main_characters_count": 9,
     "rolling_window": {
-      "last_update": "2025-08-17T15:02:39.118885+00:00",
-      "new_entries_added": 6,
-      "total_in_window": 6,
+      "last_update": "2025-08-18T05:53:54.732812+00:00",
+      "new_entries_added": 9,
+      "total_in_window": 9,
       "window_hours": 24,
       "update_interval_hours": 6
     }
@@ -17,324 +17,500 @@
     {
       "rank": 1,
       "user": {
-        "handle": "npr.org",
-        "display_name": "NPR",
-        "initials": "NP",
-        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh"
+        "handle": "albumism.com",
+        "display_name": "Albumism",
+        "initials": "AL",
+        "did": "did:plc:646ka4ydg2msrynu7w6rbtju",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:646ka4ydg2msrynu7w6rbtju/bafkreifxr3rz4jxncj7olhfbpgjvgpnpnezjwkuawqc3we5vrkirsq7kla@jpeg",
+        "profile_url": "https://bsky.app/profile/albumism.com"
       },
-      "ratio": "12:1",
-      "controversy": 4.9,
+      "ratio": "76:1",
+      "controversy": 5.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Looking for backup, I turned to an AI chatbot for relationship wisdom. It took my side. It was only when I challenged the bot's biases — and my own — that we had a communication breakthrough.",
-        "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3lwm3dihkjk2u",
-        "created_at": "2025-08-17T14:20:24.037302Z"
+        "text": "Think fast…what song do you think of first when you think about Aaliyah?\n\nalbum.ink/Aaliyah",
+        "uri": "at://did:plc:646ka4ydg2msrynu7w6rbtju/app.bsky.feed.post/3lwnchhdmit2e",
+        "created_at": "2025-08-18T02:00:33.010Z",
+        "url": "https://bsky.app/profile/albumism.com/post/3lwnchhdmit2e"
       },
       "engagement": {
-        "likes": 37,
-        "replies": 38,
+        "likes": 14,
+        "replies": 7,
         "reposts": 1,
-        "quotes": 12,
+        "quotes": 76,
         "formatted": {
-          "likes": "37",
-          "replies": "38",
+          "likes": "14",
+          "replies": "7",
           "reposts": "1",
-          "quotes": "12"
+          "quotes": "76"
         }
       },
       "sample_replies": [
-        "Oligarch Techbro propaganda tripe.",
-        "Please stop doing these",
-        "“Instead of donating to my local NPR station I asked ChatGPT to make me stories and sound like NPR”",
-        "Was it worth the energy and water? Was it worth supporting a plagiarism fueled garbage machine?"
+        "\"Are you that Somebody.\" It's the quintessential Aaliyah track. The R&B/Hip-Hop vibes, the voice,...",
+        "'One in a Million'",
+        "Back in One Piece with DMX. RipX2.",
+        "Try Again..."
       ],
       "metrics": {
-        "ratio_score": 12.0,
-        "confidence": 0.904,
-        "category": "Fresh Ratio",
-        "post_age_minutes": 17.7
+        "ratio_score": 76.0,
+        "confidence": 0.571,
+        "category": "Complete Ratio",
+        "post_age_minutes": 207.1
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-17T15:02:38.112171+00:00",
-      "last_updated": "2025-08-17T15:02:38.112171+00:00",
+      "first_detected": "2025-08-18T05:53:53.884785+00:00",
+      "last_updated": "2025-08-18T05:53:53.884785+00:00",
       "analysis_windows": [
-        "2025-08-17T15:02:38.112171+00:00"
+        "2025-08-18T05:53:53.884785+00:00"
       ],
-      "peak_controversy": 4.9,
+      "peak_controversy": 5.5,
       "trend": "new"
     },
     {
       "rank": 2,
       "user": {
-        "handle": "sammmystern",
-        "display_name": "Sammmy",
-        "initials": "SA",
-        "did": "did:plc:suw36afklreb5mkd4r43xd6j"
+        "handle": "bagpusskitty.bsky.social",
+        "display_name": "Bagpusskitty.Bsky.Social",
+        "initials": "BA",
+        "did": "did:plc:selfzijardf6aoioshsm2ywe",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:selfzijardf6aoioshsm2ywe/bafkreidedlcyhlsxvk2uwixj2bqlolqc3co5bjh3hwpg4qmbc2grjyaez4@jpeg",
+        "profile_url": "https://bsky.app/profile/bagpusskitty.bsky.social"
       },
-      "ratio": "8:0",
-      "controversy": 2.6,
-      "change": "+0.9",
-      "change_type": "positive",
+      "ratio": "24:1",
+      "controversy": 4.8,
+      "change": "NEW",
+      "change_type": "new",
       "post": {
-        "text": "If you see this, QTP with 10 games to get to know you by:\n\nBaldur's Gate 3\nSekiro Shadows Die Twice\nThe Witcher 3\nAlan Wake 2\nThe Last of Us 2\nElden Ring\nDoom (1993)\nDisco Elysium\nDark Souls",
-        "uri": "at://did:plc:suw36afklreb5mkd4r43xd6j/app.bsky.feed.post/3lwlvstqc6k2t",
-        "created_at": "2025-08-17T12:41:36.762Z"
+        "text": "\"Hillary Clinton praises Donald Trump’s foreign policy She argues that while she disagreed with Trump during his first term, she is impressed this time around, when it comes to his approach to NATO\"",
+        "uri": "at://did:plc:selfzijardf6aoioshsm2ywe/app.bsky.feed.post/3lwn2ehjjts2k",
+        "created_at": "2025-08-17T23:35:42.641Z",
+        "url": "https://bsky.app/profile/bagpusskitty.bsky.social/post/3lwn2ehjjts2k"
       },
       "engagement": {
-        "likes": 17,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 8,
+        "likes": 28,
+        "replies": 58,
+        "reposts": 3,
+        "quotes": 72,
         "formatted": {
-          "likes": "17",
-          "replies": "5",
-          "reposts": "0",
-          "quotes": "8"
+          "likes": "28",
+          "replies": "58",
+          "reposts": "3",
+          "quotes": "72"
         }
       },
       "sample_replies": [
-        "There's no Resident Evil 😔",
-        "Oh shit I forgot to add a 10th\n\nResident Evil (2002)\n\n@resilover.bsky.social",
-        "You might be a defender of summer but at least I can say you have good taste in video games",
-        "It was in contention with Dark Souls but my recency bias took control 😭😭😭😭😭😭😭"
+        "That’s not quoted anywhere in this video\n\nThis audio doesn’t match the video. This shit is sus as...",
+        "This is fake as fuck.",
+        "this is super fake y’all, come on",
+        "This can’t be real"
       ],
       "metrics": {
-        "ratio_score": 13,
-        "confidence": 0.401,
+        "ratio_score": 24.0,
+        "confidence": 0.496,
         "category": "Complete Ratio",
-        "post_age_minutes": 116.5
+        "post_age_minutes": 351.9
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-17T14:16:33.450803+00:00",
-      "last_updated": "2025-08-17T15:02:39.118664+00:00",
+      "first_detected": "2025-08-18T05:53:53.986470+00:00",
+      "last_updated": "2025-08-18T05:53:53.986470+00:00",
       "analysis_windows": [
-        "2025-08-17T14:16:33.450803+00:00",
-        "2025-08-17T15:02:39.118664+00:00"
+        "2025-08-18T05:53:53.986470+00:00"
       ],
-      "peak_controversy": 2.6,
-      "trend": "rising"
+      "peak_controversy": 4.8,
+      "trend": "new"
     },
     {
       "rank": 3,
       "user": {
-        "handle": "theathleticfc",
-        "display_name": "The Athletic | Football",
-        "initials": "TA",
-        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi"
+        "handle": "catchinzzzs.bsky.social",
+        "display_name": "TikTok: Catchin_zzzs 🎞️",
+        "initials": "TC",
+        "did": "did:plc:eech7jyqdzuyh6d2asypnjki",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eech7jyqdzuyh6d2asypnjki/bafkreicd4p47d7apcshsa47jjcfhnpkrdnsv4o3zyrskas24jv72as27be@jpeg",
+        "profile_url": "https://bsky.app/profile/catchinzzzs.bsky.social"
       },
-      "ratio": "10:1",
-      "controversy": 2.7,
+      "ratio": "17:1",
+      "controversy": 3.7,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Eberechi Eze thought he had given #CPFC the lead — but his free-kick was chalked off following a VAR check.\n\nThe reason VAR disallowed the goal: Marc Guehi was within a metre of the Chelsea wall as the free-kick was taken.\n\n#CHECRY",
-        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lwlyga3nrc2t",
-        "created_at": "2025-08-17T13:28:14.487Z"
+        "text": "Music ever bring yall to tears? \n\nIt’s crazy right?",
+        "uri": "at://did:plc:eech7jyqdzuyh6d2asypnjki/app.bsky.feed.post/3lwnd4v5mxk2g",
+        "created_at": "2025-08-18T02:12:32.174Z",
+        "url": "https://bsky.app/profile/catchinzzzs.bsky.social/post/3lwnd4v5mxk2g"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 15,
-        "reposts": 1,
-        "quotes": 10,
+        "likes": 29,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 34,
         "formatted": {
-          "likes": "20",
-          "replies": "15",
-          "reposts": "1",
-          "quotes": "10"
+          "likes": "29",
+          "replies": "6",
+          "reposts": "2",
+          "quotes": "34"
         }
       },
       "sample_replies": [
-        "Looking forward to all free kick goals being disallowed in the same scenario 🙃",
-        "I've just watched a video with the FK goals from last season in the PL, pretty much all of them...",
-        "What? Attackers can't be within a meter of the wall? Since when? Half the time they stand in the...",
-        "Yeah terrible that they correctly disallowed a goal by applying the laws of the game\n\nI'm sure..."
+        "Music moves me all the time",
+        "I've got a canon of songs that make me want to cry every time I hear them.\n\nTop of the list, My...",
+        "That’s how you know it’s doing what it’s supposed to do 🤌🏿",
+        "There’s just that one note in a particular song that gets me EVERY time"
       ],
       "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.535,
+        "ratio_score": 17.0,
+        "confidence": 0.454,
         "category": "Complete Ratio",
-        "post_age_minutes": 69.9
+        "post_age_minutes": 195.1
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-17T15:02:38.204383+00:00",
-      "last_updated": "2025-08-17T15:02:38.204383+00:00",
+      "first_detected": "2025-08-18T05:53:54.196981+00:00",
+      "last_updated": "2025-08-18T05:53:54.196981+00:00",
       "analysis_windows": [
-        "2025-08-17T15:02:38.204383+00:00"
+        "2025-08-18T05:53:54.196981+00:00"
       ],
-      "peak_controversy": 2.7,
+      "peak_controversy": 3.7,
       "trend": "new"
     },
     {
       "rank": 4,
       "user": {
-        "handle": "tpkthunder",
-        "display_name": "dr. lowercase dd",
-        "initials": "DL",
-        "did": "did:plc:cysof2oejv556kfernq2iyrd"
+        "handle": "clarkaddison.bsky.social",
+        "display_name": "ClarkAddison",
+        "initials": "CL",
+        "did": "did:plc:fy2zph5tdizuq6ylx7ol3w5r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fy2zph5tdizuq6ylx7ol3w5r/bafkreieahgj336xd5y5juw3vx6ct473g3x2zkt73llt4zaa6ucu2dw4vni@jpeg",
+        "profile_url": "https://bsky.app/profile/clarkaddison.bsky.social"
       },
-      "ratio": "10:0",
-      "controversy": 2.1,
-      "change": "=",
-      "change_type": "neutral",
+      "ratio": "35:1",
+      "controversy": 2.9,
+      "change": "NEW",
+      "change_type": "new",
       "post": {
-        "text": "can we talk about forgiveness for a second? do we think folks make room for forgiveness these days? \n\nwith cancel culture, and all the rest of that shit i feel like we’ve completely ignored the art and act of forgiving.",
-        "uri": "at://did:plc:cysof2oejv556kfernq2iyrd/app.bsky.feed.post/3lwlwgcfqgs2p",
-        "created_at": "2025-08-17T12:52:29.680Z"
+        "text": "Make a band food:\n\nThey Might Be Gyros",
+        "uri": "at://did:plc:fy2zph5tdizuq6ylx7ol3w5r/app.bsky.feed.post/3lwnaxs3l3c2t",
+        "created_at": "2025-08-18T01:33:53.705Z",
+        "url": "https://bsky.app/profile/clarkaddison.bsky.social/post/3lwnaxs3l3c2t"
       },
       "engagement": {
-        "likes": 3,
+        "likes": 5,
         "replies": 2,
-        "reposts": 0,
-        "quotes": 10,
+        "reposts": 1,
+        "quotes": 35,
         "formatted": {
-          "likes": "3",
+          "likes": "5",
           "replies": "2",
-          "reposts": "0",
-          "quotes": "10"
+          "reposts": "1",
+          "quotes": "35"
         }
       },
       "sample_replies": [
-        "Forgiveness as a concept comes from the forgiveness of debts. \n\nNormally, if someone wrongs you,...",
-        "now, i know there is someone out there that’s like i forgive but i don’t forget. \n\nyeah girl, we...",
-        "Forgiveness is the opposite of revenge. It's when you take the debts you are owed for harms done...",
-        "I think forgiveness is harder these days because people have started believing in, to an almost..."
+        "My preferred 3some",
+        "Make a band food:\n\nThe Almond Brothers"
       ],
       "metrics": {
-        "ratio_score": 12,
-        "confidence": 0.356,
+        "ratio_score": 35.0,
+        "confidence": 0.298,
         "category": "Complete Ratio",
-        "post_age_minutes": 105.6
+        "post_age_minutes": 233.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-17T14:16:33.269124+00:00",
-      "last_updated": "2025-08-17T15:02:39.118664+00:00",
+      "first_detected": "2025-08-18T05:53:54.094032+00:00",
+      "last_updated": "2025-08-18T05:53:54.094032+00:00",
       "analysis_windows": [
-        "2025-08-17T14:16:33.269124+00:00",
-        "2025-08-17T15:02:39.118664+00:00"
+        "2025-08-18T05:53:54.094032+00:00"
       ],
-      "peak_controversy": 2.2,
-      "trend": "rising"
+      "peak_controversy": 2.9,
+      "trend": "new"
     },
     {
       "rank": 5,
       "user": {
-        "handle": "sophianyx",
-        "display_name": "Sophia_Nyx 🏳️‍⚧️",
-        "initials": "S🏳",
-        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo"
+        "handle": "ghfan10130.bsky.social",
+        "display_name": "GHFan10130",
+        "initials": "GH",
+        "did": "did:plc:rx4f2h3cp3fvz2th6zbvx6pc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rx4f2h3cp3fvz2th6zbvx6pc/bafkreicwva2u3l6bnh4o2wrcvu6hwyzqfdvh2cu5qjkphrb5tdivvl6uyi@jpeg",
+        "profile_url": "https://bsky.app/profile/ghfan10130.bsky.social"
       },
-      "ratio": "6:1",
-      "controversy": 1.5,
-      "change": "+0.2",
-      "change_type": "positive",
+      "ratio": "13:0",
+      "controversy": 2.3,
+      "change": "NEW",
+      "change_type": "new",
       "post": {
-        "text": "Without saying Raiders of the Lost Ark, fav Harrison Ford Film?",
-        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lwlyq3judk22",
-        "created_at": "2025-08-17T13:33:45.495Z"
+        "text": "Your mother confesses she cheated on your father and had a one night stand with your birthday month during the time U was conceive and that your birthday month is your real father. \n\nWho is your daddy ? 👀 #GH",
+        "uri": "at://did:plc:rx4f2h3cp3fvz2th6zbvx6pc/app.bsky.feed.post/3lwnadakmjs2a",
+        "created_at": "2025-08-18T01:22:24.224Z",
+        "url": "https://bsky.app/profile/ghfan10130.bsky.social/post/3lwnadakmjs2a"
       },
       "engagement": {
-        "likes": 31,
-        "replies": 27,
-        "reposts": 2,
-        "quotes": 12,
+        "likes": 4,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 13,
         "formatted": {
-          "likes": "31",
-          "replies": "27",
-          "reposts": "2",
-          "quotes": "12"
+          "likes": "4",
+          "replies": "5",
+          "reposts": "0",
+          "quotes": "13"
         }
       },
       "sample_replies": [
-        "Bladerunner, hands down. And so much of Cyberpunk media can trace its roots to it.",
-        "The Fugitive",
-        "Witness",
-        "I've seen that at least 10 times. Love that movie."
+        "March, NOOOO!!!",
+        "I can live with September. He is a Dr. after all #GH",
+        "In reality, I know my mom would've chosen September. There's just no way I'm a Spencer :/",
+        "A Spencer?! BRB chucking myself off a bridge."
       ],
       "metrics": {
-        "ratio_score": 6.0,
-        "confidence": 0.601,
-        "category": "Quote Dunk",
-        "post_age_minutes": 64.4
+        "ratio_score": 18,
+        "confidence": 0.262,
+        "category": "Complete Ratio",
+        "post_age_minutes": 245.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-17T14:16:33.356750+00:00",
-      "last_updated": "2025-08-17T15:02:39.118664+00:00",
+      "first_detected": "2025-08-18T05:53:54.302499+00:00",
+      "last_updated": "2025-08-18T05:53:54.302499+00:00",
       "analysis_windows": [
-        "2025-08-17T14:16:33.356750+00:00",
-        "2025-08-17T14:16:33.651647+00:00",
-        "2025-08-17T15:02:39.118664+00:00",
-        "2025-08-17T15:02:39.118664+00:00"
+        "2025-08-18T05:53:54.302499+00:00"
       ],
-      "peak_controversy": 1.7,
-      "trend": "rising"
+      "peak_controversy": 2.3,
+      "trend": "new"
     },
     {
       "rank": 6,
       "user": {
-        "handle": "aarum",
-        "display_name": "Air-rum",
-        "initials": "AI",
-        "did": "did:plc:znna2anzmrwg3nt757kt4gvo"
+        "handle": "dreadful4x.bsky.social",
+        "display_name": "Avery",
+        "initials": "AV",
+        "did": "did:plc:rqrwotxyfioha5qx645okxqh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqrwotxyfioha5qx645okxqh/bafkreihpu74voyqlavofp5ape3ttdkeueijhlfd4gydjc5girqeowjko5a@jpeg",
+        "profile_url": "https://bsky.app/profile/dreadful4x.bsky.social"
       },
-      "ratio": "8:1",
-      "controversy": 1.1,
+      "ratio": "11:1",
+      "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "I took Long Islands down in college 😂 #GenX",
-        "uri": "at://did:plc:znna2anzmrwg3nt757kt4gvo/app.bsky.feed.post/3lwlur3k3zc2s",
-        "created_at": "2025-08-17T12:22:44.092Z"
+        "text": "My friend made Chitlin shots 🤭",
+        "uri": "at://did:plc:rqrwotxyfioha5qx645okxqh/app.bsky.feed.post/3lwn2nrfbhs2c",
+        "created_at": "2025-08-17T23:40:54.975Z",
+        "url": "https://bsky.app/profile/dreadful4x.bsky.social/post/3lwn2nrfbhs2c"
       },
       "engagement": {
-        "likes": 6,
-        "replies": 5,
-        "reposts": 1,
-        "quotes": 8,
+        "likes": 26,
+        "replies": 24,
+        "reposts": 7,
+        "quotes": 74,
         "formatted": {
-          "likes": "6",
-          "replies": "5",
-          "reposts": "1",
-          "quotes": "8"
+          "likes": "26",
+          "replies": "24",
+          "reposts": "7",
+          "quotes": "74"
         }
       },
       "sample_replies": [
-        "🍹",
-        "Same! I can’t even think about having one now 🤢",
-        "My go to in college if I was buying my own drink 🤣",
-        "LOL the Appletini had Black women in a chokehold back in the day.  Can't tell you how many dates I..."
+        "You and your friend both sick",
+        "yeah, it's time",
+        "I don't know you, but that friend ain't your friend."
       ],
       "metrics": {
-        "ratio_score": 8.0,
-        "confidence": 0.328,
-        "category": "Quote Dunk",
-        "post_age_minutes": 91.2
+        "ratio_score": 10.57,
+        "confidence": 0.437,
+        "category": "Complete Ratio",
+        "post_age_minutes": 346.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-17T14:16:33.650458+00:00",
-      "last_updated": "2025-08-17T14:16:33.650458+00:00",
+      "first_detected": "2025-08-18T05:53:54.402588+00:00",
+      "last_updated": "2025-08-18T05:53:54.402588+00:00",
       "analysis_windows": [
-        "2025-08-17T14:16:33.650458+00:00"
+        "2025-08-18T05:53:54.402588+00:00"
       ],
-      "peak_controversy": 1.1,
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "hopeforever9.bsky.social",
+        "display_name": "Beth 🇪🇹",
+        "initials": "B🇪",
+        "did": "did:plc:uipr6hi46swwctmpwyu5i6ey",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uipr6hi46swwctmpwyu5i6ey/bafkreigaat7fb5fyjcmsvnwwzv4bsedccf5mbjyryv2tmctlakj76rpcxu@jpeg",
+        "profile_url": "https://bsky.app/profile/hopeforever9.bsky.social"
+      },
+      "ratio": "11:1",
+      "controversy": 2.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Bitch he’s married don’t be a hoe",
+        "uri": "at://did:plc:uipr6hi46swwctmpwyu5i6ey/app.bsky.feed.post/3lwneu2ikwc2q",
+        "created_at": "2025-08-18T02:43:23.266Z",
+        "url": "https://bsky.app/profile/hopeforever9.bsky.social/post/3lwneu2ikwc2q"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 3,
+        "reposts": 3,
+        "quotes": 32,
+        "formatted": {
+          "likes": "15",
+          "replies": "3",
+          "reposts": "3",
+          "quotes": "32"
+        }
+      },
+      "sample_replies": [
+        "It's well known around these parts that he likes to fight. So what do you think his wife is going...",
+        "Tell her she will get jumped",
+        "Lmao wtf... That's awkward"
+      ],
+      "metrics": {
+        "ratio_score": 10.67,
+        "confidence": 0.4,
+        "category": "Complete Ratio",
+        "post_age_minutes": 164.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-18T05:53:54.605041+00:00",
+      "last_updated": "2025-08-18T05:53:54.605041+00:00",
+      "analysis_windows": [
+        "2025-08-18T05:53:54.605041+00:00"
+      ],
+      "peak_controversy": 2.2,
+      "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "raichana.bsky.social",
+        "display_name": "Raichana 🏵️VGen🏵️",
+        "initials": "R🏵",
+        "did": "did:plc:ssdcn5wacn4zasyl24evdjvg",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ssdcn5wacn4zasyl24evdjvg/bafkreif7xzuxzwaf4flqphygd2zbjr4o6ga3x5ylct6obc375mqy77nmuu@jpeg",
+        "profile_url": "https://bsky.app/profile/raichana.bsky.social"
+      },
+      "ratio": "9:0",
+      "controversy": 2.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "If you see this, quote with 10 games to get to know you by: \n\n🏵️Kiseki series (The 3rd specifcally)\n🏵️Ys 8\n🏵️Nier series\n🏵️Radiant Historia\n🏵️Ai: The Somnium Files series\n🏵️Zero escape series\n🏵️Kingdome hearts \n🏵️Deltarune/Undertale\n🏵️Fire emblem series\n🏵️Pokemon series (crystal specifically)",
+        "uri": "at://did:plc:ssdcn5wacn4zasyl24evdjvg/app.bsky.feed.post/3lwnalv4xhs25",
+        "created_at": "2025-08-18T01:27:14.243Z",
+        "url": "https://bsky.app/profile/raichana.bsky.social/post/3lwnalv4xhs25"
+      },
+      "engagement": {
+        "likes": 14,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 9,
+        "formatted": {
+          "likes": "14",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "it's so good! I love the way the story is structured, and the setting is super cool, and yeah god...",
+        "I love all the games but the third is just special\nKevin being the protag helps of course but i...",
+        "Sky 3rd and Ys 8 are definitely some of Falcom's best works!\n\nI see Crystal and I'm now curious to..."
+      ],
+      "metrics": {
+        "ratio_score": 13,
+        "confidence": 0.312,
+        "category": "Complete Ratio",
+        "post_age_minutes": 240.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-18T05:53:54.732540+00:00",
+      "last_updated": "2025-08-18T05:53:54.732540+00:00",
+      "analysis_windows": [
+        "2025-08-18T05:53:54.732540+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
+      "user": {
+        "handle": "atherton.bsky.social",
+        "display_name": "Kelsey Atherton",
+        "initials": "KA",
+        "did": "did:plc:6vxkf3dayl4uyc77vv6deraj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6vxkf3dayl4uyc77vv6deraj/bafkreicku3oxx4djoh4phqhy7uuy2cp3w7x6jiyhseopa4ymzkjusv7fju@jpeg",
+        "profile_url": "https://bsky.app/profile/atherton.bsky.social"
+      },
+      "ratio": "8:1",
+      "controversy": 1.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Is \"Star Wars: The Rise of Skywalker\" or \"Star Trek: Section 31\" the worse movie?",
+        "uri": "at://did:plc:6vxkf3dayl4uyc77vv6deraj/app.bsky.feed.post/3lwnaon47ec2f",
+        "created_at": "2025-08-18T01:28:46.493Z",
+        "url": "https://bsky.app/profile/atherton.bsky.social/post/3lwnaon47ec2f"
+      },
+      "engagement": {
+        "likes": 77,
+        "replies": 30,
+        "reposts": 2,
+        "quotes": 16,
+        "formatted": {
+          "likes": "77",
+          "replies": "30",
+          "reposts": "2",
+          "quotes": "16"
+        }
+      },
+      "sample_replies": [
+        "Section 31 is an absolute dogshit movie but The Rise of Skywalker is supposed to satisfactorily...",
+        "I think TROS is worse. Section 31 was a badly executed side thing, TROS is just full-on bad, and...",
+        "The rise of skywalker was the last film I watched in theatre before covid lockdowns started.\n\nSo...",
+        "right! It's a movie fully afraid to make a choice yet insistent that it pretend to be important"
+      ],
+      "metrics": {
+        "ratio_score": 8.0,
+        "confidence": 0.551,
+        "category": "Quote Dunk",
+        "post_age_minutes": 238.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-18T05:53:54.505021+00:00",
+      "last_updated": "2025-08-18T05:53:54.505021+00:00",
+      "analysis_windows": [
+        "2025-08-18T05:53:54.505021+00:00"
+      ],
+      "peak_controversy": 1.9,
       "trend": "new"
     }
   ]

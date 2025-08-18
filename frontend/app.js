@@ -116,10 +116,13 @@ function createMainCharacterRow(character, index) {
                     <!-- Row 1: User + Metrics -->
                     <div class="grid grid-cols-[2fr_1fr_1fr_1fr_auto] gap-4 items-center mb-3">
                         <div class="font-medium text-left flex items-center gap-3">
-                            <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-gray-800 text-gray-800 dark:border-neutral-200 dark:text-white">
-                                ${character.user.initials}
-                            </span>
-                            @${character.user.handle}
+                            ${createProfileImage(character.user)}
+                            <a href="${character.user.profile_url || '#'}" 
+                               target="_blank" 
+                               class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
+                               onclick="event.stopPropagation();">
+                                @${character.user.handle}
+                            </a>
                         </div>
                         <div class="text-sm text-gray-600 dark:text-neutral-400 text-center">${character.ratio}</div>
                         <div class="text-sm ${controversyColor} font-semibold text-center">${character.controversy}/10</div>
@@ -136,7 +139,12 @@ function createMainCharacterRow(character, index) {
                     </div>
                     <!-- Row 2: Post -->
                     <div class="text-sm text-gray-600 dark:text-neutral-400 italic mb-2 text-left">
-                        "${character.post.text}"
+                        <a href="${character.post.url || '#'}" 
+                           target="_blank" 
+                           class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                           onclick="event.stopPropagation();">
+                            "${character.post.text}"
+                        </a>
                     </div>
                     <!-- Row 3: Post Metrics -->
                     <div class="flex items-center gap-6 text-xs text-gray-500 dark:text-neutral-500">
@@ -280,14 +288,113 @@ function renderTrendingTopics(topics) {
     // Clear existing content
     container.innerHTML = '';
     
-    // Render each topic (without ratings)
+    // Render each topic with trend indicators
     topics.forEach(topic => {
         const topicElement = document.createElement('div');
-        topicElement.className = 'flex justify-between items-center';
+        topicElement.className = 'flex justify-between items-center py-1';
+        
+        // Get trend indicator and info
+        const trendInfo = getTopicTrendInfo(topic);
+        
         topicElement.innerHTML = `
-            <span class="text-sm text-gray-700 dark:text-neutral-300">${topic.label}</span>
-            <span class="text-xs text-gray-500 dark:text-neutral-500">${topic.post_count} posts</span>
+            <div class="flex items-center gap-2">
+                <span class="text-sm text-gray-700 dark:text-neutral-300">${topic.label}</span>
+                ${trendInfo.indicator}
+            </div>
+            <div class="flex items-center gap-2">
+                <span class="text-xs text-gray-500 dark:text-neutral-500">${topic.post_count} posts</span>
+                ${trendInfo.changeText}
+            </div>
         `;
         container.appendChild(topicElement);
     });
+}
+
+function getTopicTrendInfo(topic) {
+    /**
+     * Get trend indicator and change text for a topic
+     */
+    const trend = topic.trend || 'stable';
+    const postCountChange = topic.post_count_change || 0;
+    const firstDetected = topic.first_detected;
+    
+    let indicator = '';
+    let changeText = '';
+    
+    // Determine trend indicator
+    switch (trend) {
+        case 'rising':
+            indicator = '<span class="text-green-500 dark:text-green-400 text-xs font-medium" title="Rising">rising</span>';
+            if (postCountChange > 0) {
+                changeText = `<span class="text-xs text-green-600 dark:text-green-400">+${postCountChange}</span>`;
+            }
+            break;
+        case 'falling':
+            indicator = '<span class="text-red-500 dark:text-red-400 text-xs font-medium" title="Falling">falling</span>';
+            if (postCountChange < 0) {
+                changeText = `<span class="text-xs text-red-600 dark:text-red-400">${postCountChange}</span>`;
+            }
+            break;
+        case 'new':
+            indicator = '<span class="text-blue-500 dark:text-blue-400 text-xs font-medium" title="New topic">new</span>';
+            break;
+        case 'stable':
+            // No indicator for stable topics
+            break;
+        case 'fading':
+            // No indicator for fading topics
+            break;
+        default:
+            // No trend information available
+            break;
+    }
+    
+    // Add age information for persistent topics
+    if (firstDetected && trend !== 'new') {
+        try {
+            const firstDate = new Date(firstDetected);
+            const now = new Date();
+            const diffHours = Math.floor((now - firstDate) / (1000 * 60 * 60));
+            
+            let ageText = '';
+            if (diffHours < 24) {
+                ageText = `${diffHours}h`;
+            } else {
+                const diffDays = Math.floor(diffHours / 24);
+                ageText = `${diffDays}d`;
+            }
+            
+            if (ageText) {
+                changeText = changeText ? 
+                    `${changeText} · <span class="text-xs text-gray-400">${ageText}</span>` :
+                    `<span class="text-xs text-gray-400">${ageText}</span>`;
+            }
+        } catch (e) {
+            // Ignore date parsing errors
+        }
+    }
+    
+    return {
+        indicator: indicator,
+        changeText: changeText
+    };
+}
+
+function createProfileImage(user) {
+    /**
+     * Create profile image element - use avatar if available, fallback to initials
+     */
+    if (user.avatar_url && user.avatar_url.trim()) {
+        return `<img src="${user.avatar_url}" 
+                     alt="${user.handle} avatar" 
+                     class="size-11 rounded-full border border-gray-300 dark:border-neutral-600 object-cover"
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-gray-800 text-gray-800 dark:border-neutral-200 dark:text-white" style="display:none;">
+                    ${user.initials}
+                </span>`;
+    } else {
+        return `<span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-gray-800 text-gray-800 dark:border-neutral-200 dark:text-white">
+                    ${user.initials}
+                </span>`;
+    }
 }
