@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T10:27:04.173064+00:00",
-    "last_metrics_update": "2025-08-20T12:47:52.991182+00:00",
+    "last_metrics_update": "2025-08-20T13:02:51.067605+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 11,
@@ -257,12 +257,12 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lwsz4yietn2b"
       },
       "engagement": {
-        "likes": 54,
+        "likes": 55,
         "replies": 12,
         "reposts": 2,
         "quotes": 9,
         "formatted": {
-          "likes": "54",
+          "likes": "55",
           "replies": "12",
           "reposts": "2",
           "quotes": "9"
@@ -316,12 +316,12 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwsw3kt2rk2x"
       },
       "engagement": {
-        "likes": 47,
+        "likes": 50,
         "replies": 13,
         "reposts": 6,
         "quotes": 6,
         "formatted": {
-          "likes": "47",
+          "likes": "50",
           "replies": "13",
           "reposts": "6",
           "quotes": "6"
@@ -429,13 +429,13 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 63,
-        "replies": 4,
+        "likes": 66,
+        "replies": 5,
         "reposts": 0,
         "quotes": 17,
         "formatted": {
-          "likes": "63",
-          "replies": "4",
+          "likes": "66",
+          "replies": "5",
           "reposts": "0",
           "quotes": "17"
         }
@@ -596,15 +596,15 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 106,
+        "likes": 111,
         "replies": 2,
         "reposts": 5,
-        "quotes": 15,
+        "quotes": 16,
         "formatted": {
-          "likes": "106",
+          "likes": "111",
           "replies": "2",
           "reposts": "5",
-          "quotes": "15"
+          "quotes": "16"
         }
       },
       "sample_replies": [
