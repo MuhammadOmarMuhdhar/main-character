@@ -33,6 +33,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        python -m textblob.download_corpora
 
     - name: Check last analysis time
       id: check_timer
