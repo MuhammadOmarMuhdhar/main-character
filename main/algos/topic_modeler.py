@@ -164,23 +164,30 @@ class GeminiTopicLabeler(BaseRepresentation):
             try:
                 posts_text = "\n".join([f"- {post}" for post in sample_posts[:5]])
                 
-                prompt = f"""
-                Create a concise, punchy topic label for controversial social media discussions. These posts are getting "ratio'd" (negative engagement) on social platforms:
+                prompt = f"""Generate a precise, engaging topic label for this social media discussion cluster.
 
-                Sample posts from this topic:
+                SAMPLE POSTS:
                 {posts_text}
 
-                Key terms: {', '.join(topic_words[:8])}
+                KEY TERMS: {', '.join(topic_words[:8])}
 
-                Guidelines:
-                - 2-4 words maximum
-                - Capture the specific debate/controversy 
-                - Be descriptive, not generic
-                - Focus on what people are arguing about
-                - Examples of good labels: "Cancel Culture Debate", "AI Job Fears", "Climate Policy Fight"
-                - Examples of bad labels: "Technology", "Politics", "Social Issues"
+                REQUIREMENTS:
+                • 2-4 words maximum
+                • Capture the core debate/discussion point
+                • Use specific, concrete language over generic terms
+                • Focus on what users are actively discussing or arguing about
+                • Avoid vague words like "discussion," "debate," "controversy"
 
-                Topic label:"""
+                GOOD EXAMPLES:
+                • "Kendrick Lamar Legacy" (not "Music Discussion")
+                • "Manchester United vs Arsenal" (not "Sports Rivalry")
+                • "Taylor Swift Tickets" (not "Concert Issues")
+                • "Tesla Autopilot Safety" (not "Car Technology")
+                • "Gaza Ceasefire Talks" (not "Middle East Politics")
+                • "Student Loan Forgiveness" (not "Education Policy")
+                • "Wedding Cost Debate" (not "Lifestyle Topics")
+
+                Topic Label:"""
                 
                 response = self.model.generate_content(prompt)
                 label = response.text.strip()
