@@ -9,9 +9,10 @@ import os
 import argparse
 from datetime import datetime, timezone
 
-# Add current directory to path for imports
+# Add current directory and parent to path for imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(current_dir)
+sys.path.append(os.path.dirname(current_dir))
 
 # Import our modules
 from shared.data_transformer import MainCharacterTransformer
