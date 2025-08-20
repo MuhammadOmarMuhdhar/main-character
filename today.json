@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-20T06:21:07.907326+00:00",
-    "last_metrics_update": "2025-08-20T06:21:07.907326+00:00",
+    "last_full_analysis": "2025-08-20T07:17:28.471280+00:00",
+    "last_metrics_update": "2025-08-20T07:17:28.471280+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 7,
     "rolling_window": {
-      "last_update": "2025-08-20T06:21:07.907326+00:00",
+      "last_update": "2025-08-20T07:17:28.471280+00:00",
       "new_entries_added": 7,
       "total_in_window": 7,
       "window_hours": 24,
@@ -17,57 +17,57 @@
     {
       "rank": 1,
       "user": {
-        "handle": "iamabundantaf.bsky.social",
-        "display_name": "I Am Abundant AF",
-        "initials": "IA",
-        "did": "did:plc:fi4g4mzyxx3djsd66kzz6avj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fi4g4mzyxx3djsd66kzz6avj/bafkreigtsxkr25dngswjmictkgdkgyrbp7su4oslj62vrf3h3tp5rmowga@jpeg",
-        "profile_url": "https://bsky.app/profile/iamabundantaf.bsky.social"
+        "handle": "mightyatom.bsky.social",
+        "display_name": "max schwartz",
+        "initials": "MS",
+        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
+        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
       },
-      "ratio": "41:1",
-      "controversy": 5.1,
+      "ratio": "6:0",
+      "controversy": 3.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Anime lovers: are there any anime you wish you could watch again, but it was like the first time?",
-        "uri": "at://did:plc:fi4g4mzyxx3djsd66kzz6avj/app.bsky.feed.post/3lwsidwghmk2e",
-        "created_at": "2025-08-20T03:29:15.795Z",
-        "url": "https://bsky.app/profile/iamabundantaf.bsky.social/post/3lwsidwghmk2e"
+        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
+        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
+        "created_at": "2025-08-20T05:32:56.421Z",
+        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 16,
-        "replies": 18,
-        "reposts": 1,
-        "quotes": 41,
+        "likes": 32,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 6,
         "formatted": {
-          "likes": "16",
-          "replies": "18",
-          "reposts": "1",
-          "quotes": "41"
+          "likes": "32",
+          "replies": "8",
+          "reposts": "0",
+          "quotes": "6"
         }
       },
       "sample_replies": [
-        "Seven Deadly Sins",
-        "Trigun and Cowboy Bebop.",
-        "Solo leveling",
-        "Trigun"
+        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
+        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
+        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
+        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
       ],
       "metrics": {
-        "ratio_score": 41.0,
-        "confidence": 0.524,
+        "ratio_score": 14,
+        "confidence": 0.525,
         "category": "Complete Ratio",
-        "post_age_minutes": 160.4
+        "post_age_minutes": 93.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T06:21:07.039994+00:00",
-      "last_updated": "2025-08-20T06:21:07.039994+00:00",
+      "first_detected": "2025-08-20T07:17:27.934850+00:00",
+      "last_updated": "2025-08-20T07:17:27.934850+00:00",
       "analysis_windows": [
-        "2025-08-20T06:21:07.039994+00:00"
+        "2025-08-20T07:17:27.934850+00:00"
       ],
-      "peak_controversy": 5.1,
+      "peak_controversy": 3.5,
       "trend": "new"
     },
     {
@@ -80,8 +80,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
         "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
       },
-      "ratio": "9:0",
-      "controversy": 3.1,
+      "ratio": "10:0",
+      "controversy": 3.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -91,39 +91,39 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 40,
-        "replies": 2,
+        "likes": 44,
+        "replies": 3,
         "reposts": 0,
-        "quotes": 9,
+        "quotes": 10,
         "formatted": {
-          "likes": "40",
-          "replies": "2",
+          "likes": "44",
+          "replies": "3",
           "reposts": "0",
-          "quotes": "9"
+          "quotes": "10"
         }
       },
       "sample_replies": [
         "13. 13 Assassins\n14. Hellraiser II: Hellbound\n15. The Loved Ones",
         "God I was so close to including the loved ones",
-        "What a picture",
-        "I still haven’t see The Taste of Things but I’m certain it’s going to join my top 100 when I do"
+        "I still haven’t see The Taste of Things but I’m certain it’s going to join my top 100 when I do",
+        "What a picture"
       ],
       "metrics": {
-        "ratio_score": 11,
-        "confidence": 0.582,
+        "ratio_score": 13,
+        "confidence": 0.546,
         "category": "Complete Ratio",
-        "post_age_minutes": 64.4
+        "post_age_minutes": 121.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T06:21:07.177901+00:00",
-      "last_updated": "2025-08-20T06:21:07.177901+00:00",
+      "first_detected": "2025-08-20T07:17:28.024028+00:00",
+      "last_updated": "2025-08-20T07:17:28.024028+00:00",
       "analysis_windows": [
-        "2025-08-20T06:21:07.177901+00:00"
+        "2025-08-20T07:17:28.024028+00:00"
       ],
-      "peak_controversy": 3.1,
+      "peak_controversy": 3.4,
       "trend": "new"
     },
     {
@@ -137,7 +137,7 @@
         "profile_url": "https://bsky.app/profile/lagroovekagejo.bsky.social"
       },
       "ratio": "10:0",
-      "controversy": 2.5,
+      "controversy": 2.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -166,76 +166,76 @@
       ],
       "metrics": {
         "ratio_score": 15,
-        "confidence": 0.343,
+        "confidence": 0.292,
         "category": "Complete Ratio",
-        "post_age_minutes": 84.4
+        "post_age_minutes": 141.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T06:21:07.336850+00:00",
-      "last_updated": "2025-08-20T06:21:07.336850+00:00",
+      "first_detected": "2025-08-20T07:17:28.113573+00:00",
+      "last_updated": "2025-08-20T07:17:28.113573+00:00",
       "analysis_windows": [
-        "2025-08-20T06:21:07.336850+00:00"
+        "2025-08-20T07:17:28.113573+00:00"
       ],
-      "peak_controversy": 2.5,
+      "peak_controversy": 2.1,
       "trend": "new"
     },
     {
       "rank": 4,
       "user": {
-        "handle": "lizdye.bsky.social",
-        "display_name": "Liz Dye",
-        "initials": "LD",
-        "did": "did:plc:bfdiyietterineb3cvu3ddco",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bfdiyietterineb3cvu3ddco/bafkreidz2nrnqirteohscgts3sjdjc7jzsnm2gpiyqkhri5e5vvlrvozwe@jpeg",
-        "profile_url": "https://bsky.app/profile/lizdye.bsky.social"
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
       },
       "ratio": "2:1",
-      "controversy": 0.7,
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "La AG says Roblox \"bypassed\" COPPA's \"mandate\" by complying with the law's ban on collecting info on underage users\n\nIs that how it works, @mmasnick.bsky.social?\n\nwww.ag.state.la.us/Files/Articl...",
-        "uri": "at://did:plc:bfdiyietterineb3cvu3ddco/app.bsky.feed.post/3lwshkfhmdc2m",
-        "created_at": "2025-08-20T03:14:59.136Z",
-        "url": "https://bsky.app/profile/lizdye.bsky.social/post/3lwshkfhmdc2m"
+        "text": "‘Don’t call this racist’: row grows over motives behind England flag campaign",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lwslokf7rl2s",
+        "created_at": "2025-08-20T04:28:53.338Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lwslokf7rl2s"
       },
       "engagement": {
-        "likes": 75,
-        "replies": 10,
-        "reposts": 2,
-        "quotes": 5,
+        "likes": 29,
+        "replies": 29,
+        "reposts": 7,
+        "quotes": 13,
         "formatted": {
-          "likes": "75",
-          "replies": "10",
-          "reposts": "2",
-          "quotes": "5"
+          "likes": "29",
+          "replies": "29",
+          "reposts": "7",
+          "quotes": "13"
         }
       },
       "sample_replies": [
-        "WTF?!?",
-        "If I'm reading this correctly (and I'm not sure I am), this sounds like a Catch-22.",
-        "This is the world where we assume COPPA has nothing to do with data.",
-        "they could have\n\nit is against the law, as we explain\n\nbut they could have"
+        "Because people with a \"look over there!\" Agenda can easily manipulate the poor, uneducated, angry...",
+        "Why are people fighting the stupidest fights, while their planet is literally turning into a desert?",
+        "I'll call it racist because it is racist. That flag has been so degraded by its association with...",
+        "I’m not racist but…"
       ],
       "metrics": {
-        "ratio_score": 2.5,
-        "confidence": 0.614,
+        "ratio_score": 1.86,
+        "confidence": 0.529,
         "category": "Quote Dunk",
-        "post_age_minutes": 174.6
+        "post_age_minutes": 156.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T06:21:07.477300+00:00",
-      "last_updated": "2025-08-20T06:21:07.477300+00:00",
+      "first_detected": "2025-08-20T07:17:28.290259+00:00",
+      "last_updated": "2025-08-20T07:17:28.290259+00:00",
       "analysis_windows": [
-        "2025-08-20T06:21:07.477300+00:00"
+        "2025-08-20T07:17:28.290259+00:00"
       ],
-      "peak_controversy": 0.7,
+      "peak_controversy": 0.5,
       "trend": "new"
     },
     {
@@ -249,7 +249,7 @@
         "profile_url": "https://bsky.app/profile/popcrave.com"
       },
       "ratio": "2:1",
-      "controversy": 0.5,
+      "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -259,12 +259,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 76,
+        "likes": 85,
         "replies": 4,
         "reposts": 4,
         "quotes": 7,
         "formatted": {
-          "likes": "76",
+          "likes": "85",
           "replies": "4",
           "reposts": "4",
           "quotes": "7"
@@ -275,24 +275,80 @@
       ],
       "metrics": {
         "ratio_score": 1.75,
-        "confidence": 0.655,
+        "confidence": 0.632,
         "category": "Quote Dunk",
-        "post_age_minutes": 95.5
+        "post_age_minutes": 152.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T06:21:07.616596+00:00",
-      "last_updated": "2025-08-20T06:21:07.616596+00:00",
+      "first_detected": "2025-08-20T07:17:28.203452+00:00",
+      "last_updated": "2025-08-20T07:17:28.203452+00:00",
       "analysis_windows": [
-        "2025-08-20T06:21:07.616596+00:00"
+        "2025-08-20T07:17:28.203452+00:00"
       ],
-      "peak_controversy": 0.5,
+      "peak_controversy": 0.4,
       "trend": "new"
     },
     {
       "rank": 6,
+      "user": {
+        "handle": "vickyacab.bsky.social",
+        "display_name": "Vicky ACAB",
+        "initials": "VA",
+        "did": "did:plc:jixzwq4m7ospbdk43hz3lbed",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jixzwq4m7ospbdk43hz3lbed/bafkreibwsavmghsklgnlmtoureuhbdne5jv57uvlv576v2oarj7rrginw4@jpeg",
+        "profile_url": "https://bsky.app/profile/vickyacab.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "in no particular order, 15 movies to get to know me (cont'd in comments)\n\n1. Man With a Movie Camera\n2. Moonstruck\n3. Possession\n4. Texas Chainsaw Massacre 2\n5. La Grande Bouffe\n6. Withnail and I\n7. A Bread Factory\n8. Portrait of a Lady on Fire\n9. Predator\n10. Mulholland Drive\n11. The Thing",
+        "uri": "at://did:plc:jixzwq4m7ospbdk43hz3lbed/app.bsky.feed.post/3lwspi3oj2s2u",
+        "created_at": "2025-08-20T05:36:51.709Z",
+        "url": "https://bsky.app/profile/vickyacab.bsky.social/post/3lwspi3oj2s2u"
+      },
+      "engagement": {
+        "likes": 19,
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 5,
+        "formatted": {
+          "likes": "19",
+          "replies": "2",
+          "reposts": "3",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "12. Peter Watkins' La Commune\n13. His Girl Friday\n14. Battle Royale \n15. Alien",
+        "Instantly full of regret that I didn't instead prioritize The Wicker Man, Matrix, The Draughtsmen...",
+        "Fuck! Blair Witch! Fuck! God I've got to go to sleep instead of thinking of favorite movies I wish...",
+        "Lots to do!!"
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "confidence": 0.454,
+        "category": "Quote Dunk",
+        "post_age_minutes": 89.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T07:17:28.382502+00:00",
+      "last_updated": "2025-08-20T07:17:28.382502+00:00",
+      "analysis_windows": [
+        "2025-08-20T07:17:28.382502+00:00"
+      ],
+      "peak_controversy": 0.3,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
       "user": {
         "handle": "financialtimes.com",
         "display_name": "Financial Times",
@@ -302,7 +358,7 @@
         "profile_url": "https://bsky.app/profile/financialtimes.com"
       },
       "ratio": "2:1",
-      "controversy": 0.5,
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -312,14 +368,14 @@
         "url": "https://bsky.app/profile/financialtimes.com/post/3lwsmxuzc4t2u"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 14,
-        "reposts": 2,
+        "likes": 25,
+        "replies": 16,
+        "reposts": 3,
         "quotes": 5,
         "formatted": {
-          "likes": "20",
-          "replies": "14",
-          "reposts": "2",
+          "likes": "25",
+          "replies": "16",
+          "reposts": "3",
           "quotes": "5"
         }
       },
@@ -329,75 +385,19 @@
         "She’s got that Kristi Noem face about to fall off look down cold"
       ],
       "metrics": {
-        "ratio_score": 2.5,
-        "confidence": 0.444,
-        "category": "Quote Dunk",
-        "post_age_minutes": 77.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T06:21:07.755767+00:00",
-      "last_updated": "2025-08-20T06:21:07.755767+00:00",
-      "analysis_windows": [
-        "2025-08-20T06:21:07.755767+00:00"
-      ],
-      "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "theguardian.com",
-        "display_name": "The Guardian",
-        "initials": "TG",
-        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
-        "profile_url": "https://bsky.app/profile/theguardian.com"
-      },
-      "ratio": "2:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Should babies wear socks all the time? The new battleground in the generational war",
-        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lwsosmg25c2t",
-        "created_at": "2025-08-20T05:24:50.911Z",
-        "url": "https://bsky.app/profile/theguardian.com/post/3lwsosmg25c2t"
-      },
-      "engagement": {
-        "likes": 15,
-        "replies": 5,
-        "reposts": 3,
-        "quotes": 5,
-        "formatted": {
-          "likes": "15",
-          "replies": "5",
-          "reposts": "3",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "In my experience, the babies usually make that decision themselves.",
-        "And the other lesson the parents of every generation have to learn: socks don't stay on babies'...",
-        "As someone from Hawaii, no.",
-        "Haven’t read the article but NO—all of us should go barefoot as much as possible in the warm time..."
-      ],
-      "metrics": {
         "ratio_score": 1.67,
-        "confidence": 0.429,
+        "confidence": 0.422,
         "category": "Quote Dunk",
-        "post_age_minutes": 44.8
+        "post_age_minutes": 134.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T06:21:07.907198+00:00",
-      "last_updated": "2025-08-20T06:21:07.907198+00:00",
+      "first_detected": "2025-08-20T07:17:28.471133+00:00",
+      "last_updated": "2025-08-20T07:17:28.471133+00:00",
       "analysis_windows": [
-        "2025-08-20T06:21:07.907198+00:00"
+        "2025-08-20T07:17:28.471133+00:00"
       ],
       "peak_controversy": 0.3,
       "trend": "new"
