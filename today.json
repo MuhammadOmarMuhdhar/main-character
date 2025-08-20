@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T07:17:28.471280+00:00",
-    "last_metrics_update": "2025-08-20T08:32:25.471987+00:00",
+    "last_metrics_update": "2025-08-20T08:47:36.347192+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 7,
@@ -94,12 +94,12 @@
         "likes": 31,
         "replies": 31,
         "reposts": 6,
-        "quotes": 22,
+        "quotes": 23,
         "formatted": {
           "likes": "31",
           "replies": "31",
           "reposts": "6",
-          "quotes": "22"
+          "quotes": "23"
         }
       },
       "sample_replies": [
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 50,
+        "likes": 53,
         "replies": 4,
         "reposts": 0,
         "quotes": 15,
         "formatted": {
-          "likes": "50",
+          "likes": "53",
           "replies": "4",
           "reposts": "0",
           "quotes": "15"
@@ -259,12 +259,12 @@
         "url": "https://bsky.app/profile/vickyacab.bsky.social/post/3lwspi3oj2s2u"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 2,
         "reposts": 2,
         "quotes": 6,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "2",
           "reposts": "2",
           "quotes": "6"
