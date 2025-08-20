@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T13:46:49.748653+00:00",
-    "last_metrics_update": "2025-08-20T14:47:57.580839+00:00",
+    "last_metrics_update": "2025-08-20T15:03:02.087526+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 18,
@@ -138,8 +138,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:63slnz7ykhqj42cp73xux63b/bafkreictkbo74b22rzwoy4jdrtcqratwuzjmkrghffx4s24xmcgne2smii@jpeg",
         "profile_url": "https://bsky.app/profile/amesorisu.bsky.social"
       },
-      "ratio": "23:0",
-      "controversy": 0.8,
+      "ratio": "24:0",
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -152,12 +152,12 @@
         "likes": 5,
         "replies": 2,
         "reposts": 0,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
           "likes": "5",
           "replies": "2",
           "reposts": "0",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -473,7 +473,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
         "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
       },
-      "ratio": "10:1",
+      "ratio": "11:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -484,15 +484,15 @@
         "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwtbbzcqys2s"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 18,
         "replies": 7,
         "reposts": 1,
-        "quotes": 10,
+        "quotes": 11,
         "formatted": {
-          "likes": "17",
+          "likes": "18",
           "replies": "7",
           "reposts": "1",
-          "quotes": "10"
+          "quotes": "11"
         }
       },
       "sample_replies": [
@@ -765,12 +765,12 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 47,
+        "likes": 48,
         "replies": 12,
         "reposts": 0,
         "quotes": 10,
         "formatted": {
-          "likes": "47",
+          "likes": "48",
           "replies": "12",
           "reposts": "0",
           "quotes": "10"
@@ -821,12 +821,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 71,
+        "likes": 72,
         "replies": 5,
         "reposts": 0,
         "quotes": 17,
         "formatted": {
-          "likes": "71",
+          "likes": "72",
           "replies": "5",
           "reposts": "0",
           "quotes": "17"
@@ -988,12 +988,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 122,
+        "likes": 124,
         "replies": 2,
         "reposts": 5,
         "quotes": 20,
         "formatted": {
-          "likes": "122",
+          "likes": "124",
           "replies": "2",
           "reposts": "5",
           "quotes": "20"
