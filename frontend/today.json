@@ -1,518 +1,405 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-18T08:36:50.151258+00:00",
-    "last_metrics_update": "2025-08-18T08:36:50.151258+00:00",
-    "collection_period_hours": 6,
+    "last_full_analysis": "2025-08-20T07:17:28.471280+00:00",
+    "last_metrics_update": "2025-08-20T07:17:28.471280+00:00",
+    "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 9,
+    "main_characters_count": 7,
     "rolling_window": {
-      "last_update": "2025-08-18T08:36:50.151258+00:00",
-      "new_entries_added": 9,
-      "total_in_window": 9,
+      "last_update": "2025-08-20T07:17:28.471280+00:00",
+      "new_entries_added": 7,
+      "total_in_window": 7,
       "window_hours": 24,
-      "update_interval_hours": 6
+      "update_interval_hours": 3
     }
   },
   "main_characters": [
     {
       "rank": 1,
       "user": {
-        "handle": "albumism.com",
-        "display_name": "Albumism",
-        "initials": "AL",
-        "did": "did:plc:646ka4ydg2msrynu7w6rbtju",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:646ka4ydg2msrynu7w6rbtju/bafkreifxr3rz4jxncj7olhfbpgjvgpnpnezjwkuawqc3we5vrkirsq7kla@jpeg",
-        "profile_url": "https://bsky.app/profile/albumism.com"
+        "handle": "mightyatom.bsky.social",
+        "display_name": "max schwartz",
+        "initials": "MS",
+        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
+        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
       },
-      "ratio": "80:1",
-      "controversy": 4.3,
+      "ratio": "6:0",
+      "controversy": 3.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Think fast…what song do you think of first when you think about Aaliyah?\n\nalbum.ink/Aaliyah",
-        "uri": "at://did:plc:646ka4ydg2msrynu7w6rbtju/app.bsky.feed.post/3lwnchhdmit2e",
-        "created_at": "2025-08-18T02:00:33.010Z",
-        "url": "https://bsky.app/profile/albumism.com/post/3lwnchhdmit2e"
+        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
+        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
+        "created_at": "2025-08-20T05:32:56.421Z",
+        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 32,
         "replies": 8,
-        "reposts": 1,
-        "quotes": 80,
+        "reposts": 0,
+        "quotes": 6,
         "formatted": {
-          "likes": "15",
+          "likes": "32",
           "replies": "8",
-          "reposts": "1",
-          "quotes": "80"
+          "reposts": "0",
+          "quotes": "6"
         }
       },
       "sample_replies": [
-        "\"Are you that Somebody.\" It's the quintessential Aaliyah track. The R&B/Hip-Hop vibes, the voice,...",
-        "'One in a Million'",
-        "Back in One Piece with DMX. RipX2.",
-        "Try Again..."
+        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
+        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
+        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
+        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
       ],
       "metrics": {
-        "ratio_score": 80.0,
-        "confidence": 0.448,
+        "ratio_score": 14,
+        "confidence": 0.525,
         "category": "Complete Ratio",
-        "post_age_minutes": 355.6
+        "post_age_minutes": 93.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.296505+00:00",
-      "last_updated": "2025-08-18T08:36:49.296505+00:00",
+      "first_detected": "2025-08-20T07:17:27.934850+00:00",
+      "last_updated": "2025-08-20T07:17:27.934850+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.296505+00:00"
+        "2025-08-20T07:17:27.934850+00:00"
       ],
-      "peak_controversy": 4.3,
+      "peak_controversy": 3.5,
       "trend": "new"
     },
     {
       "rank": 2,
       "user": {
-        "handle": "catchinzzzs.bsky.social",
-        "display_name": "TikTok: Catchin_zzzs 🎞️",
-        "initials": "TC",
-        "did": "did:plc:eech7jyqdzuyh6d2asypnjki",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eech7jyqdzuyh6d2asypnjki/bafkreicd4p47d7apcshsa47jjcfhnpkrdnsv4o3zyrskas24jv72as27be@jpeg",
-        "profile_url": "https://bsky.app/profile/catchinzzzs.bsky.social"
+        "handle": "scumbelievable.bsky.social",
+        "display_name": "Gretchen Felker-Martin 🍉",
+        "initials": "GF",
+        "did": "did:plc:yv4g3qpmt6god5zaiqwsu3uq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
+        "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
       },
-      "ratio": "18:1",
-      "controversy": 3.1,
+      "ratio": "10:0",
+      "controversy": 3.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Music ever bring yall to tears? \n\nIt’s crazy right?",
-        "uri": "at://did:plc:eech7jyqdzuyh6d2asypnjki/app.bsky.feed.post/3lwnd4v5mxk2g",
-        "created_at": "2025-08-18T02:12:32.174Z",
-        "url": "https://bsky.app/profile/catchinzzzs.bsky.social/post/3lwnd4v5mxk2g"
+        "text": "in no particular order, 15 movies to get to know me (cont’d in comments)\n\n1. The Devils\n2. Lost Highway\n3. Bram Stoker's Dracula\n4. Andrei Rublev\n5. Cure\n6. The Medium\n7. The Wicker Man (1973)\n8. Dead Ringers\n9. The Passion of Joan of Arc\n10. In my Skin\n11. The Master\n12. The Taste of Things\n\n(cont)",
+        "uri": "at://did:plc:yv4g3qpmt6god5zaiqwsu3uq/app.bsky.feed.post/3lwsnpltfpk2z",
+        "created_at": "2025-08-20T05:05:16.046Z",
+        "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 35,
-        "replies": 7,
-        "reposts": 2,
-        "quotes": 36,
+        "likes": 44,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 10,
         "formatted": {
-          "likes": "35",
-          "replies": "7",
-          "reposts": "2",
-          "quotes": "36"
+          "likes": "44",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "10"
         }
       },
       "sample_replies": [
-        "Music moves me all the time",
-        "I've got a canon of songs that make me want to cry every time I hear them.\n\nTop of the list, My...",
-        "That’s how you know it’s doing what it’s supposed to do 🤌🏿",
-        "There’s just that one note in a particular song that gets me EVERY time"
+        "13. 13 Assassins\n14. Hellraiser II: Hellbound\n15. The Loved Ones",
+        "God I was so close to including the loved ones",
+        "I still haven’t see The Taste of Things but I’m certain it’s going to join my top 100 when I do",
+        "What a picture"
       ],
       "metrics": {
-        "ratio_score": 18.0,
-        "confidence": 0.361,
+        "ratio_score": 13,
+        "confidence": 0.546,
         "category": "Complete Ratio",
-        "post_age_minutes": 343.6
+        "post_age_minutes": 121.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.398191+00:00",
-      "last_updated": "2025-08-18T08:36:49.398191+00:00",
+      "first_detected": "2025-08-20T07:17:28.024028+00:00",
+      "last_updated": "2025-08-20T07:17:28.024028+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.398191+00:00"
+        "2025-08-20T07:17:28.024028+00:00"
       ],
-      "peak_controversy": 3.1,
+      "peak_controversy": 3.4,
       "trend": "new"
     },
     {
       "rank": 3,
       "user": {
-        "handle": "fenny.moe",
-        "display_name": "🍁🔥🔱 ~ wings of a feather ~ 🪶",
-        "initials": "🍁~",
-        "did": "did:plc:6zfgmvghpidjvcn3cqtitnx5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6zfgmvghpidjvcn3cqtitnx5/bafkreiaer3bzuvxfs7fppjf7vhwuybmshvhuow7ufqdaqatlupauh45vcm@jpeg",
-        "profile_url": "https://bsky.app/profile/fenny.moe"
+        "handle": "lagroovekagejo.bsky.social",
+        "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
+        "initials": "LB",
+        "did": "did:plc:leal4u2mcclqfci4v5l6q6qz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:leal4u2mcclqfci4v5l6q6qz/bafkreicvsdqblxueqffqzrcsrohj7btwvuabvoio24bfynvbtgx7pzi4li@jpeg",
+        "profile_url": "https://bsky.app/profile/lagroovekagejo.bsky.social"
       },
-      "ratio": "8:0",
-      "controversy": 1.9,
+      "ratio": "10:0",
+      "controversy": 2.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "if you see this quote with 10 games to get to know you by\n\n🪶 magia record\n🪶 warframe\n🪶 elsword\n🪶 pokemon mystery dungeon ~ explorers of sky\n🪶 touhou youyoumu ~ perfect cherry blossom\n🪶 kingdom hearts: chain of memories\n🪶 simcity 3000\n🪶 nethack\n🪶 bravely default\n🪶 realm of the mad god",
-        "uri": "at://did:plc:6zfgmvghpidjvcn3cqtitnx5/app.bsky.feed.post/3lwnmqy2mik2a",
-        "created_at": "2025-08-18T05:04:49.984Z",
-        "url": "https://bsky.app/profile/fenny.moe/post/3lwnmqy2mik2a"
+        "text": "A woman told me today that women don’t like head no more and I was like damn is that true ?",
+        "uri": "at://did:plc:leal4u2mcclqfci4v5l6q6qz/app.bsky.feed.post/3lwsmkhvnbs2e",
+        "created_at": "2025-08-20T04:44:30.412Z",
+        "url": "https://bsky.app/profile/lagroovekagejo.bsky.social/post/3lwsmkhvnbs2e"
       },
       "engagement": {
-        "likes": 12,
-        "replies": 3,
+        "likes": 3,
+        "replies": 5,
         "reposts": 0,
-        "quotes": 8,
+        "quotes": 10,
         "formatted": {
-          "likes": "12",
-          "replies": "3",
+          "likes": "3",
+          "replies": "5",
           "reposts": "0",
-          "quotes": "8"
+          "quotes": "10"
         }
       },
       "sample_replies": [
-        "Wait, it’s awesome.",
-        "Elsword…. Such a classic. It’s been so so long since I even heard of it!",
-        "following purely in the weight of including nethack in this list 🫡"
+        "Point her out friend, I just wanna talk 😀🥴, but false information !!",
+        "I just wanna talk 😀",
+        "🙄",
+        "Point her out is crazy 😭😂"
       ],
       "metrics": {
-        "ratio_score": 11,
-        "confidence": 0.355,
+        "ratio_score": 15,
+        "confidence": 0.292,
         "category": "Complete Ratio",
-        "post_age_minutes": 171.3
+        "post_age_minutes": 141.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.494921+00:00",
-      "last_updated": "2025-08-18T08:36:49.494921+00:00",
+      "first_detected": "2025-08-20T07:17:28.113573+00:00",
+      "last_updated": "2025-08-20T07:17:28.113573+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.494921+00:00"
+        "2025-08-20T07:17:28.113573+00:00"
       ],
-      "peak_controversy": 1.9,
+      "peak_controversy": 2.1,
       "trend": "new"
     },
     {
       "rank": 4,
       "user": {
-        "handle": "hopeforever9.bsky.social",
-        "display_name": "Beth 🇪🇹",
-        "initials": "B🇪",
-        "did": "did:plc:uipr6hi46swwctmpwyu5i6ey",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uipr6hi46swwctmpwyu5i6ey/bafkreigaat7fb5fyjcmsvnwwzv4bsedccf5mbjyryv2tmctlakj76rpcxu@jpeg",
-        "profile_url": "https://bsky.app/profile/hopeforever9.bsky.social"
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "11:1",
-      "controversy": 1.5,
+      "ratio": "2:1",
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Bitch he’s married don’t be a hoe",
-        "uri": "at://did:plc:uipr6hi46swwctmpwyu5i6ey/app.bsky.feed.post/3lwneu2ikwc2q",
-        "created_at": "2025-08-18T02:43:23.266Z",
-        "url": "https://bsky.app/profile/hopeforever9.bsky.social/post/3lwneu2ikwc2q"
+        "text": "‘Don’t call this racist’: row grows over motives behind England flag campaign",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lwslokf7rl2s",
+        "created_at": "2025-08-20T04:28:53.338Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lwslokf7rl2s"
       },
       "engagement": {
-        "likes": 15,
-        "replies": 3,
-        "reposts": 3,
-        "quotes": 32,
+        "likes": 29,
+        "replies": 29,
+        "reposts": 7,
+        "quotes": 13,
         "formatted": {
-          "likes": "15",
-          "replies": "3",
-          "reposts": "3",
-          "quotes": "32"
+          "likes": "29",
+          "replies": "29",
+          "reposts": "7",
+          "quotes": "13"
         }
       },
       "sample_replies": [
-        "It's well known around these parts that he likes to fight. So what do you think his wife is going...",
-        "Tell her she will get jumped",
-        "Lmao wtf... That's awkward"
+        "Because people with a \"look over there!\" Agenda can easily manipulate the poor, uneducated, angry...",
+        "Why are people fighting the stupidest fights, while their planet is literally turning into a desert?",
+        "I'll call it racist because it is racist. That flag has been so degraded by its association with...",
+        "I’m not racist but…"
       ],
       "metrics": {
-        "ratio_score": 10.67,
-        "confidence": 0.27,
-        "category": "Complete Ratio",
-        "post_age_minutes": 312.7
+        "ratio_score": 1.86,
+        "confidence": 0.529,
+        "category": "Quote Dunk",
+        "post_age_minutes": 156.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.811318+00:00",
-      "last_updated": "2025-08-18T08:36:49.811318+00:00",
+      "first_detected": "2025-08-20T07:17:28.290259+00:00",
+      "last_updated": "2025-08-20T07:17:28.290259+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.811318+00:00"
+        "2025-08-20T07:17:28.290259+00:00"
       ],
-      "peak_controversy": 1.5,
+      "peak_controversy": 0.5,
       "trend": "new"
     },
     {
       "rank": 5,
       "user": {
-        "handle": "ghostpanther.bsky.social",
-        "display_name": "Adam McKay",
-        "initials": "AM",
-        "did": "did:plc:g3yu4zsw3lif3mlap4vcilur",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:g3yu4zsw3lif3mlap4vcilur/bafkreidb6gd4l4izyo7zsbtjyyuzmh63e3g2lo6lvnmjlrwgtiwqf6aynq@jpeg",
-        "profile_url": "https://bsky.app/profile/ghostpanther.bsky.social"
+        "handle": "popcrave.com",
+        "display_name": "Pop Crave",
+        "initials": "PC",
+        "did": "did:plc:pcl72lxq7w2nrr7jkiks4qkc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
+        "profile_url": "https://bsky.app/profile/popcrave.com"
       },
-      "ratio": "7:1",
-      "controversy": 1.3,
+      "ratio": "2:1",
+      "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Take a second to imagine the worst, empty centrist, grifter suck ups to entrenched power… got it? … \n\nThey’re all working together now.\n\nwww.semafor.com/article/08/1...",
-        "uri": "at://did:plc:g3yu4zsw3lif3mlap4vcilur/app.bsky.feed.post/3lwnksy3xas2c",
-        "created_at": "2025-08-18T04:30:09.654Z",
-        "url": "https://bsky.app/profile/ghostpanther.bsky.social/post/3lwnksy3xas2c"
+        "text": "Taylor Zakhar Perez, Michael Cimino, & Brandon Perea at Bad Bunny’s concert in Puerto Rico.",
+        "uri": "at://did:plc:pcl72lxq7w2nrr7jkiks4qkc/app.bsky.feed.post/3lwslv74xvs2s",
+        "created_at": "2025-08-20T04:32:36.566Z",
+        "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 44,
-        "replies": 7,
-        "reposts": 1,
+        "likes": 85,
+        "replies": 4,
+        "reposts": 4,
         "quotes": 7,
         "formatted": {
-          "likes": "44",
-          "replies": "7",
-          "reposts": "1",
+          "likes": "85",
+          "replies": "4",
+          "reposts": "4",
           "quotes": "7"
         }
       },
       "sample_replies": [
-        "Love how the article calls this new venture “left.”\n\nThat’s like calling the airport first class...",
-        "Among the worst people and disgustingly centrist funders possible. \n\nWho thinks of these people as...",
-        "Lakshya Jain has a big chart about how it’s actually great to not take any action on anything.",
-        "I just needed to see Matt Yglesias‘ name first on the list to know that this is going to be..."
+        "FKM 🤗"
       ],
       "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.436,
+        "ratio_score": 1.75,
+        "confidence": 0.632,
         "category": "Quote Dunk",
-        "post_age_minutes": 206.0
+        "post_age_minutes": 152.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.594940+00:00",
-      "last_updated": "2025-08-18T08:36:49.594940+00:00",
+      "first_detected": "2025-08-20T07:17:28.203452+00:00",
+      "last_updated": "2025-08-20T07:17:28.203452+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.594940+00:00"
+        "2025-08-20T07:17:28.203452+00:00"
       ],
-      "peak_controversy": 1.3,
+      "peak_controversy": 0.4,
       "trend": "new"
     },
     {
       "rank": 6,
       "user": {
-        "handle": "avaryy.bsky.social",
-        "display_name": "TALA FAMELY in Gaza🕊🕊",
-        "initials": "TF",
-        "did": "did:plc:hx7tyegxhvilsiuzeav5nkab",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hx7tyegxhvilsiuzeav5nkab/bafkreibpluy6525uotz2oe62fhhxfrvuoxqwowutfkx6pjp4anzcvi3lge@jpeg",
-        "profile_url": "https://bsky.app/profile/avaryy.bsky.social"
+        "handle": "vickyacab.bsky.social",
+        "display_name": "Vicky ACAB",
+        "initials": "VA",
+        "did": "did:plc:jixzwq4m7ospbdk43hz3lbed",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jixzwq4m7ospbdk43hz3lbed/bafkreibwsavmghsklgnlmtoureuhbdne5jv57uvlv576v2oarj7rrginw4@jpeg",
+        "profile_url": "https://bsky.app/profile/vickyacab.bsky.social"
       },
-      "ratio": "5:1",
-      "controversy": 1.2,
+      "ratio": "2:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "🚨 I am Tala,a mother from Gaza, raising three little children 💔\nHunger is consuming them For two days they haven’t had a proper meal\nEvery night, they go to sleep with empty stomachs, crying from hunger 😭\n✅ No food, no milk\n✅ I urgently need $300 to feed them and keep them alive🙏\n\ngofund.me/f6250de6",
-        "uri": "at://did:plc:hx7tyegxhvilsiuzeav5nkab/app.bsky.feed.post/3lwnqjl5nf22o",
-        "created_at": "2025-08-18T06:12:16.538Z",
-        "url": "https://bsky.app/profile/avaryy.bsky.social/post/3lwnqjl5nf22o"
+        "text": "in no particular order, 15 movies to get to know me (cont'd in comments)\n\n1. Man With a Movie Camera\n2. Moonstruck\n3. Possession\n4. Texas Chainsaw Massacre 2\n5. La Grande Bouffe\n6. Withnail and I\n7. A Bread Factory\n8. Portrait of a Lady on Fire\n9. Predator\n10. Mulholland Drive\n11. The Thing",
+        "uri": "at://did:plc:jixzwq4m7ospbdk43hz3lbed/app.bsky.feed.post/3lwspi3oj2s2u",
+        "created_at": "2025-08-20T05:36:51.709Z",
+        "url": "https://bsky.app/profile/vickyacab.bsky.social/post/3lwspi3oj2s2u"
       },
       "engagement": {
-        "likes": 7,
-        "replies": 5,
-        "reposts": 10,
-        "quotes": 47,
+        "likes": 19,
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 5,
         "formatted": {
-          "likes": "7",
-          "replies": "5",
-          "reposts": "10",
-          "quotes": "47"
+          "likes": "19",
+          "replies": "2",
+          "reposts": "3",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "@andreatorti90.bsky.social\nWith shame I ask, hunger forces me 💔 Help with a donation or by sharing 🙏",
-        "@arihat.bsky.social\nI never thought I’d beg, but my children are starving 💔 Any help or share means...",
-        "@indrapramitdas.bsky.social My children are hungry 💔 Please, donate if you can or share this post..."
+        "12. Peter Watkins' La Commune\n13. His Girl Friday\n14. Battle Royale \n15. Alien",
+        "Instantly full of regret that I didn't instead prioritize The Wicker Man, Matrix, The Draughtsmen...",
+        "Fuck! Blair Witch! Fuck! God I've got to go to sleep instead of thinking of favorite movies I wish...",
+        "Lots to do!!"
       ],
       "metrics": {
-        "ratio_score": 4.7,
-        "confidence": 0.616,
+        "ratio_score": 1.67,
+        "confidence": 0.454,
         "category": "Quote Dunk",
-        "post_age_minutes": 103.9
+        "post_age_minutes": 89.9
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.695830+00:00",
-      "last_updated": "2025-08-18T08:36:49.695830+00:00",
+      "first_detected": "2025-08-20T07:17:28.382502+00:00",
+      "last_updated": "2025-08-20T07:17:28.382502+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.695830+00:00"
+        "2025-08-20T07:17:28.382502+00:00"
       ],
-      "peak_controversy": 1.2,
+      "peak_controversy": 0.3,
       "trend": "new"
     },
     {
       "rank": 7,
       "user": {
-        "handle": "porksweats.bsky.social",
-        "display_name": "don't hug me I'm porksweats",
-        "initials": "DH",
-        "did": "did:plc:mmy6clo4msvxkrkxdgo3g7pn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mmy6clo4msvxkrkxdgo3g7pn/bafkreigld7dq3cetuxu5a64luauh2srhl2czucyhprvsepbzdualzar74q@jpeg",
-        "profile_url": "https://bsky.app/profile/porksweats.bsky.social"
+        "handle": "financialtimes.com",
+        "display_name": "Financial Times",
+        "initials": "FT",
+        "did": "did:plc:5u54z2qgkq43dh2nzwzdbbhb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
+        "profile_url": "https://bsky.app/profile/financialtimes.com"
       },
-      "ratio": "7:1",
-      "controversy": 1.1,
+      "ratio": "2:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "the four horsemen of the apocalypse",
-        "uri": "at://did:plc:mmy6clo4msvxkrkxdgo3g7pn/app.bsky.feed.post/3lwndjducck2e",
-        "created_at": "2025-08-18T02:19:30.246Z",
-        "url": "https://bsky.app/profile/porksweats.bsky.social/post/3lwndjducck2e"
+        "text": "Is Laura Loomer the Maga world’s Trump-whisperer? on.ft.com/3JlY5oR",
+        "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3lwsmxuzc4t2u",
+        "created_at": "2025-08-20T04:52:00.323236Z",
+        "url": "https://bsky.app/profile/financialtimes.com/post/3lwsmxuzc4t2u"
       },
       "engagement": {
-        "likes": 73,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 7,
+        "likes": 25,
+        "replies": 16,
+        "reposts": 3,
+        "quotes": 5,
         "formatted": {
-          "likes": "73",
-          "replies": "4",
-          "reposts": "1",
-          "quotes": "7"
+          "likes": "25",
+          "replies": "16",
+          "reposts": "3",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "weed | alcohol | benzos | cocaine",
-        "God\n\nThink of the state of their toilets",
-        "they all look like the same guy",
-        "#swoled"
+        "Even Jabba the Hutt had his little rat thing.",
+        "Ladies and gentleman, the president's top advisor in her previous career:",
+        "She’s got that Kristi Noem face about to fall off look down cold"
       ],
       "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.382,
+        "ratio_score": 1.67,
+        "confidence": 0.422,
         "category": "Quote Dunk",
-        "post_age_minutes": 336.6
+        "post_age_minutes": 134.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-18T08:36:49.921138+00:00",
-      "last_updated": "2025-08-18T08:36:49.921138+00:00",
+      "first_detected": "2025-08-20T07:17:28.471133+00:00",
+      "last_updated": "2025-08-20T07:17:28.471133+00:00",
       "analysis_windows": [
-        "2025-08-18T08:36:49.921138+00:00"
+        "2025-08-20T07:17:28.471133+00:00"
       ],
-      "peak_controversy": 1.1,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
-        "handle": "optimstie.bsky.social",
-        "display_name": "optiMSTie",
-        "initials": "OP",
-        "did": "did:plc:m3pi3odmfx2ufz2aoo7ncagv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3pi3odmfx2ufz2aoo7ncagv/bafkreiccrsnpmy7gy65a6tuyjipg4dylxgtbocfwpe3xop63yldg4y2thy@jpeg",
-        "profile_url": "https://bsky.app/profile/optimstie.bsky.social"
-      },
-      "ratio": "8:1",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "1. Empire Strikes Back\n2. New Hope\n3. Last Jedi\n4. Return of the Jedi\n5. Rogue One\n6. Force Awakens\n7. Solo\n8. Revenge of the Sith\n9. Phantom Menace\n10. Rise of Skywalker\n11. Holiday Special\n12. getting skeletonized by fire ants and forcing people I care about to watch that\n13. Attack of the Clones",
-        "uri": "at://did:plc:m3pi3odmfx2ufz2aoo7ncagv/app.bsky.feed.post/3lwnecvjx3k23",
-        "created_at": "2025-08-18T02:33:47.645Z",
-        "url": "https://bsky.app/profile/optimstie.bsky.social/post/3lwnecvjx3k23"
-      },
-      "engagement": {
-        "likes": 30,
-        "replies": 9,
-        "reposts": 1,
-        "quotes": 8,
-        "formatted": {
-          "likes": "30",
-          "replies": "9",
-          "reposts": "1",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "11? You DO realize that Our Lord and Savior Bea Arthur is in the holiday special RIGHT??",
-        "Look, everyone is entitled to their opinions, but I'd rather watch \"I don't like sand\" than last...",
-        "IT WAS THE MOMENT AND IT OWNED IT\n\ni can't explain the moment; it's bigger than you and me and...",
-        "HELL YEA TLJ APPRECIATOR 🙏"
-      ],
-      "metrics": {
-        "ratio_score": 8.0,
-        "confidence": 0.329,
-        "category": "Quote Dunk",
-        "post_age_minutes": 322.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-18T08:36:50.024596+00:00",
-      "last_updated": "2025-08-18T08:36:50.024596+00:00",
-      "analysis_windows": [
-        "2025-08-18T08:36:50.024596+00:00"
-      ],
-      "peak_controversy": 1.1,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "sickoscommittee.org",
-        "display_name": "Sickos Committee",
-        "initials": "SC",
-        "did": "did:plc:upyx3raxzpwlnzojrncogd7y",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:upyx3raxzpwlnzojrncogd7y/bafkreiema6hpmysc65cb3ialzkkddvtj6vi6sutplt2iymo2fsq4y3nqoq@jpeg",
-        "profile_url": "https://bsky.app/profile/sickoscommittee.org"
-      },
-      "ratio": "7:1",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Meet old Georgia Southern Gus.",
-        "uri": "at://did:plc:upyx3raxzpwlnzojrncogd7y/app.bsky.feed.post/3lwngrzarp22f",
-        "created_at": "2025-08-18T03:18:02.339Z",
-        "url": "https://bsky.app/profile/sickoscommittee.org/post/3lwngrzarp22f"
-      },
-      "engagement": {
-        "likes": 47,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 7,
-        "formatted": {
-          "likes": "47",
-          "replies": "3",
-          "reposts": "1",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "This is a picture of Sam Eagle in his 20s",
-        "If Eugene Levy was a furry…",
-        "He tried some stuff at a party last night and has..regrets.",
-        "The Jack McCoy of sports mascots...\nObjection!\nSustained."
-      ],
-      "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.319,
-        "category": "Quote Dunk",
-        "post_age_minutes": 278.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-18T08:36:50.123959+00:00",
-      "last_updated": "2025-08-18T08:36:50.123959+00:00",
-      "analysis_windows": [
-        "2025-08-18T08:36:50.123959+00:00"
-      ],
-      "peak_controversy": 0.9,
+      "peak_controversy": 0.3,
       "trend": "new"
     }
   ]
