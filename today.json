@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T07:17:28.471280+00:00",
-    "last_metrics_update": "2025-08-20T07:17:28.471280+00:00",
+    "last_metrics_update": "2025-08-20T08:05:28.627351+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 7,
@@ -17,118 +17,6 @@
     {
       "rank": 1,
       "user": {
-        "handle": "mightyatom.bsky.social",
-        "display_name": "max schwartz",
-        "initials": "MS",
-        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
-        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
-      },
-      "ratio": "6:0",
-      "controversy": 3.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
-        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
-        "created_at": "2025-08-20T05:32:56.421Z",
-        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
-      },
-      "engagement": {
-        "likes": 32,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 6,
-        "formatted": {
-          "likes": "32",
-          "replies": "8",
-          "reposts": "0",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
-        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
-        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
-        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
-      ],
-      "metrics": {
-        "ratio_score": 14,
-        "confidence": 0.525,
-        "category": "Complete Ratio",
-        "post_age_minutes": 93.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T07:17:27.934850+00:00",
-      "last_updated": "2025-08-20T07:17:27.934850+00:00",
-      "analysis_windows": [
-        "2025-08-20T07:17:27.934850+00:00"
-      ],
-      "peak_controversy": 3.5,
-      "trend": "new"
-    },
-    {
-      "rank": 2,
-      "user": {
-        "handle": "scumbelievable.bsky.social",
-        "display_name": "Gretchen Felker-Martin 🍉",
-        "initials": "GF",
-        "did": "did:plc:yv4g3qpmt6god5zaiqwsu3uq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
-        "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
-      },
-      "ratio": "10:0",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "in no particular order, 15 movies to get to know me (cont’d in comments)\n\n1. The Devils\n2. Lost Highway\n3. Bram Stoker's Dracula\n4. Andrei Rublev\n5. Cure\n6. The Medium\n7. The Wicker Man (1973)\n8. Dead Ringers\n9. The Passion of Joan of Arc\n10. In my Skin\n11. The Master\n12. The Taste of Things\n\n(cont)",
-        "uri": "at://did:plc:yv4g3qpmt6god5zaiqwsu3uq/app.bsky.feed.post/3lwsnpltfpk2z",
-        "created_at": "2025-08-20T05:05:16.046Z",
-        "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
-      },
-      "engagement": {
-        "likes": 44,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 10,
-        "formatted": {
-          "likes": "44",
-          "replies": "3",
-          "reposts": "0",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "13. 13 Assassins\n14. Hellraiser II: Hellbound\n15. The Loved Ones",
-        "God I was so close to including the loved ones",
-        "I still haven’t see The Taste of Things but I’m certain it’s going to join my top 100 when I do",
-        "What a picture"
-      ],
-      "metrics": {
-        "ratio_score": 13,
-        "confidence": 0.546,
-        "category": "Complete Ratio",
-        "post_age_minutes": 121.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T07:17:28.024028+00:00",
-      "last_updated": "2025-08-20T07:17:28.024028+00:00",
-      "analysis_windows": [
-        "2025-08-20T07:17:28.024028+00:00"
-      ],
-      "peak_controversy": 3.4,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
         "handle": "lagroovekagejo.bsky.social",
         "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
         "initials": "LB",
@@ -136,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:leal4u2mcclqfci4v5l6q6qz/bafkreicvsdqblxueqffqzrcsrohj7btwvuabvoio24bfynvbtgx7pzi4li@jpeg",
         "profile_url": "https://bsky.app/profile/lagroovekagejo.bsky.social"
       },
-      "ratio": "10:0",
-      "controversy": 2.1,
+      "ratio": "13:0",
+      "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -150,12 +38,12 @@
         "likes": 3,
         "replies": 5,
         "reposts": 0,
-        "quotes": 10,
+        "quotes": 13,
         "formatted": {
           "likes": "3",
           "replies": "5",
           "reposts": "0",
-          "quotes": "10"
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -183,7 +71,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -192,8 +80,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "2:1",
-      "controversy": 0.5,
+      "ratio": "4:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -203,15 +91,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lwslokf7rl2s"
       },
       "engagement": {
-        "likes": 29,
+        "likes": 31,
         "replies": 29,
-        "reposts": 7,
-        "quotes": 13,
+        "reposts": 6,
+        "quotes": 21,
         "formatted": {
-          "likes": "29",
+          "likes": "31",
           "replies": "29",
-          "reposts": "7",
-          "quotes": "13"
+          "reposts": "6",
+          "quotes": "21"
         }
       },
       "sample_replies": [
@@ -239,60 +127,119 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "user": {
-        "handle": "popcrave.com",
-        "display_name": "Pop Crave",
-        "initials": "PC",
-        "did": "did:plc:pcl72lxq7w2nrr7jkiks4qkc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
-        "profile_url": "https://bsky.app/profile/popcrave.com"
+        "handle": "mightyatom.bsky.social",
+        "display_name": "max schwartz",
+        "initials": "MS",
+        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
+        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
       },
-      "ratio": "2:1",
-      "controversy": 0.4,
+      "ratio": "8:0",
+      "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Taylor Zakhar Perez, Michael Cimino, & Brandon Perea at Bad Bunny’s concert in Puerto Rico.",
-        "uri": "at://did:plc:pcl72lxq7w2nrr7jkiks4qkc/app.bsky.feed.post/3lwslv74xvs2s",
-        "created_at": "2025-08-20T04:32:36.566Z",
-        "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
+        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
+        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
+        "created_at": "2025-08-20T05:32:56.421Z",
+        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 85,
-        "replies": 4,
-        "reposts": 4,
-        "quotes": 7,
+        "likes": 34,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 8,
         "formatted": {
-          "likes": "85",
-          "replies": "4",
-          "reposts": "4",
-          "quotes": "7"
+          "likes": "34",
+          "replies": "8",
+          "reposts": "0",
+          "quotes": "8"
         }
       },
       "sample_replies": [
-        "FKM 🤗"
+        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
+        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
+        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
+        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
       ],
       "metrics": {
-        "ratio_score": 1.75,
-        "confidence": 0.632,
-        "category": "Quote Dunk",
-        "post_age_minutes": 152.6
+        "ratio_score": 14,
+        "confidence": 0.525,
+        "category": "Complete Ratio",
+        "post_age_minutes": 93.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T07:17:28.203452+00:00",
-      "last_updated": "2025-08-20T07:17:28.203452+00:00",
+      "first_detected": "2025-08-20T07:17:27.934850+00:00",
+      "last_updated": "2025-08-20T07:17:27.934850+00:00",
       "analysis_windows": [
-        "2025-08-20T07:17:28.203452+00:00"
+        "2025-08-20T07:17:27.934850+00:00"
       ],
-      "peak_controversy": 0.4,
+      "peak_controversy": 3.5,
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "user": {
+        "handle": "scumbelievable.bsky.social",
+        "display_name": "Gretchen Felker-Martin 🍉",
+        "initials": "GF",
+        "did": "did:plc:yv4g3qpmt6god5zaiqwsu3uq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
+        "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
+      },
+      "ratio": "13:0",
+      "controversy": 0.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "in no particular order, 15 movies to get to know me (cont’d in comments)\n\n1. The Devils\n2. Lost Highway\n3. Bram Stoker's Dracula\n4. Andrei Rublev\n5. Cure\n6. The Medium\n7. The Wicker Man (1973)\n8. Dead Ringers\n9. The Passion of Joan of Arc\n10. In my Skin\n11. The Master\n12. The Taste of Things\n\n(cont)",
+        "uri": "at://did:plc:yv4g3qpmt6god5zaiqwsu3uq/app.bsky.feed.post/3lwsnpltfpk2z",
+        "created_at": "2025-08-20T05:05:16.046Z",
+        "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
+      },
+      "engagement": {
+        "likes": 49,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 13,
+        "formatted": {
+          "likes": "49",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "13"
+        }
+      },
+      "sample_replies": [
+        "13. 13 Assassins\n14. Hellraiser II: Hellbound\n15. The Loved Ones",
+        "God I was so close to including the loved ones",
+        "I still haven’t see The Taste of Things but I’m certain it’s going to join my top 100 when I do",
+        "What a picture"
+      ],
+      "metrics": {
+        "ratio_score": 13,
+        "confidence": 0.546,
+        "category": "Complete Ratio",
+        "post_age_minutes": 121.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T07:17:28.024028+00:00",
+      "last_updated": "2025-08-20T07:17:28.024028+00:00",
+      "analysis_windows": [
+        "2025-08-20T07:17:28.024028+00:00"
+      ],
+      "peak_controversy": 3.4,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
       "user": {
         "handle": "vickyacab.bsky.social",
         "display_name": "Vicky ACAB",
@@ -301,8 +248,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jixzwq4m7ospbdk43hz3lbed/bafkreibwsavmghsklgnlmtoureuhbdne5jv57uvlv576v2oarj7rrginw4@jpeg",
         "profile_url": "https://bsky.app/profile/vickyacab.bsky.social"
       },
-      "ratio": "2:1",
-      "controversy": 0.3,
+      "ratio": "3:1",
+      "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -312,15 +259,15 @@
         "url": "https://bsky.app/profile/vickyacab.bsky.social/post/3lwspi3oj2s2u"
       },
       "engagement": {
-        "likes": 19,
+        "likes": 23,
         "replies": 2,
-        "reposts": 3,
-        "quotes": 5,
+        "reposts": 2,
+        "quotes": 6,
         "formatted": {
-          "likes": "19",
+          "likes": "23",
           "replies": "2",
-          "reposts": "3",
-          "quotes": "5"
+          "reposts": "2",
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -348,7 +295,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "user": {
         "handle": "financialtimes.com",
         "display_name": "Financial Times",
@@ -358,7 +305,7 @@
         "profile_url": "https://bsky.app/profile/financialtimes.com"
       },
       "ratio": "2:1",
-      "controversy": 0.3,
+      "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -368,15 +315,15 @@
         "url": "https://bsky.app/profile/financialtimes.com/post/3lwsmxuzc4t2u"
       },
       "engagement": {
-        "likes": 25,
-        "replies": 16,
-        "reposts": 3,
-        "quotes": 5,
+        "likes": 23,
+        "replies": 17,
+        "reposts": 4,
+        "quotes": 6,
         "formatted": {
-          "likes": "25",
-          "replies": "16",
-          "reposts": "3",
-          "quotes": "5"
+          "likes": "23",
+          "replies": "17",
+          "reposts": "4",
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -400,6 +347,59 @@
         "2025-08-20T07:17:28.471133+00:00"
       ],
       "peak_controversy": 0.3,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "popcrave.com",
+        "display_name": "Pop Crave",
+        "initials": "PC",
+        "did": "did:plc:pcl72lxq7w2nrr7jkiks4qkc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
+        "profile_url": "https://bsky.app/profile/popcrave.com"
+      },
+      "ratio": "1:1",
+      "controversy": 0.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Taylor Zakhar Perez, Michael Cimino, & Brandon Perea at Bad Bunny’s concert in Puerto Rico.",
+        "uri": "at://did:plc:pcl72lxq7w2nrr7jkiks4qkc/app.bsky.feed.post/3lwslv74xvs2s",
+        "created_at": "2025-08-20T04:32:36.566Z",
+        "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
+      },
+      "engagement": {
+        "likes": 79,
+        "replies": 2,
+        "reposts": 4,
+        "quotes": 5,
+        "formatted": {
+          "likes": "79",
+          "replies": "2",
+          "reposts": "4",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "FKM 🤗"
+      ],
+      "metrics": {
+        "ratio_score": 1.75,
+        "confidence": 0.632,
+        "category": "Quote Dunk",
+        "post_age_minutes": 152.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T07:17:28.203452+00:00",
+      "last_updated": "2025-08-20T07:17:28.203452+00:00",
+      "analysis_windows": [
+        "2025-08-20T07:17:28.203452+00:00"
+      ],
+      "peak_controversy": 0.4,
       "trend": "new"
     }
   ]
