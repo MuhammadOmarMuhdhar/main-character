@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T17:05:30.680375+00:00",
-    "last_metrics_update": "2025-08-20T17:47:45.649545+00:00",
+    "last_metrics_update": "2025-08-20T18:03:01.685900+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -140,7 +140,7 @@
         "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
       },
       "ratio": "19:1",
-      "controversy": 1.0,
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -150,13 +150,13 @@
         "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
       },
       "engagement": {
-        "likes": 30,
-        "replies": 20,
+        "likes": 33,
+        "replies": 22,
         "reposts": 5,
         "quotes": 94,
         "formatted": {
-          "likes": "30",
-          "replies": "20",
+          "likes": "33",
+          "replies": "22",
           "reposts": "5",
           "quotes": "94"
         }
@@ -195,8 +195,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6xfxeazk33zdmexhrlso5b6/bafkreig6dmlll3utotsgdsmrtx6b6mnaxro2egqrw56zfrznno6wjvf2z4@jpeg",
         "profile_url": "https://bsky.app/profile/paulbrand.bsky.social"
       },
-      "ratio": "5:1",
-      "controversy": 1.0,
+      "ratio": "4:1",
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -206,14 +206,14 @@
         "url": "https://bsky.app/profile/paulbrand.bsky.social/post/3lwtf72byys26"
       },
       "engagement": {
-        "likes": 12,
+        "likes": 13,
         "replies": 42,
-        "reposts": 5,
+        "reposts": 6,
         "quotes": 23,
         "formatted": {
-          "likes": "12",
+          "likes": "13",
           "replies": "42",
-          "reposts": "5",
+          "reposts": "6",
           "quotes": "23"
         }
       },
@@ -317,15 +317,15 @@
         "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
       },
       "engagement": {
-        "likes": 30,
+        "likes": 32,
         "replies": 11,
         "reposts": 4,
-        "quotes": 57,
+        "quotes": 58,
         "formatted": {
-          "likes": "30",
+          "likes": "32",
           "replies": "11",
           "reposts": "4",
-          "quotes": "57"
+          "quotes": "58"
         }
       },
       "sample_replies": [
@@ -411,6 +411,62 @@
     {
       "rank": 8,
       "user": {
+        "handle": "freshlogic.bsky.social",
+        "display_name": "⚜️New Logic",
+        "initials": "⚜L",
+        "did": "did:plc:es4kaek6ligemold3w7b6cng",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
+        "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
+      },
+      "ratio": "18:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "If Target named a qualified black woman as the CEO right now, foot traffic in that store would shift tomorrow. \n\nWe would be back in massive numbers, but these people get paid millions to be stupid.",
+        "uri": "at://did:plc:es4kaek6ligemold3w7b6cng/app.bsky.feed.post/3lwtecg2cjs2u",
+        "created_at": "2025-08-20T11:49:29.836Z",
+        "url": "https://bsky.app/profile/freshlogic.bsky.social/post/3lwtecg2cjs2u"
+      },
+      "engagement": {
+        "likes": 28,
+        "replies": 10,
+        "reposts": 3,
+        "quotes": 55,
+        "formatted": {
+          "likes": "28",
+          "replies": "10",
+          "reposts": "3",
+          "quotes": "55"
+        }
+      },
+      "sample_replies": [
+        "Take this down lol black women do not need to save they ass",
+        "Their dumb asses would see this suggestion and hire Condoleezza Rice.",
+        "In the words of Kendrick Lamar, “It’s not enough”",
+        "The board still has to go. They approved this Nazi loving turn. Besides, any Black personal in..."
+      ],
+      "metrics": {
+        "ratio_score": 16.5,
+        "confidence": 0.574,
+        "category": "Complete Ratio",
+        "post_age_minutes": 103.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.299899+00:00",
+      "last_updated": "2025-08-20T13:46:49.299899+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.299899+00:00"
+      ],
+      "peak_controversy": 4.6,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
+      "user": {
         "handle": "cometkins.bsky.social",
         "display_name": "Ian Haramaki 🏳️‍⚧️✨ @ Nan Desu Kan",
         "initials": "IH",
@@ -430,12 +486,12 @@
       },
       "engagement": {
         "likes": 52,
-        "replies": 10,
+        "replies": 12,
         "reposts": 5,
         "quotes": 73,
         "formatted": {
           "likes": "52",
-          "replies": "10",
+          "replies": "12",
           "reposts": "5",
           "quotes": "73"
         }
@@ -462,62 +518,6 @@
         "2025-08-20T17:05:30.132575+00:00"
       ],
       "peak_controversy": 3.8,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "freshlogic.bsky.social",
-        "display_name": "⚜️New Logic",
-        "initials": "⚜L",
-        "did": "did:plc:es4kaek6ligemold3w7b6cng",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
-        "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
-      },
-      "ratio": "17:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "If Target named a qualified black woman as the CEO right now, foot traffic in that store would shift tomorrow. \n\nWe would be back in massive numbers, but these people get paid millions to be stupid.",
-        "uri": "at://did:plc:es4kaek6ligemold3w7b6cng/app.bsky.feed.post/3lwtecg2cjs2u",
-        "created_at": "2025-08-20T11:49:29.836Z",
-        "url": "https://bsky.app/profile/freshlogic.bsky.social/post/3lwtecg2cjs2u"
-      },
-      "engagement": {
-        "likes": 28,
-        "replies": 10,
-        "reposts": 3,
-        "quotes": 51,
-        "formatted": {
-          "likes": "28",
-          "replies": "10",
-          "reposts": "3",
-          "quotes": "51"
-        }
-      },
-      "sample_replies": [
-        "Take this down lol black women do not need to save they ass",
-        "Their dumb asses would see this suggestion and hire Condoleezza Rice.",
-        "In the words of Kendrick Lamar, “It’s not enough”",
-        "The board still has to go. They approved this Nazi loving turn. Besides, any Black personal in..."
-      ],
-      "metrics": {
-        "ratio_score": 16.5,
-        "confidence": 0.574,
-        "category": "Complete Ratio",
-        "post_age_minutes": 103.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.299899+00:00",
-      "last_updated": "2025-08-20T13:46:49.299899+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.299899+00:00"
-      ],
-      "peak_controversy": 4.6,
       "trend": "new"
     },
     {
@@ -821,12 +821,12 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 17,
         "replies": 5,
         "reposts": 5,
         "quotes": 21,
         "formatted": {
-          "likes": "15",
+          "likes": "17",
           "replies": "5",
           "reposts": "5",
           "quotes": "21"
@@ -877,13 +877,13 @@
         "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 11,
+        "likes": 22,
+        "replies": 13,
         "reposts": 0,
         "quotes": 8,
         "formatted": {
-          "likes": "20",
-          "replies": "11",
+          "likes": "22",
+          "replies": "13",
           "reposts": "0",
           "quotes": "8"
         }
@@ -1203,7 +1203,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
         "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
       },
-      "ratio": "19:0",
+      "ratio": "20:0",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -1214,15 +1214,15 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 55,
+        "likes": 56,
         "replies": 13,
         "reposts": 0,
-        "quotes": 19,
+        "quotes": 20,
         "formatted": {
-          "likes": "55",
+          "likes": "56",
           "replies": "13",
           "reposts": "0",
-          "quotes": "19"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -1327,12 +1327,12 @@
       },
       "engagement": {
         "likes": 135,
-        "replies": 2,
+        "replies": 3,
         "reposts": 7,
         "quotes": 29,
         "formatted": {
           "likes": "135",
-          "replies": "2",
+          "replies": "3",
           "reposts": "7",
           "quotes": "29"
         }
@@ -1436,12 +1436,12 @@
       },
       "engagement": {
         "likes": 27,
-        "replies": 19,
+        "replies": 20,
         "reposts": 5,
         "quotes": 6,
         "formatted": {
           "likes": "27",
-          "replies": "19",
+          "replies": "20",
           "reposts": "5",
           "quotes": "6"
         }
