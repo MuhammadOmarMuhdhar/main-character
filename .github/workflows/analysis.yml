@@ -76,6 +76,7 @@ jobs:
       env:
         BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
         BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         cd main/analysis
         echo "🎯 Running full analysis (last run: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }} hours ago)"
@@ -86,6 +87,7 @@ jobs:
       env:
         BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
         BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         cd main/analysis
         echo "📊 Running metrics update (last full analysis: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }} hours ago)"
