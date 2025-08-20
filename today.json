@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T20:35:10.508155+00:00",
-    "last_metrics_update": "2025-08-20T21:17:38.424928+00:00",
+    "last_metrics_update": "2025-08-20T21:32:50.525937+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 33,
@@ -24,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mzcmy6awgxir5s7jw5mj5ql/bafkreidtrmpnnimtkyxohfec6fvrrppid75y45caviswlkkzlce5izcafe@jpeg",
         "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
       },
-      "ratio": "100:0",
-      "controversy": 2.7,
+      "ratio": "101:0",
+      "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/seauxcocoa.bsky.social/post/3lwtxo5psek2z"
       },
       "engagement": {
-        "likes": 13,
+        "likes": 15,
         "replies": 18,
         "reposts": 0,
-        "quotes": 100,
+        "quotes": 101,
         "formatted": {
-          "likes": "13",
+          "likes": "15",
           "replies": "18",
           "reposts": "0",
-          "quotes": "100"
+          "quotes": "101"
         }
       },
       "sample_replies": [
@@ -195,7 +195,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "19:1",
+      "ratio": "20:1",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -206,15 +206,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 189,
-        "replies": 91,
+        "likes": 198,
+        "replies": 93,
         "reposts": 20,
-        "quotes": 384,
+        "quotes": 395,
         "formatted": {
-          "likes": "189",
-          "replies": "91",
+          "likes": "198",
+          "replies": "93",
           "reposts": "20",
-          "quotes": "384"
+          "quotes": "395"
         }
       },
       "sample_replies": [
@@ -597,15 +597,15 @@
         "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
       },
       "engagement": {
-        "likes": 55,
+        "likes": 56,
         "replies": 14,
         "reposts": 6,
-        "quotes": 82,
+        "quotes": 83,
         "formatted": {
-          "likes": "55",
+          "likes": "56",
           "replies": "14",
           "reposts": "6",
-          "quotes": "82"
+          "quotes": "83"
         }
       },
       "sample_replies": [
@@ -698,7 +698,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ymc5jbmqtr3z6yzlliq7ihi5/bafkreifjjitun5tcpyu7xbymvnotvwd6ns2gsk4fet5a4ajfbnevjuczfu@jpeg",
         "profile_url": "https://bsky.app/profile/erynmccee.bsky.social"
       },
-      "ratio": "18:1",
+      "ratio": "19:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -709,15 +709,15 @@
         "url": "https://bsky.app/profile/erynmccee.bsky.social/post/3lwtzftxd5s2m"
       },
       "engagement": {
-        "likes": 54,
+        "likes": 55,
         "replies": 2,
         "reposts": 4,
-        "quotes": 74,
+        "quotes": 76,
         "formatted": {
-          "likes": "54",
+          "likes": "55",
           "replies": "2",
           "reposts": "4",
-          "quotes": "74"
+          "quotes": "76"
         }
       },
       "sample_replies": [
@@ -1096,12 +1096,12 @@
         "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
       },
       "engagement": {
-        "likes": 27,
+        "likes": 28,
         "replies": 14,
         "reposts": 2,
         "quotes": 9,
         "formatted": {
-          "likes": "27",
+          "likes": "28",
           "replies": "14",
           "reposts": "2",
           "quotes": "9"
@@ -1318,15 +1318,15 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 45,
-        "replies": 18,
-        "reposts": 12,
-        "quotes": 38,
+        "likes": 51,
+        "replies": 24,
+        "reposts": 15,
+        "quotes": 47,
         "formatted": {
-          "likes": "45",
-          "replies": "18",
-          "reposts": "12",
-          "quotes": "38"
+          "likes": "51",
+          "replies": "24",
+          "reposts": "15",
+          "quotes": "47"
         }
       },
       "sample_replies": [
@@ -1489,15 +1489,15 @@
         "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
       },
       "engagement": {
-        "likes": 30,
-        "replies": 8,
+        "likes": 36,
+        "replies": 10,
         "reposts": 3,
-        "quotes": 11,
+        "quotes": 13,
         "formatted": {
-          "likes": "30",
-          "replies": "8",
+          "likes": "36",
+          "replies": "10",
           "reposts": "3",
-          "quotes": "11"
+          "quotes": "13"
         }
       },
       "sample_replies": [
