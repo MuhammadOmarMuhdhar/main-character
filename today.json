@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T13:46:49.748653+00:00",
-    "last_metrics_update": "2025-08-20T15:48:00.189124+00:00",
+    "last_metrics_update": "2025-08-20T16:02:28.281941+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 18,
@@ -25,7 +25,7 @@
         "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
       },
       "ratio": "25:1",
-      "controversy": 1.3,
+      "controversy": 1.2,
       "change": "+5.0",
       "change_type": "positive",
       "post": {
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwtbyax5sc2x"
       },
       "engagement": {
-        "likes": 24,
+        "likes": 25,
         "replies": 9,
         "reposts": 4,
         "quotes": 100,
         "formatted": {
-          "likes": "24",
+          "likes": "25",
           "replies": "9",
           "reposts": "4",
           "quotes": "100"
@@ -93,12 +93,12 @@
         "url": "https://bsky.app/profile/paulbrand.bsky.social/post/3lwtf72byys26"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 12,
         "replies": 42,
         "reposts": 5,
         "quotes": 21,
         "formatted": {
-          "likes": "11",
+          "likes": "12",
           "replies": "42",
           "reposts": "5",
           "quotes": "21"
@@ -261,14 +261,14 @@
       },
       "engagement": {
         "likes": 27,
-        "replies": 9,
+        "replies": 10,
         "reposts": 3,
-        "quotes": 48,
+        "quotes": 49,
         "formatted": {
           "likes": "27",
-          "replies": "9",
+          "replies": "10",
           "reposts": "3",
-          "quotes": "48"
+          "quotes": "49"
         }
       },
       "sample_replies": [
@@ -429,12 +429,12 @@
       },
       "engagement": {
         "likes": 43,
-        "replies": 34,
+        "replies": 35,
         "reposts": 0,
         "quotes": 5,
         "formatted": {
           "likes": "43",
-          "replies": "34",
+          "replies": "35",
           "reposts": "0",
           "quotes": "5"
         }
@@ -821,12 +821,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 75,
+        "likes": 76,
         "replies": 5,
         "reposts": 0,
         "quotes": 17,
         "formatted": {
-          "likes": "75",
+          "likes": "76",
           "replies": "5",
           "reposts": "0",
           "quotes": "17"
@@ -977,8 +977,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
         "profile_url": "https://bsky.app/profile/popcrave.com"
       },
-      "ratio": "5:1",
-      "controversy": 0.1,
+      "ratio": "4:1",
+      "controversy": 0.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -988,14 +988,14 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 128,
+        "likes": 132,
         "replies": 2,
-        "reposts": 5,
+        "reposts": 7,
         "quotes": 25,
         "formatted": {
-          "likes": "128",
+          "likes": "132",
           "replies": "2",
-          "reposts": "5",
+          "reposts": "7",
           "quotes": "25"
         }
       },
