@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T17:05:30.680375+00:00",
-    "last_metrics_update": "2025-08-20T19:47:23.531611+00:00",
+    "last_metrics_update": "2025-08-20T20:02:44.280035+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -132,62 +132,6 @@
     {
       "rank": 3,
       "user": {
-        "handle": "pattersona8.bsky.social",
-        "display_name": "clit attack survivors ™️",
-        "initials": "CA",
-        "did": "did:plc:62uhkymbkifca2bvbdho4qit",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62uhkymbkifca2bvbdho4qit/bafkreihddoyvvxnvbcaoooznusj5gr32xdv2jeeavlqts43w3uuvxtwkdi@jpeg",
-        "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
-      },
-      "ratio": "16:1",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "sooooo, we’ve all had a man bite our clit before😩😒",
-        "uri": "at://did:plc:62uhkymbkifca2bvbdho4qit/app.bsky.feed.post/3lwtnlhmmlk2t",
-        "created_at": "2025-08-20T14:35:37.151Z",
-        "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
-      },
-      "engagement": {
-        "likes": 37,
-        "replies": 23,
-        "reposts": 6,
-        "quotes": 98,
-        "formatted": {
-          "likes": "37",
-          "replies": "23",
-          "reposts": "6",
-          "quotes": "98"
-        }
-      },
-      "sample_replies": [
-        "Your name now?!?! 😭😭😭😭😭",
-        "Hellllllll no!!!!! I do not believe in hitting men but I would have slapped the shit out of him!...",
-        "I, too, am a survivor. He got instinctively kicked hard in the ribs and had to go to urgent care...",
-        "\"Off??\"\n\nShit! That is 99 Flavors of Fucked Up!\n🤣"
-      ],
-      "metrics": {
-        "ratio_score": 13.6,
-        "confidence": 0.643,
-        "category": "Complete Ratio",
-        "post_age_minutes": 132.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:29.873568+00:00",
-      "last_updated": "2025-08-20T17:05:29.873568+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:29.873568+00:00"
-      ],
-      "peak_controversy": 4.3,
-      "trend": "new"
-    },
-    {
-      "rank": 4,
-      "user": {
         "handle": "paulbrand.bsky.social",
         "display_name": "Paul Brand",
         "initials": "PB",
@@ -242,7 +186,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "user": {
         "handle": "amesorisu.bsky.social",
         "display_name": "Damir. 🧸",
@@ -294,6 +238,62 @@
         "2025-08-20T13:46:49.387305+00:00"
       ],
       "peak_controversy": 3.3,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
+      "user": {
+        "handle": "pattersona8.bsky.social",
+        "display_name": "clit attack survivors ™️",
+        "initials": "CA",
+        "did": "did:plc:62uhkymbkifca2bvbdho4qit",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62uhkymbkifca2bvbdho4qit/bafkreihddoyvvxnvbcaoooznusj5gr32xdv2jeeavlqts43w3uuvxtwkdi@jpeg",
+        "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
+      },
+      "ratio": "16:1",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "sooooo, we’ve all had a man bite our clit before😩😒",
+        "uri": "at://did:plc:62uhkymbkifca2bvbdho4qit/app.bsky.feed.post/3lwtnlhmmlk2t",
+        "created_at": "2025-08-20T14:35:37.151Z",
+        "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
+      },
+      "engagement": {
+        "likes": 39,
+        "replies": 23,
+        "reposts": 6,
+        "quotes": 98,
+        "formatted": {
+          "likes": "39",
+          "replies": "23",
+          "reposts": "6",
+          "quotes": "98"
+        }
+      },
+      "sample_replies": [
+        "Your name now?!?! 😭😭😭😭😭",
+        "Hellllllll no!!!!! I do not believe in hitting men but I would have slapped the shit out of him!...",
+        "I, too, am a survivor. He got instinctively kicked hard in the ribs and had to go to urgent care...",
+        "\"Off??\"\n\nShit! That is 99 Flavors of Fucked Up!\n🤣"
+      ],
+      "metrics": {
+        "ratio_score": 13.6,
+        "confidence": 0.643,
+        "category": "Complete Ratio",
+        "post_age_minutes": 132.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:29.873568+00:00",
+      "last_updated": "2025-08-20T17:05:29.873568+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:29.873568+00:00"
+      ],
+      "peak_controversy": 4.3,
       "trend": "new"
     },
     {
@@ -376,12 +376,12 @@
         "likes": 32,
         "replies": 11,
         "reposts": 6,
-        "quotes": 62,
+        "quotes": 63,
         "formatted": {
           "likes": "32",
           "replies": "11",
           "reposts": "6",
-          "quotes": "62"
+          "quotes": "63"
         }
       },
       "sample_replies": [
@@ -429,15 +429,15 @@
         "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
       },
       "engagement": {
-        "likes": 36,
+        "likes": 37,
         "replies": 11,
         "reposts": 4,
-        "quotes": 59,
+        "quotes": 60,
         "formatted": {
-          "likes": "36",
+          "likes": "37",
           "replies": "11",
           "reposts": "4",
-          "quotes": "59"
+          "quotes": "60"
         }
       },
       "sample_replies": [
@@ -709,12 +709,12 @@
         "url": "https://bsky.app/profile/rlivre.cc/post/3lwtmpiikac2n"
       },
       "engagement": {
-        "likes": 64,
+        "likes": 65,
         "replies": 11,
         "reposts": 4,
         "quotes": 65,
         "formatted": {
-          "likes": "64",
+          "likes": "65",
           "replies": "11",
           "reposts": "4",
           "quotes": "65"
@@ -822,12 +822,12 @@
       },
       "engagement": {
         "likes": 20,
-        "replies": 8,
+        "replies": 9,
         "reposts": 6,
         "quotes": 21,
         "formatted": {
           "likes": "20",
-          "replies": "8",
+          "replies": "9",
           "reposts": "6",
           "quotes": "21"
         }
@@ -877,12 +877,12 @@
         "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 13,
         "reposts": 0,
         "quotes": 8,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "13",
           "reposts": "0",
           "quotes": "8"
@@ -1144,7 +1144,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
         "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
       },
-      "ratio": "23:0",
+      "ratio": "24:0",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1155,15 +1155,15 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 59,
+        "likes": 62,
         "replies": 13,
         "reposts": 0,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
-          "likes": "59",
+          "likes": "62",
           "replies": "13",
           "reposts": "0",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -1270,12 +1270,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 80,
+        "likes": 81,
         "replies": 5,
         "reposts": 0,
         "quotes": 17,
         "formatted": {
-          "likes": "80",
+          "likes": "81",
           "replies": "5",
           "reposts": "0",
           "quotes": "17"
