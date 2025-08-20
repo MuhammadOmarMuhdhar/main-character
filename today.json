@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T10:27:04.173064+00:00",
-    "last_metrics_update": "2025-08-20T11:02:23.525571+00:00",
+    "last_metrics_update": "2025-08-20T11:17:44.875139+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 11,
@@ -80,8 +80,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kykap6cwhlj5hhqiul7lpcae/bafkreicgzryrssod7eka32iy6guz32cw6thvugoje3dzpk7zkhlmhdjcpm@jpeg",
         "profile_url": "https://bsky.app/profile/sebsb.bsky.social"
       },
-      "ratio": "5:1",
-      "controversy": 0.5,
+      "ratio": "6:1",
+      "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -92,14 +92,14 @@
       },
       "engagement": {
         "likes": 8,
-        "replies": 16,
+        "replies": 17,
         "reposts": 3,
-        "quotes": 16,
+        "quotes": 17,
         "formatted": {
           "likes": "8",
-          "replies": "16",
+          "replies": "17",
           "reposts": "3",
-          "quotes": "16"
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -204,12 +204,12 @@
         "likes": 8,
         "replies": 5,
         "reposts": 3,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
           "likes": "8",
           "replies": "5",
           "reposts": "3",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -260,12 +260,12 @@
         "likes": 53,
         "replies": 10,
         "reposts": 2,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
           "likes": "53",
           "replies": "10",
           "reposts": "2",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -305,7 +305,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
         "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -316,14 +316,14 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwsw3kt2rk2x"
       },
       "engagement": {
-        "likes": 37,
-        "replies": 11,
-        "reposts": 4,
+        "likes": 39,
+        "replies": 12,
+        "reposts": 5,
         "quotes": 6,
         "formatted": {
-          "likes": "37",
-          "replies": "11",
-          "reposts": "4",
+          "likes": "39",
+          "replies": "12",
+          "reposts": "5",
           "quotes": "6"
         }
       },
@@ -429,12 +429,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 60,
+        "likes": 61,
         "replies": 4,
         "reposts": 0,
         "quotes": 15,
         "formatted": {
-          "likes": "60",
+          "likes": "61",
           "replies": "4",
           "reposts": "0",
           "quotes": "15"
@@ -541,13 +541,13 @@
         "url": "https://bsky.app/profile/financialtimes.com/post/3lwsmxuzc4t2u"
       },
       "engagement": {
-        "likes": 25,
-        "replies": 18,
+        "likes": 26,
+        "replies": 19,
         "reposts": 5,
         "quotes": 6,
         "formatted": {
-          "likes": "25",
-          "replies": "18",
+          "likes": "26",
+          "replies": "19",
           "reposts": "5",
           "quotes": "6"
         }
@@ -585,7 +585,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
         "profile_url": "https://bsky.app/profile/popcrave.com"
       },
-      "ratio": "1:1",
+      "ratio": "2:1",
       "controversy": 0.0,
       "change": "NEW",
       "change_type": "new",
@@ -596,15 +596,15 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 88,
+        "likes": 92,
         "replies": 2,
         "reposts": 5,
-        "quotes": 7,
+        "quotes": 8,
         "formatted": {
-          "likes": "88",
+          "likes": "92",
           "replies": "2",
           "reposts": "5",
-          "quotes": "7"
+          "quotes": "8"
         }
       },
       "sample_replies": [
