@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force_full_analysis:
-        description: 'Force full analysis (ignore 6-hour timer)'
+        description: 'Force full analysis (ignore 3-hour timer)'
         required: false
         default: 'false'
         type: boolean
