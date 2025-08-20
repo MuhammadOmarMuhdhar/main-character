@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T13:46:49.748653+00:00",
-    "last_metrics_update": "2025-08-20T14:02:27.538469+00:00",
+    "last_metrics_update": "2025-08-20T14:17:42.074673+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 18,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwtbyax5sc2x"
       },
       "engagement": {
-        "likes": 20,
+        "likes": 21,
         "replies": 9,
         "reposts": 4,
-        "quotes": 95,
+        "quotes": 98,
         "formatted": {
-          "likes": "20",
+          "likes": "21",
           "replies": "9",
           "reposts": "4",
-          "quotes": "95"
+          "quotes": "98"
         }
       },
       "sample_replies": [
@@ -94,12 +94,12 @@
       },
       "engagement": {
         "likes": 10,
-        "replies": 38,
+        "replies": 39,
         "reposts": 4,
         "quotes": 20,
         "formatted": {
           "likes": "10",
-          "replies": "38",
+          "replies": "39",
           "reposts": "4",
           "quotes": "20"
         }
@@ -261,14 +261,14 @@
       },
       "engagement": {
         "likes": 24,
-        "replies": 8,
+        "replies": 9,
         "reposts": 2,
-        "quotes": 44,
+        "quotes": 45,
         "formatted": {
           "likes": "24",
-          "replies": "8",
+          "replies": "9",
           "reposts": "2",
-          "quotes": "44"
+          "quotes": "45"
         }
       },
       "sample_replies": [
@@ -316,12 +316,12 @@
         "url": "https://bsky.app/profile/sebsb.bsky.social/post/3lwszncsdos2v"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 12,
         "replies": 17,
         "reposts": 3,
         "quotes": 22,
         "formatted": {
-          "likes": "11",
+          "likes": "12",
           "replies": "17",
           "reposts": "3",
           "quotes": "22"
@@ -428,13 +428,13 @@
         "url": "https://bsky.app/profile/jamesrball.com/post/3lwtcuxekqc2h"
       },
       "engagement": {
-        "likes": 40,
-        "replies": 31,
+        "likes": 41,
+        "replies": 33,
         "reposts": 0,
         "quotes": 5,
         "formatted": {
-          "likes": "40",
-          "replies": "31",
+          "likes": "41",
+          "replies": "33",
           "reposts": "0",
           "quotes": "5"
         }
@@ -754,7 +754,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
         "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
       },
-      "ratio": "8:0",
+      "ratio": "9:0",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -768,12 +768,12 @@
         "likes": 45,
         "replies": 12,
         "reposts": 0,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
           "likes": "45",
           "replies": "12",
           "reposts": "0",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -877,12 +877,12 @@
         "url": "https://bsky.app/profile/vickyacab.bsky.social/post/3lwspi3oj2s2u"
       },
       "engagement": {
-        "likes": 24,
+        "likes": 25,
         "replies": 2,
         "reposts": 2,
         "quotes": 7,
         "formatted": {
-          "likes": "24",
+          "likes": "25",
           "replies": "2",
           "reposts": "2",
           "quotes": "7"
@@ -988,15 +988,15 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 118,
+        "likes": 120,
         "replies": 2,
         "reposts": 5,
-        "quotes": 18,
+        "quotes": 20,
         "formatted": {
-          "likes": "118",
+          "likes": "120",
           "replies": "2",
           "reposts": "5",
-          "quotes": "18"
+          "quotes": "20"
         }
       },
       "sample_replies": [
