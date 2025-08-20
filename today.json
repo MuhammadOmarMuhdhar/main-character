@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T10:27:04.173064+00:00",
-    "last_metrics_update": "2025-08-20T11:32:40.831711+00:00",
+    "last_metrics_update": "2025-08-20T11:47:39.135709+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 11,
@@ -80,7 +80,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kykap6cwhlj5hhqiul7lpcae/bafkreicgzryrssod7eka32iy6guz32cw6thvugoje3dzpk7zkhlmhdjcpm@jpeg",
         "profile_url": "https://bsky.app/profile/sebsb.bsky.social"
       },
-      "ratio": "6:1",
+      "ratio": "7:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -94,12 +94,12 @@
         "likes": 8,
         "replies": 17,
         "reposts": 3,
-        "quotes": 18,
+        "quotes": 20,
         "formatted": {
           "likes": "8",
           "replies": "17",
           "reposts": "3",
-          "quotes": "18"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -136,8 +136,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:udi5cqdsuhu55agzykpvmdgv/bafkreie6wnuhey6hfmxujdp27qorqdtwcr5wsdciufesbocyh7a4tdug7q@jpeg",
         "profile_url": "https://bsky.app/profile/videogameschronicle.com"
       },
-      "ratio": "7:1",
-      "controversy": 0.3,
+      "ratio": "5:1",
+      "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/videogameschronicle.com/post/3lwt65rf5xk2s"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 13,
         "replies": 3,
-        "reposts": 2,
-        "quotes": 14,
+        "reposts": 3,
+        "quotes": 15,
         "formatted": {
-          "likes": "11",
+          "likes": "13",
           "replies": "3",
-          "reposts": "2",
-          "quotes": "14"
+          "reposts": "3",
+          "quotes": "15"
         }
       },
       "sample_replies": [
@@ -317,12 +317,12 @@
       },
       "engagement": {
         "likes": 41,
-        "replies": 12,
+        "replies": 13,
         "reposts": 6,
         "quotes": 6,
         "formatted": {
           "likes": "41",
-          "replies": "12",
+          "replies": "13",
           "reposts": "6",
           "quotes": "6"
         }
@@ -596,15 +596,15 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 92,
+        "likes": 94,
         "replies": 2,
         "reposts": 5,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
-          "likes": "92",
+          "likes": "94",
           "replies": "2",
           "reposts": "5",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
