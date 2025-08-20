@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T17:05:30.680375+00:00",
-    "last_metrics_update": "2025-08-20T17:32:42.640962+00:00",
+    "last_metrics_update": "2025-08-20T17:47:45.649545+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -139,7 +139,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62uhkymbkifca2bvbdho4qit/bafkreihddoyvvxnvbcaoooznusj5gr32xdv2jeeavlqts43w3uuvxtwkdi@jpeg",
         "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
       },
-      "ratio": "23:1",
+      "ratio": "19:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -152,13 +152,13 @@
       "engagement": {
         "likes": 30,
         "replies": 20,
-        "reposts": 4,
-        "quotes": 92,
+        "reposts": 5,
+        "quotes": 94,
         "formatted": {
           "likes": "30",
           "replies": "20",
-          "reposts": "4",
-          "quotes": "92"
+          "reposts": "5",
+          "quotes": "94"
         }
       },
       "sample_replies": [
@@ -317,12 +317,12 @@
         "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
       },
       "engagement": {
-        "likes": 29,
+        "likes": 30,
         "replies": 11,
         "reposts": 4,
         "quotes": 57,
         "formatted": {
-          "likes": "29",
+          "likes": "30",
           "replies": "11",
           "reposts": "4",
           "quotes": "57"
@@ -429,13 +429,13 @@
         "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
       },
       "engagement": {
-        "likes": 51,
-        "replies": 9,
+        "likes": 52,
+        "replies": 10,
         "reposts": 5,
         "quotes": 73,
         "formatted": {
-          "likes": "51",
-          "replies": "9",
+          "likes": "52",
+          "replies": "10",
           "reposts": "5",
           "quotes": "73"
         }
@@ -691,62 +691,6 @@
     {
       "rank": 13,
       "user": {
-        "handle": "shanegoldmacher.bsky.social",
-        "display_name": "Shane Goldmacher",
-        "initials": "SG",
-        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
-        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
-      },
-      "ratio": "7:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
-        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
-        "created_at": "2025-08-20T12:28:30.233Z",
-        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
-      },
-      "engagement": {
-        "likes": 11,
-        "replies": 5,
-        "reposts": 3,
-        "quotes": 21,
-        "formatted": {
-          "likes": "11",
-          "replies": "5",
-          "reposts": "3",
-          "quotes": "21"
-        }
-      },
-      "sample_replies": [
-        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
-        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
-        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
-        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
-      ],
-      "metrics": {
-        "ratio_score": 7.5,
-        "confidence": 0.468,
-        "category": "Quote Dunk",
-        "post_age_minutes": 64.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.573864+00:00",
-      "last_updated": "2025-08-20T13:46:49.573864+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.573864+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 14,
-      "user": {
         "handle": "nymag.com",
         "display_name": "New York Magazine",
         "initials": "NY",
@@ -754,8 +698,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwbpna4jtw66gj6c3pksbiad/bafkreiepf3ei2gg2jj2ghydnwbdbv3s3hbux4tiacqmbzos6sb2croyhjm@jpeg",
         "profile_url": "https://bsky.app/profile/nymag.com"
       },
-      "ratio": "17:1",
-      "controversy": 0.3,
+      "ratio": "20:1",
+      "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -765,15 +709,15 @@
         "url": "https://bsky.app/profile/nymag.com/post/3lwtrzpb2lp2n"
       },
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "replies": 6,
         "reposts": 1,
-        "quotes": 17,
+        "quotes": 20,
         "formatted": {
-          "likes": "14",
+          "likes": "15",
           "replies": "6",
           "reposts": "1",
-          "quotes": "17"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -801,7 +745,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user": {
         "handle": "jamesrball.com",
         "display_name": "James Ball",
@@ -857,6 +801,62 @@
       "trend": "new"
     },
     {
+      "rank": 15,
+      "user": {
+        "handle": "shanegoldmacher.bsky.social",
+        "display_name": "Shane Goldmacher",
+        "initials": "SG",
+        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
+        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
+      },
+      "ratio": "4:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
+        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
+        "created_at": "2025-08-20T12:28:30.233Z",
+        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 5,
+        "reposts": 5,
+        "quotes": 21,
+        "formatted": {
+          "likes": "15",
+          "replies": "5",
+          "reposts": "5",
+          "quotes": "21"
+        }
+      },
+      "sample_replies": [
+        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
+        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
+        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
+        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
+      ],
+      "metrics": {
+        "ratio_score": 7.5,
+        "confidence": 0.468,
+        "category": "Quote Dunk",
+        "post_age_minutes": 64.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.573864+00:00",
+      "last_updated": "2025-08-20T13:46:49.573864+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.573864+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
       "rank": 16,
       "user": {
         "handle": "herooftim.bsky.social",
@@ -877,13 +877,13 @@
         "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
       },
       "engagement": {
-        "likes": 19,
-        "replies": 9,
+        "likes": 20,
+        "replies": 11,
         "reposts": 0,
         "quotes": 8,
         "formatted": {
-          "likes": "19",
-          "replies": "9",
+          "likes": "20",
+          "replies": "11",
           "reposts": "0",
           "quotes": "8"
         }
@@ -1137,62 +1137,6 @@
     {
       "rank": 21,
       "user": {
-        "handle": "mightyatom.bsky.social",
-        "display_name": "max schwartz",
-        "initials": "MS",
-        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
-        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
-      },
-      "ratio": "19:0",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
-        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
-        "created_at": "2025-08-20T05:32:56.421Z",
-        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
-      },
-      "engagement": {
-        "likes": 53,
-        "replies": 13,
-        "reposts": 0,
-        "quotes": 19,
-        "formatted": {
-          "likes": "53",
-          "replies": "13",
-          "reposts": "0",
-          "quotes": "19"
-        }
-      },
-      "sample_replies": [
-        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
-        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
-        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
-        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
-      ],
-      "metrics": {
-        "ratio_score": 14,
-        "confidence": 0.525,
-        "category": "Complete Ratio",
-        "post_age_minutes": 93.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T07:17:27.934850+00:00",
-      "last_updated": "2025-08-20T07:17:27.934850+00:00",
-      "analysis_windows": [
-        "2025-08-20T07:17:27.934850+00:00"
-      ],
-      "peak_controversy": 3.5,
-      "trend": "new"
-    },
-    {
-      "rank": 22,
-      "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
         "initials": "TG",
@@ -1248,6 +1192,62 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
+    },
+    {
+      "rank": 22,
+      "user": {
+        "handle": "mightyatom.bsky.social",
+        "display_name": "max schwartz",
+        "initials": "MS",
+        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
+        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
+      },
+      "ratio": "19:0",
+      "controversy": 0.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
+        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
+        "created_at": "2025-08-20T05:32:56.421Z",
+        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
+      },
+      "engagement": {
+        "likes": 55,
+        "replies": 13,
+        "reposts": 0,
+        "quotes": 19,
+        "formatted": {
+          "likes": "55",
+          "replies": "13",
+          "reposts": "0",
+          "quotes": "19"
+        }
+      },
+      "sample_replies": [
+        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
+        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
+        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
+        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
+      ],
+      "metrics": {
+        "ratio_score": 14,
+        "confidence": 0.525,
+        "category": "Complete Ratio",
+        "post_age_minutes": 93.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T07:17:27.934850+00:00",
+      "last_updated": "2025-08-20T07:17:27.934850+00:00",
+      "analysis_windows": [
+        "2025-08-20T07:17:27.934850+00:00"
+      ],
+      "peak_controversy": 3.5,
+      "trend": "new"
     },
     {
       "rank": 23,
