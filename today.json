@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T17:05:30.680375+00:00",
-    "last_metrics_update": "2025-08-20T19:02:55.941821+00:00",
+    "last_metrics_update": "2025-08-20T19:17:36.298005+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -139,7 +139,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62uhkymbkifca2bvbdho4qit/bafkreihddoyvvxnvbcaoooznusj5gr32xdv2jeeavlqts43w3uuvxtwkdi@jpeg",
         "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "20:1",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -153,12 +153,12 @@
         "likes": 35,
         "replies": 23,
         "reposts": 5,
-        "quotes": 97,
+        "quotes": 98,
         "formatted": {
           "likes": "35",
           "replies": "23",
           "reposts": "5",
-          "quotes": "97"
+          "quotes": "98"
         }
       },
       "sample_replies": [
@@ -419,7 +419,7 @@
         "profile_url": "https://bsky.app/profile/laportereporte.bsky.social"
       },
       "ratio": "15:1",
-      "controversy": 0.5,
+      "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -432,12 +432,12 @@
         "likes": 36,
         "replies": 11,
         "reposts": 4,
-        "quotes": 59,
+        "quotes": 60,
         "formatted": {
           "likes": "36",
           "replies": "11",
           "reposts": "4",
-          "quotes": "59"
+          "quotes": "60"
         }
       },
       "sample_replies": [
@@ -653,12 +653,12 @@
         "url": "https://bsky.app/profile/mid-majormadness.bsky.social/post/3lwtqc5usi227"
       },
       "engagement": {
-        "likes": 24,
+        "likes": 25,
         "replies": 10,
         "reposts": 2,
         "quotes": 28,
         "formatted": {
-          "likes": "24",
+          "likes": "25",
           "replies": "10",
           "reposts": "2",
           "quotes": "28"
@@ -822,12 +822,12 @@
       },
       "engagement": {
         "likes": 19,
-        "replies": 6,
+        "replies": 8,
         "reposts": 6,
         "quotes": 21,
         "formatted": {
           "likes": "19",
-          "replies": "6",
+          "replies": "8",
           "reposts": "6",
           "quotes": "21"
         }
@@ -934,12 +934,12 @@
       },
       "engagement": {
         "likes": 18,
-        "replies": 5,
+        "replies": 6,
         "reposts": 4,
         "quotes": 15,
         "formatted": {
           "likes": "18",
-          "replies": "5",
+          "replies": "6",
           "reposts": "4",
           "quotes": "15"
         }
@@ -1155,12 +1155,12 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 58,
+        "likes": 59,
         "replies": 13,
         "reposts": 0,
         "quotes": 23,
         "formatted": {
-          "likes": "58",
+          "likes": "59",
           "replies": "13",
           "reposts": "0",
           "quotes": "23"
@@ -1326,15 +1326,15 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 141,
+        "likes": 142,
         "replies": 3,
         "reposts": 7,
-        "quotes": 30,
+        "quotes": 31,
         "formatted": {
-          "likes": "141",
+          "likes": "142",
           "replies": "3",
           "reposts": "7",
-          "quotes": "30"
+          "quotes": "31"
         }
       },
       "sample_replies": [
