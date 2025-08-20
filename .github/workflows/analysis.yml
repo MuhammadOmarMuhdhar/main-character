@@ -89,9 +89,9 @@ jobs:
         BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        cd main/analysis
+        cd main
         echo "📊 Running metrics update (last full analysis: ${{ steps.check_timer.outputs.HOURS_SINCE_LAST }} hours ago)"
-        python metrics_updater.py --verbose
+        python analysis/metrics_updater.py --verbose
 
     - name: Commit and push results
       if: success()
