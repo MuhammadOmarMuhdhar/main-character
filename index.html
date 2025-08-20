@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Character - Preline UI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./node_modules/preline/variants.css">
+    <style>
+      .grid-bg {
+        background-image: 
+          linear-gradient(rgba(0,0,0,0.025) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(0,0,0,0.025) 1px, transparent 1px);
+        background-size: 20px 20px;
+      }
+      
+      .dark .grid-bg {
+        background-image: 
+          linear-gradient(rgba(255,255,255,1) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255,255,255,1) 1px, transparent 1px);
+      }
+    </style>
+</head>
+<body class="bg-white dark:bg-neutral-800 grid-bg">
+<header class="flex flex-wrap sm:justify-start sm:flex-nowrap w-full text-sm h-16">
+    <nav class="max-w-6xl w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between">
+        <a class="flex-none flex items-center text-xl font-semibold text-black focus:outline-hidden focus:opacity-80 dark:text-white w-64" href="#" aria-label="Brand">
+          <img src="./images/logo.png" alt="Barometer Digital Logo" class="w-20 h-20 object-contain -mr-7">
+          <span class="self-end" style="padding-bottom: 1.45rem;">arometer.Digital</span>
+        </a>
+        <div class="flex flex-row items-center gap-5 mt-5 sm:justify-end sm:mt-0 sm:ps-5">
+        <!-- <a class="font-medium text-blue-500 focus:outline-hidden" href="#" aria-current="page">Landing</a> -->
+        <a class="font-medium text-gray-600 hover:text-gray-400 focus:outline-hidden focus:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500" href="today.html">Today</a>
+        <a class="font-medium text-gray-600 hover:text-gray-400 focus:outline-hidden focus:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500" href="#">Archive</a>
+        <a class="font-medium text-gray-600 hover:text-gray-400 focus:outline-hidden focus:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500" href="docs.html">Docs</a>
+        <a href="#" class="hover:opacity-80 transition-opacity">
+          <img src="./images/Bluesky_Logo.svg.png" alt="Follow us on Bluesky" class="w-6 h-6">
+        </a>
+        </div>
+    </nav>
+</header>
+
+<main class="min-h-screen">
+  <!-- Dashboard Layout -->
+  <section class="py-12 px-4">
+    <div class="max-w-6xl w-full mx-auto">
+      <!-- Grid Layout: 30% Sidebar, 70% Main Content -->
+      <div class="grid grid-cols-1 lg:grid-cols-[30%_70%] gap-6 items-start">
+        
+        <!-- Right Main Content - Today's Main Characters -->
+        <div class="order-2 lg:order-2 flex flex-col" id="right-content">
+          <!-- Section Header -->
+          <div class="flex justify-start items-end mb-4">
+            <div class="text-left">
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Today's Conversation Drivers</h2>
+              <p class="text-sm text-gray-500 dark:text-neutral-400">Past 24 hours</p>
+            </div>
+          </div>
+
+          <!-- Main Characters Table -->
+          <div class="bg-white border border-gray-200 shadow-2xs dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70 flex-1 overflow-y-auto">
+            <table id="main-characters-table" class="w-full table-auto">
+              <thead class="bg-gray-50 dark:bg-neutral-700 sticky top-0">
+                <tr>
+                  <th scope="col" class="text-left py-3 px-5 text-xs font-medium text-gray-500 uppercase dark:text-neutral-400 w-2/5">User</th>
+                  <th scope="col" class="text-center py-3 px-5 text-xs font-medium text-gray-500 uppercase dark:text-neutral-400 w-1/5">Ratio</th>
+                  <th scope="col" class="text-center py-3 px-5 text-xs font-medium text-gray-500 uppercase dark:text-neutral-400 w-1/5">Controversy</th>
+                  <th scope="col" class="text-center py-3 px-5 text-xs font-medium text-gray-500 uppercase dark:text-neutral-400 w-1/5">Change</th>
+                  <th scope="col" class="text-center py-3 px-5 text-xs font-medium text-gray-500 uppercase dark:text-neutral-400 w-auto"></th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-gray-200 dark:divide-neutral-700">
+                <!-- AI Ethics Row -->
+                <tr class="hs-accordion" id="hs-table-accordion-ai-2">
+                  <td colspan="5" class="p-0">
+                    <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 w-full text-center text-gray-800 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400" aria-expanded="false" aria-controls="hs-table-collapse-ai-2" aria-label="Toggle AI Ethics details">
+                      <div class="py-4 px-5">
+                        <!-- Row 1: User + Metrics -->
+                        <div class="grid grid-cols-[2fr_1fr_1fr_1fr_auto] gap-4 items-center mb-3">
+                          <div class="font-medium text-left flex items-center gap-3">
+                            <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-gray-800 text-gray-800 dark:border-neutral-200 dark:text-white">
+                              AE
+                            </span>
+                            @ai_ethics_guru
+                          </div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 text-center">47:1</div>
+                          <div class="text-sm text-red-600 dark:text-red-400 font-semibold text-center">8.7/10</div>
+                          <div class="status-indicator positive text-center">+3</div>
+                          <div class="justify-self-end">
+                            <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                              <path d="M12 5v14"></path>
+                            </svg>
+                            <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                            </svg>
+                          </div>
+                        </div>
+                        <!-- Row 2: Post -->
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 italic mb-2 text-left">
+                          "AI will replace 90% of jobs within 2 years. If you're not learning to code, you're basically choosing poverty. Sorry not sorry 🤷‍♂️"
+                        </div>
+                        <!-- Row 3: Post Metrics -->
+                        <div class="flex items-center gap-6 text-xs text-gray-500 dark:text-neutral-500">
+                          <span>8.2K RT</span>
+                          <span>47K QT</span>
+                          <span>12K Replies</span>
+                          <span>89K Likes</span>
+                        </div>
+                      </div>
+                    </button>
+                    <div id="hs-table-collapse-ai-2" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="hs-table-accordion-ai-2">
+                      <div class="pb-4 px-5">
+                        <div class="space-y-3 text-sm text-gray-600 dark:text-neutral-400 mt-3">
+                          <div class="flex items-start gap-3">
+                            <div class="flex flex-col items-center">
+                              <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                            </div>
+                            <span>"This is the most privileged take I've seen all day"</span>
+                          </div>
+                          <div class="flex items-start gap-3">
+                            <div class="flex flex-col items-center">
+                              <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                            </div>
+                            <span>"Tell that to my grandmother who's 75"</span>
+                          </div>
+                          <div class="flex items-start gap-3">
+                            <div class="flex flex-col items-center">
+                              <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                            </div>
+                            <span>"Imagine thinking coding is immune to AI replacement"</span>
+                          </div>
+                          <div class="flex items-start gap-3">
+                            <div class="flex flex-col items-center">
+                              <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                            </div>
+                            <span>"Brain dead tech bro take. Touch grass."</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+
+                <!-- Crypto Regulation Row -->
+                <tr class="hs-accordion" id="hs-table-accordion-crypto-2">
+                  <td colspan="5" class="p-0">
+                    <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 w-full text-center text-gray-800 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400" aria-expanded="false" aria-controls="hs-table-collapse-crypto-2" aria-label="Toggle Crypto Regulation details">
+                      <div class="py-4 px-5">
+                        <!-- Row 1: User + Metrics -->
+                        <div class="grid grid-cols-[2fr_1fr_1fr_1fr_auto] gap-4 items-center mb-3">
+                          <div class="font-medium text-left flex items-center gap-3">
+                            <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-blue-600 text-blue-600 dark:text-blue-500">
+                              CR
+                            </span>
+                            @crypto_rebel
+                          </div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 text-center">15:1</div>
+                          <div class="text-sm text-orange-600 dark:text-orange-400 font-semibold text-center">6.2/10</div>
+                          <div class="status-indicator negative text-center">-1</div>
+                          <div class="justify-self-end">
+                            <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                              <path d="M12 5v14"></path>
+                            </svg>
+                            <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                            </svg>
+                          </div>
+                        </div>
+                        <!-- Row 2: Post -->
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 italic mb-2 text-left">
+                          "Crypto regulation is just governments trying to control what they can't understand. True decentralization means NO government interference. Period. 🏴‍☠️"
+                        </div>
+                        <!-- Row 3: Post Metrics -->
+                        <div class="flex items-center gap-6 text-xs text-gray-500 dark:text-neutral-500">
+                          <span>3.1K RT</span>
+                          <span>15K QT</span>
+                          <span>8.7K Replies</span>
+                          <span>24K Likes</span>
+                        </div>
+                      </div>
+                    </button>
+                    <div id="hs-table-collapse-crypto-2" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="hs-table-accordion-crypto-2">
+                      <div class="pb-4 px-5 ">
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 mt-3">
+                          <div class="space-y-3">
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"This is exactly why we need DeFi - no central authority can stop financial freedom"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Tell me you don't understand monetary policy without telling me"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Crypto bros when they realize money laundering laws apply to them too 😂"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              </div>
+                              <span>"Maybe if crypto wasn't used for 90% scams we wouldn't need regulation"</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+
+                <!-- Remote Work Culture Row -->
+                <tr class="hs-accordion" id="hs-table-accordion-remote-2">
+                  <td colspan="5" class="p-0">
+                    <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 w-full text-center text-gray-800 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400" aria-expanded="false" aria-controls="hs-table-collapse-remote-2" aria-label="Toggle Remote Work Culture details">
+                      <div class="py-4 px-5">
+                        <!-- Row 1: User + Metrics -->
+                        <div class="grid grid-cols-[2fr_1fr_1fr_1fr_auto] gap-4 items-center mb-3">
+                          <div class="font-medium text-left flex items-center gap-3">
+                            <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-teal-500 text-teal-500">
+                              RW
+                            </span>
+                            @remote_nomad
+                          </div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 text-center">12:1</div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 font-semibold text-center">3.4/10</div>
+                          <div class="status-indicator positive text-center">+5</div>
+                          <div class="justify-self-end">
+                            <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                              <path d="M12 5v14"></path>
+                            </svg>
+                            <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                            </svg>
+                          </div>
+                        </div>
+                        <!-- Row 2: Post -->
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 italic mb-2 text-left">
+                          "Working from home is making people lazy and antisocial. Humans need office interaction to be productive. Remote work is killing company culture and innovation. 🏢"
+                        </div>
+                        <!-- Row 3: Post Metrics -->
+                        <div class="flex items-center gap-6 text-xs text-gray-500 dark:text-neutral-500">
+                          <span>5.3K RT</span>
+                          <span>12K QT</span>
+                          <span>18K Replies</span>
+                          <span>31K Likes</span>
+                        </div>
+                      </div>
+                    </button>
+                    <div id="hs-table-collapse-remote-2" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="hs-table-accordion-remote-2">
+                      <div class="pb-4 px-5">
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 mt-3">
+                          <div class="space-y-3">
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Spoken like someone who's never had to manage distributed teams"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Remote work isn't the problem - bad management is"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"I've been 3x more productive working from home than I ever was in an office"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              </div>
+                              <span>"OK boomer, enjoy your 2-hour commute and small talk by the water cooler"</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+
+                <!-- Social Media Addiction Row -->
+                <tr class="hs-accordion" id="hs-table-accordion-social-2">
+                  <td colspan="5" class="p-0">
+                    <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 w-full text-center text-gray-800 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400" aria-expanded="false" aria-controls="hs-table-collapse-social-2" aria-label="Toggle Social Media Addiction details">
+                      <div class="py-4 px-5">
+                        <!-- Row 1: User + Metrics -->
+                        <div class="grid grid-cols-[2fr_1fr_1fr_1fr_auto] gap-4 items-center mb-3">
+                          <div class="font-medium text-left flex items-center gap-3">
+                            <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-red-500 text-red-500">
+                              SM
+                            </span>
+                            @social_critic
+                          </div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 text-center">9:1</div>
+                          <div class="text-sm text-orange-600 dark:text-orange-400 font-semibold text-center">5.8/10</div>
+                          <div class="status-indicator new text-center">NEW</div>
+                          <div class="justify-self-end">
+                            <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                              <path d="M12 5v14"></path>
+                            </svg>
+                            <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                            </svg>
+                          </div>
+                        </div>
+                        <!-- Row 2: Post -->
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 italic mb-2 text-left">
+                          "Social media detox is just privileged people virtue signaling. Most of us NEED these platforms for work, connection, and community. Stop shaming people for adapting to modern life. 📱"
+                        </div>
+                        <!-- Row 3: Post Metrics -->
+                        <div class="flex items-center gap-6 text-xs text-gray-500 dark:text-neutral-500">
+                          <span>2.8K RT</span>
+                          <span>9K QT</span>
+                          <span>14K Replies</span>
+                          <span>22K Likes</span>
+                        </div>
+                      </div>
+                    </button>
+                    <div id="hs-table-collapse-social-2" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="hs-table-accordion-social-2">
+                      <div class="pb-4 px-5">
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 mt-3">
+                          <div class="space-y-3">
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"This is exactly why digital inequality is getting worse"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Some people can afford to disconnect because they have other resources"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Social media has become essential infrastructure for many communities"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              </div>
+                              <span>"Tell that to small business owners who depend on Instagram for customers"</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+
+                <!-- Climate Policy Row -->
+                <tr class="hs-accordion" id="hs-table-accordion-climate-2">
+                  <td colspan="5" class="p-0">
+                    <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 w-full text-center text-gray-800 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400" aria-expanded="false" aria-controls="hs-table-collapse-climate-2" aria-label="Toggle Climate Policy details">
+                      <div class="py-4 px-5">
+                        <!-- Row 1: User + Metrics -->
+                        <div class="grid grid-cols-[2fr_1fr_1fr_1fr_auto] gap-4 items-center mb-3">
+                          <div class="font-medium text-left flex items-center gap-3">
+                            <span class="inline-flex items-center justify-center size-11 text-sm font-semibold rounded-full border border-yellow-500 text-yellow-500">
+                              CP
+                            </span>
+                            @climate_advocate
+                          </div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 text-center">2:1</div>
+                          <div class="text-sm text-gray-600 dark:text-neutral-400 font-semibold text-center">2.9/10</div>
+                          <div class="status-indicator neutral text-center">=</div>
+                          <div class="justify-self-end">
+                            <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                              <path d="M12 5v14"></path>
+                            </svg>
+                            <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                              <path d="M5 12h14"></path>
+                            </svg>
+                          </div>
+                        </div>
+                        <!-- Row 2: Post -->
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 italic mb-2 text-left">
+                          "Climate activists need to stop targeting working-class people and start going after corporations. Your individual carbon footprint shaming is classist BS. 🌍"
+                        </div>
+                        <!-- Row 3: Post Metrics -->
+                        <div class="flex items-center gap-6 text-xs text-gray-500 dark:text-neutral-500">
+                          <span>1.2K RT</span>
+                          <span>2K QT</span>
+                          <span>3.5K Replies</span>
+                          <span>8.1K Likes</span>
+                        </div>
+                      </div>
+                    </button>
+                    <div id="hs-table-collapse-climate-2" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="hs-table-accordion-climate-2">
+                      <div class="pb-4 px-5">
+                        <div class="text-sm text-gray-600 dark:text-neutral-400 mt-3">
+                          <div class="space-y-3">
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Finally someone said it! Corporate greenwashing is the real problem"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"100 companies produce 71% of emissions but sure, blame my plastic straw"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                                <div class="w-px h-6 bg-gray-300 dark:bg-neutral-600"></div>
+                              </div>
+                              <span>"Individual action is important but systemic change is what we need"</span>
+                            </div>
+                            <div class="flex items-start gap-3">
+                              <div class="flex flex-col items-center">
+                                <div class="w-2 h-2 bg-gray-400 dark:bg-neutral-500 rounded-full"></div>
+                              </div>
+                              <span>"Climate activism should unite people, not shame those with fewer resources"</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Left Sidebar - Cards -->
+        <div class="order-1 lg:order-1 space-y-4" id="left-sidebar">
+
+          <!-- <div class="flex justify-start items-end mb-4">
+            <div class="text-left">
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Today's Main Characters</h2>
+              <p class="text-sm text-gray-500 dark:text-neutral-400">Past 24 hours</p>
+            </div>
+          </div> -->
+          <!-- Section Header -->
+          <!-- <div class="mb-4">
+            <p class="text-m text-gray-500 dark:text-neutral-400">
+              Live algorithmic detection of pile-ons, ratios, and controversial takes on Bluesky.
+            </p>
+          </div> -->
+          <!-- Trending Topics Card -->
+          <div class="bg-white border border-gray-200 shadow-2xs p-4 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+            <h3 class="text-base font-bold text-gray-800 dark:text-white mb-3">
+              Trending Topics
+            </h3>
+            <div class="space-y-2 mb-4" id="trending-topics-list">
+              <!-- Topics will be loaded dynamically from topics.json -->
+            </div>
+            <a class="inline-flex items-center gap-x-1 text-sm font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-600" href="#">
+              View Dashboard
+              <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+
+          <!-- Feed Card -->
+          <div class="bg-white border border-gray-200 shadow-2xs p-4 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+            <h3 class="text-base font-bold text-gray-800 dark:text-white mb-2">
+              Feed
+            </h3>
+            <p class="text-sm text-gray-500 dark:text-neutral-400 mb-4">
+              Our feed built on this data. 
+            </p>
+            <a class="inline-flex items-center gap-x-1 text-sm font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-600" href="#">
+              View Feed
+              <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+
+
+          <!-- Sponsor Card 1 -->
+          <div class="bg-white border border-gray-200 shadow-2xs p-4 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+            <h3 class="text-base font-bold text-gray-800 dark:text-white mb-2">
+              Become a Sponsor
+            </h3>
+            <p class="text-sm text-gray-500 dark:text-neutral-400 mb-4">
+              Support internet culture documentation
+            </p>
+            <a class="inline-flex items-center gap-x-1 text-sm font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-600" href="sponsor.html">
+              Contact us
+              <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+
+          <!-- Sponsor Card 2 -->
+          <div class="bg-white border border-gray-200 shadow-2xs p-4 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+            <h3 class="text-base font-bold text-gray-800 dark:text-white mb-2">
+              Your Ad Here
+            </h3>
+            <p class="text-sm text-gray-500 dark:text-neutral-400 mb-4">
+              For $.50 USD a day, this could be you!
+            </p>
+            <a class="inline-flex items-center gap-x-1 text-sm font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-600" href="#">
+              Learn more
+              <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Hero Section -->
+  <section class="py-2 px-4">
+    <div class="max-w-6xl mx-auto text-start">
+      <h1 class="text-2xl font-bold text-gray-900 dark:text-white mb-1">
+        Documenting Internet Culture
+        <span class="relative">
+          <div class="absolute bottom-0 left-0 w-full h-1 bg-blue-500"></div>
+        </span>
+      </h1>
+      <div class="max-w-6xl mx-auto text-start">
+        <p class="text-sm text-gray-500 dark:text-neutral-400">Live algorithmic detection of pile-ons, ratios, and controversial takes on Bluesky.</p>
+        <!-- <p class="text-sm text-gray-600 dark:text-neutral-300 leading-relaxed">
+          Live algorithmic detection of pile-ons, ratios, and controversial takes on Bluesky.
+        </p> -->
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="py-12 px-4">
+    <div class="max-w-6xl w-full mx-auto">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <!-- Left: FAQ Card -->
+        <div class="bg-white border border-gray-200 shadow-2xs p-6 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+          <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-6">Frequently Asked Questions</h2>
+          
+          <!-- FAQ Accordion -->
+          <div class="hs-accordion-group">
+            <!-- Question 1 -->
+            <div class="hs-accordion" id="faq-1">
+              <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 inline-flex items-center justify-between gap-x-3 w-full font-medium text-start text-gray-800 py-3 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400 border-b border-gray-200 dark:border-neutral-700" aria-expanded="false" aria-controls="faq-collapse-1">
+                What is Main Character?
+                <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                  <path d="M12 5v14"></path>
+                </svg>
+                <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                </svg>
+              </button>
+              <div id="faq-collapse-1" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="faq-1">
+                <div class="pb-3 pt-2">
+                  <p class="text-sm text-gray-600 dark:text-neutral-400">
+                    Main Character is a real-time monitoring platform that uses algorithmic detection to identify pile-ons, ratios, and controversial discussions on Bluesky. We track social media drama as it unfolds and provide analytics on viral controversies.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="hs-accordion" id="faq-2">
+              <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 inline-flex items-center justify-between gap-x-3 w-full font-medium text-start text-gray-800 py-3 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400 border-b border-gray-200 dark:border-neutral-700" aria-expanded="false" aria-controls="faq-collapse-2">
+                How do you detect controversies?
+                <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                  <path d="M12 5v14"></path>
+                </svg>
+                <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                </svg>
+              </button>
+              <div id="faq-collapse-2" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="faq-2">
+                <div class="pb-3 pt-2">
+                  <p class="text-sm text-gray-600 dark:text-neutral-400">
+                    Our algorithms analyze engagement patterns, reply-to-like ratios, quote tweet sentiment, and response volume to identify when posts are becoming controversial. We track metrics like ratio scores and controversy ratings on a 0-10 scale.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Question 3 -->
+            <div class="hs-accordion" id="faq-3">
+              <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 inline-flex items-center justify-between gap-x-3 w-full font-medium text-start text-gray-800 py-3 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400 border-b border-gray-200 dark:border-neutral-700" aria-expanded="false" aria-controls="faq-collapse-3">
+                Is this data updated in real-time?
+                <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                  <path d="M12 5v14"></path>
+                </svg>
+                <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                </svg>
+              </button>
+              <div id="faq-collapse-3" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="faq-3">
+                <div class="pb-3 pt-2">
+                  <p class="text-sm text-gray-600 dark:text-neutral-400">
+                    Yes, we monitor the Bluesky firehose continuously and update our main character rankings throughout the day. Rankings and controversy scores are refreshed regularly to reflect the latest engagement patterns.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Question 4 -->
+            <div class="hs-accordion" id="faq-4">
+              <button class="hs-accordion-toggle hs-accordion-active:text-blue-600 inline-flex items-center justify-between gap-x-3 w-full font-medium text-start text-gray-800 py-3 hover:text-gray-500 disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400" aria-expanded="false" aria-controls="faq-collapse-4">
+                Can I see historical data?
+                <svg class="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                  <path d="M12 5v14"></path>
+                </svg>
+                <svg class="hs-accordion-active:block hidden size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M5 12h14"></path>
+                </svg>
+              </button>
+              <div id="faq-collapse-4" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="faq-4">
+                <div class="pb-3 pt-2">
+                  <p class="text-sm text-gray-600 dark:text-neutral-400">
+                    We're building an archive feature that will let you browse past main characters and major controversies. Check the Archive section in our navigation - it's coming soon!
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: Recent Blog Posts -->
+        <div class="bg-white border border-gray-200 shadow-2xs p-6 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
+          <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-6">Recent Updates</h2>
+          
+          <div class="space-y-4">
+            <!-- Blog Post 1 -->
+            <article class="border-b border-gray-200 dark:border-neutral-700 pb-4 last:border-b-0 last:pb-0">
+              <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 hover:text-blue-600 dark:hover:text-blue-400 cursor-pointer">
+                Real-time Drama Detection Goes Live
+              </h3>
+              <p class="text-sm text-gray-600 dark:text-neutral-400 mb-2">
+                We've launched our algorithmic detection system that monitors Bluesky's firehose for emerging controversies and pile-ons in real-time.
+              </p>
+              <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-neutral-500">
+                <span>Jan 15, 2024</span>
+                <span>•</span>
+                <span>3 min read</span>
+              </div>
+            </article>
+
+            <!-- Blog Post 2 -->
+            <article class="border-b border-gray-200 dark:border-neutral-700 pb-4 last:border-b-0 last:pb-0">
+              <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 hover:text-blue-600 dark:hover:text-blue-400 cursor-pointer">
+                Understanding Ratio Scores
+              </h3>
+              <p class="text-sm text-gray-600 dark:text-neutral-400 mb-2">
+                A deep dive into how we calculate ratio scores and what they tell us about social media controversies and engagement patterns.
+              </p>
+              <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-neutral-500">
+                <span>Jan 12, 2024</span>
+                <span>•</span>
+                <span>5 min read</span>
+              </div>
+            </article>
+
+            <!-- Blog Post 3 -->
+            <article class="border-b border-gray-200 dark:border-neutral-700 pb-4 last:border-b-0 last:pb-0">
+              <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 hover:text-blue-600 dark:hover:text-blue-400 cursor-pointer">
+                The Rise of Bluesky Drama
+              </h3>
+              <p class="text-sm text-gray-600 dark:text-neutral-400 mb-2">
+                An analysis of how social dynamics from Twitter have evolved on Bluesky, and why monitoring these patterns matters.
+              </p>
+              <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-neutral-500">
+                <span>Jan 10, 2024</span>
+                <span>•</span>
+                <span>4 min read</span>
+              </div>
+            </article>
+
+            <!-- Blog Post 4 -->
+            <article>
+              <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 hover:text-blue-600 dark:hover:text-blue-400 cursor-pointer">
+                Welcome to Main Character
+              </h3>
+              <p class="text-sm text-gray-600 dark:text-neutral-400 mb-2">
+                Introducing our platform for tracking viral controversies, pile-ons, and the daily "main characters" of Bluesky social media.
+              </p>
+              <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-neutral-500">
+                <span>Jan 8, 2024</span>
+                <span>•</span>
+                <span>2 min read</span>
+              </div>
+            </article>
+          </div>
+
+          <div class="mt-6 pt-4 border-t border-gray-200 dark:border-neutral-700">
+            <a href="#" class="inline-flex items-center gap-x-1 text-sm font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-600">
+              View all updates
+              <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- Footer -->
+<footer class="py-12 px-4">
+  <div class="max-w-6xl w-full mx-auto px-4">
+    <div class="border-t border-gray-200 dark:border-neutral-700 mb-8"></div>
+    <div class="grid md:grid-cols-2 gap-8">
+      <!-- Left side: Logo and social -->
+      <div>
+        <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Main Character</h3>
+        <p class="text-blue-600 dark:text-blue-400 mb-4">Follow us on Bluesky</p>
+      </div>
+      
+      <!-- Right side: 2 columns, right aligned -->
+      <div class="flex justify-end space-x-8 text-center">
+        <!-- Column 1 -->
+        <div>
+          <h4 class="font-semibold text-gray-900 dark:text-white mb-3">Product</h4>
+          <div class="space-y-2">
+            <a href="docs.html" class="block text-sm text-gray-600 hover:text-blue-600 dark:text-neutral-400 dark:hover:text-blue-400">Docs</a>
+            <a href="sponsor.html" class="block text-sm text-gray-600 hover:text-blue-600 dark:text-neutral-400 dark:hover:text-blue-400">Sponsor</a>
+          </div>
+        </div>
+        
+        <!-- Column 2 -->
+        <div>
+          <h4 class="font-semibold text-gray-900 dark:text-white mb-3">Legal</h4>
+          <div class="space-y-2">
+            <a href="#" class="block text-sm text-gray-600 hover:text-blue-600 dark:text-neutral-400 dark:hover:text-blue-400">Privacy</a>
+            <a href="#" class="block text-sm text-gray-600 hover:text-blue-600 dark:text-neutral-400 dark:hover:text-blue-400">Terms</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="./node_modules/preline/dist/preline.js"></script>
+<script src="./app.js"></script>
+
+<script>
+// Sync heights: make right side match left sidebar height
+function syncHeights() {
+  const leftSidebar = document.getElementById('left-sidebar');
+  const rightContent = document.getElementById('right-content');
+  
+  if (leftSidebar && rightContent && window.innerWidth >= 1024) { // Only on desktop
+    // Wait a bit for any dynamic content to finish loading
+    setTimeout(() => {
+      const leftHeight = leftSidebar.offsetHeight;
+      rightContent.style.height = leftHeight + 'px';
+    }, 100);
+  } else if (rightContent) {
+    // Reset height on mobile
+    rightContent.style.height = 'auto';
+  }
+}
+
+// Make syncHeights globally available for dynamic content
+window.syncHeights = syncHeights;
+
+// Run on page load
+document.addEventListener('DOMContentLoaded', syncHeights);
+
+// Run on window resize
+window.addEventListener('resize', syncHeights);
+
+// Run after content loads (in case of dynamic content)
+window.addEventListener('load', syncHeights);
+
+// Run periodically to catch any missed dynamic content updates
+setInterval(syncHeights, 2000);
+</script>
+
+</body>
+</html>

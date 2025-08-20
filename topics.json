@@ -1,0 +1,15 @@
+{
+  "collection_date": "2025-08-20",
+  "collection_timestamp": "2025-08-20T05:34:21.508406+00:00",
+  "metadata": {
+    "total_posts": 9,
+    "english_texts": 9,
+    "topics_found": 0,
+    "min_topic_size": 3,
+    "embedding_model": 384,
+    "gemini_enabled": false,
+    "timestamp": "2025-08-20T05:34:21.508344+00:00"
+  },
+  "topics": [],
+  "archived_topics": []
+}
