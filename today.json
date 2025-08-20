@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T20:35:10.508155+00:00",
-    "last_metrics_update": "2025-08-20T22:32:21.387263+00:00",
+    "last_metrics_update": "2025-08-20T22:47:46.619770+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 33,
@@ -195,7 +195,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "20:1",
+      "ratio": "19:1",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -206,15 +206,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 217,
-        "replies": 103,
-        "reposts": 22,
-        "quotes": 440,
+        "likes": 221,
+        "replies": 105,
+        "reposts": 23,
+        "quotes": 446,
         "formatted": {
-          "likes": "217",
-          "replies": "103",
-          "reposts": "22",
-          "quotes": "440"
+          "likes": "221",
+          "replies": "105",
+          "reposts": "23",
+          "quotes": "446"
         }
       },
       "sample_replies": [
@@ -373,12 +373,12 @@
         "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
       },
       "engagement": {
-        "likes": 42,
+        "likes": 43,
         "replies": 23,
         "reposts": 7,
         "quotes": 100,
         "formatted": {
-          "likes": "42",
+          "likes": "43",
           "replies": "23",
           "reposts": "7",
           "quotes": "100"
@@ -586,7 +586,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
         "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
       },
-      "ratio": "15:1",
+      "ratio": "16:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -597,15 +597,15 @@
         "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
       },
       "engagement": {
-        "likes": 59,
+        "likes": 60,
         "replies": 14,
         "reposts": 6,
-        "quotes": 91,
+        "quotes": 94,
         "formatted": {
-          "likes": "59",
+          "likes": "60",
           "replies": "14",
           "reposts": "6",
-          "quotes": "91"
+          "quotes": "94"
         }
       },
       "sample_replies": [
@@ -807,7 +807,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uvja5uvpeafln65pfzfm3zvn/bafkreifdaowiuboscb7w5gsnpcw2t2jfud4tri4k5i3cjq6prsarjhvcoy@jpeg",
         "profile_url": "https://bsky.app/profile/anythinggoe.com"
       },
-      "ratio": "20:0",
+      "ratio": "20:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -820,12 +820,12 @@
       "engagement": {
         "likes": 13,
         "replies": 2,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 20,
         "formatted": {
           "likes": "13",
           "replies": "2",
-          "reposts": "0",
+          "reposts": "1",
           "quotes": "20"
         }
       },
@@ -861,7 +861,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r5dlmmdiv6ybcbg4qljw3puo/bafkreifo7nz6z5uxa3xl2ku3j7apc6ohrlggspytqehkhctcjagbigv5je@jpeg",
         "profile_url": "https://bsky.app/profile/preshaprincess.bsky.social"
       },
-      "ratio": "17:0",
+      "ratio": "19:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -875,12 +875,12 @@
         "likes": 21,
         "replies": 9,
         "reposts": 0,
-        "quotes": 17,
+        "quotes": 19,
         "formatted": {
           "likes": "21",
           "replies": "9",
           "reposts": "0",
-          "quotes": "17"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -928,12 +928,12 @@
         "url": "https://bsky.app/profile/jamesrball.com/post/3lwtcuxekqc2h"
       },
       "engagement": {
-        "likes": 45,
+        "likes": 46,
         "replies": 35,
         "reposts": 0,
         "quotes": 5,
         "formatted": {
-          "likes": "45",
+          "likes": "46",
           "replies": "35",
           "reposts": "0",
           "quotes": "5"
@@ -1041,12 +1041,12 @@
       },
       "engagement": {
         "likes": 69,
-        "replies": 11,
+        "replies": 12,
         "reposts": 4,
         "quotes": 71,
         "formatted": {
           "likes": "69",
-          "replies": "11",
+          "replies": "12",
           "reposts": "4",
           "quotes": "71"
         }
@@ -1318,15 +1318,15 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 65,
-        "replies": 36,
-        "reposts": 18,
-        "quotes": 67,
+        "likes": 72,
+        "replies": 37,
+        "reposts": 19,
+        "quotes": 68,
         "formatted": {
-          "likes": "65",
-          "replies": "36",
-          "reposts": "18",
-          "quotes": "67"
+          "likes": "72",
+          "replies": "37",
+          "reposts": "19",
+          "quotes": "68"
         }
       },
       "sample_replies": [
@@ -1412,62 +1412,6 @@
     {
       "rank": 26,
       "user": {
-        "handle": "tomandlorenzo.bsky.social",
-        "display_name": "Tom & Lorenzo",
-        "initials": "T&",
-        "did": "did:plc:d7ztwdzlcpvnf6lsve4gj6bp",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7ztwdzlcpvnf6lsve4gj6bp/bafkreibwinbjplgeyqf7ebzrnjwqw3xipautpa7yoqs5hofmqbfdtjr3ju@jpeg",
-        "profile_url": "https://bsky.app/profile/tomandlorenzo.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Samara Weaving came to the LA premiere of #EenieMeanie and you are not prepared for what will have to be the worst skirt you're going to see all year, if not for all time\ntomandlorenzo.com/2025/08/sama...",
-        "uri": "at://did:plc:d7ztwdzlcpvnf6lsve4gj6bp/app.bsky.feed.post/3lwu7ltk4r22x",
-        "created_at": "2025-08-20T19:57:57.004Z",
-        "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
-      },
-      "engagement": {
-        "likes": 47,
-        "replies": 13,
-        "reposts": 5,
-        "quotes": 18,
-        "formatted": {
-          "likes": "47",
-          "replies": "13",
-          "reposts": "5",
-          "quotes": "18"
-        }
-      },
-      "sample_replies": [
-        "There is no content warning strong enough",
-        "I can't believe she looked in the mirror and said \"yes, I want to go out in public like this.\"",
-        "It's drag, people.",
-        "OH NO."
-      ],
-      "metrics": {
-        "ratio_score": 12,
-        "confidence": 0.526,
-        "category": "Complete Ratio",
-        "post_age_minutes": 19.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T20:35:10.508012+00:00",
-      "last_updated": "2025-08-20T20:35:10.508012+00:00",
-      "analysis_windows": [
-        "2025-08-20T20:35:10.508012+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 27,
-      "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
         "initials": "TG",
@@ -1523,6 +1467,62 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
+    },
+    {
+      "rank": 27,
+      "user": {
+        "handle": "tomandlorenzo.bsky.social",
+        "display_name": "Tom & Lorenzo",
+        "initials": "T&",
+        "did": "did:plc:d7ztwdzlcpvnf6lsve4gj6bp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7ztwdzlcpvnf6lsve4gj6bp/bafkreibwinbjplgeyqf7ebzrnjwqw3xipautpa7yoqs5hofmqbfdtjr3ju@jpeg",
+        "profile_url": "https://bsky.app/profile/tomandlorenzo.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Samara Weaving came to the LA premiere of #EenieMeanie and you are not prepared for what will have to be the worst skirt you're going to see all year, if not for all time\ntomandlorenzo.com/2025/08/sama...",
+        "uri": "at://did:plc:d7ztwdzlcpvnf6lsve4gj6bp/app.bsky.feed.post/3lwu7ltk4r22x",
+        "created_at": "2025-08-20T19:57:57.004Z",
+        "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
+      },
+      "engagement": {
+        "likes": 56,
+        "replies": 14,
+        "reposts": 7,
+        "quotes": 20,
+        "formatted": {
+          "likes": "56",
+          "replies": "14",
+          "reposts": "7",
+          "quotes": "20"
+        }
+      },
+      "sample_replies": [
+        "There is no content warning strong enough",
+        "I can't believe she looked in the mirror and said \"yes, I want to go out in public like this.\"",
+        "It's drag, people.",
+        "OH NO."
+      ],
+      "metrics": {
+        "ratio_score": 12,
+        "confidence": 0.526,
+        "category": "Complete Ratio",
+        "post_age_minutes": 19.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T20:35:10.508012+00:00",
+      "last_updated": "2025-08-20T20:35:10.508012+00:00",
+      "analysis_windows": [
+        "2025-08-20T20:35:10.508012+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
     },
     {
       "rank": 28,
@@ -1657,12 +1657,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 83,
+        "likes": 85,
         "replies": 5,
         "reposts": 1,
         "quotes": 18,
         "formatted": {
-          "likes": "83",
+          "likes": "85",
           "replies": "5",
           "reposts": "1",
           "quotes": "18"
