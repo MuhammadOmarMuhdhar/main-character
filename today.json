@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T13:46:49.748653+00:00",
-    "last_metrics_update": "2025-08-20T16:02:28.281941+00:00",
+    "last_metrics_update": "2025-08-20T16:17:55.438071+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 18,
@@ -96,12 +96,12 @@
         "likes": 12,
         "replies": 42,
         "reposts": 5,
-        "quotes": 21,
+        "quotes": 22,
         "formatted": {
           "likes": "12",
           "replies": "42",
           "reposts": "5",
-          "quotes": "21"
+          "quotes": "22"
         }
       },
       "sample_replies": [
@@ -540,13 +540,13 @@
         "url": "https://bsky.app/profile/videogameschronicle.com/post/3lwt65rf5xk2s"
       },
       "engagement": {
-        "likes": 16,
-        "replies": 4,
+        "likes": 17,
+        "replies": 5,
         "reposts": 3,
         "quotes": 15,
         "formatted": {
-          "likes": "16",
-          "replies": "4",
+          "likes": "17",
+          "replies": "5",
           "reposts": "3",
           "quotes": "15"
         }
@@ -632,6 +632,62 @@
     {
       "rank": 12,
       "user": {
+        "handle": "blackranga.blacksky.app",
+        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
+        "initials": "GI",
+        "did": "did:plc:tom67pr2zmkziputghvxoe34",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
+        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
+      },
+      "ratio": "11:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "By this logic, you should pay someone to sit through an interview, wasting their time. \n\n$20 for an application? 🤦🏾‍♂️",
+        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lwtbbzcqys2s",
+        "created_at": "2025-08-20T10:55:35.244Z",
+        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwtbbzcqys2s"
+      },
+      "engagement": {
+        "likes": 21,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 11,
+        "formatted": {
+          "likes": "21",
+          "replies": "9",
+          "reposts": "1",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "$20 to apply for a job?! Is he insensitive? Yes. Is he an asshole for thinking this AND sharing it?...",
+        "Notice, he had to close the comments.\n\nThere are too many psychopaths in positions of power...",
+        "LinkedIn is such a hell scape",
+        "It's pretty much Facebook with a job board, I hate it so much!!!"
+      ],
+      "metrics": {
+        "ratio_score": 10.0,
+        "confidence": 0.356,
+        "category": "Complete Ratio",
+        "post_age_minutes": 157.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.482775+00:00",
+      "last_updated": "2025-08-20T13:46:49.482775+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.482775+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
         "initials": "TG",
@@ -687,62 +743,6 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
-    },
-    {
-      "rank": 13,
-      "user": {
-        "handle": "blackranga.blacksky.app",
-        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
-        "initials": "GI",
-        "did": "did:plc:tom67pr2zmkziputghvxoe34",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
-        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
-      },
-      "ratio": "11:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "By this logic, you should pay someone to sit through an interview, wasting their time. \n\n$20 for an application? 🤦🏾‍♂️",
-        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lwtbbzcqys2s",
-        "created_at": "2025-08-20T10:55:35.244Z",
-        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwtbbzcqys2s"
-      },
-      "engagement": {
-        "likes": 21,
-        "replies": 8,
-        "reposts": 1,
-        "quotes": 11,
-        "formatted": {
-          "likes": "21",
-          "replies": "8",
-          "reposts": "1",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "$20 to apply for a job?! Is he insensitive? Yes. Is he an asshole for thinking this AND sharing it?...",
-        "Notice, he had to close the comments.\n\nThere are too many psychopaths in positions of power...",
-        "LinkedIn is such a hell scape",
-        "It's pretty much Facebook with a job board, I hate it so much!!!"
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.356,
-        "category": "Complete Ratio",
-        "post_age_minutes": 157.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.482775+00:00",
-      "last_updated": "2025-08-20T13:46:49.482775+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.482775+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
     },
     {
       "rank": 14,
@@ -821,12 +821,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 76,
+        "likes": 77,
         "replies": 5,
         "reposts": 0,
         "quotes": 17,
         "formatted": {
-          "likes": "76",
+          "likes": "77",
           "replies": "5",
           "reposts": "0",
           "quotes": "17"
@@ -978,7 +978,7 @@
         "profile_url": "https://bsky.app/profile/popcrave.com"
       },
       "ratio": "4:1",
-      "controversy": 0.0,
+      "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -988,15 +988,15 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 132,
+        "likes": 133,
         "replies": 2,
         "reposts": 7,
-        "quotes": 25,
+        "quotes": 27,
         "formatted": {
-          "likes": "132",
+          "likes": "133",
           "replies": "2",
           "reposts": "7",
-          "quotes": "25"
+          "quotes": "27"
         }
       },
       "sample_replies": [
