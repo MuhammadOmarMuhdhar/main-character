@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T07:17:28.471280+00:00",
-    "last_metrics_update": "2025-08-20T09:02:28.853125+00:00",
+    "last_metrics_update": "2025-08-20T09:17:38.671539+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 7,
@@ -91,13 +91,13 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lwslokf7rl2s"
       },
       "engagement": {
-        "likes": 31,
-        "replies": 33,
+        "likes": 32,
+        "replies": 34,
         "reposts": 6,
         "quotes": 24,
         "formatted": {
-          "likes": "31",
-          "replies": "33",
+          "likes": "32",
+          "replies": "34",
           "reposts": "6",
           "quotes": "24"
         }
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 54,
         "replies": 4,
         "reposts": 0,
         "quotes": 15,
         "formatted": {
-          "likes": "53",
+          "likes": "54",
           "replies": "4",
           "reposts": "0",
           "quotes": "15"
