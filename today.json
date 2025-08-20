@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-20T05:34:21.733586+00:00",
-    "last_metrics_update": "2025-08-20T05:34:21.733586+00:00",
+    "last_full_analysis": "2025-08-20T06:21:07.907326+00:00",
+    "last_metrics_update": "2025-08-20T06:21:07.907326+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 9,
+    "main_characters_count": 7,
     "rolling_window": {
-      "last_update": "2025-08-20T05:34:21.733586+00:00",
-      "new_entries_added": 9,
-      "total_in_window": 9,
+      "last_update": "2025-08-20T06:21:07.907326+00:00",
+      "new_entries_added": 7,
+      "total_in_window": 7,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -17,369 +17,236 @@
     {
       "rank": 1,
       "user": {
-        "handle": "user_fi4g4mzy",
-        "display_name": "User Fi4G4Mzy",
-        "initials": "US",
+        "handle": "iamabundantaf.bsky.social",
+        "display_name": "I Am Abundant AF",
+        "initials": "IA",
         "did": "did:plc:fi4g4mzyxx3djsd66kzz6avj",
-        "avatar_url": "",
-        "profile_url": ""
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fi4g4mzyxx3djsd66kzz6avj/bafkreigtsxkr25dngswjmictkgdkgyrbp7su4oslj62vrf3h3tp5rmowga@jpeg",
+        "profile_url": "https://bsky.app/profile/iamabundantaf.bsky.social"
       },
       "ratio": "41:1",
-      "controversy": 5.4,
+      "controversy": 5.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
         "text": "Anime lovers: are there any anime you wish you could watch again, but it was like the first time?",
         "uri": "at://did:plc:fi4g4mzyxx3djsd66kzz6avj/app.bsky.feed.post/3lwsidwghmk2e",
         "created_at": "2025-08-20T03:29:15.795Z",
-        "url": ""
+        "url": "https://bsky.app/profile/iamabundantaf.bsky.social/post/3lwsidwghmk2e"
       },
       "engagement": {
         "likes": 16,
-        "replies": 17,
+        "replies": 18,
         "reposts": 1,
         "quotes": 41,
         "formatted": {
           "likes": "16",
-          "replies": "17",
+          "replies": "18",
           "reposts": "1",
           "quotes": "41"
         }
       },
-      "sample_replies": [],
+      "sample_replies": [
+        "Seven Deadly Sins",
+        "Trigun and Cowboy Bebop.",
+        "Solo leveling",
+        "Trigun"
+      ],
       "metrics": {
         "ratio_score": 41.0,
-        "confidence": 0.5673769836158671,
+        "confidence": 0.524,
         "category": "Complete Ratio",
-        "post_age_minutes": 0
+        "post_age_minutes": 160.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T05:34:21.709378+00:00",
-      "last_updated": "2025-08-20T05:34:21.709378+00:00",
+      "first_detected": "2025-08-20T06:21:07.039994+00:00",
+      "last_updated": "2025-08-20T06:21:07.039994+00:00",
       "analysis_windows": [
-        "2025-08-20T05:34:21.709378+00:00"
+        "2025-08-20T06:21:07.039994+00:00"
       ],
-      "peak_controversy": 5.4,
+      "peak_controversy": 5.1,
       "trend": "new"
     },
     {
       "rank": 2,
       "user": {
-        "handle": "user_flljyvdn",
-        "display_name": "User Flljyvdn",
-        "initials": "US",
-        "did": "did:plc:flljyvdn7xlo7wle7gxmz2ae",
-        "avatar_url": "",
-        "profile_url": ""
+        "handle": "scumbelievable.bsky.social",
+        "display_name": "Gretchen Felker-Martin 🍉",
+        "initials": "GF",
+        "did": "did:plc:yv4g3qpmt6god5zaiqwsu3uq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
+        "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
       },
-      "ratio": "12:1",
-      "controversy": 3.8,
+      "ratio": "9:0",
+      "controversy": 3.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "They turned the comments off on this video lmao. Look at this pale ass seafood boil 😂😂😂",
-        "uri": "at://did:plc:flljyvdn7xlo7wle7gxmz2ae/app.bsky.feed.post/3lwsg3rrws222",
-        "created_at": "2025-08-20T02:48:55.009Z",
-        "url": ""
+        "text": "in no particular order, 15 movies to get to know me (cont’d in comments)\n\n1. The Devils\n2. Lost Highway\n3. Bram Stoker's Dracula\n4. Andrei Rublev\n5. Cure\n6. The Medium\n7. The Wicker Man (1973)\n8. Dead Ringers\n9. The Passion of Joan of Arc\n10. In my Skin\n11. The Master\n12. The Taste of Things\n\n(cont)",
+        "uri": "at://did:plc:yv4g3qpmt6god5zaiqwsu3uq/app.bsky.feed.post/3lwsnpltfpk2z",
+        "created_at": "2025-08-20T05:05:16.046Z",
+        "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 98,
-        "replies": 45,
-        "reposts": 10,
-        "quotes": 117,
+        "likes": 40,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 9,
         "formatted": {
-          "likes": "98",
-          "replies": "45",
-          "reposts": "10",
-          "quotes": "117"
+          "likes": "40",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "9"
         }
       },
-      "sample_replies": [],
+      "sample_replies": [
+        "13. 13 Assassins\n14. Hellraiser II: Hellbound\n15. The Loved Ones",
+        "God I was so close to including the loved ones",
+        "What a picture",
+        "I still haven’t see The Taste of Things but I’m certain it’s going to join my top 100 when I do"
+      ],
       "metrics": {
-        "ratio_score": 11.7,
-        "confidence": 0.6741447164817553,
+        "ratio_score": 11,
+        "confidence": 0.582,
         "category": "Complete Ratio",
-        "post_age_minutes": 0
+        "post_age_minutes": 64.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T05:34:21.711069+00:00",
-      "last_updated": "2025-08-20T05:34:21.711069+00:00",
+      "first_detected": "2025-08-20T06:21:07.177901+00:00",
+      "last_updated": "2025-08-20T06:21:07.177901+00:00",
       "analysis_windows": [
-        "2025-08-20T05:34:21.711069+00:00"
+        "2025-08-20T06:21:07.177901+00:00"
       ],
-      "peak_controversy": 3.8,
+      "peak_controversy": 3.1,
       "trend": "new"
     },
     {
       "rank": 3,
       "user": {
-        "handle": "user_bbdtbuue",
-        "display_name": "User Bbdtbuue",
-        "initials": "US",
-        "did": "did:plc:bbdtbuuej2tn3nyvrftdvs7r",
-        "avatar_url": "",
-        "profile_url": ""
+        "handle": "lagroovekagejo.bsky.social",
+        "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
+        "initials": "LB",
+        "did": "did:plc:leal4u2mcclqfci4v5l6q6qz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:leal4u2mcclqfci4v5l6q6qz/bafkreicvsdqblxueqffqzrcsrohj7btwvuabvoio24bfynvbtgx7pzi4li@jpeg",
+        "profile_url": "https://bsky.app/profile/lagroovekagejo.bsky.social"
       },
-      "ratio": "8:0",
-      "controversy": 2.4,
+      "ratio": "10:0",
+      "controversy": 2.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Jay Bhattacharya trying to explain Covid vaccines: \"When you have a platform like the mRNA platform, what you're doing is essentially you're turning your body into an antigen factory.... [the vaccine] is taking over the cells and having it produce antigens.\"",
-        "uri": "at://did:plc:bbdtbuuej2tn3nyvrftdvs7r/app.bsky.feed.post/3lwsem2ati224",
-        "created_at": "2025-08-20T02:22:13.273Z",
-        "url": ""
+        "text": "A woman told me today that women don’t like head no more and I was like damn is that true ?",
+        "uri": "at://did:plc:leal4u2mcclqfci4v5l6q6qz/app.bsky.feed.post/3lwsmkhvnbs2e",
+        "created_at": "2025-08-20T04:44:30.412Z",
+        "url": "https://bsky.app/profile/lagroovekagejo.bsky.social/post/3lwsmkhvnbs2e"
       },
       "engagement": {
-        "likes": 14,
-        "replies": 6,
+        "likes": 3,
+        "replies": 5,
         "reposts": 0,
-        "quotes": 8,
+        "quotes": 10,
         "formatted": {
-          "likes": "14",
-          "replies": "6",
+          "likes": "3",
+          "replies": "5",
           "reposts": "0",
-          "quotes": "8"
+          "quotes": "10"
         }
       },
-      "sample_replies": [],
+      "sample_replies": [
+        "Point her out friend, I just wanna talk 😀🥴, but false information !!",
+        "I just wanna talk 😀",
+        "🙄",
+        "Point her out is crazy 😭😂"
+      ],
       "metrics": {
-        "ratio_score": 14,
-        "confidence": 0.3606073643101403,
+        "ratio_score": 15,
+        "confidence": 0.343,
         "category": "Complete Ratio",
-        "post_age_minutes": 0
+        "post_age_minutes": 84.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T05:34:21.713207+00:00",
-      "last_updated": "2025-08-20T05:34:21.713207+00:00",
+      "first_detected": "2025-08-20T06:21:07.336850+00:00",
+      "last_updated": "2025-08-20T06:21:07.336850+00:00",
       "analysis_windows": [
-        "2025-08-20T05:34:21.713207+00:00"
+        "2025-08-20T06:21:07.336850+00:00"
       ],
-      "peak_controversy": 2.4,
+      "peak_controversy": 2.5,
       "trend": "new"
     },
     {
       "rank": 4,
       "user": {
-        "handle": "user_gs7zinzw",
-        "display_name": "User Gs7Zinzw",
-        "initials": "US",
-        "did": "did:plc:gs7zinzwnbriwprccliuh2wp",
-        "avatar_url": "",
-        "profile_url": ""
-      },
-      "ratio": "6:1",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Guys do you have an accent?",
-        "uri": "at://did:plc:gs7zinzwnbriwprccliuh2wp/app.bsky.feed.post/3lwsenwv6cc23",
-        "created_at": "2025-08-20T02:23:16.854Z",
-        "url": ""
-      },
-      "engagement": {
-        "likes": 25,
-        "replies": 13,
-        "reposts": 1,
-        "quotes": 6,
-        "formatted": {
-          "likes": "25",
-          "replies": "13",
-          "reposts": "1",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [],
-      "metrics": {
-        "ratio_score": 6.0,
-        "confidence": 0.35083402953349396,
-        "category": "Quote Dunk",
-        "post_age_minutes": 0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T05:34:21.718846+00:00",
-      "last_updated": "2025-08-20T05:34:21.718846+00:00",
-      "analysis_windows": [
-        "2025-08-20T05:34:21.718846+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 5,
-      "user": {
-        "handle": "user_ytuk6h6g",
-        "display_name": "User Ytuk6H6G",
-        "initials": "US",
-        "did": "did:plc:ytuk6h6gga2v2zte7xn7ti2u",
-        "avatar_url": "",
-        "profile_url": ""
-      },
-      "ratio": "5:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Skepta is a beautiful man. He can turn my  interoffice mailbox into a war zone and I will not complain. 🤭☺️😌",
-        "uri": "at://did:plc:ytuk6h6gga2v2zte7xn7ti2u/app.bsky.feed.post/3lwsezvmlc22u",
-        "created_at": "2025-08-20T02:29:58.169Z",
-        "url": ""
-      },
-      "engagement": {
-        "likes": 16,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 5,
-        "formatted": {
-          "likes": "16",
-          "replies": "6",
-          "reposts": "1",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [],
-      "metrics": {
-        "ratio_score": 5.0,
-        "confidence": 0.31379307107866095,
-        "category": "Quote Dunk",
-        "post_age_minutes": 0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T05:34:21.721776+00:00",
-      "last_updated": "2025-08-20T05:34:21.721776+00:00",
-      "analysis_windows": [
-        "2025-08-20T05:34:21.721776+00:00"
-      ],
-      "peak_controversy": 0.6,
-      "trend": "new"
-    },
-    {
-      "rank": 6,
-      "user": {
-        "handle": "user_lrpttsfd",
-        "display_name": "User Lrpttsfd",
-        "initials": "US",
-        "did": "did:plc:lrpttsfdmrv6tatgm7e5rwun",
-        "avatar_url": "",
-        "profile_url": ""
-      },
-      "ratio": "2:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "You and some homies thaw out a 40,000 year old caveman. He gets crossfaded and you guys have one night before the government shows up. What (1) music and (2) movie/TV do you show him and (3) what fast food do you order?",
-        "uri": "at://did:plc:lrpttsfdmrv6tatgm7e5rwun/app.bsky.feed.post/3lwsh557tjk2r",
-        "created_at": "2025-08-20T03:07:34.294Z",
-        "url": ""
-      },
-      "engagement": {
-        "likes": 112,
-        "replies": 37,
-        "reposts": 8,
-        "quotes": 16,
-        "formatted": {
-          "likes": "112",
-          "replies": "37",
-          "reposts": "8",
-          "quotes": "16"
-        }
-      },
-      "sample_replies": [],
-      "metrics": {
-        "ratio_score": 2.0,
-        "confidence": 0.7177470218059527,
-        "category": "Quote Dunk",
-        "post_age_minutes": 0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T05:34:21.723731+00:00",
-      "last_updated": "2025-08-20T05:34:21.723731+00:00",
-      "analysis_windows": [
-        "2025-08-20T05:34:21.723731+00:00"
-      ],
-      "peak_controversy": 0.6,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "user_bfdiyiet",
-        "display_name": "User Bfdiyiet",
-        "initials": "US",
+        "handle": "lizdye.bsky.social",
+        "display_name": "Liz Dye",
+        "initials": "LD",
         "did": "did:plc:bfdiyietterineb3cvu3ddco",
-        "avatar_url": "",
-        "profile_url": ""
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bfdiyietterineb3cvu3ddco/bafkreidz2nrnqirteohscgts3sjdjc7jzsnm2gpiyqkhri5e5vvlrvozwe@jpeg",
+        "profile_url": "https://bsky.app/profile/lizdye.bsky.social"
       },
       "ratio": "2:1",
-      "controversy": 0.6,
+      "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
       "post": {
         "text": "La AG says Roblox \"bypassed\" COPPA's \"mandate\" by complying with the law's ban on collecting info on underage users\n\nIs that how it works, @mmasnick.bsky.social?\n\nwww.ag.state.la.us/Files/Articl...",
         "uri": "at://did:plc:bfdiyietterineb3cvu3ddco/app.bsky.feed.post/3lwshkfhmdc2m",
         "created_at": "2025-08-20T03:14:59.136Z",
-        "url": ""
+        "url": "https://bsky.app/profile/lizdye.bsky.social/post/3lwshkfhmdc2m"
       },
       "engagement": {
-        "likes": 54,
-        "replies": 6,
+        "likes": 75,
+        "replies": 10,
         "reposts": 2,
         "quotes": 5,
         "formatted": {
-          "likes": "54",
-          "replies": "6",
+          "likes": "75",
+          "replies": "10",
           "reposts": "2",
           "quotes": "5"
         }
       },
-      "sample_replies": [],
+      "sample_replies": [
+        "WTF?!?",
+        "If I'm reading this correctly (and I'm not sure I am), this sounds like a Catch-22.",
+        "This is the world where we assume COPPA has nothing to do with data.",
+        "they could have\n\nit is against the law, as we explain\n\nbut they could have"
+      ],
       "metrics": {
         "ratio_score": 2.5,
-        "confidence": 0.5537103036703164,
+        "confidence": 0.614,
         "category": "Quote Dunk",
-        "post_age_minutes": 0
+        "post_age_minutes": 174.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T05:34:21.725916+00:00",
-      "last_updated": "2025-08-20T05:34:21.725916+00:00",
+      "first_detected": "2025-08-20T06:21:07.477300+00:00",
+      "last_updated": "2025-08-20T06:21:07.477300+00:00",
       "analysis_windows": [
-        "2025-08-20T05:34:21.725916+00:00"
+        "2025-08-20T06:21:07.477300+00:00"
       ],
-      "peak_controversy": 0.6,
+      "peak_controversy": 0.7,
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "user": {
-        "handle": "user_pcl72lxq",
-        "display_name": "User Pcl72Lxq",
-        "initials": "US",
+        "handle": "popcrave.com",
+        "display_name": "Pop Crave",
+        "initials": "PC",
         "did": "did:plc:pcl72lxq7w2nrr7jkiks4qkc",
-        "avatar_url": "",
-        "profile_url": ""
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
+        "profile_url": "https://bsky.app/profile/popcrave.com"
       },
       "ratio": "2:1",
       "controversy": 0.5,
@@ -389,88 +256,150 @@
         "text": "Taylor Zakhar Perez, Michael Cimino, & Brandon Perea at Bad Bunny’s concert in Puerto Rico.",
         "uri": "at://did:plc:pcl72lxq7w2nrr7jkiks4qkc/app.bsky.feed.post/3lwslv74xvs2s",
         "created_at": "2025-08-20T04:32:36.566Z",
-        "url": ""
+        "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 63,
-        "replies": 3,
+        "likes": 76,
+        "replies": 4,
         "reposts": 4,
         "quotes": 7,
         "formatted": {
-          "likes": "63",
-          "replies": "3",
+          "likes": "76",
+          "replies": "4",
           "reposts": "4",
           "quotes": "7"
         }
       },
-      "sample_replies": [],
+      "sample_replies": [
+        "FKM 🤗"
+      ],
       "metrics": {
         "ratio_score": 1.75,
-        "confidence": 0.6650986374167296,
+        "confidence": 0.655,
         "category": "Quote Dunk",
-        "post_age_minutes": 0
+        "post_age_minutes": 95.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T05:34:21.731379+00:00",
-      "last_updated": "2025-08-20T05:34:21.731379+00:00",
+      "first_detected": "2025-08-20T06:21:07.616596+00:00",
+      "last_updated": "2025-08-20T06:21:07.616596+00:00",
       "analysis_windows": [
-        "2025-08-20T05:34:21.731379+00:00"
+        "2025-08-20T06:21:07.616596+00:00"
       ],
       "peak_controversy": 0.5,
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "user": {
-        "handle": "user_xglig6vy",
-        "display_name": "User Xglig6Vy",
-        "initials": "US",
-        "did": "did:plc:xglig6vyxav74acw6g4jbxiy",
-        "avatar_url": "",
-        "profile_url": ""
+        "handle": "financialtimes.com",
+        "display_name": "Financial Times",
+        "initials": "FT",
+        "did": "did:plc:5u54z2qgkq43dh2nzwzdbbhb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
+        "profile_url": "https://bsky.app/profile/financialtimes.com"
       },
       "ratio": "2:1",
-      "controversy": 0.4,
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "The word “skibidi” has now been included in the Cambridge Dictionary.",
-        "uri": "at://did:plc:xglig6vyxav74acw6g4jbxiy/app.bsky.feed.post/3lwsfobxt4222",
-        "created_at": "2025-08-20T02:41:22.212Z",
-        "url": ""
+        "text": "Is Laura Loomer the Maga world’s Trump-whisperer? on.ft.com/3JlY5oR",
+        "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3lwsmxuzc4t2u",
+        "created_at": "2025-08-20T04:52:00.323236Z",
+        "url": "https://bsky.app/profile/financialtimes.com/post/3lwsmxuzc4t2u"
       },
       "engagement": {
-        "likes": 39,
-        "replies": 13,
-        "reposts": 9,
-        "quotes": 17,
+        "likes": 20,
+        "replies": 14,
+        "reposts": 2,
+        "quotes": 5,
         "formatted": {
-          "likes": "39",
-          "replies": "13",
-          "reposts": "9",
-          "quotes": "17"
+          "likes": "20",
+          "replies": "14",
+          "reposts": "2",
+          "quotes": "5"
         }
       },
-      "sample_replies": [],
+      "sample_replies": [
+        "Even Jabba the Hutt had his little rat thing.",
+        "Ladies and gentleman, the president's top advisor in her previous career:",
+        "She’s got that Kristi Noem face about to fall off look down cold"
+      ],
       "metrics": {
-        "ratio_score": 1.8888888888888888,
-        "confidence": 0.5222951183033219,
+        "ratio_score": 2.5,
+        "confidence": 0.444,
         "category": "Quote Dunk",
-        "post_age_minutes": 0
+        "post_age_minutes": 77.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T05:34:21.733476+00:00",
-      "last_updated": "2025-08-20T05:34:21.733476+00:00",
+      "first_detected": "2025-08-20T06:21:07.755767+00:00",
+      "last_updated": "2025-08-20T06:21:07.755767+00:00",
       "analysis_windows": [
-        "2025-08-20T05:34:21.733476+00:00"
+        "2025-08-20T06:21:07.755767+00:00"
       ],
-      "peak_controversy": 0.4,
+      "peak_controversy": 0.5,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
+      },
+      "ratio": "2:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Should babies wear socks all the time? The new battleground in the generational war",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lwsosmg25c2t",
+        "created_at": "2025-08-20T05:24:50.911Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lwsosmg25c2t"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 5,
+        "reposts": 3,
+        "quotes": 5,
+        "formatted": {
+          "likes": "15",
+          "replies": "5",
+          "reposts": "3",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "In my experience, the babies usually make that decision themselves.",
+        "And the other lesson the parents of every generation have to learn: socks don't stay on babies'...",
+        "As someone from Hawaii, no.",
+        "Haven’t read the article but NO—all of us should go barefoot as much as possible in the warm time..."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "confidence": 0.429,
+        "category": "Quote Dunk",
+        "post_age_minutes": 44.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T06:21:07.907198+00:00",
+      "last_updated": "2025-08-20T06:21:07.907198+00:00",
+      "analysis_windows": [
+        "2025-08-20T06:21:07.907198+00:00"
+      ],
+      "peak_controversy": 0.3,
       "trend": "new"
     }
   ]
