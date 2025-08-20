@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T17:05:30.680375+00:00",
-    "last_metrics_update": "2025-08-20T18:17:25.775210+00:00",
+    "last_metrics_update": "2025-08-20T18:32:55.955764+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -140,7 +140,7 @@
         "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
       },
       "ratio": "19:1",
-      "controversy": 1.0,
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -150,15 +150,15 @@
         "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
       },
       "engagement": {
-        "likes": 33,
+        "likes": 34,
         "replies": 22,
         "reposts": 5,
-        "quotes": 95,
+        "quotes": 96,
         "formatted": {
-          "likes": "33",
+          "likes": "34",
           "replies": "22",
           "reposts": "5",
-          "quotes": "95"
+          "quotes": "96"
         }
       },
       "sample_replies": [
@@ -362,7 +362,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
         "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "20:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -374,14 +374,14 @@
       },
       "engagement": {
         "likes": 29,
-        "replies": 10,
+        "replies": 11,
         "reposts": 3,
-        "quotes": 57,
+        "quotes": 60,
         "formatted": {
           "likes": "29",
-          "replies": "10",
+          "replies": "11",
           "reposts": "3",
-          "quotes": "57"
+          "quotes": "60"
         }
       },
       "sample_replies": [
@@ -474,7 +474,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
         "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
       },
-      "ratio": "15:1",
+      "ratio": "16:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -485,15 +485,15 @@
         "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
       },
       "engagement": {
-        "likes": 52,
+        "likes": 53,
         "replies": 12,
         "reposts": 5,
-        "quotes": 76,
+        "quotes": 78,
         "formatted": {
-          "likes": "52",
+          "likes": "53",
           "replies": "12",
           "reposts": "5",
-          "quotes": "76"
+          "quotes": "78"
         }
       },
       "sample_replies": [
@@ -579,62 +579,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "mid-majormadness.bsky.social",
-        "display_name": "Mid-Major Madness",
-        "initials": "MM",
-        "did": "did:plc:pmrjvbpju5chyhxwuwi26rbs",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmrjvbpju5chyhxwuwi26rbs/bafkreiejrpolm4ygjhhzpkt7j6uonxpnk6lqgptlmeis2uo4swzrbtinqq@jpeg",
-        "profile_url": "https://bsky.app/profile/mid-majormadness.bsky.social"
-      },
-      "ratio": "28:0",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The new Horizon League bracket is … something?",
-        "uri": "at://did:plc:pmrjvbpju5chyhxwuwi26rbs/app.bsky.feed.post/3lwtqc5usi227",
-        "created_at": "2025-08-20T15:24:06.162Z",
-        "url": "https://bsky.app/profile/mid-majormadness.bsky.social/post/3lwtqc5usi227"
-      },
-      "engagement": {
-        "likes": 23,
-        "replies": 10,
-        "reposts": 0,
-        "quotes": 28,
-        "formatted": {
-          "likes": "23",
-          "replies": "10",
-          "reposts": "0",
-          "quotes": "28"
-        }
-      },
-      "sample_replies": [
-        "Coding that is going to delay EA College Basketball by a year",
-        "Do whatever you want Horizon League. Greg Kampe is inevitable.",
-        "of all the ways to run a conference tournament, this is one of them",
-        "If you want to guarantee the regular season champion the NCAA spot, just go retro-Ivy League and..."
-      ],
-      "metrics": {
-        "ratio_score": 31,
-        "confidence": 0.475,
-        "category": "Complete Ratio",
-        "post_age_minutes": 83.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:29.610672+00:00",
-      "last_updated": "2025-08-20T17:05:29.610672+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:29.610672+00:00"
-      ],
-      "peak_controversy": 4.7,
-      "trend": "new"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "nymag.com",
         "display_name": "New York Magazine",
         "initials": "NY",
@@ -689,6 +633,62 @@
       "trend": "new"
     },
     {
+      "rank": 12,
+      "user": {
+        "handle": "mid-majormadness.bsky.social",
+        "display_name": "Mid-Major Madness",
+        "initials": "MM",
+        "did": "did:plc:pmrjvbpju5chyhxwuwi26rbs",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmrjvbpju5chyhxwuwi26rbs/bafkreiejrpolm4ygjhhzpkt7j6uonxpnk6lqgptlmeis2uo4swzrbtinqq@jpeg",
+        "profile_url": "https://bsky.app/profile/mid-majormadness.bsky.social"
+      },
+      "ratio": "14:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The new Horizon League bracket is … something?",
+        "uri": "at://did:plc:pmrjvbpju5chyhxwuwi26rbs/app.bsky.feed.post/3lwtqc5usi227",
+        "created_at": "2025-08-20T15:24:06.162Z",
+        "url": "https://bsky.app/profile/mid-majormadness.bsky.social/post/3lwtqc5usi227"
+      },
+      "engagement": {
+        "likes": 24,
+        "replies": 10,
+        "reposts": 2,
+        "quotes": 28,
+        "formatted": {
+          "likes": "24",
+          "replies": "10",
+          "reposts": "2",
+          "quotes": "28"
+        }
+      },
+      "sample_replies": [
+        "Coding that is going to delay EA College Basketball by a year",
+        "Do whatever you want Horizon League. Greg Kampe is inevitable.",
+        "of all the ways to run a conference tournament, this is one of them",
+        "If you want to guarantee the regular season champion the NCAA spot, just go retro-Ivy League and..."
+      ],
+      "metrics": {
+        "ratio_score": 31,
+        "confidence": 0.475,
+        "category": "Complete Ratio",
+        "post_age_minutes": 83.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:29.610672+00:00",
+      "last_updated": "2025-08-20T17:05:29.610672+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:29.610672+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
       "rank": 13,
       "user": {
         "handle": "rlivre.cc",
@@ -698,7 +698,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:milnbvtaw7ztovhve6fwymyn/bafkreihugqkvg2wj5towk52yy4uomm7q7zxvpibnjxledbbnr3q3pnsmjy@jpeg",
         "profile_url": "https://bsky.app/profile/rlivre.cc"
       },
-      "ratio": "21:1",
+      "ratio": "16:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -709,14 +709,14 @@
         "url": "https://bsky.app/profile/rlivre.cc/post/3lwtmpiikac2n"
       },
       "engagement": {
-        "likes": 60,
+        "likes": 62,
         "replies": 11,
-        "reposts": 3,
+        "reposts": 4,
         "quotes": 63,
         "formatted": {
-          "likes": "60",
+          "likes": "62",
           "replies": "11",
-          "reposts": "3",
+          "reposts": "4",
           "quotes": "63"
         }
       },
@@ -821,14 +821,14 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "replies": 6,
-        "reposts": 5,
+        "reposts": 6,
         "quotes": 21,
         "formatted": {
-          "likes": "18",
+          "likes": "19",
           "replies": "6",
-          "reposts": "5",
+          "reposts": "6",
           "quotes": "21"
         }
       },
@@ -1137,6 +1137,62 @@
     {
       "rank": 21,
       "user": {
+        "handle": "mightyatom.bsky.social",
+        "display_name": "max schwartz",
+        "initials": "MS",
+        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
+        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
+      },
+      "ratio": "21:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
+        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
+        "created_at": "2025-08-20T05:32:56.421Z",
+        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
+      },
+      "engagement": {
+        "likes": 57,
+        "replies": 13,
+        "reposts": 0,
+        "quotes": 21,
+        "formatted": {
+          "likes": "57",
+          "replies": "13",
+          "reposts": "0",
+          "quotes": "21"
+        }
+      },
+      "sample_replies": [
+        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
+        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
+        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
+        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
+      ],
+      "metrics": {
+        "ratio_score": 14,
+        "confidence": 0.525,
+        "category": "Complete Ratio",
+        "post_age_minutes": 93.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T07:17:27.934850+00:00",
+      "last_updated": "2025-08-20T07:17:27.934850+00:00",
+      "analysis_windows": [
+        "2025-08-20T07:17:27.934850+00:00"
+      ],
+      "peak_controversy": 3.5,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
+      "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
         "initials": "TG",
@@ -1192,62 +1248,6 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
-    },
-    {
-      "rank": 22,
-      "user": {
-        "handle": "mightyatom.bsky.social",
-        "display_name": "max schwartz",
-        "initials": "MS",
-        "did": "did:plc:z2pmzenf25f7r7u2oez2qkum",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2pmzenf25f7r7u2oez2qkum/bafkreihdydrwvy2igiawg6u2hva4gv3ge6mfwz2jm374qfkmqepk3yoi5u@jpeg",
-        "profile_url": "https://bsky.app/profile/mightyatom.bsky.social"
-      },
-      "ratio": "20:0",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "15 movies to get to know me, unranked\n\n1. Bram Stoker’s Dracula\n2. The Cell\n3. Adolescence of Utena\n4. Bloodsisters: Leather, Dykes, & Sadomasochism\n5. Fox and his Friends \n6. Mishima: A Life in Four Chapters\n7. The Devils\n8. Irma Vep\n9. Raw\n10. Wild at Heart\n11. Superstar: The Karen Carpenter Story",
-        "uri": "at://did:plc:z2pmzenf25f7r7u2oez2qkum/app.bsky.feed.post/3lwspb3c6kk2j",
-        "created_at": "2025-08-20T05:32:56.421Z",
-        "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
-      },
-      "engagement": {
-        "likes": 57,
-        "replies": 13,
-        "reposts": 0,
-        "quotes": 20,
-        "formatted": {
-          "likes": "57",
-          "replies": "13",
-          "reposts": "0",
-          "quotes": "20"
-        }
-      },
-      "sample_replies": [
-        "12. Princess Mononoke\n13. Moonstruck\n14. 3 Women\n15. Teorema",
-        "15 movies is somehow a lot of movies to name and absolutely never enough movies at all",
-        "SUPERSTAR THE KAREN CARPENTER STORY!!!!!!!!!!!!!!!! AUGH it's so good",
-        "max whats the patreon goal to get you a jacket that represents your symbol of individuality and..."
-      ],
-      "metrics": {
-        "ratio_score": 14,
-        "confidence": 0.525,
-        "category": "Complete Ratio",
-        "post_age_minutes": 93.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T07:17:27.934850+00:00",
-      "last_updated": "2025-08-20T07:17:27.934850+00:00",
-      "analysis_windows": [
-        "2025-08-20T07:17:27.934850+00:00"
-      ],
-      "peak_controversy": 3.5,
-      "trend": "new"
     },
     {
       "rank": 23,
@@ -1326,12 +1326,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 136,
+        "likes": 137,
         "replies": 3,
         "reposts": 7,
         "quotes": 29,
         "formatted": {
-          "likes": "136",
+          "likes": "137",
           "replies": "3",
           "reposts": "7",
           "quotes": "29"
