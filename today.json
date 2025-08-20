@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T10:27:04.173064+00:00",
-    "last_metrics_update": "2025-08-20T12:17:34.755288+00:00",
+    "last_metrics_update": "2025-08-20T12:32:46.663487+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 11,
@@ -91,12 +91,12 @@
         "url": "https://bsky.app/profile/sebsb.bsky.social/post/3lwszncsdos2v"
       },
       "engagement": {
-        "likes": 9,
+        "likes": 10,
         "replies": 17,
         "reposts": 3,
         "quotes": 22,
         "formatted": {
-          "likes": "9",
+          "likes": "10",
           "replies": "17",
           "reposts": "3",
           "quotes": "22"
@@ -147,12 +147,12 @@
         "url": "https://bsky.app/profile/videogameschronicle.com/post/3lwt65rf5xk2s"
       },
       "engagement": {
-        "likes": 13,
+        "likes": 14,
         "replies": 4,
         "reposts": 3,
         "quotes": 15,
         "formatted": {
-          "likes": "13",
+          "likes": "14",
           "replies": "4",
           "reposts": "3",
           "quotes": "15"
@@ -373,12 +373,12 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 38,
+        "likes": 39,
         "replies": 9,
         "reposts": 0,
         "quotes": 8,
         "formatted": {
-          "likes": "38",
+          "likes": "39",
           "replies": "9",
           "reposts": "0",
           "quotes": "8"
@@ -418,7 +418,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
         "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
       },
-      "ratio": "16:0",
+      "ratio": "17:0",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -432,12 +432,12 @@
         "likes": 61,
         "replies": 4,
         "reposts": 0,
-        "quotes": 16,
+        "quotes": 17,
         "formatted": {
           "likes": "61",
           "replies": "4",
           "reposts": "0",
-          "quotes": "16"
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -599,12 +599,12 @@
         "likes": 103,
         "replies": 2,
         "reposts": 5,
-        "quotes": 10,
+        "quotes": 12,
         "formatted": {
           "likes": "103",
           "replies": "2",
           "reposts": "5",
-          "quotes": "10"
+          "quotes": "12"
         }
       },
       "sample_replies": [
