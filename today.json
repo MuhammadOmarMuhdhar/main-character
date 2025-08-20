@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-20T17:05:30.680375+00:00",
-    "last_metrics_update": "2025-08-20T18:03:01.685900+00:00",
+    "last_metrics_update": "2025-08-20T18:17:25.775210+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -140,7 +140,7 @@
         "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
       },
       "ratio": "19:1",
-      "controversy": 0.9,
+      "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -153,12 +153,12 @@
         "likes": 33,
         "replies": 22,
         "reposts": 5,
-        "quotes": 94,
+        "quotes": 95,
         "formatted": {
           "likes": "33",
           "replies": "22",
           "reposts": "5",
-          "quotes": "94"
+          "quotes": "95"
         }
       },
       "sample_replies": [
@@ -207,12 +207,12 @@
       },
       "engagement": {
         "likes": 13,
-        "replies": 42,
+        "replies": 43,
         "reposts": 6,
         "quotes": 23,
         "formatted": {
           "likes": "13",
-          "replies": "42",
+          "replies": "43",
           "reposts": "6",
           "quotes": "23"
         }
@@ -299,62 +299,6 @@
     {
       "rank": 6,
       "user": {
-        "handle": "laportereporte.bsky.social",
-        "display_name": "Chris Laporte",
-        "initials": "CL",
-        "did": "did:plc:6b3nvvvr4z5662q7va7vxqf7",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6b3nvvvr4z5662q7va7vxqf7/bafkreibfugyzlykorvccfzmthqn2z4hzm45mak5wenxzuf7wjffxwc6diu@jpeg",
-        "profile_url": "https://bsky.app/profile/laportereporte.bsky.social"
-      },
-      "ratio": "14:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I could see coach @edsbs.bsky.social teaching the UNT course here",
-        "uri": "at://did:plc:6b3nvvvr4z5662q7va7vxqf7/app.bsky.feed.post/3lwtrlqy3ck2g",
-        "created_at": "2025-08-20T15:47:21.910Z",
-        "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
-      },
-      "engagement": {
-        "likes": 32,
-        "replies": 11,
-        "reposts": 4,
-        "quotes": 58,
-        "formatted": {
-          "likes": "32",
-          "replies": "11",
-          "reposts": "4",
-          "quotes": "58"
-        }
-      },
-      "sample_replies": [
-        "Can’t think of a more dry ass bbq school than A&M.  Well done steaks with ketchup ass school",
-        "Explaining science to Scrappy",
-        "I see @paulputz.bsky.social",
-        "PHD in podcasting by reviewing all the @shutdownfullcast.bsky.social disaster episodes"
-      ],
-      "metrics": {
-        "ratio_score": 12.25,
-        "confidence": 0.65,
-        "category": "Complete Ratio",
-        "post_age_minutes": 60.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:29.999799+00:00",
-      "last_updated": "2025-08-20T17:05:29.999799+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:29.999799+00:00"
-      ],
-      "peak_controversy": 3.9,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
         "handle": "lagroovekagejo.bsky.social",
         "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
         "initials": "LB",
@@ -409,7 +353,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "freshlogic.bsky.social",
         "display_name": "⚜️New Logic",
@@ -418,7 +362,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
         "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
       },
-      "ratio": "18:1",
+      "ratio": "19:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -429,15 +373,15 @@
         "url": "https://bsky.app/profile/freshlogic.bsky.social/post/3lwtecg2cjs2u"
       },
       "engagement": {
-        "likes": 28,
+        "likes": 29,
         "replies": 10,
         "reposts": 3,
-        "quotes": 55,
+        "quotes": 57,
         "formatted": {
-          "likes": "28",
+          "likes": "29",
           "replies": "10",
           "reposts": "3",
-          "quotes": "55"
+          "quotes": "57"
         }
       },
       "sample_replies": [
@@ -465,6 +409,62 @@
       "trend": "new"
     },
     {
+      "rank": 8,
+      "user": {
+        "handle": "laportereporte.bsky.social",
+        "display_name": "Chris Laporte",
+        "initials": "CL",
+        "did": "did:plc:6b3nvvvr4z5662q7va7vxqf7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6b3nvvvr4z5662q7va7vxqf7/bafkreibfugyzlykorvccfzmthqn2z4hzm45mak5wenxzuf7wjffxwc6diu@jpeg",
+        "profile_url": "https://bsky.app/profile/laportereporte.bsky.social"
+      },
+      "ratio": "15:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I could see coach @edsbs.bsky.social teaching the UNT course here",
+        "uri": "at://did:plc:6b3nvvvr4z5662q7va7vxqf7/app.bsky.feed.post/3lwtrlqy3ck2g",
+        "created_at": "2025-08-20T15:47:21.910Z",
+        "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
+      },
+      "engagement": {
+        "likes": 36,
+        "replies": 11,
+        "reposts": 4,
+        "quotes": 59,
+        "formatted": {
+          "likes": "36",
+          "replies": "11",
+          "reposts": "4",
+          "quotes": "59"
+        }
+      },
+      "sample_replies": [
+        "Can’t think of a more dry ass bbq school than A&M.  Well done steaks with ketchup ass school",
+        "Explaining science to Scrappy",
+        "I see @paulputz.bsky.social",
+        "PHD in podcasting by reviewing all the @shutdownfullcast.bsky.social disaster episodes"
+      ],
+      "metrics": {
+        "ratio_score": 12.25,
+        "confidence": 0.65,
+        "category": "Complete Ratio",
+        "post_age_minutes": 60.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:29.999799+00:00",
+      "last_updated": "2025-08-20T17:05:29.999799+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:29.999799+00:00"
+      ],
+      "peak_controversy": 3.9,
+      "trend": "new"
+    },
+    {
       "rank": 9,
       "user": {
         "handle": "cometkins.bsky.social",
@@ -488,12 +488,12 @@
         "likes": 52,
         "replies": 12,
         "reposts": 5,
-        "quotes": 73,
+        "quotes": 76,
         "formatted": {
           "likes": "52",
           "replies": "12",
           "reposts": "5",
-          "quotes": "73"
+          "quotes": "76"
         }
       },
       "sample_replies": [
@@ -586,7 +586,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pmrjvbpju5chyhxwuwi26rbs/bafkreiejrpolm4ygjhhzpkt7j6uonxpnk6lqgptlmeis2uo4swzrbtinqq@jpeg",
         "profile_url": "https://bsky.app/profile/mid-majormadness.bsky.social"
       },
-      "ratio": "27:0",
+      "ratio": "28:0",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -600,12 +600,12 @@
         "likes": 23,
         "replies": 10,
         "reposts": 0,
-        "quotes": 27,
+        "quotes": 28,
         "formatted": {
           "likes": "23",
           "replies": "10",
           "reposts": "0",
-          "quotes": "27"
+          "quotes": "28"
         }
       },
       "sample_replies": [
@@ -634,62 +634,6 @@
     },
     {
       "rank": 12,
-      "user": {
-        "handle": "rlivre.cc",
-        "display_name": "Radical Livre",
-        "initials": "RL",
-        "did": "did:plc:milnbvtaw7ztovhve6fwymyn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:milnbvtaw7ztovhve6fwymyn/bafkreihugqkvg2wj5towk52yy4uomm7q7zxvpibnjxledbbnr3q3pnsmjy@jpeg",
-        "profile_url": "https://bsky.app/profile/rlivre.cc"
-      },
-      "ratio": "21:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "tadinha",
-        "uri": "at://did:plc:milnbvtaw7ztovhve6fwymyn/app.bsky.feed.post/3lwtmpiikac2n",
-        "created_at": "2025-08-20T14:19:58.541Z",
-        "url": "https://bsky.app/profile/rlivre.cc/post/3lwtmpiikac2n"
-      },
-      "engagement": {
-        "likes": 59,
-        "replies": 11,
-        "reposts": 3,
-        "quotes": 63,
-        "formatted": {
-          "likes": "59",
-          "replies": "11",
-          "reposts": "3",
-          "quotes": "63"
-        }
-      },
-      "sample_replies": [
-        "acharam o perito molina dos psiquiatras",
-        "eu acho tão bonita a ironia de ela estar passando por tudo isso na Itália, depois de contar...",
-        "E olha o NAIPE do perito",
-        "contratada pela defesa, claro"
-      ],
-      "metrics": {
-        "ratio_score": 15.67,
-        "confidence": 0.611,
-        "category": "Complete Ratio",
-        "post_age_minutes": 147.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:29.741570+00:00",
-      "last_updated": "2025-08-20T17:05:29.741570+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:29.741570+00:00"
-      ],
-      "peak_controversy": 4.6,
-      "trend": "new"
-    },
-    {
-      "rank": 13,
       "user": {
         "handle": "nymag.com",
         "display_name": "New York Magazine",
@@ -742,6 +686,62 @@
         "2025-08-20T17:05:30.555036+00:00"
       ],
       "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "rlivre.cc",
+        "display_name": "Radical Livre",
+        "initials": "RL",
+        "did": "did:plc:milnbvtaw7ztovhve6fwymyn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:milnbvtaw7ztovhve6fwymyn/bafkreihugqkvg2wj5towk52yy4uomm7q7zxvpibnjxledbbnr3q3pnsmjy@jpeg",
+        "profile_url": "https://bsky.app/profile/rlivre.cc"
+      },
+      "ratio": "21:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "tadinha",
+        "uri": "at://did:plc:milnbvtaw7ztovhve6fwymyn/app.bsky.feed.post/3lwtmpiikac2n",
+        "created_at": "2025-08-20T14:19:58.541Z",
+        "url": "https://bsky.app/profile/rlivre.cc/post/3lwtmpiikac2n"
+      },
+      "engagement": {
+        "likes": 60,
+        "replies": 11,
+        "reposts": 3,
+        "quotes": 63,
+        "formatted": {
+          "likes": "60",
+          "replies": "11",
+          "reposts": "3",
+          "quotes": "63"
+        }
+      },
+      "sample_replies": [
+        "acharam o perito molina dos psiquiatras",
+        "eu acho tão bonita a ironia de ela estar passando por tudo isso na Itália, depois de contar...",
+        "E olha o NAIPE do perito",
+        "contratada pela defesa, claro"
+      ],
+      "metrics": {
+        "ratio_score": 15.67,
+        "confidence": 0.611,
+        "category": "Complete Ratio",
+        "post_age_minutes": 147.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:29.741570+00:00",
+      "last_updated": "2025-08-20T17:05:29.741570+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:29.741570+00:00"
+      ],
+      "peak_controversy": 4.6,
       "trend": "new"
     },
     {
@@ -821,13 +821,13 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 17,
-        "replies": 5,
+        "likes": 18,
+        "replies": 6,
         "reposts": 5,
         "quotes": 21,
         "formatted": {
-          "likes": "17",
-          "replies": "5",
+          "likes": "18",
+          "replies": "6",
           "reposts": "5",
           "quotes": "21"
         }
@@ -877,12 +877,12 @@
         "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
       },
       "engagement": {
-        "likes": 22,
+        "likes": 23,
         "replies": 13,
         "reposts": 0,
         "quotes": 8,
         "formatted": {
-          "likes": "22",
+          "likes": "23",
           "replies": "13",
           "reposts": "0",
           "quotes": "8"
@@ -1214,12 +1214,12 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 56,
+        "likes": 57,
         "replies": 13,
         "reposts": 0,
         "quotes": 20,
         "formatted": {
-          "likes": "56",
+          "likes": "57",
           "replies": "13",
           "reposts": "0",
           "quotes": "20"
@@ -1326,12 +1326,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 135,
+        "likes": 136,
         "replies": 3,
         "reposts": 7,
         "quotes": 29,
         "formatted": {
-          "likes": "135",
+          "likes": "136",
           "replies": "3",
           "reposts": "7",
           "quotes": "29"
