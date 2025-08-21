@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T10:11:39.629029+00:00",
-    "last_metrics_update": "2025-08-21T11:17:21.972621+00:00",
+    "last_metrics_update": "2025-08-21T11:32:31.257755+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 52,
@@ -321,12 +321,12 @@
         "likes": 89,
         "replies": 245,
         "reposts": 26,
-        "quotes": 241,
+        "quotes": 242,
         "formatted": {
           "likes": "89",
           "replies": "245",
           "reposts": "26",
-          "quotes": "241"
+          "quotes": "242"
         }
       },
       "sample_replies": [
@@ -355,63 +355,6 @@
     },
     {
       "rank": 7,
-      "user": {
-        "handle": "blackranga.blacksky.app",
-        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
-        "initials": "GI",
-        "did": "did:plc:tom67pr2zmkziputghvxoe34",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
-        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
-      },
-      "ratio": "63:1",
-      "controversy": 0.8,
-      "change": "+5.0",
-      "change_type": "positive",
-      "post": {
-        "text": "Ok, but which Wayans brother had your heart or your draws?\n\n#BlackSky #BlackGaySky",
-        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lwupcdbchc2z",
-        "created_at": "2025-08-21T00:38:57.810Z",
-        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwupcdbchc2z"
-      },
-      "engagement": {
-        "likes": 24,
-        "replies": 10,
-        "reposts": 1,
-        "quotes": 63,
-        "formatted": {
-          "likes": "24",
-          "replies": "10",
-          "reposts": "1",
-          "quotes": "63"
-        }
-      },
-      "sample_replies": [
-        "shawn was always the finest",
-        "Shawn. It’s always been Shawn",
-        "EVERY. SINGLE. ONE.",
-        "Shawn and Marlon could easily run a train on me"
-      ],
-      "metrics": {
-        "ratio_score": 49.0,
-        "confidence": 0.537,
-        "category": "Complete Ratio",
-        "post_age_minutes": 158.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.482775+00:00",
-      "last_updated": "2025-08-21T03:32:26.722040+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.482775+00:00",
-        "2025-08-21T03:32:26.722040+00:00"
-      ],
-      "peak_controversy": 5.2,
-      "trend": "rising"
-    },
-    {
-      "rank": 8,
       "user": {
         "handle": "fatkiddeals.com",
         "display_name": "Fat Kid Deals",
@@ -467,7 +410,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "user": {
         "handle": "amesorisu.bsky.social",
         "display_name": "Damir. 🧸",
@@ -522,7 +465,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "user": {
         "handle": "paulbrand.bsky.social",
         "display_name": "Paul Brand",
@@ -576,6 +519,63 @@
       ],
       "peak_controversy": 1.5,
       "trend": "new"
+    },
+    {
+      "rank": 10,
+      "user": {
+        "handle": "blackranga.blacksky.app",
+        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
+        "initials": "GI",
+        "did": "did:plc:tom67pr2zmkziputghvxoe34",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
+        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
+      },
+      "ratio": "63:1",
+      "controversy": 0.7,
+      "change": "+5.0",
+      "change_type": "positive",
+      "post": {
+        "text": "Ok, but which Wayans brother had your heart or your draws?\n\n#BlackSky #BlackGaySky",
+        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lwupcdbchc2z",
+        "created_at": "2025-08-21T00:38:57.810Z",
+        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwupcdbchc2z"
+      },
+      "engagement": {
+        "likes": 25,
+        "replies": 10,
+        "reposts": 1,
+        "quotes": 63,
+        "formatted": {
+          "likes": "25",
+          "replies": "10",
+          "reposts": "1",
+          "quotes": "63"
+        }
+      },
+      "sample_replies": [
+        "shawn was always the finest",
+        "Shawn. It’s always been Shawn",
+        "EVERY. SINGLE. ONE.",
+        "Shawn and Marlon could easily run a train on me"
+      ],
+      "metrics": {
+        "ratio_score": 49.0,
+        "confidence": 0.537,
+        "category": "Complete Ratio",
+        "post_age_minutes": 158.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.482775+00:00",
+      "last_updated": "2025-08-21T03:32:26.722040+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.482775+00:00",
+        "2025-08-21T03:32:26.722040+00:00"
+      ],
+      "peak_controversy": 5.2,
+      "trend": "rising"
     },
     {
       "rank": 11,
@@ -877,12 +877,12 @@
       },
       "engagement": {
         "likes": 64,
-        "replies": 40,
+        "replies": 41,
         "reposts": 5,
         "quotes": 101,
         "formatted": {
           "likes": "64",
-          "replies": "40",
+          "replies": "41",
           "reposts": "5",
           "quotes": "101"
         }
@@ -984,12 +984,12 @@
         "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 54,
         "replies": 13,
         "reposts": 5,
         "quotes": 70,
         "formatted": {
-          "likes": "53",
+          "likes": "54",
           "replies": "13",
           "reposts": "5",
           "quotes": "70"
@@ -1541,15 +1541,15 @@
         "url": "https://bsky.app/profile/saulstaniforth.bsky.social/post/3lwvexykwlk2b"
       },
       "engagement": {
-        "likes": 43,
-        "replies": 22,
-        "reposts": 16,
-        "quotes": 29,
+        "likes": 45,
+        "replies": 23,
+        "reposts": 17,
+        "quotes": 31,
         "formatted": {
-          "likes": "43",
-          "replies": "22",
-          "reposts": "16",
-          "quotes": "29"
+          "likes": "45",
+          "replies": "23",
+          "reposts": "17",
+          "quotes": "31"
         }
       },
       "sample_replies": [
@@ -1598,14 +1598,14 @@
       },
       "engagement": {
         "likes": 19,
-        "replies": 15,
+        "replies": 16,
         "reposts": 5,
-        "quotes": 15,
+        "quotes": 16,
         "formatted": {
           "likes": "19",
-          "replies": "15",
+          "replies": "16",
           "reposts": "5",
-          "quotes": "15"
+          "quotes": "16"
         }
       },
       "sample_replies": [
@@ -2205,15 +2205,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 465,
-        "replies": 41,
+        "likes": 470,
+        "replies": 42,
         "reposts": 47,
-        "quotes": 180,
+        "quotes": 186,
         "formatted": {
-          "likes": "465",
-          "replies": "41",
+          "likes": "470",
+          "replies": "42",
           "reposts": "47",
-          "quotes": "180"
+          "quotes": "186"
         }
       },
       "sample_replies": [
@@ -2598,15 +2598,15 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 92,
+        "likes": 98,
         "replies": 22,
-        "reposts": 12,
-        "quotes": 44,
+        "reposts": 13,
+        "quotes": 46,
         "formatted": {
-          "likes": "92",
+          "likes": "98",
           "replies": "22",
-          "reposts": "12",
-          "quotes": "44"
+          "reposts": "13",
+          "quotes": "46"
         }
       },
       "sample_replies": [
@@ -2643,7 +2643,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u4k5iobejbj23zktpkkfq5vi/bafkreiakjcxnwdijrioo4ejhzkqy6b36rj5dqbsqjnyzn66eyi426i5xbu@jpeg",
         "profile_url": "https://bsky.app/profile/skullytrickybonez.bsky.social"
       },
-      "ratio": "6:0",
+      "ratio": "6:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2654,14 +2654,14 @@
         "url": "https://bsky.app/profile/skullytrickybonez.bsky.social/post/3lwuzyppa422y"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 18,
         "replies": 3,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 6,
         "formatted": {
-          "likes": "17",
+          "likes": "18",
           "replies": "3",
-          "reposts": "0",
+          "reposts": "1",
           "quotes": "6"
         }
       },
@@ -2710,12 +2710,12 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 172,
+        "likes": 173,
         "replies": 79,
         "reposts": 64,
         "quotes": 109,
         "formatted": {
-          "likes": "172",
+          "likes": "173",
           "replies": "79",
           "reposts": "64",
           "quotes": "109"
