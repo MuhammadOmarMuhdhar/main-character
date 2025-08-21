@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T13:30:53.255663+00:00",
-    "last_metrics_update": "2025-08-21T14:02:36.113021+00:00",
+    "last_metrics_update": "2025-08-21T14:17:26.389066+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -80,7 +80,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylhqx433ay3y3roq5hi2way6/bafkreid6u5dapmz2wmo3mt34oekivafdze6tihssejioqgoyemaidryvuu@jpeg",
         "profile_url": "https://bsky.app/profile/kennedialy.bsky.social"
       },
-      "ratio": "72:0",
+      "ratio": "76:0",
       "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/kennedialy.bsky.social/post/3lwvwu6gt6k2h"
       },
       "engagement": {
-        "likes": 12,
+        "likes": 13,
         "replies": 9,
         "reposts": 0,
-        "quotes": 72,
+        "quotes": 76,
         "formatted": {
-          "likes": "12",
+          "likes": "13",
           "replies": "9",
           "reposts": "0",
-          "quotes": "72"
+          "quotes": "76"
         }
       },
       "sample_replies": [
@@ -304,8 +304,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "67:1",
-      "controversy": 1.1,
+      "ratio": "38:1",
+      "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 52,
-        "replies": 89,
-        "reposts": 1,
-        "quotes": 67,
+        "likes": 60,
+        "replies": 97,
+        "reposts": 2,
+        "quotes": 76,
         "formatted": {
-          "likes": "52",
-          "replies": "89",
-          "reposts": "1",
-          "quotes": "67"
+          "likes": "60",
+          "replies": "97",
+          "reposts": "2",
+          "quotes": "76"
         }
       },
       "sample_replies": [
@@ -417,7 +417,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "14:1",
+      "ratio": "15:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -431,12 +431,12 @@
         "likes": 340,
         "replies": 143,
         "reposts": 40,
-        "quotes": 580,
+        "quotes": 584,
         "formatted": {
           "likes": "340",
           "replies": "143",
           "reposts": "40",
-          "quotes": "580"
+          "quotes": "584"
         }
       },
       "sample_replies": [
@@ -577,6 +577,60 @@
     {
       "rank": 11,
       "user": {
+        "handle": "rize4eva.bsky.social",
+        "display_name": "Raphael Phaasiq",
+        "initials": "RP",
+        "did": "did:plc:myiicuuddgocirxy7h6luz3y",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:myiicuuddgocirxy7h6luz3y/bafkreig4wpt4sbv43t5bdwyy3xlzjc4s4r4roojitn3aiob7xhcdk7p5nq@jpeg",
+        "profile_url": "https://bsky.app/profile/rize4eva.bsky.social"
+      },
+      "ratio": "19:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Women are sickos",
+        "uri": "at://did:plc:myiicuuddgocirxy7h6luz3y/app.bsky.feed.post/3lwv5l3kmic2o",
+        "created_at": "2025-08-21T04:54:24.107Z",
+        "url": "https://bsky.app/profile/rize4eva.bsky.social/post/3lwv5l3kmic2o"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 19,
+        "formatted": {
+          "likes": "4",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "19"
+        }
+      },
+      "sample_replies": [
+        "Oh.",
+        "😳"
+      ],
+      "metrics": {
+        "ratio_score": 11.0,
+        "confidence": 0.29,
+        "category": "Complete Ratio",
+        "post_age_minutes": 113.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.907047+00:00",
+      "last_updated": "2025-08-21T06:58:19.907047+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.907047+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
+      "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
         "initials": "GI",
@@ -632,7 +686,7 @@
       "trend": "rising"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "pattersona8.bsky.social",
         "display_name": "clit attack survivors ™️",
@@ -688,7 +742,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "praz.bsky.social",
         "display_name": "Mike Praznowski",
@@ -744,7 +798,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user": {
         "handle": "bamaslymm.blacksky.app",
         "display_name": "Kyle Barker Jr.",
@@ -764,15 +818,15 @@
         "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 12,
         "replies": 3,
         "reposts": 4,
-        "quotes": 40,
+        "quotes": 41,
         "formatted": {
-          "likes": "11",
+          "likes": "12",
           "replies": "3",
           "reposts": "4",
-          "quotes": "40"
+          "quotes": "41"
         }
       },
       "sample_replies": [
@@ -796,60 +850,6 @@
         "2025-08-21T13:30:52.820245+00:00"
       ],
       "peak_controversy": 4.7,
-      "trend": "new"
-    },
-    {
-      "rank": 15,
-      "user": {
-        "handle": "rize4eva.bsky.social",
-        "display_name": "Raphael Phaasiq",
-        "initials": "RP",
-        "did": "did:plc:myiicuuddgocirxy7h6luz3y",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:myiicuuddgocirxy7h6luz3y/bafkreig4wpt4sbv43t5bdwyy3xlzjc4s4r4roojitn3aiob7xhcdk7p5nq@jpeg",
-        "profile_url": "https://bsky.app/profile/rize4eva.bsky.social"
-      },
-      "ratio": "19:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Women are sickos",
-        "uri": "at://did:plc:myiicuuddgocirxy7h6luz3y/app.bsky.feed.post/3lwv5l3kmic2o",
-        "created_at": "2025-08-21T04:54:24.107Z",
-        "url": "https://bsky.app/profile/rize4eva.bsky.social/post/3lwv5l3kmic2o"
-      },
-      "engagement": {
-        "likes": 4,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 19,
-        "formatted": {
-          "likes": "4",
-          "replies": "3",
-          "reposts": "1",
-          "quotes": "19"
-        }
-      },
-      "sample_replies": [
-        "Oh.",
-        "😳"
-      ],
-      "metrics": {
-        "ratio_score": 11.0,
-        "confidence": 0.29,
-        "category": "Complete Ratio",
-        "post_age_minutes": 113.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.907047+00:00",
-      "last_updated": "2025-08-21T06:58:19.907047+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.907047+00:00"
-      ],
-      "peak_controversy": 1.5,
       "trend": "new"
     },
     {
@@ -932,12 +932,12 @@
         "likes": 73,
         "replies": 18,
         "reposts": 7,
-        "quotes": 113,
+        "quotes": 114,
         "formatted": {
           "likes": "73",
           "replies": "18",
           "reposts": "7",
-          "quotes": "113"
+          "quotes": "114"
         }
       },
       "sample_replies": [
@@ -988,12 +988,12 @@
         "likes": 64,
         "replies": 41,
         "reposts": 5,
-        "quotes": 103,
+        "quotes": 104,
         "formatted": {
           "likes": "64",
           "replies": "41",
           "reposts": "5",
-          "quotes": "103"
+          "quotes": "104"
         }
       },
       "sample_replies": [
@@ -1251,7 +1251,7 @@
         "profile_url": "https://bsky.app/profile/gldnlvndrr.bsky.social"
       },
       "ratio": "3:1",
-      "controversy": 0.3,
+      "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1262,12 +1262,12 @@
       },
       "engagement": {
         "likes": 109,
-        "replies": 29,
+        "replies": 30,
         "reposts": 31,
         "quotes": 90,
         "formatted": {
           "likes": "109",
-          "replies": "29",
+          "replies": "30",
           "reposts": "31",
           "quotes": "90"
         }
@@ -1306,7 +1306,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "44:0",
+      "ratio": "53:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1317,15 +1317,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 44,
+        "likes": 46,
         "replies": 2,
         "reposts": 0,
-        "quotes": 44,
+        "quotes": 53,
         "formatted": {
-          "likes": "44",
+          "likes": "46",
           "replies": "2",
           "reposts": "0",
-          "quotes": "44"
+          "quotes": "53"
         }
       },
       "sample_replies": [
@@ -1704,12 +1704,12 @@
         "url": "https://bsky.app/profile/electionmaps.uk/post/3lwvmkzpx6k2m"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 20,
         "reposts": 6,
         "quotes": 23,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "20",
           "reposts": "6",
           "quotes": "23"
@@ -1872,12 +1872,12 @@
         "url": "https://bsky.app/profile/bugsmaytrix.bsky.social/post/3lwuwum22cc2x"
       },
       "engagement": {
-        "likes": 67,
+        "likes": 68,
         "replies": 18,
         "reposts": 1,
         "quotes": 28,
         "formatted": {
-          "likes": "67",
+          "likes": "68",
           "replies": "18",
           "reposts": "1",
           "quotes": "28"
@@ -1984,12 +1984,12 @@
         "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 10,
         "replies": 5,
         "reposts": 7,
         "quotes": 14,
         "formatted": {
-          "likes": "11",
+          "likes": "10",
           "replies": "5",
           "reposts": "7",
           "quotes": "14"
@@ -2258,15 +2258,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 512,
+        "likes": 520,
         "replies": 43,
         "reposts": 53,
-        "quotes": 218,
+        "quotes": 225,
         "formatted": {
-          "likes": "512",
+          "likes": "520",
           "replies": "43",
           "reposts": "53",
-          "quotes": "218"
+          "quotes": "225"
         }
       },
       "sample_replies": [
@@ -2315,12 +2315,12 @@
       },
       "engagement": {
         "likes": 30,
-        "replies": 24,
+        "replies": 25,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
           "likes": "30",
-          "replies": "24",
+          "replies": "25",
           "reposts": "1",
           "quotes": "6"
         }
@@ -2373,12 +2373,12 @@
         "likes": 55,
         "replies": 24,
         "reposts": 24,
-        "quotes": 34,
+        "quotes": 35,
         "formatted": {
           "likes": "55",
           "replies": "24",
           "reposts": "24",
-          "quotes": "34"
+          "quotes": "35"
         }
       },
       "sample_replies": [
@@ -2408,6 +2408,62 @@
     {
       "rank": 44,
       "user": {
+        "handle": "shanegoldmacher.bsky.social",
+        "display_name": "Shane Goldmacher",
+        "initials": "SG",
+        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
+        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
+        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
+        "created_at": "2025-08-20T12:28:30.233Z",
+        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
+      },
+      "engagement": {
+        "likes": 174,
+        "replies": 84,
+        "reposts": 66,
+        "quotes": 110,
+        "formatted": {
+          "likes": "174",
+          "replies": "84",
+          "reposts": "66",
+          "quotes": "110"
+        }
+      },
+      "sample_replies": [
+        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
+        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
+        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
+        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
+      ],
+      "metrics": {
+        "ratio_score": 7.5,
+        "confidence": 0.468,
+        "category": "Quote Dunk",
+        "post_age_minutes": 64.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.573864+00:00",
+      "last_updated": "2025-08-20T13:46:49.573864+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.573864+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 45,
+      "user": {
         "handle": "felipepepe.bsky.social",
         "display_name": "Felipe Pepe",
         "initials": "FP",
@@ -2415,7 +2471,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2pf42rbhkw5k7phpcmduow2h/bafkreibzc7f3hydqt63jhzweforihkwqcpwmqootw7hyc3l3eeoktih7pm@jpeg",
         "profile_url": "https://bsky.app/profile/felipepepe.bsky.social"
       },
-      "ratio": "19:0",
+      "ratio": "20:0",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2429,12 +2485,12 @@
         "likes": 44,
         "replies": 3,
         "reposts": 0,
-        "quotes": 19,
+        "quotes": 20,
         "formatted": {
           "likes": "44",
           "replies": "3",
           "reposts": "0",
-          "quotes": "19"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -2462,7 +2518,7 @@
       "trend": "new"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "user": {
         "handle": "tomandlorenzo.bsky.social",
         "display_name": "Tom & Lorenzo",
@@ -2518,7 +2574,7 @@
       "trend": "new"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "user": {
         "handle": "cooperlund.online",
         "display_name": "Cooper Lund",
@@ -2574,7 +2630,7 @@
       "trend": "new"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "user": {
         "handle": "petersterne.com",
         "display_name": "Peter Sterne",
@@ -2594,15 +2650,15 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 119,
+        "likes": 120,
         "replies": 23,
         "reposts": 18,
-        "quotes": 53,
+        "quotes": 54,
         "formatted": {
-          "likes": "119",
+          "likes": "120",
           "replies": "23",
           "reposts": "18",
-          "quotes": "53"
+          "quotes": "54"
         }
       },
       "sample_replies": [
@@ -2630,7 +2686,7 @@
       "trend": "new"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "user": {
         "handle": "skullytrickybonez.bsky.social",
         "display_name": "💗Skully/Cotton💗",
@@ -2650,12 +2706,12 @@
         "url": "https://bsky.app/profile/skullytrickybonez.bsky.social/post/3lwuzyppa422y"
       },
       "engagement": {
-        "likes": 21,
+        "likes": 22,
         "replies": 4,
         "reposts": 1,
         "quotes": 7,
         "formatted": {
-          "likes": "21",
+          "likes": "22",
           "replies": "4",
           "reposts": "1",
           "quotes": "7"
@@ -2683,62 +2739,6 @@
         "2025-08-21T06:58:19.622720+00:00"
       ],
       "peak_controversy": 1.9,
-      "trend": "new"
-    },
-    {
-      "rank": 49,
-      "user": {
-        "handle": "shanegoldmacher.bsky.social",
-        "display_name": "Shane Goldmacher",
-        "initials": "SG",
-        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
-        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
-        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
-        "created_at": "2025-08-20T12:28:30.233Z",
-        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
-      },
-      "engagement": {
-        "likes": 174,
-        "replies": 82,
-        "reposts": 66,
-        "quotes": 110,
-        "formatted": {
-          "likes": "174",
-          "replies": "82",
-          "reposts": "66",
-          "quotes": "110"
-        }
-      },
-      "sample_replies": [
-        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
-        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
-        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
-        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
-      ],
-      "metrics": {
-        "ratio_score": 7.5,
-        "confidence": 0.468,
-        "category": "Quote Dunk",
-        "post_age_minutes": 64.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.573864+00:00",
-      "last_updated": "2025-08-20T13:46:49.573864+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.573864+00:00"
-      ],
-      "peak_controversy": 1.5,
       "trend": "new"
     },
     {
@@ -2984,14 +2984,14 @@
         "url": "https://bsky.app/profile/preshaprincess.bsky.social/post/3lwv6vezdts2h"
       },
       "engagement": {
-        "likes": 38,
+        "likes": 39,
         "replies": 4,
-        "reposts": 11,
+        "reposts": 12,
         "quotes": 10,
         "formatted": {
-          "likes": "38",
+          "likes": "39",
           "replies": "4",
-          "reposts": "11",
+          "reposts": "12",
           "quotes": "10"
         }
       },
