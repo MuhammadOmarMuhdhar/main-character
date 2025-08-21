@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T06:58:20.340862+00:00",
-    "last_metrics_update": "2025-08-21T09:02:27.411098+00:00",
+    "last_metrics_update": "2025-08-21T09:17:43.880667+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 56,
@@ -24,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mzcmy6awgxir5s7jw5mj5ql/bafkreidtrmpnnimtkyxohfec6fvrrppid75y45caviswlkkzlce5izcafe@jpeg",
         "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
       },
-      "ratio": "103:0",
-      "controversy": 2.4,
+      "ratio": "104:0",
+      "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/seauxcocoa.bsky.social/post/3lwtxo5psek2z"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "replies": 18,
         "reposts": 0,
-        "quotes": 103,
+        "quotes": 104,
         "formatted": {
-          "likes": "15",
+          "likes": "16",
           "replies": "18",
           "reposts": "0",
-          "quotes": "103"
+          "quotes": "104"
         }
       },
       "sample_replies": [
@@ -543,15 +543,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 331,
+        "likes": 333,
         "replies": 140,
         "reposts": 40,
-        "quotes": 571,
+        "quotes": 572,
         "formatted": {
-          "likes": "331",
+          "likes": "333",
           "replies": "140",
           "reposts": "40",
-          "quotes": "571"
+          "quotes": "572"
         }
       },
       "sample_replies": [
@@ -1246,57 +1246,6 @@
     {
       "rank": 23,
       "user": {
-        "handle": "steveincolorado.bsky.social",
-        "display_name": "Steve in Colorado 🐏🏔️⛷️",
-        "initials": "SI",
-        "did": "did:plc:sobyrizvmeqwqe5fl72uhzvn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobyrizvmeqwqe5fl72uhzvn/bafkreic2fewqvzvykb2nvg2qqcmp4nqyjy46vjbd47nosisi4rte6qydta@jpeg",
-        "profile_url": "https://bsky.app/profile/steveincolorado.bsky.social"
-      },
-      "ratio": "6:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "#SpotTheScammer\n\nEveryone REPORT, REPOST and block @talitinhareallife.bsky.social‬. Latest Talita Leonardo's injured cat scam. Over 90 suspended accounts on Bluesky. Cat is injured and needs surgery. PayPal and Ko-fi links to steal money follows. #cats #catsofbluesky",
-        "uri": "at://did:plc:sobyrizvmeqwqe5fl72uhzvn/app.bsky.feed.post/3lwv4hzdzss23",
-        "created_at": "2025-08-21T04:34:47.390Z",
-        "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
-      },
-      "engagement": {
-        "likes": 6,
-        "replies": 3,
-        "reposts": 2,
-        "quotes": 12,
-        "formatted": {
-          "likes": "6",
-          "replies": "3",
-          "reposts": "2",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [],
-      "metrics": {
-        "ratio_score": 12.0,
-        "confidence": 0.3750280958768571,
-        "category": "Complete Ratio",
-        "post_age_minutes": 0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.326615+00:00",
-      "last_updated": "2025-08-21T06:58:19.326615+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.326615+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
-      "user": {
         "handle": "mid-majormadness.bsky.social",
         "display_name": "Mid-Major Madness",
         "initials": "MM",
@@ -1351,7 +1300,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "user": {
         "handle": "rlivre.cc",
         "display_name": "Radical Livre",
@@ -1407,7 +1356,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "anythinggoe.com",
         "display_name": "AnythingGOEs - Figure Skating ",
@@ -1461,7 +1410,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "david-ornstein.bsky.social",
         "display_name": "David Ornstein",
@@ -1482,12 +1431,12 @@
       },
       "engagement": {
         "likes": 32,
-        "replies": 16,
+        "replies": 17,
         "reposts": 3,
         "quotes": 28,
         "formatted": {
           "likes": "32",
-          "replies": "16",
+          "replies": "17",
           "reposts": "3",
           "quotes": "28"
         }
@@ -1517,7 +1466,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "ilovetvtime.bsky.social",
         "display_name": "MS. \"ANN\" TENNA! 📺",
@@ -1573,7 +1522,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "user": {
         "handle": "iamabundantaf.bsky.social",
         "display_name": "I Am Abundant AF",
@@ -1625,6 +1574,57 @@
         "2025-08-21T03:32:26.137764+00:00"
       ],
       "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 29,
+      "user": {
+        "handle": "steveincolorado.bsky.social",
+        "display_name": "Steve in Colorado 🐏🏔️⛷️",
+        "initials": "SI",
+        "did": "did:plc:sobyrizvmeqwqe5fl72uhzvn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobyrizvmeqwqe5fl72uhzvn/bafkreic2fewqvzvykb2nvg2qqcmp4nqyjy46vjbd47nosisi4rte6qydta@jpeg",
+        "profile_url": "https://bsky.app/profile/steveincolorado.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#SpotTheScammer\n\nEveryone REPORT, REPOST and block @talitinhareallife.bsky.social‬. Latest Talita Leonardo's injured cat scam. Over 90 suspended accounts on Bluesky. Cat is injured and needs surgery. PayPal and Ko-fi links to steal money follows. #cats #catsofbluesky",
+        "uri": "at://did:plc:sobyrizvmeqwqe5fl72uhzvn/app.bsky.feed.post/3lwv4hzdzss23",
+        "created_at": "2025-08-21T04:34:47.390Z",
+        "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 3,
+        "reposts": 4,
+        "quotes": 12,
+        "formatted": {
+          "likes": "7",
+          "replies": "3",
+          "reposts": "4",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [],
+      "metrics": {
+        "ratio_score": 12.0,
+        "confidence": 0.3750280958768571,
+        "category": "Complete Ratio",
+        "post_age_minutes": 0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.326615+00:00",
+      "last_updated": "2025-08-21T06:58:19.326615+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.326615+00:00"
+      ],
+      "peak_controversy": 2.2,
       "trend": "new"
     },
     {
@@ -2317,12 +2317,12 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 429,
+        "likes": 432,
         "replies": 37,
         "reposts": 44,
         "quotes": 166,
         "formatted": {
-          "likes": "429",
+          "likes": "432",
           "replies": "37",
           "reposts": "44",
           "quotes": "166"
@@ -2354,62 +2354,6 @@
     },
     {
       "rank": 43,
-      "user": {
-        "handle": "petersterne.com",
-        "display_name": "Peter Sterne",
-        "initials": "PS",
-        "did": "did:plc:3o3xlahjenddxtpwwk6c6z5w",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3o3xlahjenddxtpwwk6c6z5w/bafkreialpxbc3q7segsi62s7wlpypta734eneseabetcdgle2v6wlmufci@jpeg",
-        "profile_url": "https://bsky.app/profile/petersterne.com"
-      },
-      "ratio": "4:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Winnie Greco's attorney told The New York Times that it's common in Chinese culture to give cash to reporters. www.nytimes.com/2025/08/20/n...",
-        "uri": "at://did:plc:3o3xlahjenddxtpwwk6c6z5w/app.bsky.feed.post/3lwuvsffgbs2x",
-        "created_at": "2025-08-21T02:35:19.368Z",
-        "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
-      },
-      "engagement": {
-        "likes": 84,
-        "replies": 21,
-        "reposts": 11,
-        "quotes": 41,
-        "formatted": {
-          "likes": "84",
-          "replies": "21",
-          "reposts": "11",
-          "quotes": "41"
-        }
-      },
-      "sample_replies": [
-        "I'm sorry you mistook my bribe for a bribe.",
-        "The Times appears to be lifting this quote from @thecity.nyc and altering it to make it even more...",
-        "He gave that quote to The City. (The NYT seems to have lifted a lot of info/quotes from The City’s...",
-        "This is not a defense of Winnie Greco who stands out for excessive corruption even among Eric..."
-      ],
-      "metrics": {
-        "ratio_score": 9.5,
-        "confidence": 0.578,
-        "category": "Quote Dunk",
-        "post_age_minutes": 42.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:25.800254+00:00",
-      "last_updated": "2025-08-21T03:32:25.800254+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:25.800254+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 44,
       "user": {
         "handle": "preshaprincess.bsky.social",
         "display_name": "❤️‍🔥",
@@ -2466,7 +2410,7 @@
       "trend": "rising"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -2523,6 +2467,62 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
+    },
+    {
+      "rank": 45,
+      "user": {
+        "handle": "petersterne.com",
+        "display_name": "Peter Sterne",
+        "initials": "PS",
+        "did": "did:plc:3o3xlahjenddxtpwwk6c6z5w",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3o3xlahjenddxtpwwk6c6z5w/bafkreialpxbc3q7segsi62s7wlpypta734eneseabetcdgle2v6wlmufci@jpeg",
+        "profile_url": "https://bsky.app/profile/petersterne.com"
+      },
+      "ratio": "4:1",
+      "controversy": 0.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Winnie Greco's attorney told The New York Times that it's common in Chinese culture to give cash to reporters. www.nytimes.com/2025/08/20/n...",
+        "uri": "at://did:plc:3o3xlahjenddxtpwwk6c6z5w/app.bsky.feed.post/3lwuvsffgbs2x",
+        "created_at": "2025-08-21T02:35:19.368Z",
+        "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
+      },
+      "engagement": {
+        "likes": 87,
+        "replies": 21,
+        "reposts": 11,
+        "quotes": 42,
+        "formatted": {
+          "likes": "87",
+          "replies": "21",
+          "reposts": "11",
+          "quotes": "42"
+        }
+      },
+      "sample_replies": [
+        "I'm sorry you mistook my bribe for a bribe.",
+        "The Times appears to be lifting this quote from @thecity.nyc and altering it to make it even more...",
+        "He gave that quote to The City. (The NYT seems to have lifted a lot of info/quotes from The City’s...",
+        "This is not a defense of Winnie Greco who stands out for excessive corruption even among Eric..."
+      ],
+      "metrics": {
+        "ratio_score": 9.5,
+        "confidence": 0.578,
+        "category": "Quote Dunk",
+        "post_age_minutes": 42.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:25.800254+00:00",
+      "last_updated": "2025-08-21T03:32:25.800254+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:25.800254+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
     },
     {
       "rank": 46,
