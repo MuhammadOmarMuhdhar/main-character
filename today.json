@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T10:11:39.629029+00:00",
-    "last_metrics_update": "2025-08-21T12:32:36.594237+00:00",
+    "last_metrics_update": "2025-08-21T12:47:54.139236+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 52,
@@ -185,63 +185,6 @@
     {
       "rank": 4,
       "user": {
-        "handle": "mick-ee.bsky.social",
-        "display_name": "🎀 mickee 🎀",
-        "initials": "🎀M",
-        "did": "did:plc:jcv4vlqmnipn2vbw4xdtshw5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jcv4vlqmnipn2vbw4xdtshw5/bafkreienkhhebgw6tg2kskvgbeqm6rs75rxnswo63npadualbqzrmqf2ym@jpeg",
-        "profile_url": "https://bsky.app/profile/mick-ee.bsky.social"
-      },
-      "ratio": "15:0",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Guys Shelby is NAWT a cool white. I repeat she is NAWT COOL",
-        "uri": "at://did:plc:jcv4vlqmnipn2vbw4xdtshw5/app.bsky.feed.post/3lwtp5wazb22t",
-        "created_at": "2025-08-20T15:03:50.211Z",
-        "url": "https://bsky.app/profile/mick-ee.bsky.social/post/3lwtp5wazb22t"
-      },
-      "engagement": {
-        "likes": 3,
-        "replies": 9,
-        "reposts": 0,
-        "quotes": 15,
-        "formatted": {
-          "likes": "3",
-          "replies": "9",
-          "reposts": "0",
-          "quotes": "15"
-        }
-      },
-      "sample_replies": [
-        "Y U C K",
-        "🤣🤣🤣🤣",
-        "OH MY GOSH WHAT THE FUCK",
-        "what in the Sam Hill is going on? ffs im fully dressed on the skyline this morning, lets pull it..."
-      ],
-      "metrics": {
-        "ratio_score": 18,
-        "confidence": 0.327,
-        "category": "Complete Ratio",
-        "post_age_minutes": 104.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:30.265154+00:00",
-      "last_updated": "2025-08-20T17:05:30.680311+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:30.265154+00:00",
-        "2025-08-20T17:05:30.680311+00:00"
-      ],
-      "peak_controversy": 3.7,
-      "trend": "rising"
-    },
-    {
-      "rank": 5,
-      "user": {
         "handle": "theathleticfc.bsky.social",
         "display_name": "The Athletic | Football",
         "initials": "TA",
@@ -298,7 +241,7 @@
       "trend": "rising"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "user": {
         "handle": "cpsc.gov",
         "display_name": "U.S. Consumer Product Safety Commission",
@@ -319,12 +262,12 @@
       },
       "engagement": {
         "likes": 89,
-        "replies": 245,
+        "replies": 246,
         "reposts": 26,
         "quotes": 244,
         "formatted": {
           "likes": "89",
-          "replies": "245",
+          "replies": "246",
           "reposts": "26",
           "quotes": "244"
         }
@@ -354,6 +297,63 @@
       "trend": "new"
     },
     {
+      "rank": 6,
+      "user": {
+        "handle": "mick-ee.bsky.social",
+        "display_name": "🎀 mickee 🎀",
+        "initials": "🎀M",
+        "did": "did:plc:jcv4vlqmnipn2vbw4xdtshw5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jcv4vlqmnipn2vbw4xdtshw5/bafkreienkhhebgw6tg2kskvgbeqm6rs75rxnswo63npadualbqzrmqf2ym@jpeg",
+        "profile_url": "https://bsky.app/profile/mick-ee.bsky.social"
+      },
+      "ratio": "15:0",
+      "controversy": 0.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Guys Shelby is NAWT a cool white. I repeat she is NAWT COOL",
+        "uri": "at://did:plc:jcv4vlqmnipn2vbw4xdtshw5/app.bsky.feed.post/3lwtp5wazb22t",
+        "created_at": "2025-08-20T15:03:50.211Z",
+        "url": "https://bsky.app/profile/mick-ee.bsky.social/post/3lwtp5wazb22t"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 9,
+        "reposts": 0,
+        "quotes": 15,
+        "formatted": {
+          "likes": "4",
+          "replies": "9",
+          "reposts": "0",
+          "quotes": "15"
+        }
+      },
+      "sample_replies": [
+        "Y U C K",
+        "🤣🤣🤣🤣",
+        "OH MY GOSH WHAT THE FUCK",
+        "what in the Sam Hill is going on? ffs im fully dressed on the skyline this morning, lets pull it..."
+      ],
+      "metrics": {
+        "ratio_score": 18,
+        "confidence": 0.327,
+        "category": "Complete Ratio",
+        "post_age_minutes": 104.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:30.265154+00:00",
+      "last_updated": "2025-08-20T17:05:30.680311+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:30.265154+00:00",
+        "2025-08-20T17:05:30.680311+00:00"
+      ],
+      "peak_controversy": 3.7,
+      "trend": "rising"
+    },
+    {
       "rank": 7,
       "user": {
         "handle": "fatkiddeals.com",
@@ -375,12 +375,12 @@
       },
       "engagement": {
         "likes": 337,
-        "replies": 141,
+        "replies": 143,
         "reposts": 40,
         "quotes": 578,
         "formatted": {
           "likes": "337",
-          "replies": "141",
+          "replies": "143",
           "reposts": "40",
           "quotes": "578"
         }
@@ -1542,14 +1542,14 @@
       },
       "engagement": {
         "likes": 21,
-        "replies": 19,
+        "replies": 20,
         "reposts": 5,
-        "quotes": 18,
+        "quotes": 21,
         "formatted": {
           "likes": "21",
-          "replies": "19",
+          "replies": "20",
           "reposts": "5",
-          "quotes": "18"
+          "quotes": "21"
         }
       },
       "sample_replies": [
@@ -1597,14 +1597,14 @@
         "url": "https://bsky.app/profile/saulstaniforth.bsky.social/post/3lwvexykwlk2b"
       },
       "engagement": {
-        "likes": 50,
+        "likes": 51,
         "replies": 23,
-        "reposts": 19,
+        "reposts": 20,
         "quotes": 33,
         "formatted": {
-          "likes": "50",
+          "likes": "51",
           "replies": "23",
-          "reposts": "19",
+          "reposts": "20",
           "quotes": "33"
         }
       },
@@ -1709,12 +1709,12 @@
         "url": "https://bsky.app/profile/bengoessling.bsky.social/post/3lwujadbjxz2h"
       },
       "engagement": {
-        "likes": 22,
+        "likes": 23,
         "replies": 14,
         "reposts": 1,
         "quotes": 10,
         "formatted": {
-          "likes": "22",
+          "likes": "23",
           "replies": "14",
           "reposts": "1",
           "quotes": "10"
@@ -2205,15 +2205,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 488,
+        "likes": 491,
         "replies": 42,
-        "reposts": 51,
-        "quotes": 198,
+        "reposts": 52,
+        "quotes": 202,
         "formatted": {
-          "likes": "488",
+          "likes": "491",
           "replies": "42",
-          "reposts": "51",
-          "quotes": "198"
+          "reposts": "52",
+          "quotes": "202"
         }
       },
       "sample_replies": [
@@ -2261,12 +2261,12 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwv3ii5mpl24"
       },
       "engagement": {
-        "likes": 25,
+        "likes": 26,
         "replies": 22,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
-          "likes": "25",
+          "likes": "26",
           "replies": "22",
           "reposts": "1",
           "quotes": "6"
@@ -2373,14 +2373,14 @@
         "url": "https://bsky.app/profile/preshaprincess.bsky.social/post/3lwv6vezdts2h"
       },
       "engagement": {
-        "likes": 31,
+        "likes": 34,
         "replies": 4,
-        "reposts": 9,
+        "reposts": 10,
         "quotes": 10,
         "formatted": {
-          "likes": "31",
+          "likes": "34",
           "replies": "4",
-          "reposts": "9",
+          "reposts": "10",
           "quotes": "10"
         }
       },
@@ -2430,12 +2430,12 @@
         "url": "https://bsky.app/profile/timeextension.com/post/3lwvjms3mre2n"
       },
       "engagement": {
-        "likes": 29,
+        "likes": 30,
         "replies": 6,
         "reposts": 5,
         "quotes": 10,
         "formatted": {
-          "likes": "29",
+          "likes": "30",
           "replies": "6",
           "reposts": "5",
           "quotes": "10"
@@ -2475,7 +2475,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7ztwdzlcpvnf6lsve4gj6bp/bafkreibwinbjplgeyqf7ebzrnjwqw3xipautpa7yoqs5hofmqbfdtjr3ju@jpeg",
         "profile_url": "https://bsky.app/profile/tomandlorenzo.bsky.social"
       },
-      "ratio": "3:1",
+      "ratio": "2:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2486,14 +2486,14 @@
         "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
       },
       "engagement": {
-        "likes": 118,
+        "likes": 119,
         "replies": 29,
-        "reposts": 15,
+        "reposts": 16,
         "quotes": 38,
         "formatted": {
-          "likes": "118",
+          "likes": "119",
           "replies": "29",
-          "reposts": "15",
+          "reposts": "16",
           "quotes": "38"
         }
       },
@@ -2598,14 +2598,14 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 109,
+        "likes": 114,
         "replies": 22,
-        "reposts": 17,
+        "reposts": 18,
         "quotes": 50,
         "formatted": {
-          "likes": "109",
+          "likes": "114",
           "replies": "22",
-          "reposts": "17",
+          "reposts": "18",
           "quotes": "50"
         }
       },
@@ -2643,7 +2643,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u4k5iobejbj23zktpkkfq5vi/bafkreiakjcxnwdijrioo4ejhzkqy6b36rj5dqbsqjnyzn66eyi426i5xbu@jpeg",
         "profile_url": "https://bsky.app/profile/skullytrickybonez.bsky.social"
       },
-      "ratio": "6:1",
+      "ratio": "7:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2657,12 +2657,12 @@
         "likes": 19,
         "replies": 3,
         "reposts": 1,
-        "quotes": 6,
+        "quotes": 7,
         "formatted": {
           "likes": "19",
           "replies": "3",
           "reposts": "1",
-          "quotes": "6"
+          "quotes": "7"
         }
       },
       "sample_replies": [
