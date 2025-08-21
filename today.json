@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T13:30:53.255663+00:00",
-    "last_metrics_update": "2025-08-21T15:17:38.854163+00:00",
+    "last_metrics_update": "2025-08-21T15:32:21.164047+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -73,62 +73,6 @@
     {
       "rank": 2,
       "user": {
-        "handle": "kennedialy.bsky.social",
-        "display_name": "jerk punani 🇯🇲",
-        "initials": "JP",
-        "did": "did:plc:ylhqx433ay3y3roq5hi2way6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylhqx433ay3y3roq5hi2way6/bafkreid6u5dapmz2wmo3mt34oekivafdze6tihssejioqgoyemaidryvuu@jpeg",
-        "profile_url": "https://bsky.app/profile/kennedialy.bsky.social"
-      },
-      "ratio": "79:0",
-      "controversy": 1.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What's your favorite color? mine is 💜",
-        "uri": "at://did:plc:ylhqx433ay3y3roq5hi2way6/app.bsky.feed.post/3lwvwu6gt6k2h",
-        "created_at": "2025-08-21T12:26:52.667Z",
-        "url": "https://bsky.app/profile/kennedialy.bsky.social/post/3lwvwu6gt6k2h"
-      },
-      "engagement": {
-        "likes": 14,
-        "replies": 10,
-        "reposts": 0,
-        "quotes": 79,
-        "formatted": {
-          "likes": "14",
-          "replies": "10",
-          "reposts": "0",
-          "quotes": "79"
-        }
-      },
-      "sample_replies": [
-        "💚",
-        "This was my first favorite color. I have a green car lol",
-        "💛 I think his color was made for me 😂",
-        "😂😂 actually hate summer with a passion. I love Spring and Fall. Pretty tulips and daffodils and..."
-      ],
-      "metrics": {
-        "ratio_score": 48,
-        "confidence": 0.539,
-        "category": "Complete Ratio",
-        "post_age_minutes": 50.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T13:30:52.523155+00:00",
-      "last_updated": "2025-08-21T13:30:52.523155+00:00",
-      "analysis_windows": [
-        "2025-08-21T13:30:52.523155+00:00"
-      ],
-      "peak_controversy": 5.2,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
         "handle": "hanginwitcoop.blacksky.app",
         "display_name": "Everything is JOKES!",
         "initials": "EI",
@@ -180,6 +124,62 @@
         "2025-08-21T00:04:43.749123+00:00"
       ],
       "peak_controversy": 2.6,
+      "trend": "new"
+    },
+    {
+      "rank": 3,
+      "user": {
+        "handle": "kennedialy.bsky.social",
+        "display_name": "jerk punani 🇯🇲",
+        "initials": "JP",
+        "did": "did:plc:ylhqx433ay3y3roq5hi2way6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylhqx433ay3y3roq5hi2way6/bafkreid6u5dapmz2wmo3mt34oekivafdze6tihssejioqgoyemaidryvuu@jpeg",
+        "profile_url": "https://bsky.app/profile/kennedialy.bsky.social"
+      },
+      "ratio": "80:0",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What's your favorite color? mine is 💜",
+        "uri": "at://did:plc:ylhqx433ay3y3roq5hi2way6/app.bsky.feed.post/3lwvwu6gt6k2h",
+        "created_at": "2025-08-21T12:26:52.667Z",
+        "url": "https://bsky.app/profile/kennedialy.bsky.social/post/3lwvwu6gt6k2h"
+      },
+      "engagement": {
+        "likes": 16,
+        "replies": 11,
+        "reposts": 0,
+        "quotes": 80,
+        "formatted": {
+          "likes": "16",
+          "replies": "11",
+          "reposts": "0",
+          "quotes": "80"
+        }
+      },
+      "sample_replies": [
+        "💚",
+        "This was my first favorite color. I have a green car lol",
+        "💛 I think his color was made for me 😂",
+        "😂😂 actually hate summer with a passion. I love Spring and Fall. Pretty tulips and daffodils and..."
+      ],
+      "metrics": {
+        "ratio_score": 48,
+        "confidence": 0.539,
+        "category": "Complete Ratio",
+        "post_age_minutes": 50.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T13:30:52.523155+00:00",
+      "last_updated": "2025-08-21T13:30:52.523155+00:00",
+      "analysis_windows": [
+        "2025-08-21T13:30:52.523155+00:00"
+      ],
+      "peak_controversy": 5.2,
       "trend": "new"
     },
     {
@@ -304,7 +304,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "22:1",
+      "ratio": "20:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 79,
-        "replies": 122,
-        "reposts": 5,
-        "quotes": 111,
+        "likes": 97,
+        "replies": 143,
+        "reposts": 7,
+        "quotes": 141,
         "formatted": {
-          "likes": "79",
-          "replies": "122",
-          "reposts": "5",
-          "quotes": "111"
+          "likes": "97",
+          "replies": "143",
+          "reposts": "7",
+          "quotes": "141"
         }
       },
       "sample_replies": [
@@ -428,15 +428,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 343,
-        "replies": 143,
+        "likes": 344,
+        "replies": 144,
         "reposts": 40,
-        "quotes": 591,
+        "quotes": 593,
         "formatted": {
-          "likes": "343",
-          "replies": "143",
+          "likes": "344",
+          "replies": "144",
           "reposts": "40",
-          "quotes": "591"
+          "quotes": "593"
         }
       },
       "sample_replies": [
@@ -751,7 +751,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
         "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
       },
-      "ratio": "11:1",
+      "ratio": "9:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -762,15 +762,15 @@
         "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
       },
       "engagement": {
-        "likes": 14,
-        "replies": 4,
-        "reposts": 4,
-        "quotes": 44,
+        "likes": 15,
+        "replies": 5,
+        "reposts": 5,
+        "quotes": 46,
         "formatted": {
-          "likes": "14",
-          "replies": "4",
-          "reposts": "4",
-          "quotes": "44"
+          "likes": "15",
+          "replies": "5",
+          "reposts": "5",
+          "quotes": "46"
         }
       },
       "sample_replies": [
@@ -862,8 +862,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
         "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
       },
-      "ratio": "17:1",
-      "controversy": 0.6,
+      "ratio": "14:1",
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -873,14 +873,14 @@
         "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
       },
       "engagement": {
-        "likes": 73,
+        "likes": 74,
         "replies": 18,
-        "reposts": 7,
+        "reposts": 8,
         "quotes": 116,
         "formatted": {
-          "likes": "73",
+          "likes": "74",
           "replies": "18",
-          "reposts": "7",
+          "reposts": "8",
           "quotes": "116"
         }
       },
@@ -1029,7 +1029,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5cb5baul4azrgk7rkkgyt64w/bafkreibmn4cxvrv6w4d3q2i6t7ijgxftloubdurjtgyq6nybetx5vxiwwe@jpeg",
         "profile_url": "https://bsky.app/profile/libdems.org.uk"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1042,12 +1042,12 @@
       "engagement": {
         "likes": 12,
         "replies": 22,
-        "reposts": 2,
+        "reposts": 3,
         "quotes": 9,
         "formatted": {
           "likes": "12",
           "replies": "22",
-          "reposts": "2",
+          "reposts": "3",
           "quotes": "9"
         }
       },
@@ -1306,8 +1306,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "69:1",
-      "controversy": 0.3,
+      "ratio": "76:1",
+      "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1317,15 +1317,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 55,
+        "likes": 57,
         "replies": 2,
         "reposts": 1,
-        "quotes": 69,
+        "quotes": 76,
         "formatted": {
-          "likes": "55",
+          "likes": "57",
           "replies": "2",
           "reposts": "1",
-          "quotes": "69"
+          "quotes": "76"
         }
       },
       "sample_replies": [
@@ -1538,12 +1538,12 @@
       },
       "engagement": {
         "likes": 34,
-        "replies": 19,
+        "replies": 20,
         "reposts": 3,
         "quotes": 30,
         "formatted": {
           "likes": "34",
-          "replies": "19",
+          "replies": "20",
           "reposts": "3",
           "quotes": "30"
         }
@@ -1694,7 +1694,7 @@
         "profile_url": "https://bsky.app/profile/electionmaps.uk"
       },
       "ratio": "3:1",
-      "controversy": 0.3,
+      "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1704,12 +1704,12 @@
         "url": "https://bsky.app/profile/electionmaps.uk/post/3lwvmkzpx6k2m"
       },
       "engagement": {
-        "likes": 25,
+        "likes": 26,
         "replies": 21,
         "reposts": 7,
         "quotes": 24,
         "formatted": {
-          "likes": "25",
+          "likes": "26",
           "replies": "21",
           "reposts": "7",
           "quotes": "24"
@@ -2147,12 +2147,12 @@
       },
       "engagement": {
         "likes": 15,
-        "replies": 3,
+        "replies": 4,
         "reposts": 2,
         "quotes": 13,
         "formatted": {
           "likes": "15",
-          "replies": "3",
+          "replies": "4",
           "reposts": "2",
           "quotes": "13"
         }
@@ -2258,15 +2258,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 544,
-        "replies": 52,
+        "likes": 553,
+        "replies": 53,
         "reposts": 54,
-        "quotes": 246,
+        "quotes": 254,
         "formatted": {
-          "likes": "544",
-          "replies": "52",
+          "likes": "553",
+          "replies": "53",
           "reposts": "54",
-          "quotes": "246"
+          "quotes": "254"
         }
       },
       "sample_replies": [
@@ -2315,12 +2315,12 @@
       },
       "engagement": {
         "likes": 32,
-        "replies": 25,
+        "replies": 26,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
           "likes": "32",
-          "replies": "25",
+          "replies": "26",
           "reposts": "1",
           "quotes": "6"
         }
@@ -2416,7 +2416,7 @@
         "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
       },
       "ratio": "2:1",
-      "controversy": 0.2,
+      "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -2426,12 +2426,12 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 177,
+        "likes": 178,
         "replies": 85,
         "reposts": 66,
         "quotes": 110,
         "formatted": {
-          "likes": "177",
+          "likes": "178",
           "replies": "85",
           "reposts": "66",
           "quotes": "110"
@@ -2471,7 +2471,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2pf42rbhkw5k7phpcmduow2h/bafkreibzc7f3hydqt63jhzweforihkwqcpwmqootw7hyc3l3eeoktih7pm@jpeg",
         "profile_url": "https://bsky.app/profile/felipepepe.bsky.social"
       },
-      "ratio": "20:0",
+      "ratio": "21:0",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2485,12 +2485,12 @@
         "likes": 48,
         "replies": 3,
         "reposts": 0,
-        "quotes": 20,
+        "quotes": 21,
         "formatted": {
           "likes": "48",
           "replies": "3",
           "reposts": "0",
-          "quotes": "20"
+          "quotes": "21"
         }
       },
       "sample_replies": [
@@ -2594,12 +2594,12 @@
         "url": "https://bsky.app/profile/cooperlund.online/post/3lwu5r4ay3k2z"
       },
       "engagement": {
-        "likes": 80,
+        "likes": 81,
         "replies": 18,
         "reposts": 2,
         "quotes": 9,
         "formatted": {
-          "likes": "80",
+          "likes": "81",
           "replies": "18",
           "reposts": "2",
           "quotes": "9"
@@ -2653,12 +2653,12 @@
         "likes": 121,
         "replies": 23,
         "reposts": 18,
-        "quotes": 55,
+        "quotes": 56,
         "formatted": {
           "likes": "121",
           "replies": "23",
           "reposts": "18",
-          "quotes": "55"
+          "quotes": "56"
         }
       },
       "sample_replies": [
@@ -2986,12 +2986,12 @@
       "engagement": {
         "likes": 40,
         "replies": 4,
-        "reposts": 12,
+        "reposts": 13,
         "quotes": 10,
         "formatted": {
           "likes": "40",
           "replies": "4",
-          "reposts": "12",
+          "reposts": "13",
           "quotes": "10"
         }
       },
