@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T06:58:20.340862+00:00",
-    "last_metrics_update": "2025-08-21T07:02:23.354827+00:00",
+    "last_metrics_update": "2025-08-21T07:17:50.091129+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 56,
@@ -298,62 +298,6 @@
     {
       "rank": 6,
       "user": {
-        "handle": "cpsc.gov",
-        "display_name": "U.S. Consumer Product Safety Commission",
-        "initials": "UC",
-        "did": "did:plc:wbmw5r5a2j7txv72ggne2uoe",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wbmw5r5a2j7txv72ggne2uoe/bafkreid6oqe3xeeyqbupxknvmwehszrqthjjz5an22vrjezapqn4pjksei@jpeg",
-        "profile_url": "https://bsky.app/profile/cpsc.gov"
-      },
-      "ratio": "9:1",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "CPSC Withdraws Rules That Are Outdated, Fail to Advance Safety; New Leadership Focuses on Hazards That Pose Real Risks. Learn more: www.cpsc.gov/Newsroom/New...",
-        "uri": "at://did:plc:wbmw5r5a2j7txv72ggne2uoe/app.bsky.feed.post/3lwucoviwqs2m",
-        "created_at": "2025-08-20T20:53:20.952Z",
-        "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
-      },
-      "engagement": {
-        "likes": 82,
-        "replies": 244,
-        "reposts": 25,
-        "quotes": 234,
-        "formatted": {
-          "likes": "82",
-          "replies": "244",
-          "reposts": "25",
-          "quotes": "234"
-        }
-      },
-      "sample_replies": [
-        "You’ll always live on in our memories 🥺",
-        "blink twice if you need help",
-        "The part in the zombie movie where the protagonist realizes their best friend has been bitten",
-        "dang"
-      ],
-      "metrics": {
-        "ratio_score": 6.86,
-        "confidence": 0.708,
-        "category": "Quote Dunk",
-        "post_age_minutes": 174.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:43.883751+00:00",
-      "last_updated": "2025-08-21T00:04:43.883751+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:43.883751+00:00"
-      ],
-      "peak_controversy": 2.0,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
         "handle": "theathleticfc.bsky.social",
         "display_name": "The Athletic | Football",
         "initials": "TA",
@@ -408,6 +352,62 @@
       ],
       "peak_controversy": 5.1,
       "trend": "rising"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "cpsc.gov",
+        "display_name": "U.S. Consumer Product Safety Commission",
+        "initials": "UC",
+        "did": "did:plc:wbmw5r5a2j7txv72ggne2uoe",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wbmw5r5a2j7txv72ggne2uoe/bafkreid6oqe3xeeyqbupxknvmwehszrqthjjz5an22vrjezapqn4pjksei@jpeg",
+        "profile_url": "https://bsky.app/profile/cpsc.gov"
+      },
+      "ratio": "9:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "CPSC Withdraws Rules That Are Outdated, Fail to Advance Safety; New Leadership Focuses on Hazards That Pose Real Risks. Learn more: www.cpsc.gov/Newsroom/New...",
+        "uri": "at://did:plc:wbmw5r5a2j7txv72ggne2uoe/app.bsky.feed.post/3lwucoviwqs2m",
+        "created_at": "2025-08-20T20:53:20.952Z",
+        "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
+      },
+      "engagement": {
+        "likes": 83,
+        "replies": 245,
+        "reposts": 26,
+        "quotes": 235,
+        "formatted": {
+          "likes": "83",
+          "replies": "245",
+          "reposts": "26",
+          "quotes": "235"
+        }
+      },
+      "sample_replies": [
+        "You’ll always live on in our memories 🥺",
+        "blink twice if you need help",
+        "The part in the zombie movie where the protagonist realizes their best friend has been bitten",
+        "dang"
+      ],
+      "metrics": {
+        "ratio_score": 6.86,
+        "confidence": 0.708,
+        "category": "Quote Dunk",
+        "post_age_minutes": 174.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:43.883751+00:00",
+      "last_updated": "2025-08-21T00:04:43.883751+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:43.883751+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
     },
     {
       "rank": 8,
@@ -525,62 +525,6 @@
     {
       "rank": 10,
       "user": {
-        "handle": "shojoscholar.bsky.social",
-        "display_name": "The Cloud Akatsuskeet🥷🏾✨",
-        "initials": "TC",
-        "did": "did:plc:q5xswyb56ec756hv2yg577cv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5xswyb56ec756hv2yg577cv/bafkreidfgeey32uownqmbt7vx4nd4w7ah6gwezfjlao2y5rdm5otf4hzh4@jpeg",
-        "profile_url": "https://bsky.app/profile/shojoscholar.bsky.social"
-      },
-      "ratio": "12:0",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What is it with niggas wanting to be suffocated? I will NAWT catch a homicide case cause you want me to slither over ya nostrils😭😭",
-        "uri": "at://did:plc:q5xswyb56ec756hv2yg577cv/app.bsky.feed.post/3lwvapw4pg22v",
-        "created_at": "2025-08-21T05:50:47.408Z",
-        "url": "https://bsky.app/profile/shojoscholar.bsky.social/post/3lwvapw4pg22v"
-      },
-      "engagement": {
-        "likes": 3,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 12,
-        "formatted": {
-          "likes": "3",
-          "replies": "2",
-          "reposts": "0",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [
-        "We got WAIVERS",
-        "I’ll have a prepared video statement clearing you of any and all possible charges 👨🏾‍⚖️ we...",
-        "Love to hear this🙂‍↕️",
-        "HARD HEADED😭"
-      ],
-      "metrics": {
-        "ratio_score": 11,
-        "confidence": 0.365,
-        "category": "Complete Ratio",
-        "post_age_minutes": 56.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.479085+00:00",
-      "last_updated": "2025-08-21T06:58:19.479085+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.479085+00:00"
-      ],
-      "peak_controversy": 1.9,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
-      "user": {
         "handle": "fatkiddeals.com",
         "display_name": "Fat Kid Deals",
         "initials": "FK",
@@ -635,7 +579,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "pattersona8.bsky.social",
         "display_name": "clit attack survivors ™️",
@@ -691,7 +635,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "amesorisu.bsky.social",
         "display_name": "Damir. 🧸",
@@ -746,7 +690,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user": {
         "handle": "rize4eva.bsky.social",
         "display_name": "Raphael Phaasiq",
@@ -755,7 +699,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:myiicuuddgocirxy7h6luz3y/bafkreig4wpt4sbv43t5bdwyy3xlzjc4s4r4roojitn3aiob7xhcdk7p5nq@jpeg",
         "profile_url": "https://bsky.app/profile/rize4eva.bsky.social"
       },
-      "ratio": "16:1",
+      "ratio": "17:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -769,12 +713,12 @@
         "likes": 3,
         "replies": 3,
         "reposts": 1,
-        "quotes": 16,
+        "quotes": 17,
         "formatted": {
           "likes": "3",
           "replies": "3",
           "reposts": "1",
-          "quotes": "16"
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -800,7 +744,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user": {
         "handle": "lagroovekagejo.bsky.social",
         "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
@@ -856,58 +800,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
-      "user": {
-        "handle": "steveincolorado.bsky.social",
-        "display_name": "Steve in Colorado 🐏🏔️⛷️",
-        "initials": "SI",
-        "did": "did:plc:sobyrizvmeqwqe5fl72uhzvn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobyrizvmeqwqe5fl72uhzvn/bafkreic2fewqvzvykb2nvg2qqcmp4nqyjy46vjbd47nosisi4rte6qydta@jpeg",
-        "profile_url": "https://bsky.app/profile/steveincolorado.bsky.social"
-      },
-      "ratio": "12:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "#SpotTheScammer\n\nEveryone REPORT, REPOST and block @talitinhareallife.bsky.social‬. Latest Talita Leonardo's injured cat scam. Over 90 suspended accounts on Bluesky. Cat is injured and needs surgery. PayPal and Ko-fi links to steal money follows. #cats #catsofbluesky",
-        "uri": "at://did:plc:sobyrizvmeqwqe5fl72uhzvn/app.bsky.feed.post/3lwv4hzdzss23",
-        "created_at": "2025-08-21T04:34:47.390Z",
-        "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
-      },
-      "engagement": {
-        "likes": 4,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 12,
-        "formatted": {
-          "likes": "4",
-          "replies": "3",
-          "reposts": "1",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [],
-      "metrics": {
-        "ratio_score": 12.0,
-        "confidence": 0.3750280958768571,
-        "category": "Complete Ratio",
-        "post_age_minutes": 0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.326615+00:00",
-      "last_updated": "2025-08-21T06:58:19.326615+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.326615+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "user": {
         "handle": "freshlogic.bsky.social",
         "display_name": "⚜️New Logic",
@@ -963,7 +856,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "user": {
         "handle": "cometkins.bsky.social",
         "display_name": "Ian Haramaki 🏳️‍⚧️✨ @ Nan Desu Kan",
@@ -1019,7 +912,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "user": {
         "handle": "wovenantelope.bsky.social",
         "display_name": "Antelope",
@@ -1071,6 +964,113 @@
         "2025-08-21T03:32:25.976063+00:00"
       ],
       "peak_controversy": 2.1,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
+      "user": {
+        "handle": "shojoscholar.bsky.social",
+        "display_name": "The Cloud Akatsuskeet🥷🏾✨",
+        "initials": "TC",
+        "did": "did:plc:q5xswyb56ec756hv2yg577cv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5xswyb56ec756hv2yg577cv/bafkreidfgeey32uownqmbt7vx4nd4w7ah6gwezfjlao2y5rdm5otf4hzh4@jpeg",
+        "profile_url": "https://bsky.app/profile/shojoscholar.bsky.social"
+      },
+      "ratio": "12:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What is it with niggas wanting to be suffocated? I will NAWT catch a homicide case cause you want me to slither over ya nostrils😭😭",
+        "uri": "at://did:plc:q5xswyb56ec756hv2yg577cv/app.bsky.feed.post/3lwvapw4pg22v",
+        "created_at": "2025-08-21T05:50:47.408Z",
+        "url": "https://bsky.app/profile/shojoscholar.bsky.social/post/3lwvapw4pg22v"
+      },
+      "engagement": {
+        "likes": 5,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 12,
+        "formatted": {
+          "likes": "5",
+          "replies": "2",
+          "reposts": "1",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "We got WAIVERS",
+        "I’ll have a prepared video statement clearing you of any and all possible charges 👨🏾‍⚖️ we...",
+        "Love to hear this🙂‍↕️",
+        "HARD HEADED😭"
+      ],
+      "metrics": {
+        "ratio_score": 11,
+        "confidence": 0.365,
+        "category": "Complete Ratio",
+        "post_age_minutes": 56.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.479085+00:00",
+      "last_updated": "2025-08-21T06:58:19.479085+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.479085+00:00"
+      ],
+      "peak_controversy": 1.9,
+      "trend": "new"
+    },
+    {
+      "rank": 19,
+      "user": {
+        "handle": "steveincolorado.bsky.social",
+        "display_name": "Steve in Colorado 🐏🏔️⛷️",
+        "initials": "SI",
+        "did": "did:plc:sobyrizvmeqwqe5fl72uhzvn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobyrizvmeqwqe5fl72uhzvn/bafkreic2fewqvzvykb2nvg2qqcmp4nqyjy46vjbd47nosisi4rte6qydta@jpeg",
+        "profile_url": "https://bsky.app/profile/steveincolorado.bsky.social"
+      },
+      "ratio": "6:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#SpotTheScammer\n\nEveryone REPORT, REPOST and block @talitinhareallife.bsky.social‬. Latest Talita Leonardo's injured cat scam. Over 90 suspended accounts on Bluesky. Cat is injured and needs surgery. PayPal and Ko-fi links to steal money follows. #cats #catsofbluesky",
+        "uri": "at://did:plc:sobyrizvmeqwqe5fl72uhzvn/app.bsky.feed.post/3lwv4hzdzss23",
+        "created_at": "2025-08-21T04:34:47.390Z",
+        "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
+      },
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 12,
+        "formatted": {
+          "likes": "5",
+          "replies": "3",
+          "reposts": "2",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [],
+      "metrics": {
+        "ratio_score": 12.0,
+        "confidence": 0.3750280958768571,
+        "category": "Complete Ratio",
+        "post_age_minutes": 0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.326615+00:00",
+      "last_updated": "2025-08-21T06:58:19.326615+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.326615+00:00"
+      ],
+      "peak_controversy": 2.2,
       "trend": "new"
     },
     {
@@ -2040,15 +2040,15 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 77,
+        "likes": 78,
         "replies": 20,
         "reposts": 11,
-        "quotes": 39,
+        "quotes": 40,
         "formatted": {
-          "likes": "77",
+          "likes": "78",
           "replies": "20",
           "reposts": "11",
-          "quotes": "39"
+          "quotes": "40"
         }
       },
       "sample_replies": [
@@ -2355,6 +2355,62 @@
     {
       "rank": 43,
       "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "4:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Alan Cumming says he didn’t know who he was acting with half the time when filming ‘Avengers: Doomsday’ \n\n“I did the entire film in isolation. Lots of green screen, face replacement. They even gave characters fake names. I don’t know who I was acting with half the time”\n\n(via Gold Derby)",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lwuuei27zk2y",
+        "created_at": "2025-08-21T02:09:38.638Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
+      },
+      "engagement": {
+        "likes": 397,
+        "replies": 32,
+        "reposts": 37,
+        "quotes": 141,
+        "formatted": {
+          "likes": "397",
+          "replies": "32",
+          "reposts": "37",
+          "quotes": "141"
+        }
+      },
+      "sample_replies": [
+        "that sounds horrible",
+        "between the movie being written on the fly and this, i feel like doomsday is gonna end up being an...",
+        "This is not how movies should be made",
+        "Can we agree this anti-leak, anti-spoiler secrecy is too damn much?"
+      ],
+      "metrics": {
+        "ratio_score": 2.89,
+        "confidence": 0.943,
+        "category": "Quote Dunk",
+        "post_age_minutes": 67.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.440725+00:00",
+      "last_updated": "2025-08-21T03:32:26.440725+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.440725+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 44,
+      "user": {
         "handle": "preshaprincess.bsky.social",
         "display_name": "❤️‍🔥",
         "initials": "❤️",
@@ -2410,7 +2466,7 @@
       "trend": "rising"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -2469,7 +2525,7 @@
       "trend": "rising"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "user": {
         "handle": "skullytrickybonez.bsky.social",
         "display_name": "💗Skully/Cotton💗",
@@ -2489,12 +2545,12 @@
         "url": "https://bsky.app/profile/skullytrickybonez.bsky.social/post/3lwuzyppa422y"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "replies": 3,
         "reposts": 0,
         "quotes": 6,
         "formatted": {
-          "likes": "15",
+          "likes": "16",
           "replies": "3",
           "reposts": "0",
           "quotes": "6"
@@ -2525,7 +2581,7 @@
       "trend": "new"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "user": {
         "handle": "bbfeedsfairy.bsky.social",
         "display_name": "BB27 Feeds Fairy",
@@ -2580,7 +2636,7 @@
       "trend": "new"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "user": {
         "handle": "shanegoldmacher.bsky.social",
         "display_name": "Shane Goldmacher",
@@ -2636,7 +2692,7 @@
       "trend": "new"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "user": {
         "handle": "scumbelievable.bsky.social",
         "display_name": "Gretchen Felker-Martin 🍉",
@@ -2656,13 +2712,13 @@
         "url": "https://bsky.app/profile/scumbelievable.bsky.social/post/3lwsnpltfpk2z"
       },
       "engagement": {
-        "likes": 88,
-        "replies": 5,
+        "likes": 89,
+        "replies": 6,
         "reposts": 1,
         "quotes": 20,
         "formatted": {
-          "likes": "88",
-          "replies": "5",
+          "likes": "89",
+          "replies": "6",
           "reposts": "1",
           "quotes": "20"
         }
@@ -2692,7 +2748,7 @@
       "trend": "new"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "user": {
         "handle": "tomandlorenzo.bsky.social",
         "display_name": "Tom & Lorenzo",
@@ -2748,7 +2804,7 @@
       "trend": "new"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "user": {
         "handle": "cooperlund.online",
         "display_name": "Cooper Lund",
@@ -2804,7 +2860,7 @@
       "trend": "new"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "user": {
         "handle": "drspookyer.bsky.social",
         "display_name": "N.J. Gallegos",
@@ -2856,62 +2912,6 @@
         "2025-08-21T03:32:26.583425+00:00"
       ],
       "peak_controversy": 1.4,
-      "trend": "new"
-    },
-    {
-      "rank": 52,
-      "user": {
-        "handle": "culturecrave.co",
-        "display_name": "Culture Crave 🍿",
-        "initials": "CC",
-        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
-        "profile_url": "https://bsky.app/profile/culturecrave.co"
-      },
-      "ratio": "4:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Alan Cumming says he didn’t know who he was acting with half the time when filming ‘Avengers: Doomsday’ \n\n“I did the entire film in isolation. Lots of green screen, face replacement. They even gave characters fake names. I don’t know who I was acting with half the time”\n\n(via Gold Derby)",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lwuuei27zk2y",
-        "created_at": "2025-08-21T02:09:38.638Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
-      },
-      "engagement": {
-        "likes": 393,
-        "replies": 32,
-        "reposts": 37,
-        "quotes": 138,
-        "formatted": {
-          "likes": "393",
-          "replies": "32",
-          "reposts": "37",
-          "quotes": "138"
-        }
-      },
-      "sample_replies": [
-        "that sounds horrible",
-        "between the movie being written on the fly and this, i feel like doomsday is gonna end up being an...",
-        "This is not how movies should be made",
-        "Can we agree this anti-leak, anti-spoiler secrecy is too damn much?"
-      ],
-      "metrics": {
-        "ratio_score": 2.89,
-        "confidence": 0.943,
-        "category": "Quote Dunk",
-        "post_age_minutes": 67.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:26.440725+00:00",
-      "last_updated": "2025-08-21T03:32:26.440725+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:26.440725+00:00"
-      ],
-      "peak_controversy": 1.3,
       "trend": "new"
     },
     {
