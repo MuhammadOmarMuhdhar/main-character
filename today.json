@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T06:58:20.340862+00:00",
-    "last_metrics_update": "2025-08-21T07:32:52.269824+00:00",
+    "last_metrics_update": "2025-08-21T07:47:32.634979+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 56,
@@ -412,62 +412,6 @@
     {
       "rank": 8,
       "user": {
-        "handle": "paulbrand.bsky.social",
-        "display_name": "Paul Brand",
-        "initials": "PB",
-        "did": "did:plc:p6xfxeazk33zdmexhrlso5b6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6xfxeazk33zdmexhrlso5b6/bafkreig6dmlll3utotsgdsmrtx6b6mnaxro2egqrw56zfrznno6wjvf2z4@jpeg",
-        "profile_url": "https://bsky.app/profile/paulbrand.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "NEW: The Conservatives have written to the Home Secretary asking her to rule out moving asylum seekers to housing needed by locals.\n\n…”that none of the illegal immigrants currently in the Bell Hotel will be moved into hotels, HMOs, apartments, or social housing which are needed for British people.”",
-        "uri": "at://did:plc:p6xfxeazk33zdmexhrlso5b6/app.bsky.feed.post/3lwtf72byys26",
-        "created_at": "2025-08-20T12:05:30.583Z",
-        "url": "https://bsky.app/profile/paulbrand.bsky.social/post/3lwtf72byys26"
-      },
-      "engagement": {
-        "likes": 14,
-        "replies": 43,
-        "reposts": 6,
-        "quotes": 23,
-        "formatted": {
-          "likes": "14",
-          "replies": "43",
-          "reposts": "6",
-          "quotes": "23"
-        }
-      },
-      "sample_replies": [
-        "Perhaps they should have built some housing when they were in power? Just a thought.",
-        "when did we turn into such a nation of c**ts?",
-        "God, they're just scum aren't they.",
-        "So, the architects of the backlog and the housing of asylum seeker in hotels, are now objecting to..."
-      ],
-      "metrics": {
-        "ratio_score": 5.0,
-        "confidence": 0.652,
-        "category": "Quote Dunk",
-        "post_age_minutes": 87.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.748495+00:00",
-      "last_updated": "2025-08-20T13:46:49.748495+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.748495+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
         "initials": "GI",
@@ -521,6 +465,62 @@
       ],
       "peak_controversy": 5.2,
       "trend": "rising"
+    },
+    {
+      "rank": 9,
+      "user": {
+        "handle": "paulbrand.bsky.social",
+        "display_name": "Paul Brand",
+        "initials": "PB",
+        "did": "did:plc:p6xfxeazk33zdmexhrlso5b6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6xfxeazk33zdmexhrlso5b6/bafkreig6dmlll3utotsgdsmrtx6b6mnaxro2egqrw56zfrznno6wjvf2z4@jpeg",
+        "profile_url": "https://bsky.app/profile/paulbrand.bsky.social"
+      },
+      "ratio": "4:1",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "NEW: The Conservatives have written to the Home Secretary asking her to rule out moving asylum seekers to housing needed by locals.\n\n…”that none of the illegal immigrants currently in the Bell Hotel will be moved into hotels, HMOs, apartments, or social housing which are needed for British people.”",
+        "uri": "at://did:plc:p6xfxeazk33zdmexhrlso5b6/app.bsky.feed.post/3lwtf72byys26",
+        "created_at": "2025-08-20T12:05:30.583Z",
+        "url": "https://bsky.app/profile/paulbrand.bsky.social/post/3lwtf72byys26"
+      },
+      "engagement": {
+        "likes": 14,
+        "replies": 43,
+        "reposts": 6,
+        "quotes": 22,
+        "formatted": {
+          "likes": "14",
+          "replies": "43",
+          "reposts": "6",
+          "quotes": "22"
+        }
+      },
+      "sample_replies": [
+        "Perhaps they should have built some housing when they were in power? Just a thought.",
+        "when did we turn into such a nation of c**ts?",
+        "God, they're just scum aren't they.",
+        "So, the architects of the backlog and the housing of asylum seeker in hotels, are now objecting to..."
+      ],
+      "metrics": {
+        "ratio_score": 5.0,
+        "confidence": 0.652,
+        "category": "Quote Dunk",
+        "post_age_minutes": 87.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.748495+00:00",
+      "last_updated": "2025-08-20T13:46:49.748495+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.748495+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
     },
     {
       "rank": 10,
@@ -581,62 +581,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "pattersona8.bsky.social",
-        "display_name": "clit attack survivors ™️",
-        "initials": "CA",
-        "did": "did:plc:62uhkymbkifca2bvbdho4qit",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62uhkymbkifca2bvbdho4qit/bafkreihddoyvvxnvbcaoooznusj5gr32xdv2jeeavlqts43w3uuvxtwkdi@jpeg",
-        "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
-      },
-      "ratio": "14:1",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "sooooo, we’ve all had a man bite our clit before😩😒",
-        "uri": "at://did:plc:62uhkymbkifca2bvbdho4qit/app.bsky.feed.post/3lwtnlhmmlk2t",
-        "created_at": "2025-08-20T14:35:37.151Z",
-        "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
-      },
-      "engagement": {
-        "likes": 44,
-        "replies": 24,
-        "reposts": 7,
-        "quotes": 100,
-        "formatted": {
-          "likes": "44",
-          "replies": "24",
-          "reposts": "7",
-          "quotes": "100"
-        }
-      },
-      "sample_replies": [
-        "Your name now?!?! 😭😭😭😭😭",
-        "Hellllllll no!!!!! I do not believe in hitting men but I would have slapped the shit out of him!...",
-        "I, too, am a survivor. He got instinctively kicked hard in the ribs and had to go to urgent care...",
-        "\"Off??\"\n\nShit! That is 99 Flavors of Fucked Up!\n🤣"
-      ],
-      "metrics": {
-        "ratio_score": 13.6,
-        "confidence": 0.643,
-        "category": "Complete Ratio",
-        "post_age_minutes": 132.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:29.873568+00:00",
-      "last_updated": "2025-08-20T17:05:29.873568+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:29.873568+00:00"
-      ],
-      "peak_controversy": 4.3,
-      "trend": "new"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "amesorisu.bsky.social",
         "display_name": "Damir. 🧸",
         "initials": "D🧸",
@@ -687,6 +631,62 @@
         "2025-08-20T13:46:49.387305+00:00"
       ],
       "peak_controversy": 3.3,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
+      "user": {
+        "handle": "pattersona8.bsky.social",
+        "display_name": "clit attack survivors ™️",
+        "initials": "CA",
+        "did": "did:plc:62uhkymbkifca2bvbdho4qit",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62uhkymbkifca2bvbdho4qit/bafkreihddoyvvxnvbcaoooznusj5gr32xdv2jeeavlqts43w3uuvxtwkdi@jpeg",
+        "profile_url": "https://bsky.app/profile/pattersona8.bsky.social"
+      },
+      "ratio": "14:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "sooooo, we’ve all had a man bite our clit before😩😒",
+        "uri": "at://did:plc:62uhkymbkifca2bvbdho4qit/app.bsky.feed.post/3lwtnlhmmlk2t",
+        "created_at": "2025-08-20T14:35:37.151Z",
+        "url": "https://bsky.app/profile/pattersona8.bsky.social/post/3lwtnlhmmlk2t"
+      },
+      "engagement": {
+        "likes": 45,
+        "replies": 24,
+        "reposts": 7,
+        "quotes": 100,
+        "formatted": {
+          "likes": "45",
+          "replies": "24",
+          "reposts": "7",
+          "quotes": "100"
+        }
+      },
+      "sample_replies": [
+        "Your name now?!?! 😭😭😭😭😭",
+        "Hellllllll no!!!!! I do not believe in hitting men but I would have slapped the shit out of him!...",
+        "I, too, am a survivor. He got instinctively kicked hard in the ribs and had to go to urgent care...",
+        "\"Off??\"\n\nShit! That is 99 Flavors of Fucked Up!\n🤣"
+      ],
+      "metrics": {
+        "ratio_score": 13.6,
+        "confidence": 0.643,
+        "category": "Complete Ratio",
+        "post_age_minutes": 132.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:29.873568+00:00",
+      "last_updated": "2025-08-20T17:05:29.873568+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:29.873568+00:00"
+      ],
+      "peak_controversy": 4.3,
       "trend": "new"
     },
     {
@@ -932,15 +932,15 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 61,
+        "likes": 62,
         "replies": 39,
         "reposts": 5,
-        "quotes": 98,
+        "quotes": 99,
         "formatted": {
-          "likes": "61",
+          "likes": "62",
           "replies": "39",
           "reposts": "5",
-          "quotes": "98"
+          "quotes": "99"
         }
       },
       "sample_replies": [
@@ -968,57 +968,6 @@
     },
     {
       "rank": 18,
-      "user": {
-        "handle": "steveincolorado.bsky.social",
-        "display_name": "Steve in Colorado 🐏🏔️⛷️",
-        "initials": "SI",
-        "did": "did:plc:sobyrizvmeqwqe5fl72uhzvn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobyrizvmeqwqe5fl72uhzvn/bafkreic2fewqvzvykb2nvg2qqcmp4nqyjy46vjbd47nosisi4rte6qydta@jpeg",
-        "profile_url": "https://bsky.app/profile/steveincolorado.bsky.social"
-      },
-      "ratio": "6:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "#SpotTheScammer\n\nEveryone REPORT, REPOST and block @talitinhareallife.bsky.social‬. Latest Talita Leonardo's injured cat scam. Over 90 suspended accounts on Bluesky. Cat is injured and needs surgery. PayPal and Ko-fi links to steal money follows. #cats #catsofbluesky",
-        "uri": "at://did:plc:sobyrizvmeqwqe5fl72uhzvn/app.bsky.feed.post/3lwv4hzdzss23",
-        "created_at": "2025-08-21T04:34:47.390Z",
-        "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
-      },
-      "engagement": {
-        "likes": 5,
-        "replies": 3,
-        "reposts": 2,
-        "quotes": 12,
-        "formatted": {
-          "likes": "5",
-          "replies": "3",
-          "reposts": "2",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [],
-      "metrics": {
-        "ratio_score": 12.0,
-        "confidence": 0.3750280958768571,
-        "category": "Complete Ratio",
-        "post_age_minutes": 0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.326615+00:00",
-      "last_updated": "2025-08-21T06:58:19.326615+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.326615+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 19,
       "user": {
         "handle": "erynmccee.bsky.social",
         "display_name": "Eryn McCee",
@@ -1071,7 +1020,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user": {
         "handle": "laportereporte.bsky.social",
         "display_name": "Chris Laporte",
@@ -1127,7 +1076,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "user": {
         "handle": "nymag.com",
         "display_name": "New York Magazine",
@@ -1183,7 +1132,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "user": {
         "handle": "gldnlvndrr.bsky.social",
         "display_name": "J💜",
@@ -1239,7 +1188,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "user": {
         "handle": "sebsb.bsky.social",
         "display_name": "Seb Stafford-Bloor",
@@ -1292,6 +1241,57 @@
         "2025-08-20T10:27:03.807233+00:00"
       ],
       "peak_controversy": 0.7,
+      "trend": "new"
+    },
+    {
+      "rank": 23,
+      "user": {
+        "handle": "steveincolorado.bsky.social",
+        "display_name": "Steve in Colorado 🐏🏔️⛷️",
+        "initials": "SI",
+        "did": "did:plc:sobyrizvmeqwqe5fl72uhzvn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobyrizvmeqwqe5fl72uhzvn/bafkreic2fewqvzvykb2nvg2qqcmp4nqyjy46vjbd47nosisi4rte6qydta@jpeg",
+        "profile_url": "https://bsky.app/profile/steveincolorado.bsky.social"
+      },
+      "ratio": "6:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#SpotTheScammer\n\nEveryone REPORT, REPOST and block @talitinhareallife.bsky.social‬. Latest Talita Leonardo's injured cat scam. Over 90 suspended accounts on Bluesky. Cat is injured and needs surgery. PayPal and Ko-fi links to steal money follows. #cats #catsofbluesky",
+        "uri": "at://did:plc:sobyrizvmeqwqe5fl72uhzvn/app.bsky.feed.post/3lwv4hzdzss23",
+        "created_at": "2025-08-21T04:34:47.390Z",
+        "url": "https://bsky.app/profile/steveincolorado.bsky.social/post/3lwv4hzdzss23"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 12,
+        "formatted": {
+          "likes": "6",
+          "replies": "3",
+          "reposts": "2",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [],
+      "metrics": {
+        "ratio_score": 12.0,
+        "confidence": 0.3750280958768571,
+        "category": "Complete Ratio",
+        "post_age_minutes": 0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.326615+00:00",
+      "last_updated": "2025-08-21T06:58:19.326615+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.326615+00:00"
+      ],
+      "peak_controversy": 2.2,
       "trend": "new"
     },
     {
@@ -1537,12 +1537,12 @@
         "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3lwucje3e5225"
       },
       "engagement": {
-        "likes": 31,
+        "likes": 32,
         "replies": 16,
         "reposts": 3,
         "quotes": 28,
         "formatted": {
-          "likes": "31",
+          "likes": "32",
           "replies": "16",
           "reposts": "3",
           "quotes": "28"
@@ -1917,7 +1917,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzsrpsyeeppu4jbadsab7wjp/bafkreia2xrz26vy2bosvuqm3rxtdu4gzpukttqhe4nhrjhnypj4cfqj7ze@jpeg",
         "profile_url": "https://bsky.app/profile/bugsmaytrix.bsky.social"
       },
-      "ratio": "25:1",
+      "ratio": "26:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1931,12 +1931,12 @@
         "likes": 56,
         "replies": 12,
         "reposts": 1,
-        "quotes": 25,
+        "quotes": 26,
         "formatted": {
           "likes": "56",
           "replies": "12",
           "reposts": "1",
-          "quotes": "25"
+          "quotes": "26"
         }
       },
       "sample_replies": [
@@ -2040,12 +2040,12 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 79,
+        "likes": 81,
         "replies": 20,
         "reposts": 11,
         "quotes": 40,
         "formatted": {
-          "likes": "79",
+          "likes": "81",
           "replies": "20",
           "reposts": "11",
           "quotes": "40"
@@ -2262,12 +2262,12 @@
       },
       "engagement": {
         "likes": 13,
-        "replies": 8,
+        "replies": 7,
         "reposts": 0,
         "quotes": 6,
         "formatted": {
           "likes": "13",
-          "replies": "8",
+          "replies": "7",
           "reposts": "0",
           "quotes": "6"
         }
@@ -2373,15 +2373,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 400,
+        "likes": 407,
         "replies": 32,
-        "reposts": 38,
-        "quotes": 144,
+        "reposts": 39,
+        "quotes": 146,
         "formatted": {
-          "likes": "400",
+          "likes": "407",
           "replies": "32",
-          "reposts": "38",
-          "quotes": "144"
+          "reposts": "39",
+          "quotes": "146"
         }
       },
       "sample_replies": [
@@ -2656,12 +2656,12 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 168,
+        "likes": 169,
         "replies": 76,
         "reposts": 62,
         "quotes": 108,
         "formatted": {
-          "likes": "168",
+          "likes": "169",
           "replies": "76",
           "reposts": "62",
           "quotes": "108"
@@ -2880,12 +2880,12 @@
         "url": "https://bsky.app/profile/drspookyer.bsky.social/post/3lwurcvyhnk2c"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 12,
         "replies": 3,
         "reposts": 0,
         "quotes": 5,
         "formatted": {
-          "likes": "11",
+          "likes": "12",
           "replies": "3",
           "reposts": "0",
           "quotes": "5"
@@ -2935,12 +2935,12 @@
         "url": "https://bsky.app/profile/veryghetto.posts.fyi/post/3lwupain7cc2y"
       },
       "engagement": {
-        "likes": 28,
+        "likes": 29,
         "replies": 5,
         "reposts": 2,
         "quotes": 19,
         "formatted": {
-          "likes": "28",
+          "likes": "29",
           "replies": "5",
           "reposts": "2",
           "quotes": "19"
