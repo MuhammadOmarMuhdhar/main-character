@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T20:20:45.546820+00:00",
-    "last_metrics_update": "2025-08-21T21:17:24.011263+00:00",
+    "last_metrics_update": "2025-08-21T21:32:51.745421+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -297,6 +297,62 @@
     {
       "rank": 6,
       "user": {
+        "handle": "jonathancohn.bsky.social",
+        "display_name": "Jonathan Cohn ",
+        "initials": "JC",
+        "did": "did:plc:6ma4ud7ovt2cpuj6bncaf6gw",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
+        "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
+      },
+      "ratio": "18:1",
+      "controversy": 1.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "In response to this, name the last book that you read that you would recommend. \n\nabcnews.go.com/Health/ameri...",
+        "uri": "at://did:plc:6ma4ud7ovt2cpuj6bncaf6gw/app.bsky.feed.post/3lwvvxwt2ik2i",
+        "created_at": "2025-08-21T12:11:05.153Z",
+        "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
+      },
+      "engagement": {
+        "likes": 144,
+        "replies": 227,
+        "reposts": 13,
+        "quotes": 231,
+        "formatted": {
+          "likes": "144",
+          "replies": "227",
+          "reposts": "13",
+          "quotes": "231"
+        }
+      },
+      "sample_replies": [
+        "Every time I see someone give the opportunity for me to do so, I push The Book Of The Unnamed...",
+        "The Nutmeg's Curse by Amitav Ghosh is extremely illuminating when it comes to the structure of...",
+        "Geraldine Brooks’s “Horse,” the book tells the stories of Jarret Lewis, an enslaved groom who cares...",
+        "Werner Herzog’s memoir “Every Man for Himself and God Against All” is terrific"
+      ],
+      "metrics": {
+        "ratio_score": 32.0,
+        "confidence": 0.766,
+        "category": "Complete Ratio",
+        "post_age_minutes": 66.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T13:30:52.661647+00:00",
+      "last_updated": "2025-08-21T13:30:52.661647+00:00",
+      "analysis_windows": [
+        "2025-08-21T13:30:52.661647+00:00"
+      ],
+      "peak_controversy": 7.4,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
         "handle": "appetizerwritez.bsky.social",
         "display_name": "Bunsz, #TheWriter",
         "initials": "B#",
@@ -304,8 +360,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
         "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
       },
-      "ratio": "39:0",
-      "controversy": 1.1,
+      "ratio": "41:0",
+      "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -315,15 +371,15 @@
         "url": "https://bsky.app/profile/appetizerwritez.bsky.social/post/3lwwgrtwj5k2c"
       },
       "engagement": {
-        "likes": 6,
+        "likes": 7,
         "replies": 3,
         "reposts": 0,
-        "quotes": 39,
+        "quotes": 41,
         "formatted": {
-          "likes": "6",
+          "likes": "7",
           "replies": "3",
           "reposts": "0",
-          "quotes": "39"
+          "quotes": "41"
         }
       },
       "sample_replies": [
@@ -351,7 +407,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user": {
         "handle": "patricklovellpresentsthecleannewdeal.com",
         "display_name": "Patrick Lovell The Producer  ",
@@ -407,62 +463,6 @@
       "trend": "new"
     },
     {
-      "rank": 8,
-      "user": {
-        "handle": "jonathancohn.bsky.social",
-        "display_name": "Jonathan Cohn ",
-        "initials": "JC",
-        "did": "did:plc:6ma4ud7ovt2cpuj6bncaf6gw",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
-        "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
-      },
-      "ratio": "17:1",
-      "controversy": 1.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "In response to this, name the last book that you read that you would recommend. \n\nabcnews.go.com/Health/ameri...",
-        "uri": "at://did:plc:6ma4ud7ovt2cpuj6bncaf6gw/app.bsky.feed.post/3lwvvxwt2ik2i",
-        "created_at": "2025-08-21T12:11:05.153Z",
-        "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
-      },
-      "engagement": {
-        "likes": 142,
-        "replies": 214,
-        "reposts": 13,
-        "quotes": 219,
-        "formatted": {
-          "likes": "142",
-          "replies": "214",
-          "reposts": "13",
-          "quotes": "219"
-        }
-      },
-      "sample_replies": [
-        "Every time I see someone give the opportunity for me to do so, I push The Book Of The Unnamed...",
-        "The Nutmeg's Curse by Amitav Ghosh is extremely illuminating when it comes to the structure of...",
-        "Geraldine Brooks’s “Horse,” the book tells the stories of Jarret Lewis, an enslaved groom who cares...",
-        "Werner Herzog’s memoir “Every Man for Himself and God Against All” is terrific"
-      ],
-      "metrics": {
-        "ratio_score": 32.0,
-        "confidence": 0.766,
-        "category": "Complete Ratio",
-        "post_age_minutes": 66.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T13:30:52.661647+00:00",
-      "last_updated": "2025-08-21T13:30:52.661647+00:00",
-      "analysis_windows": [
-        "2025-08-21T13:30:52.661647+00:00"
-      ],
-      "peak_controversy": 7.4,
-      "trend": "new"
-    },
-    {
       "rank": 9,
       "user": {
         "handle": "fatkiddeals.com",
@@ -483,15 +483,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 353,
+        "likes": 354,
         "replies": 151,
         "reposts": 41,
-        "quotes": 618,
+        "quotes": 620,
         "formatted": {
-          "likes": "353",
+          "likes": "354",
           "replies": "151",
           "reposts": "41",
-          "quotes": "618"
+          "quotes": "620"
         }
       },
       "sample_replies": [
@@ -593,15 +593,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 741,
-        "replies": 913,
-        "reposts": 139,
-        "quotes": 692,
+        "likes": 780,
+        "replies": 953,
+        "reposts": 146,
+        "quotes": 727,
         "formatted": {
-          "likes": "741",
-          "replies": "913",
-          "reposts": "139",
-          "quotes": "692"
+          "likes": "780",
+          "replies": "953",
+          "reposts": "146",
+          "quotes": "727"
         }
       },
       "sample_replies": [
@@ -652,12 +652,12 @@
         "likes": 86,
         "replies": 65,
         "reposts": 10,
-        "quotes": 120,
+        "quotes": 124,
         "formatted": {
           "likes": "86",
           "replies": "65",
           "reposts": "10",
-          "quotes": "120"
+          "quotes": "124"
         }
       },
       "sample_replies": [
@@ -694,7 +694,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
         "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
       },
-      "ratio": "21:1",
+      "ratio": "18:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -705,15 +705,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
       },
       "engagement": {
-        "likes": 55,
-        "replies": 41,
-        "reposts": 4,
-        "quotes": 83,
+        "likes": 60,
+        "replies": 42,
+        "reposts": 5,
+        "quotes": 88,
         "formatted": {
-          "likes": "55",
-          "replies": "41",
-          "reposts": "4",
-          "quotes": "83"
+          "likes": "60",
+          "replies": "42",
+          "reposts": "5",
+          "quotes": "88"
         }
       },
       "sample_replies": [
@@ -817,15 +817,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 443,
-        "replies": 280,
+        "likes": 451,
+        "replies": 286,
         "reposts": 93,
-        "quotes": 678,
+        "quotes": 682,
         "formatted": {
-          "likes": "443",
-          "replies": "280",
+          "likes": "451",
+          "replies": "286",
           "reposts": "93",
-          "quotes": "678"
+          "quotes": "682"
         }
       },
       "sample_replies": [
@@ -863,7 +863,7 @@
         "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
       },
       "ratio": "19:1",
-      "controversy": 0.6,
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -873,12 +873,12 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 67,
+        "likes": 68,
         "replies": 45,
         "reposts": 6,
         "quotes": 113,
         "formatted": {
-          "likes": "67",
+          "likes": "68",
           "replies": "45",
           "reposts": "6",
           "quotes": "113"
@@ -1029,7 +1029,7 @@
         "profile_url": "https://bsky.app/profile/migueldelaney.bsky.social"
       },
       "ratio": "18:0",
-      "controversy": 0.4,
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1040,12 +1040,12 @@
       },
       "engagement": {
         "likes": 20,
-        "replies": 18,
+        "replies": 19,
         "reposts": 0,
         "quotes": 18,
         "formatted": {
           "likes": "20",
-          "replies": "18",
+          "replies": "19",
           "reposts": "0",
           "quotes": "18"
         }
@@ -1137,7 +1137,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "48:1",
+      "ratio": "49:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1151,12 +1151,12 @@
         "likes": 101,
         "replies": 4,
         "reposts": 3,
-        "quotes": 143,
+        "quotes": 148,
         "formatted": {
           "likes": "101",
           "replies": "4",
           "reposts": "3",
-          "quotes": "143"
+          "quotes": "148"
         }
       },
       "sample_replies": [
@@ -1191,7 +1191,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3uegoq5262fhatqzgan4gcvl/bafkreibsxmg75ns7xqywwjdiwwkdfldieob4dtbcyezuap2yjk53zijv2u@jpeg",
         "profile_url": "https://bsky.app/profile/dailyocs.bsky.social"
       },
-      "ratio": "12:1",
+      "ratio": "13:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1202,15 +1202,15 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 107,
-        "replies": 10,
+        "likes": 109,
+        "replies": 11,
         "reposts": 9,
-        "quotes": 112,
+        "quotes": 114,
         "formatted": {
-          "likes": "107",
-          "replies": "10",
+          "likes": "109",
+          "replies": "11",
           "reposts": "9",
-          "quotes": "112"
+          "quotes": "114"
         }
       },
       "sample_replies": [
@@ -1370,15 +1370,15 @@
         "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
       },
       "engagement": {
-        "likes": 110,
+        "likes": 112,
         "replies": 17,
         "reposts": 14,
-        "quotes": 103,
+        "quotes": 104,
         "formatted": {
-          "likes": "110",
+          "likes": "112",
           "replies": "17",
           "reposts": "14",
-          "quotes": "103"
+          "quotes": "104"
         }
       },
       "sample_replies": [
@@ -1816,14 +1816,14 @@
       },
       "engagement": {
         "likes": 32,
-        "replies": 25,
+        "replies": 26,
         "reposts": 13,
-        "quotes": 31,
+        "quotes": 32,
         "formatted": {
           "likes": "32",
-          "replies": "25",
+          "replies": "26",
           "reposts": "13",
-          "quotes": "31"
+          "quotes": "32"
         }
       },
       "sample_replies": [
@@ -2257,15 +2257,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 652,
+        "likes": 657,
         "replies": 64,
         "reposts": 58,
-        "quotes": 303,
+        "quotes": 304,
         "formatted": {
-          "likes": "652",
+          "likes": "657",
           "replies": "64",
           "reposts": "58",
-          "quotes": "303"
+          "quotes": "304"
         }
       },
       "sample_replies": [
@@ -2369,12 +2369,12 @@
         "url": "https://bsky.app/profile/saulstaniforth.bsky.social/post/3lwvexykwlk2b"
       },
       "engagement": {
-        "likes": 64,
+        "likes": 65,
         "replies": 28,
         "reposts": 29,
         "quotes": 36,
         "formatted": {
-          "likes": "64",
+          "likes": "65",
           "replies": "28",
           "reposts": "29",
           "quotes": "36"
@@ -2652,12 +2652,12 @@
         "likes": 132,
         "replies": 26,
         "reposts": 18,
-        "quotes": 62,
+        "quotes": 61,
         "formatted": {
           "likes": "132",
           "replies": "26",
           "reposts": "18",
-          "quotes": "62"
+          "quotes": "61"
         }
       },
       "sample_replies": [
