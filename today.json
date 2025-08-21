@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T00:04:44.416673+00:00",
-    "last_metrics_update": "2025-08-21T02:17:31.815730+00:00",
+    "last_metrics_update": "2025-08-21T02:32:35.398062+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 41,
@@ -80,7 +80,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fg5ks6bevpbwkha6o3s2y27h/bafkreidl4ioeiqrgqlnr6wza2mmmqclxx2abq46nuq53jedukxy2ecvk6i@jpeg",
         "profile_url": "https://bsky.app/profile/alexkirshner.com"
       },
-      "ratio": "119:0",
+      "ratio": "120:0",
       "controversy": 1.6,
       "change": "NEW",
       "change_type": "new",
@@ -94,12 +94,12 @@
         "likes": 52,
         "replies": 100,
         "reposts": 0,
-        "quotes": 119,
+        "quotes": 120,
         "formatted": {
           "likes": "52",
           "replies": "100",
           "reposts": "0",
-          "quotes": "119"
+          "quotes": "120"
         }
       },
       "sample_replies": [
@@ -136,8 +136,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mgpgucrkanpyz4iubcaww354/bafkreidsfafka2t2hw6ldyizhsmchigudkhrehvnhangpcxzxw6uhozsle@jpeg",
         "profile_url": "https://bsky.app/profile/hanginwitcoop.blacksky.app"
       },
-      "ratio": "44:0",
-      "controversy": 1.5,
+      "ratio": "48:0",
+      "controversy": 1.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -150,12 +150,12 @@
         "likes": 5,
         "replies": 4,
         "reposts": 0,
-        "quotes": 44,
+        "quotes": 48,
         "formatted": {
           "likes": "5",
           "replies": "4",
           "reposts": "0",
-          "quotes": "44"
+          "quotes": "48"
         }
       },
       "sample_replies": [
@@ -260,13 +260,13 @@
         "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
       },
       "engagement": {
-        "likes": 67,
-        "replies": 206,
+        "likes": 69,
+        "replies": 207,
         "reposts": 22,
         "quotes": 204,
         "formatted": {
-          "likes": "67",
-          "replies": "206",
+          "likes": "69",
+          "replies": "207",
           "reposts": "22",
           "quotes": "204"
         }
@@ -485,15 +485,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 296,
-        "replies": 129,
+        "likes": 298,
+        "replies": 131,
         "reposts": 36,
-        "quotes": 529,
+        "quotes": 532,
         "formatted": {
-          "likes": "296",
-          "replies": "129",
+          "likes": "298",
+          "replies": "131",
           "reposts": "36",
-          "quotes": "529"
+          "quotes": "532"
         }
       },
       "sample_replies": [
@@ -656,12 +656,12 @@
         "likes": 71,
         "replies": 16,
         "reposts": 7,
-        "quotes": 110,
+        "quotes": 111,
         "formatted": {
           "likes": "71",
           "replies": "16",
           "reposts": "7",
-          "quotes": "110"
+          "quotes": "111"
         }
       },
       "sample_replies": [
@@ -803,6 +803,59 @@
     {
       "rank": 15,
       "user": {
+        "handle": "erynmccee.bsky.social",
+        "display_name": "Eryn McCee",
+        "initials": "EM",
+        "did": "did:plc:ymc5jbmqtr3z6yzlliq7ihi5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ymc5jbmqtr3z6yzlliq7ihi5/bafkreifjjitun5tcpyu7xbymvnotvwd6ns2gsk4fet5a4ajfbnevjuczfu@jpeg",
+        "profile_url": "https://bsky.app/profile/erynmccee.bsky.social"
+      },
+      "ratio": "21:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Alright here we go! Where are you from, and what do you write, #horrorwriterschat people???",
+        "uri": "at://did:plc:ymc5jbmqtr3z6yzlliq7ihi5/app.bsky.feed.post/3lwtzftxd5s2m",
+        "created_at": "2025-08-20T18:07:13.641Z",
+        "url": "https://bsky.app/profile/erynmccee.bsky.social/post/3lwtzftxd5s2m"
+      },
+      "engagement": {
+        "likes": 57,
+        "replies": 2,
+        "reposts": 4,
+        "quotes": 85,
+        "formatted": {
+          "likes": "57",
+          "replies": "2",
+          "reposts": "4",
+          "quotes": "85"
+        }
+      },
+      "sample_replies": [
+        "Floridian here. My fiction combines the Gothic and the grotesque with elements of steampunk, Greek..."
+      ],
+      "metrics": {
+        "ratio_score": 17.5,
+        "confidence": 0.663,
+        "category": "Complete Ratio",
+        "post_age_minutes": 130.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T20:35:09.779661+00:00",
+      "last_updated": "2025-08-20T20:35:09.779661+00:00",
+      "analysis_windows": [
+        "2025-08-20T20:35:09.779661+00:00"
+      ],
+      "peak_controversy": 6.2,
+      "trend": "new"
+    },
+    {
+      "rank": 16,
+      "user": {
         "handle": "gldnlvndrr.bsky.social",
         "display_name": "J💜",
         "initials": "J💜",
@@ -824,12 +877,12 @@
         "likes": 91,
         "replies": 28,
         "reposts": 24,
-        "quotes": 87,
+        "quotes": 86,
         "formatted": {
           "likes": "91",
           "replies": "28",
           "reposts": "24",
-          "quotes": "87"
+          "quotes": "86"
         }
       },
       "sample_replies": [
@@ -854,59 +907,6 @@
         "2025-08-21T00:04:44.019948+00:00"
       ],
       "peak_controversy": 2.4,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
-      "user": {
-        "handle": "erynmccee.bsky.social",
-        "display_name": "Eryn McCee",
-        "initials": "EM",
-        "did": "did:plc:ymc5jbmqtr3z6yzlliq7ihi5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ymc5jbmqtr3z6yzlliq7ihi5/bafkreifjjitun5tcpyu7xbymvnotvwd6ns2gsk4fet5a4ajfbnevjuczfu@jpeg",
-        "profile_url": "https://bsky.app/profile/erynmccee.bsky.social"
-      },
-      "ratio": "21:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Alright here we go! Where are you from, and what do you write, #horrorwriterschat people???",
-        "uri": "at://did:plc:ymc5jbmqtr3z6yzlliq7ihi5/app.bsky.feed.post/3lwtzftxd5s2m",
-        "created_at": "2025-08-20T18:07:13.641Z",
-        "url": "https://bsky.app/profile/erynmccee.bsky.social/post/3lwtzftxd5s2m"
-      },
-      "engagement": {
-        "likes": 57,
-        "replies": 2,
-        "reposts": 4,
-        "quotes": 84,
-        "formatted": {
-          "likes": "57",
-          "replies": "2",
-          "reposts": "4",
-          "quotes": "84"
-        }
-      },
-      "sample_replies": [
-        "Floridian here. My fiction combines the Gothic and the grotesque with elements of steampunk, Greek..."
-      ],
-      "metrics": {
-        "ratio_score": 17.5,
-        "confidence": 0.663,
-        "category": "Complete Ratio",
-        "post_age_minutes": 130.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T20:35:09.779661+00:00",
-      "last_updated": "2025-08-20T20:35:09.779661+00:00",
-      "analysis_windows": [
-        "2025-08-20T20:35:09.779661+00:00"
-      ],
-      "peak_controversy": 6.2,
       "trend": "new"
     },
     {
@@ -1358,6 +1358,62 @@
     {
       "rank": 25,
       "user": {
+        "handle": "bengoessling.bsky.social",
+        "display_name": "Ben Goessling",
+        "initials": "BG",
+        "did": "did:plc:kpja25hrau36cr7xvttgbk2x",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpja25hrau36cr7xvttgbk2x/bafkreiacqmwzyss2ovyiftebcqtzyg3a4tl3l6sgee3eeaefawj77ocvai@jpeg",
+        "profile_url": "https://bsky.app/profile/bengoessling.bsky.social"
+      },
+      "ratio": "9:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The #Vikings are trading defensive tackle Harrison Phillips to the Jets, along with a 2027 seventh-round pick. The Vikings will get a 2026 6th-rounder (originally from Denver), and a 2027 6th.",
+        "uri": "at://did:plc:kpja25hrau36cr7xvttgbk2x/app.bsky.feed.post/3lwujadbjxz2h",
+        "created_at": "2025-08-20T22:50:28.083Z",
+        "url": "https://bsky.app/profile/bengoessling.bsky.social/post/3lwujadbjxz2h"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 14,
+        "reposts": 1,
+        "quotes": 9,
+        "formatted": {
+          "likes": "20",
+          "replies": "14",
+          "reposts": "1",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "I feel so bad for Harrison, a super great guy and for the the community and as a part of the...",
+        "Early story on the trade: www.startribune.com/minnesota-vi...",
+        "More cap room for a WR maybe",
+        "oh wow they REALLY love Redmond and LDR don’t they"
+      ],
+      "metrics": {
+        "ratio_score": 18,
+        "confidence": 0.476,
+        "category": "Complete Ratio",
+        "post_age_minutes": 57.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:43.612243+00:00",
+      "last_updated": "2025-08-21T00:04:43.612243+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:43.612243+00:00"
+      ],
+      "peak_controversy": 4.2,
+      "trend": "new"
+    },
+    {
+      "rank": 26,
+      "user": {
         "handle": "timbritton.bsky.social",
         "display_name": "Tim Britton (he/him)",
         "initials": "TB",
@@ -1408,62 +1464,6 @@
         "2025-08-21T00:04:44.416516+00:00"
       ],
       "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 26,
-      "user": {
-        "handle": "bengoessling.bsky.social",
-        "display_name": "Ben Goessling",
-        "initials": "BG",
-        "did": "did:plc:kpja25hrau36cr7xvttgbk2x",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpja25hrau36cr7xvttgbk2x/bafkreiacqmwzyss2ovyiftebcqtzyg3a4tl3l6sgee3eeaefawj77ocvai@jpeg",
-        "profile_url": "https://bsky.app/profile/bengoessling.bsky.social"
-      },
-      "ratio": "9:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The #Vikings are trading defensive tackle Harrison Phillips to the Jets, along with a 2027 seventh-round pick. The Vikings will get a 2026 6th-rounder (originally from Denver), and a 2027 6th.",
-        "uri": "at://did:plc:kpja25hrau36cr7xvttgbk2x/app.bsky.feed.post/3lwujadbjxz2h",
-        "created_at": "2025-08-20T22:50:28.083Z",
-        "url": "https://bsky.app/profile/bengoessling.bsky.social/post/3lwujadbjxz2h"
-      },
-      "engagement": {
-        "likes": 20,
-        "replies": 13,
-        "reposts": 1,
-        "quotes": 9,
-        "formatted": {
-          "likes": "20",
-          "replies": "13",
-          "reposts": "1",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "I feel so bad for Harrison, a super great guy and for the the community and as a part of the...",
-        "Early story on the trade: www.startribune.com/minnesota-vi...",
-        "More cap room for a WR maybe",
-        "oh wow they REALLY love Redmond and LDR don’t they"
-      ],
-      "metrics": {
-        "ratio_score": 18,
-        "confidence": 0.476,
-        "category": "Complete Ratio",
-        "post_age_minutes": 57.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:43.612243+00:00",
-      "last_updated": "2025-08-21T00:04:43.612243+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:43.612243+00:00"
-      ],
-      "peak_controversy": 4.2,
       "trend": "new"
     },
     {
@@ -1765,15 +1765,15 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 143,
-        "replies": 65,
-        "reposts": 50,
-        "quotes": 101,
+        "likes": 145,
+        "replies": 68,
+        "reposts": 51,
+        "quotes": 102,
         "formatted": {
-          "likes": "143",
-          "replies": "65",
-          "reposts": "50",
-          "quotes": "101"
+          "likes": "145",
+          "replies": "68",
+          "reposts": "51",
+          "quotes": "102"
         }
       },
       "sample_replies": [
@@ -2049,14 +2049,14 @@
       },
       "engagement": {
         "likes": 93,
-        "replies": 22,
-        "reposts": 9,
-        "quotes": 32,
+        "replies": 24,
+        "reposts": 10,
+        "quotes": 35,
         "formatted": {
           "likes": "93",
-          "replies": "22",
-          "reposts": "9",
-          "quotes": "32"
+          "replies": "24",
+          "reposts": "10",
+          "quotes": "35"
         }
       },
       "sample_replies": [
