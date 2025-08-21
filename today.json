@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T20:20:45.546820+00:00",
-    "last_metrics_update": "2025-08-21T23:02:52.079759+00:00",
+    "last_metrics_update": "2025-08-21T23:17:23.829832+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 154,
-        "replies": 250,
+        "likes": 155,
+        "replies": 253,
         "reposts": 17,
-        "quotes": 247,
+        "quotes": 248,
         "formatted": {
-          "likes": "154",
-          "replies": "250",
+          "likes": "155",
+          "replies": "253",
           "reposts": "17",
-          "quotes": "247"
+          "quotes": "248"
         }
       },
       "sample_replies": [
@@ -360,7 +360,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
         "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
       },
-      "ratio": "62:1",
+      "ratio": "64:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -374,12 +374,12 @@
         "likes": 9,
         "replies": 4,
         "reposts": 1,
-        "quotes": 62,
+        "quotes": 64,
         "formatted": {
           "likes": "9",
           "replies": "4",
           "reposts": "1",
-          "quotes": "62"
+          "quotes": "64"
         }
       },
       "sample_replies": [
@@ -416,7 +416,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "15:1",
+      "ratio": "16:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -430,12 +430,12 @@
         "likes": 355,
         "replies": 151,
         "reposts": 41,
-        "quotes": 635,
+        "quotes": 636,
         "formatted": {
           "likes": "355",
           "replies": "151",
           "reposts": "41",
-          "quotes": "635"
+          "quotes": "636"
         }
       },
       "sample_replies": [
@@ -526,7 +526,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
         "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
       },
-      "ratio": "21:1",
+      "ratio": "18:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -537,15 +537,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
       },
       "engagement": {
-        "likes": 66,
-        "replies": 53,
-        "reposts": 5,
-        "quotes": 107,
+        "likes": 68,
+        "replies": 54,
+        "reposts": 6,
+        "quotes": 109,
         "formatted": {
-          "likes": "66",
-          "replies": "53",
-          "reposts": "5",
-          "quotes": "107"
+          "likes": "68",
+          "replies": "54",
+          "reposts": "6",
+          "quotes": "109"
         }
       },
       "sample_replies": [
@@ -575,62 +575,6 @@
     },
     {
       "rank": 11,
-      "user": {
-        "handle": "theigbobear.blacksky.app",
-        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
-        "initials": "TC",
-        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
-        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
-      },
-      "ratio": "29:0",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Niggas wearing night gowns now?",
-        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
-        "created_at": "2025-08-21T18:20:48.773Z",
-        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 29,
-        "formatted": {
-          "likes": "7",
-          "replies": "2",
-          "reposts": "0",
-          "quotes": "29"
-        }
-      },
-      "sample_replies": [
-        "😭 $82 for that is robbery",
-        "😂😂",
-        "Smh",
-        "They always be taxing the men when it comes to clothes"
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.314,
-        "category": "Complete Ratio",
-        "post_age_minutes": 101.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.307287+00:00",
-      "last_updated": "2025-08-21T20:20:45.307287+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.307287+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 12,
       "user": {
         "handle": "patricklovellpresentsthecleannewdeal.com",
         "display_name": "Patrick Lovell The Producer  ",
@@ -686,63 +630,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
-      "user": {
-        "handle": "atrupar.com",
-        "display_name": "Aaron Rupar",
-        "initials": "AR",
-        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
-        "profile_url": "https://bsky.app/profile/atrupar.com"
-      },
-      "ratio": "5:1",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "JD Vance on homelessness: \"I don't know why we accepted that it was reasonable to have crazy people yelling at our kids. You should not have to cross the street in downtown Atlanta to avoid a crazy person yelling at your family. Those are your streets.\"",
-        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lwwlqjasv226",
-        "created_at": "2025-08-21T18:40:38.365Z",
-        "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
-      },
-      "engagement": {
-        "likes": 967,
-        "replies": 1178,
-        "reposts": 185,
-        "quotes": 864,
-        "formatted": {
-          "likes": "967",
-          "replies": "1.2K",
-          "reposts": "185",
-          "quotes": "864"
-        }
-      },
-      "sample_replies": [
-        "Then maybe republicans shouldn’t have closed all the mental institutions in the 80s?",
-        "JD Vance is uniquely unlikeable across the political spectrum.",
-        "Exactly. Many unhoused people are not mentally ill; many work and are invisible to people like JD....",
-        "And, it's cheaper to give them housing and support services, but no, the evangelical so-called..."
-      ],
-      "metrics": {
-        "ratio_score": 4.22,
-        "confidence": 0.922,
-        "category": "Quote Dunk",
-        "post_age_minutes": 82.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.546588+00:00",
-      "last_updated": "2025-08-21T20:20:45.546588+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.546588+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "user": {
         "handle": "deerene.bsky.social",
         "display_name": "Gay & Tonic",
@@ -762,15 +650,15 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 91,
+        "likes": 92,
         "replies": 68,
         "reposts": 10,
-        "quotes": 127,
+        "quotes": 129,
         "formatted": {
-          "likes": "91",
+          "likes": "92",
           "replies": "68",
           "reposts": "10",
-          "quotes": "127"
+          "quotes": "129"
         }
       },
       "sample_replies": [
@@ -795,6 +683,118 @@
         "2025-08-21T16:50:30.992520+00:00"
       ],
       "peak_controversy": 6.6,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "theigbobear.blacksky.app",
+        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
+        "initials": "TC",
+        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
+        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
+      },
+      "ratio": "28:0",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Niggas wearing night gowns now?",
+        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
+        "created_at": "2025-08-21T18:20:48.773Z",
+        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 28,
+        "formatted": {
+          "likes": "7",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "28"
+        }
+      },
+      "sample_replies": [
+        "😭 $82 for that is robbery",
+        "😂😂",
+        "Smh",
+        "They always be taxing the men when it comes to clothes"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.314,
+        "category": "Complete Ratio",
+        "post_age_minutes": 101.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.307287+00:00",
+      "last_updated": "2025-08-21T20:20:45.307287+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.307287+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
+      "user": {
+        "handle": "atrupar.com",
+        "display_name": "Aaron Rupar",
+        "initials": "AR",
+        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
+        "profile_url": "https://bsky.app/profile/atrupar.com"
+      },
+      "ratio": "5:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "JD Vance on homelessness: \"I don't know why we accepted that it was reasonable to have crazy people yelling at our kids. You should not have to cross the street in downtown Atlanta to avoid a crazy person yelling at your family. Those are your streets.\"",
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lwwlqjasv226",
+        "created_at": "2025-08-21T18:40:38.365Z",
+        "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
+      },
+      "engagement": {
+        "likes": 985,
+        "replies": 1190,
+        "reposts": 191,
+        "quotes": 874,
+        "formatted": {
+          "likes": "985",
+          "replies": "1.2K",
+          "reposts": "191",
+          "quotes": "874"
+        }
+      },
+      "sample_replies": [
+        "Then maybe republicans shouldn’t have closed all the mental institutions in the 80s?",
+        "JD Vance is uniquely unlikeable across the political spectrum.",
+        "Exactly. Many unhoused people are not mentally ill; many work and are invisible to people like JD....",
+        "And, it's cheaper to give them housing and support services, but no, the evangelical so-called..."
+      ],
+      "metrics": {
+        "ratio_score": 4.22,
+        "confidence": 0.922,
+        "category": "Quote Dunk",
+        "post_age_minutes": 82.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.546588+00:00",
+      "last_updated": "2025-08-21T20:20:45.546588+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.546588+00:00"
+      ],
+      "peak_controversy": 1.8,
       "trend": "new"
     },
     {
@@ -874,14 +874,14 @@
       },
       "engagement": {
         "likes": 476,
-        "replies": 299,
+        "replies": 300,
         "reposts": 99,
-        "quotes": 708,
+        "quotes": 711,
         "formatted": {
           "likes": "476",
-          "replies": "299",
+          "replies": "300",
           "reposts": "99",
-          "quotes": "708"
+          "quotes": "711"
         }
       },
       "sample_replies": [
@@ -929,13 +929,13 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 74,
-        "replies": 49,
+        "likes": 77,
+        "replies": 51,
         "reposts": 7,
         "quotes": 113,
         "formatted": {
-          "likes": "74",
-          "replies": "49",
+          "likes": "77",
+          "replies": "51",
           "reposts": "7",
           "quotes": "113"
         }
@@ -973,7 +973,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
         "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
       },
-      "ratio": "5:1",
+      "ratio": "4:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -984,15 +984,15 @@
         "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
       },
       "engagement": {
-        "likes": 21,
+        "likes": 23,
         "replies": 6,
-        "reposts": 12,
-        "quotes": 56,
+        "reposts": 13,
+        "quotes": 57,
         "formatted": {
-          "likes": "21",
+          "likes": "23",
           "replies": "6",
-          "reposts": "12",
-          "quotes": "56"
+          "reposts": "13",
+          "quotes": "57"
         }
       },
       "sample_replies": [
@@ -1202,12 +1202,12 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 121,
+        "likes": 122,
         "replies": 13,
         "reposts": 9,
         "quotes": 129,
         "formatted": {
-          "likes": "121",
+          "likes": "122",
           "replies": "13",
           "reposts": "9",
           "quotes": "129"
@@ -2482,12 +2482,12 @@
       },
       "engagement": {
         "likes": 79,
-        "replies": 11,
+        "replies": 12,
         "reposts": 2,
         "quotes": 17,
         "formatted": {
           "likes": "79",
-          "replies": "11",
+          "replies": "12",
           "reposts": "2",
           "quotes": "17"
         }
