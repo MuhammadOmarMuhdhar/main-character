@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T20:20:45.546820+00:00",
-    "last_metrics_update": "2025-08-21T22:17:24.486956+00:00",
+    "last_metrics_update": "2025-08-21T22:32:39.973357+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -241,6 +241,62 @@
     {
       "rank": 5,
       "user": {
+        "handle": "appetizerwritez.bsky.social",
+        "display_name": "Bunsz, #TheWriter",
+        "initials": "B#",
+        "did": "did:plc:4zghywgmcs7dsyg2ubw62yr6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
+        "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
+      },
+      "ratio": "62:0",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Time for a lil bitta #QuestionSky !\n\n1. How many books do you own ?",
+        "uri": "at://did:plc:4zghywgmcs7dsyg2ubw62yr6/app.bsky.feed.post/3lwwgrtwj5k2c",
+        "created_at": "2025-08-21T17:11:54.403Z",
+        "url": "https://bsky.app/profile/appetizerwritez.bsky.social/post/3lwwgrtwj5k2c"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 62,
+        "formatted": {
+          "likes": "8",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "62"
+        }
+      },
+      "sample_replies": [
+        "5. Spell 'I CUP' out loud... how did that make you feel ?",
+        "6. Upload a video of you saying \"Irish Wristwatch\" 5 times fast",
+        "8. Do you kill bugs that are outside ?",
+        "2. What city has your favorite Downtown area ?"
+      ],
+      "metrics": {
+        "ratio_score": 25.0,
+        "confidence": 0.317,
+        "category": "Complete Ratio",
+        "post_age_minutes": 170.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:44.952971+00:00",
+      "last_updated": "2025-08-21T20:20:44.952971+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:44.952971+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
+    },
+    {
+      "rank": 6,
+      "user": {
         "handle": "cpsc.gov",
         "display_name": "U.S. Consumer Product Safety Commission",
         "initials": "UC",
@@ -295,7 +351,7 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user": {
         "handle": "jonathancohn.bsky.social",
         "display_name": "Jonathan Cohn ",
@@ -304,7 +360,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "18:1",
+      "ratio": "16:1",
       "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
@@ -315,14 +371,14 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 149,
-        "replies": 240,
-        "reposts": 14,
+        "likes": 152,
+        "replies": 245,
+        "reposts": 15,
         "quotes": 245,
         "formatted": {
-          "likes": "149",
-          "replies": "240",
-          "reposts": "14",
+          "likes": "152",
+          "replies": "245",
+          "reposts": "15",
           "quotes": "245"
         }
       },
@@ -351,62 +407,6 @@
       "trend": "new"
     },
     {
-      "rank": 7,
-      "user": {
-        "handle": "appetizerwritez.bsky.social",
-        "display_name": "Bunsz, #TheWriter",
-        "initials": "B#",
-        "did": "did:plc:4zghywgmcs7dsyg2ubw62yr6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
-        "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
-      },
-      "ratio": "54:0",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Time for a lil bitta #QuestionSky !\n\n1. How many books do you own ?",
-        "uri": "at://did:plc:4zghywgmcs7dsyg2ubw62yr6/app.bsky.feed.post/3lwwgrtwj5k2c",
-        "created_at": "2025-08-21T17:11:54.403Z",
-        "url": "https://bsky.app/profile/appetizerwritez.bsky.social/post/3lwwgrtwj5k2c"
-      },
-      "engagement": {
-        "likes": 8,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 54,
-        "formatted": {
-          "likes": "8",
-          "replies": "4",
-          "reposts": "0",
-          "quotes": "54"
-        }
-      },
-      "sample_replies": [
-        "5. Spell 'I CUP' out loud... how did that make you feel ?",
-        "6. Upload a video of you saying \"Irish Wristwatch\" 5 times fast",
-        "8. Do you kill bugs that are outside ?",
-        "2. What city has your favorite Downtown area ?"
-      ],
-      "metrics": {
-        "ratio_score": 25.0,
-        "confidence": 0.317,
-        "category": "Complete Ratio",
-        "post_age_minutes": 170.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:44.952971+00:00",
-      "last_updated": "2025-08-21T20:20:44.952971+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:44.952971+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
       "rank": 8,
       "user": {
         "handle": "fatkiddeals.com",
@@ -427,15 +427,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 354,
+        "likes": 355,
         "replies": 151,
         "reposts": 41,
-        "quotes": 626,
+        "quotes": 627,
         "formatted": {
-          "likes": "354",
+          "likes": "355",
           "replies": "151",
           "reposts": "41",
-          "quotes": "626"
+          "quotes": "627"
         }
       },
       "sample_replies": [
@@ -526,7 +526,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
         "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
       },
-      "ratio": "20:1",
+      "ratio": "21:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -537,15 +537,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
       },
       "engagement": {
-        "likes": 65,
-        "replies": 52,
+        "likes": 66,
+        "replies": 53,
         "reposts": 5,
-        "quotes": 102,
+        "quotes": 104,
         "formatted": {
-          "likes": "65",
-          "replies": "52",
+          "likes": "66",
+          "replies": "53",
           "reposts": "5",
-          "quotes": "102"
+          "quotes": "104"
         }
       },
       "sample_replies": [
@@ -650,15 +650,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 857,
-        "replies": 1077,
-        "reposts": 161,
-        "quotes": 807,
+        "likes": 910,
+        "replies": 1122,
+        "reposts": 169,
+        "quotes": 824,
         "formatted": {
-          "likes": "857",
+          "likes": "910",
           "replies": "1.1K",
-          "reposts": "161",
-          "quotes": "807"
+          "reposts": "169",
+          "quotes": "824"
         }
       },
       "sample_replies": [
@@ -706,12 +706,12 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 90,
+        "likes": 91,
         "replies": 68,
         "reposts": 10,
         "quotes": 127,
         "formatted": {
-          "likes": "90",
+          "likes": "91",
           "replies": "68",
           "reposts": "10",
           "quotes": "127"
@@ -743,6 +743,62 @@
     },
     {
       "rank": 14,
+      "user": {
+        "handle": "theigbobear.blacksky.app",
+        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
+        "initials": "TC",
+        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
+        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
+      },
+      "ratio": "21:0",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Niggas wearing night gowns now?",
+        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
+        "created_at": "2025-08-21T18:20:48.773Z",
+        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
+      },
+      "engagement": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 21,
+        "formatted": {
+          "likes": "5",
+          "replies": "1",
+          "reposts": "0",
+          "quotes": "21"
+        }
+      },
+      "sample_replies": [
+        "😭 $82 for that is robbery",
+        "😂😂",
+        "Smh",
+        "They always be taxing the men when it comes to clothes"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.314,
+        "category": "Complete Ratio",
+        "post_age_minutes": 101.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.307287+00:00",
+      "last_updated": "2025-08-21T20:20:45.307287+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.307287+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 15,
       "user": {
         "handle": "vulture.com",
         "display_name": "Vulture",
@@ -797,7 +853,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user": {
         "handle": "jsrailton.bsky.social",
         "display_name": "John Scott-Railton",
@@ -817,15 +873,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 467,
-        "replies": 293,
-        "reposts": 96,
-        "quotes": 692,
+        "likes": 472,
+        "replies": 295,
+        "reposts": 99,
+        "quotes": 694,
         "formatted": {
-          "likes": "467",
-          "replies": "293",
-          "reposts": "96",
-          "quotes": "692"
+          "likes": "472",
+          "replies": "295",
+          "reposts": "99",
+          "quotes": "694"
         }
       },
       "sample_replies": [
@@ -850,62 +906,6 @@
         "2025-08-21T16:50:31.687662+00:00"
       ],
       "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
-      "user": {
-        "handle": "theigbobear.blacksky.app",
-        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
-        "initials": "TC",
-        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
-        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
-      },
-      "ratio": "19:0",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Niggas wearing night gowns now?",
-        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
-        "created_at": "2025-08-21T18:20:48.773Z",
-        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
-      },
-      "engagement": {
-        "likes": 5,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 19,
-        "formatted": {
-          "likes": "5",
-          "replies": "1",
-          "reposts": "0",
-          "quotes": "19"
-        }
-      },
-      "sample_replies": [
-        "😭 $82 for that is robbery",
-        "😂😂",
-        "Smh",
-        "They always be taxing the men when it comes to clothes"
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.314,
-        "category": "Complete Ratio",
-        "post_age_minutes": 101.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.307287+00:00",
-      "last_updated": "2025-08-21T20:20:45.307287+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.307287+00:00"
-      ],
-      "peak_controversy": 2.3,
       "trend": "new"
     },
     {
@@ -973,7 +973,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
         "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
       },
-      "ratio": "5:1",
+      "ratio": "4:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -986,13 +986,13 @@
       "engagement": {
         "likes": 20,
         "replies": 6,
-        "reposts": 10,
-        "quotes": 51,
+        "reposts": 12,
+        "quotes": 54,
         "formatted": {
           "likes": "20",
           "replies": "6",
-          "reposts": "10",
-          "quotes": "51"
+          "reposts": "12",
+          "quotes": "54"
         }
       },
       "sample_replies": [
@@ -1137,7 +1137,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "52:1",
+      "ratio": "53:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1148,15 +1148,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 107,
+        "likes": 111,
         "replies": 4,
         "reposts": 3,
-        "quotes": 155,
+        "quotes": 158,
         "formatted": {
-          "likes": "107",
+          "likes": "111",
           "replies": "4",
           "reposts": "3",
-          "quotes": "155"
+          "quotes": "158"
         }
       },
       "sample_replies": [
@@ -1191,7 +1191,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3uegoq5262fhatqzgan4gcvl/bafkreibsxmg75ns7xqywwjdiwwkdfldieob4dtbcyezuap2yjk53zijv2u@jpeg",
         "profile_url": "https://bsky.app/profile/dailyocs.bsky.social"
       },
-      "ratio": "13:1",
+      "ratio": "14:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1202,15 +1202,15 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 114,
-        "replies": 11,
+        "likes": 116,
+        "replies": 12,
         "reposts": 9,
-        "quotes": 120,
+        "quotes": 122,
         "formatted": {
-          "likes": "114",
-          "replies": "11",
+          "likes": "116",
+          "replies": "12",
           "reposts": "9",
-          "quotes": "120"
+          "quotes": "122"
         }
       },
       "sample_replies": [
@@ -1370,15 +1370,15 @@
         "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
       },
       "engagement": {
-        "likes": 117,
+        "likes": 118,
         "replies": 18,
         "reposts": 16,
-        "quotes": 112,
+        "quotes": 114,
         "formatted": {
-          "likes": "117",
+          "likes": "118",
           "replies": "18",
           "reposts": "16",
-          "quotes": "112"
+          "quotes": "114"
         }
       },
       "sample_replies": [
@@ -1426,12 +1426,12 @@
         "url": "https://bsky.app/profile/anythinggoe.com/post/3lwtztvnv7c2m"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 18,
         "replies": 3,
         "reposts": 2,
         "quotes": 24,
         "formatted": {
-          "likes": "17",
+          "likes": "18",
           "replies": "3",
           "reposts": "2",
           "quotes": "24"
@@ -1692,8 +1692,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreid3jeqfdy2z7zqpeexc77h2fvtli42nrrgcpgpmyznscgmayej2di@jpeg",
         "profile_url": "https://bsky.app/profile/hypervisible.blacksky.app"
       },
-      "ratio": "23:1",
-      "controversy": 0.2,
+      "ratio": "24:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1706,12 +1706,12 @@
         "likes": 29,
         "replies": 10,
         "reposts": 1,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
           "likes": "29",
           "replies": "10",
           "reposts": "1",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -2257,15 +2257,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 664,
+        "likes": 667,
         "replies": 64,
-        "reposts": 58,
-        "quotes": 306,
+        "reposts": 60,
+        "quotes": 307,
         "formatted": {
-          "likes": "664",
+          "likes": "667",
           "replies": "64",
-          "reposts": "58",
-          "quotes": "306"
+          "reposts": "60",
+          "quotes": "307"
         }
       },
       "sample_replies": [
@@ -2302,7 +2302,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2kutgxqlltwc6lhs724cfwr/bafkreidtcbmryuwpaxyaaexazmibozi7oakpn6x4ktdow227xky7dnmfa4@jpeg",
         "profile_url": "https://bsky.app/profile/theathletic.com"
       },
-      "ratio": "3:1",
+      "ratio": "4:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -2316,12 +2316,12 @@
         "likes": 43,
         "replies": 30,
         "reposts": 3,
-        "quotes": 9,
+        "quotes": 11,
         "formatted": {
           "likes": "43",
           "replies": "30",
           "reposts": "3",
-          "quotes": "9"
+          "quotes": "11"
         }
       },
       "sample_replies": [
@@ -2369,12 +2369,12 @@
         "url": "https://bsky.app/profile/saulstaniforth.bsky.social/post/3lwvexykwlk2b"
       },
       "engagement": {
-        "likes": 66,
+        "likes": 67,
         "replies": 28,
         "reposts": 29,
         "quotes": 36,
         "formatted": {
-          "likes": "66",
+          "likes": "67",
           "replies": "28",
           "reposts": "29",
           "quotes": "36"
@@ -2481,12 +2481,12 @@
         "url": "https://bsky.app/profile/statsboyandi.bsky.social/post/3lwwbfb6cg22m"
       },
       "engagement": {
-        "likes": 77,
+        "likes": 78,
         "replies": 10,
         "reposts": 1,
         "quotes": 15,
         "formatted": {
-          "likes": "77",
+          "likes": "78",
           "replies": "10",
           "reposts": "1",
           "quotes": "15"
@@ -2650,12 +2650,12 @@
       },
       "engagement": {
         "likes": 132,
-        "replies": 26,
+        "replies": 27,
         "reposts": 18,
         "quotes": 61,
         "formatted": {
           "likes": "132",
-          "replies": "26",
+          "replies": "27",
           "reposts": "18",
           "quotes": "61"
         }
