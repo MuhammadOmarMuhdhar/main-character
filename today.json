@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T06:58:20.340862+00:00",
-    "last_metrics_update": "2025-08-21T09:32:31.813649+00:00",
+    "last_metrics_update": "2025-08-21T09:47:44.472145+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 56,
@@ -148,12 +148,12 @@
       },
       "engagement": {
         "likes": 55,
-        "replies": 103,
+        "replies": 105,
         "reposts": 0,
         "quotes": 122,
         "formatted": {
           "likes": "55",
-          "replies": "103",
+          "replies": "105",
           "reposts": "0",
           "quotes": "122"
         }
@@ -318,12 +318,12 @@
         "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
       },
       "engagement": {
-        "likes": 86,
+        "likes": 87,
         "replies": 245,
         "reposts": 26,
         "quotes": 238,
         "formatted": {
-          "likes": "86",
+          "likes": "87",
           "replies": "245",
           "reposts": "26",
           "quotes": "238"
@@ -488,12 +488,12 @@
       },
       "engagement": {
         "likes": 333,
-        "replies": 140,
+        "replies": 141,
         "reposts": 40,
         "quotes": 572,
         "formatted": {
           "likes": "333",
-          "replies": "140",
+          "replies": "141",
           "reposts": "40",
           "quotes": "572"
         }
@@ -1543,12 +1543,12 @@
       },
       "engagement": {
         "likes": 9,
-        "replies": 3,
+        "replies": 4,
         "reposts": 1,
         "quotes": 13,
         "formatted": {
           "likes": "9",
-          "replies": "3",
+          "replies": "4",
           "reposts": "1",
           "quotes": "13"
         }
@@ -1872,12 +1872,12 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 66,
+        "likes": 67,
         "replies": 13,
         "reposts": 0,
         "quotes": 28,
         "formatted": {
-          "likes": "66",
+          "likes": "67",
           "replies": "13",
           "reposts": "0",
           "quotes": "28"
@@ -2317,15 +2317,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 435,
+        "likes": 442,
         "replies": 37,
         "reposts": 44,
-        "quotes": 167,
+        "quotes": 170,
         "formatted": {
-          "likes": "435",
+          "likes": "442",
           "replies": "37",
           "reposts": "44",
-          "quotes": "167"
+          "quotes": "170"
         }
       },
       "sample_replies": [
@@ -2354,62 +2354,6 @@
     },
     {
       "rank": 43,
-      "user": {
-        "handle": "petersterne.com",
-        "display_name": "Peter Sterne",
-        "initials": "PS",
-        "did": "did:plc:3o3xlahjenddxtpwwk6c6z5w",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3o3xlahjenddxtpwwk6c6z5w/bafkreialpxbc3q7segsi62s7wlpypta734eneseabetcdgle2v6wlmufci@jpeg",
-        "profile_url": "https://bsky.app/profile/petersterne.com"
-      },
-      "ratio": "4:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Winnie Greco's attorney told The New York Times that it's common in Chinese culture to give cash to reporters. www.nytimes.com/2025/08/20/n...",
-        "uri": "at://did:plc:3o3xlahjenddxtpwwk6c6z5w/app.bsky.feed.post/3lwuvsffgbs2x",
-        "created_at": "2025-08-21T02:35:19.368Z",
-        "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
-      },
-      "engagement": {
-        "likes": 87,
-        "replies": 21,
-        "reposts": 11,
-        "quotes": 43,
-        "formatted": {
-          "likes": "87",
-          "replies": "21",
-          "reposts": "11",
-          "quotes": "43"
-        }
-      },
-      "sample_replies": [
-        "I'm sorry you mistook my bribe for a bribe.",
-        "The Times appears to be lifting this quote from @thecity.nyc and altering it to make it even more...",
-        "He gave that quote to The City. (The NYT seems to have lifted a lot of info/quotes from The City’s...",
-        "This is not a defense of Winnie Greco who stands out for excessive corruption even among Eric..."
-      ],
-      "metrics": {
-        "ratio_score": 9.5,
-        "confidence": 0.578,
-        "category": "Quote Dunk",
-        "post_age_minutes": 42.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:25.800254+00:00",
-      "last_updated": "2025-08-21T03:32:25.800254+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:25.800254+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 44,
       "user": {
         "handle": "preshaprincess.bsky.social",
         "display_name": "❤️‍🔥",
@@ -2466,7 +2410,7 @@
       "trend": "rising"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -2523,6 +2467,62 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
+    },
+    {
+      "rank": 45,
+      "user": {
+        "handle": "petersterne.com",
+        "display_name": "Peter Sterne",
+        "initials": "PS",
+        "did": "did:plc:3o3xlahjenddxtpwwk6c6z5w",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3o3xlahjenddxtpwwk6c6z5w/bafkreialpxbc3q7segsi62s7wlpypta734eneseabetcdgle2v6wlmufci@jpeg",
+        "profile_url": "https://bsky.app/profile/petersterne.com"
+      },
+      "ratio": "4:1",
+      "controversy": 0.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Winnie Greco's attorney told The New York Times that it's common in Chinese culture to give cash to reporters. www.nytimes.com/2025/08/20/n...",
+        "uri": "at://did:plc:3o3xlahjenddxtpwwk6c6z5w/app.bsky.feed.post/3lwuvsffgbs2x",
+        "created_at": "2025-08-21T02:35:19.368Z",
+        "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
+      },
+      "engagement": {
+        "likes": 88,
+        "replies": 21,
+        "reposts": 11,
+        "quotes": 43,
+        "formatted": {
+          "likes": "88",
+          "replies": "21",
+          "reposts": "11",
+          "quotes": "43"
+        }
+      },
+      "sample_replies": [
+        "I'm sorry you mistook my bribe for a bribe.",
+        "The Times appears to be lifting this quote from @thecity.nyc and altering it to make it even more...",
+        "He gave that quote to The City. (The NYT seems to have lifted a lot of info/quotes from The City’s...",
+        "This is not a defense of Winnie Greco who stands out for excessive corruption even among Eric..."
+      ],
+      "metrics": {
+        "ratio_score": 9.5,
+        "confidence": 0.578,
+        "category": "Quote Dunk",
+        "post_age_minutes": 42.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:25.800254+00:00",
+      "last_updated": "2025-08-21T03:32:25.800254+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:25.800254+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
     },
     {
       "rank": 46,
