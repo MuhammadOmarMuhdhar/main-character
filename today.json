@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T03:32:26.722120+00:00",
-    "last_metrics_update": "2025-08-21T04:47:38.867156+00:00",
+    "last_metrics_update": "2025-08-21T05:02:21.735186+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 49,
@@ -136,8 +136,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fg5ks6bevpbwkha6o3s2y27h/bafkreidl4ioeiqrgqlnr6wza2mmmqclxx2abq46nuq53jedukxy2ecvk6i@jpeg",
         "profile_url": "https://bsky.app/profile/alexkirshner.com"
       },
-      "ratio": "121:0",
-      "controversy": 1.6,
+      "ratio": "122:0",
+      "controversy": 1.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/alexkirshner.com/post/3lwufk4ftrs22"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 54,
         "replies": 101,
         "reposts": 0,
-        "quotes": 121,
+        "quotes": 122,
         "formatted": {
-          "likes": "53",
+          "likes": "54",
           "replies": "101",
           "reposts": "0",
-          "quotes": "121"
+          "quotes": "122"
         }
       },
       "sample_replies": [
@@ -261,12 +261,12 @@
       },
       "engagement": {
         "likes": 79,
-        "replies": 236,
+        "replies": 239,
         "reposts": 24,
         "quotes": 234,
         "formatted": {
           "likes": "79",
-          "replies": "236",
+          "replies": "239",
           "reposts": "24",
           "quotes": "234"
         }
@@ -419,7 +419,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
         "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
       },
-      "ratio": "61:1",
+      "ratio": "62:1",
       "controversy": 0.8,
       "change": "+5.0",
       "change_type": "positive",
@@ -433,12 +433,12 @@
         "likes": 21,
         "replies": 10,
         "reposts": 1,
-        "quotes": 61,
+        "quotes": 62,
         "formatted": {
           "likes": "21",
           "replies": "10",
           "reposts": "1",
-          "quotes": "61"
+          "quotes": "62"
         }
       },
       "sample_replies": [
@@ -487,15 +487,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 314,
+        "likes": 318,
         "replies": 137,
         "reposts": 38,
-        "quotes": 557,
+        "quotes": 561,
         "formatted": {
-          "likes": "314",
+          "likes": "318",
           "replies": "137",
           "reposts": "38",
-          "quotes": "557"
+          "quotes": "561"
         }
       },
       "sample_replies": [
@@ -636,61 +636,6 @@
     {
       "rank": 12,
       "user": {
-        "handle": "wovenantelope.bsky.social",
-        "display_name": "Antelope",
-        "initials": "AN",
-        "did": "did:plc:jxeww66t2k5vwuvmxkjydrka",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
-        "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
-      },
-      "ratio": "24:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What brand of chip bag would you pass a bribe in?",
-        "uri": "at://did:plc:jxeww66t2k5vwuvmxkjydrka/app.bsky.feed.post/3lwuqfs2zjc2d",
-        "created_at": "2025-08-21T00:58:47.746Z",
-        "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
-      },
-      "engagement": {
-        "likes": 58,
-        "replies": 39,
-        "reposts": 4,
-        "quotes": 95,
-        "formatted": {
-          "likes": "58",
-          "replies": "39",
-          "reposts": "4",
-          "quotes": "95"
-        }
-      },
-      "sample_replies": [
-        "I'd keep it local",
-        "Dirty Chips. Obv",
-        "I'm going BOX of Grippo's."
-      ],
-      "metrics": {
-        "ratio_score": 8.0,
-        "confidence": 0.64,
-        "category": "Quote Dunk",
-        "post_age_minutes": 139.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:25.976063+00:00",
-      "last_updated": "2025-08-21T03:32:25.976063+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:25.976063+00:00"
-      ],
-      "peak_controversy": 2.1,
-      "trend": "new"
-    },
-    {
-      "rank": 13,
-      "user": {
         "handle": "lagroovekagejo.bsky.social",
         "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
         "initials": "LB",
@@ -740,6 +685,61 @@
       "last_updated": "2025-08-20T07:17:28.113573+00:00",
       "analysis_windows": [
         "2025-08-20T07:17:28.113573+00:00"
+      ],
+      "peak_controversy": 2.1,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "wovenantelope.bsky.social",
+        "display_name": "Antelope",
+        "initials": "AN",
+        "did": "did:plc:jxeww66t2k5vwuvmxkjydrka",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
+        "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
+      },
+      "ratio": "19:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What brand of chip bag would you pass a bribe in?",
+        "uri": "at://did:plc:jxeww66t2k5vwuvmxkjydrka/app.bsky.feed.post/3lwuqfs2zjc2d",
+        "created_at": "2025-08-21T00:58:47.746Z",
+        "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
+      },
+      "engagement": {
+        "likes": 59,
+        "replies": 39,
+        "reposts": 5,
+        "quotes": 96,
+        "formatted": {
+          "likes": "59",
+          "replies": "39",
+          "reposts": "5",
+          "quotes": "96"
+        }
+      },
+      "sample_replies": [
+        "I'd keep it local",
+        "Dirty Chips. Obv",
+        "I'm going BOX of Grippo's."
+      ],
+      "metrics": {
+        "ratio_score": 8.0,
+        "confidence": 0.64,
+        "category": "Quote Dunk",
+        "post_age_minutes": 139.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:25.976063+00:00",
+      "last_updated": "2025-08-21T03:32:25.976063+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:25.976063+00:00"
       ],
       "peak_controversy": 2.1,
       "trend": "new"
@@ -1655,12 +1655,12 @@
         "url": "https://bsky.app/profile/bugsmaytrix.bsky.social/post/3lwuwum22cc2x"
       },
       "engagement": {
-        "likes": 51,
+        "likes": 52,
         "replies": 9,
         "reposts": 1,
         "quotes": 20,
         "formatted": {
-          "likes": "51",
+          "likes": "52",
           "replies": "9",
           "reposts": "1",
           "quotes": "20"
@@ -1711,15 +1711,15 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 64,
+        "likes": 66,
         "replies": 15,
         "reposts": 9,
-        "quotes": 36,
+        "quotes": 35,
         "formatted": {
-          "likes": "64",
+          "likes": "66",
           "replies": "15",
           "reposts": "9",
-          "quotes": "36"
+          "quotes": "35"
         }
       },
       "sample_replies": [
@@ -2100,14 +2100,14 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 157,
-        "replies": 70,
-        "reposts": 58,
+        "likes": 160,
+        "replies": 71,
+        "reposts": 61,
         "quotes": 107,
         "formatted": {
-          "likes": "157",
-          "replies": "70",
-          "reposts": "58",
+          "likes": "160",
+          "replies": "71",
+          "reposts": "61",
           "quotes": "107"
         }
       },
@@ -2212,14 +2212,14 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 334,
-        "replies": 28,
-        "reposts": 28,
+        "likes": 343,
+        "replies": 29,
+        "reposts": 29,
         "quotes": 122,
         "formatted": {
-          "likes": "334",
-          "replies": "28",
-          "reposts": "28",
+          "likes": "343",
+          "replies": "29",
+          "reposts": "29",
           "quotes": "122"
         }
       },
@@ -2717,14 +2717,14 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 175,
+        "likes": 176,
         "replies": 3,
-        "reposts": 11,
+        "reposts": 12,
         "quotes": 32,
         "formatted": {
-          "likes": "175",
+          "likes": "176",
           "replies": "3",
-          "reposts": "11",
+          "reposts": "12",
           "quotes": "32"
         }
       },
