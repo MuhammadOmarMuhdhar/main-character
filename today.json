@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T00:04:44.416673+00:00",
-    "last_metrics_update": "2025-08-21T01:02:44.784399+00:00",
+    "last_metrics_update": "2025-08-21T01:17:48.105928+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 41,
@@ -80,7 +80,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fg5ks6bevpbwkha6o3s2y27h/bafkreidl4ioeiqrgqlnr6wza2mmmqclxx2abq46nuq53jedukxy2ecvk6i@jpeg",
         "profile_url": "https://bsky.app/profile/alexkirshner.com"
       },
-      "ratio": "114:0",
+      "ratio": "117:0",
       "controversy": 1.5,
       "change": "NEW",
       "change_type": "new",
@@ -94,12 +94,12 @@
         "likes": 52,
         "replies": 95,
         "reposts": 0,
-        "quotes": 114,
+        "quotes": 117,
         "formatted": {
           "likes": "52",
           "replies": "95",
           "reposts": "0",
-          "quotes": "114"
+          "quotes": "117"
         }
       },
       "sample_replies": [
@@ -260,15 +260,15 @@
         "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
       },
       "engagement": {
-        "likes": 63,
-        "replies": 192,
+        "likes": 64,
+        "replies": 198,
         "reposts": 22,
-        "quotes": 198,
+        "quotes": 201,
         "formatted": {
-          "likes": "63",
-          "replies": "192",
+          "likes": "64",
+          "replies": "198",
           "reposts": "22",
-          "quotes": "198"
+          "quotes": "201"
         }
       },
       "sample_replies": [
@@ -474,7 +474,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "16:1",
+      "ratio": "15:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -485,15 +485,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 282,
-        "replies": 122,
-        "reposts": 33,
-        "quotes": 517,
+        "likes": 284,
+        "replies": 123,
+        "reposts": 34,
+        "quotes": 518,
         "formatted": {
-          "likes": "282",
-          "replies": "122",
-          "reposts": "33",
-          "quotes": "517"
+          "likes": "284",
+          "replies": "123",
+          "reposts": "34",
+          "quotes": "518"
         }
       },
       "sample_replies": [
@@ -653,12 +653,12 @@
         "url": "https://bsky.app/profile/freshlogic.bsky.social/post/3lwtecg2cjs2u"
       },
       "engagement": {
-        "likes": 35,
+        "likes": 36,
         "replies": 11,
         "reposts": 6,
         "quotes": 69,
         "formatted": {
-          "likes": "35",
+          "likes": "36",
           "replies": "11",
           "reposts": "6",
           "quotes": "69"
@@ -710,12 +710,12 @@
       },
       "engagement": {
         "likes": 45,
-        "replies": 12,
+        "replies": 13,
         "reposts": 4,
         "quotes": 63,
         "formatted": {
           "likes": "45",
-          "replies": "12",
+          "replies": "13",
           "reposts": "4",
           "quotes": "63"
         }
@@ -821,15 +821,15 @@
         "url": "https://bsky.app/profile/gldnlvndrr.bsky.social/post/3lwulgpnetk2s"
       },
       "engagement": {
-        "likes": 85,
+        "likes": 88,
         "replies": 24,
         "reposts": 21,
-        "quotes": 85,
+        "quotes": 87,
         "formatted": {
-          "likes": "85",
+          "likes": "88",
           "replies": "24",
           "reposts": "21",
-          "quotes": "85"
+          "quotes": "87"
         }
       },
       "sample_replies": [
@@ -880,12 +880,12 @@
         "likes": 57,
         "replies": 2,
         "reposts": 4,
-        "quotes": 83,
+        "quotes": 84,
         "formatted": {
           "likes": "57",
           "replies": "2",
           "reposts": "4",
-          "quotes": "83"
+          "quotes": "84"
         }
       },
       "sample_replies": [
@@ -1080,61 +1080,6 @@
     {
       "rank": 20,
       "user": {
-        "handle": "timbritton.bsky.social",
-        "display_name": "Tim Britton (he/him)",
-        "initials": "TB",
-        "did": "did:plc:ewtw4pptq7oz7lqrxu2txckh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewtw4pptq7oz7lqrxu2txckh/bafkreiflptzbmxsoy6mu4u7ocu74jzsufmljstpctkvotyoa76qc2rusde@jpeg",
-        "profile_url": "https://bsky.app/profile/timbritton.bsky.social"
-      },
-      "ratio": "7:0",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Starling Marte is entering the game in left field for Brandon Nimmo. ",
-        "uri": "at://did:plc:ewtw4pptq7oz7lqrxu2txckh/app.bsky.feed.post/3lwujz6qhp22y",
-        "created_at": "2025-08-20T23:04:22.373Z",
-        "url": "https://bsky.app/profile/timbritton.bsky.social/post/3lwujz6qhp22y"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 7,
-        "formatted": {
-          "likes": "7",
-          "replies": "4",
-          "reposts": "0",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "no. no no",
-        "Dammit Tim! Why?!?",
-        "Another one? Ugh"
-      ],
-      "metrics": {
-        "ratio_score": 10,
-        "confidence": 0.372,
-        "category": "Complete Ratio",
-        "post_age_minutes": 43.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:44.416516+00:00",
-      "last_updated": "2025-08-21T00:04:44.416516+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:44.416516+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 21,
-      "user": {
         "handle": "jamesrball.com",
         "display_name": "James Ball",
         "initials": "JB",
@@ -1189,7 +1134,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "user": {
         "handle": "preshaprincess.bsky.social",
         "display_name": "❤️‍🔥",
@@ -1245,7 +1190,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "user": {
         "handle": "mid-majormadness.bsky.social",
         "display_name": "Mid-Major Madness",
@@ -1301,7 +1246,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "user": {
         "handle": "rlivre.cc",
         "display_name": "Radical Livre",
@@ -1357,7 +1302,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "user": {
         "handle": "anythinggoe.com",
         "display_name": "AnythingGOEs - Figure Skating ",
@@ -1411,6 +1356,61 @@
       "trend": "new"
     },
     {
+      "rank": 25,
+      "user": {
+        "handle": "timbritton.bsky.social",
+        "display_name": "Tim Britton (he/him)",
+        "initials": "TB",
+        "did": "did:plc:ewtw4pptq7oz7lqrxu2txckh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewtw4pptq7oz7lqrxu2txckh/bafkreiflptzbmxsoy6mu4u7ocu74jzsufmljstpctkvotyoa76qc2rusde@jpeg",
+        "profile_url": "https://bsky.app/profile/timbritton.bsky.social"
+      },
+      "ratio": "7:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Starling Marte is entering the game in left field for Brandon Nimmo. ",
+        "uri": "at://did:plc:ewtw4pptq7oz7lqrxu2txckh/app.bsky.feed.post/3lwujz6qhp22y",
+        "created_at": "2025-08-20T23:04:22.373Z",
+        "url": "https://bsky.app/profile/timbritton.bsky.social/post/3lwujz6qhp22y"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 7,
+        "formatted": {
+          "likes": "8",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "no. no no",
+        "Dammit Tim! Why?!?",
+        "Another one? Ugh"
+      ],
+      "metrics": {
+        "ratio_score": 10,
+        "confidence": 0.372,
+        "category": "Complete Ratio",
+        "post_age_minutes": 43.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:44.416516+00:00",
+      "last_updated": "2025-08-21T00:04:44.416516+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:44.416516+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
       "rank": 26,
       "user": {
         "handle": "bengoessling.bsky.social",
@@ -1421,7 +1421,7 @@
         "profile_url": "https://bsky.app/profile/bengoessling.bsky.social"
       },
       "ratio": "9:1",
-      "controversy": 0.3,
+      "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1431,12 +1431,12 @@
         "url": "https://bsky.app/profile/bengoessling.bsky.social/post/3lwujadbjxz2h"
       },
       "engagement": {
-        "likes": 19,
+        "likes": 20,
         "replies": 13,
         "reposts": 1,
         "quotes": 9,
         "formatted": {
-          "likes": "19",
+          "likes": "20",
           "replies": "13",
           "reposts": "1",
           "quotes": "9"
@@ -1765,12 +1765,12 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 133,
+        "likes": 137,
         "replies": 62,
         "reposts": 46,
         "quotes": 100,
         "formatted": {
-          "likes": "133",
+          "likes": "137",
           "replies": "62",
           "reposts": "46",
           "quotes": "100"
@@ -1877,12 +1877,12 @@
         "url": "https://bsky.app/profile/mightyatom.bsky.social/post/3lwspb3c6kk2j"
       },
       "engagement": {
-        "likes": 65,
+        "likes": 66,
         "replies": 13,
         "reposts": 0,
         "quotes": 27,
         "formatted": {
-          "likes": "65",
+          "likes": "66",
           "replies": "13",
           "reposts": "0",
           "quotes": "27"
@@ -1981,7 +1981,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv4g3qpmt6god5zaiqwsu3uq/bafkreiegjzfgcms3de3gyvwn7htcewiznivzjeparnbzjrjzyvglglnyke@jpeg",
         "profile_url": "https://bsky.app/profile/scumbelievable.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "20:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -1995,12 +1995,12 @@
         "likes": 88,
         "replies": 5,
         "reposts": 1,
-        "quotes": 19,
+        "quotes": 20,
         "formatted": {
           "likes": "88",
           "replies": "5",
           "reposts": "1",
-          "quotes": "19"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -2048,12 +2048,12 @@
         "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
       },
       "engagement": {
-        "likes": 80,
+        "likes": 81,
         "replies": 18,
         "reposts": 9,
         "quotes": 24,
         "formatted": {
-          "likes": "80",
+          "likes": "81",
           "replies": "18",
           "reposts": "9",
           "quotes": "24"
@@ -2271,14 +2271,14 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 168,
+        "likes": 169,
         "replies": 3,
-        "reposts": 10,
+        "reposts": 11,
         "quotes": 32,
         "formatted": {
-          "likes": "168",
+          "likes": "169",
           "replies": "3",
-          "reposts": "10",
+          "reposts": "11",
           "quotes": "32"
         }
       },
