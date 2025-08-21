@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T20:20:45.546820+00:00",
-    "last_metrics_update": "2025-08-21T22:02:28.170811+00:00",
+    "last_metrics_update": "2025-08-21T22:17:24.486956+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -304,7 +304,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "18:1",
       "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 146,
-        "replies": 238,
-        "reposts": 13,
-        "quotes": 241,
+        "likes": 149,
+        "replies": 240,
+        "reposts": 14,
+        "quotes": 245,
         "formatted": {
-          "likes": "146",
-          "replies": "238",
-          "reposts": "13",
-          "quotes": "241"
+          "likes": "149",
+          "replies": "240",
+          "reposts": "14",
+          "quotes": "245"
         }
       },
       "sample_replies": [
@@ -360,8 +360,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
         "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
       },
-      "ratio": "49:0",
-      "controversy": 1.0,
+      "ratio": "54:0",
+      "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -374,12 +374,12 @@
         "likes": 8,
         "replies": 4,
         "reposts": 0,
-        "quotes": 49,
+        "quotes": 54,
         "formatted": {
           "likes": "8",
           "replies": "4",
           "reposts": "0",
-          "quotes": "49"
+          "quotes": "54"
         }
       },
       "sample_replies": [
@@ -430,12 +430,12 @@
         "likes": 354,
         "replies": 151,
         "reposts": 41,
-        "quotes": 624,
+        "quotes": 626,
         "formatted": {
           "likes": "354",
           "replies": "151",
           "reposts": "41",
-          "quotes": "624"
+          "quotes": "626"
         }
       },
       "sample_replies": [
@@ -519,6 +519,63 @@
     {
       "rank": 10,
       "user": {
+        "handle": "sophianyx.bsky.social",
+        "display_name": "Sophia_Nyx 🏳️‍⚧️",
+        "initials": "S🏳",
+        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
+        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+      },
+      "ratio": "20:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Name 3 Songs you've heard 600 times.",
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lww54znqvs2m",
+        "created_at": "2025-08-21T14:19:12.092Z",
+        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
+      },
+      "engagement": {
+        "likes": 65,
+        "replies": 52,
+        "reposts": 5,
+        "quotes": 102,
+        "formatted": {
+          "likes": "65",
+          "replies": "52",
+          "reposts": "5",
+          "quotes": "102"
+        }
+      },
+      "sample_replies": [
+        "i grew up in one of the most saturated radio markets in the world, southern california. there are...",
+        "\"Money\"\n\"Stairway to Heaven\"\n\"Freebird\"",
+        "In addition to loving these songs anyway, I also played them in one or more cover bands, which...",
+        "School’s Out\nTiny Dancer\nYesterday"
+      ],
+      "metrics": {
+        "ratio_score": 11.5,
+        "confidence": 0.634,
+        "category": "Complete Ratio",
+        "post_age_minutes": 133.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:31.266845+00:00",
+      "last_updated": "2025-08-21T16:50:31.820793+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:31.266845+00:00",
+        "2025-08-21T16:50:31.820793+00:00"
+      ],
+      "peak_controversy": 4.8,
+      "trend": "rising"
+    },
+    {
+      "rank": 11,
+      "user": {
         "handle": "patricklovellpresentsthecleannewdeal.com",
         "display_name": "Patrick Lovell The Producer  ",
         "initials": "PL",
@@ -573,7 +630,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user": {
         "handle": "atrupar.com",
         "display_name": "Aaron Rupar",
@@ -593,15 +650,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 830,
-        "replies": 1040,
-        "reposts": 157,
-        "quotes": 784,
+        "likes": 857,
+        "replies": 1077,
+        "reposts": 161,
+        "quotes": 807,
         "formatted": {
-          "likes": "830",
-          "replies": "1.0K",
-          "reposts": "157",
-          "quotes": "784"
+          "likes": "857",
+          "replies": "1.1K",
+          "reposts": "161",
+          "quotes": "807"
         }
       },
       "sample_replies": [
@@ -629,7 +686,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "deerene.bsky.social",
         "display_name": "Gay & Tonic",
@@ -649,13 +706,13 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 89,
-        "replies": 67,
+        "likes": 90,
+        "replies": 68,
         "reposts": 10,
         "quotes": 127,
         "formatted": {
-          "likes": "89",
-          "replies": "67",
+          "likes": "90",
+          "replies": "68",
           "reposts": "10",
           "quotes": "127"
         }
@@ -683,63 +740,6 @@
       ],
       "peak_controversy": 6.6,
       "trend": "new"
-    },
-    {
-      "rank": 13,
-      "user": {
-        "handle": "sophianyx.bsky.social",
-        "display_name": "Sophia_Nyx 🏳️‍⚧️",
-        "initials": "S🏳",
-        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
-        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
-      },
-      "ratio": "20:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Name 3 Songs you've heard 600 times.",
-        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lww54znqvs2m",
-        "created_at": "2025-08-21T14:19:12.092Z",
-        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
-      },
-      "engagement": {
-        "likes": 65,
-        "replies": 49,
-        "reposts": 5,
-        "quotes": 99,
-        "formatted": {
-          "likes": "65",
-          "replies": "49",
-          "reposts": "5",
-          "quotes": "99"
-        }
-      },
-      "sample_replies": [
-        "i grew up in one of the most saturated radio markets in the world, southern california. there are...",
-        "\"Money\"\n\"Stairway to Heaven\"\n\"Freebird\"",
-        "In addition to loving these songs anyway, I also played them in one or more cover bands, which...",
-        "School’s Out\nTiny Dancer\nYesterday"
-      ],
-      "metrics": {
-        "ratio_score": 11.5,
-        "confidence": 0.634,
-        "category": "Complete Ratio",
-        "post_age_minutes": 133.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:31.266845+00:00",
-      "last_updated": "2025-08-21T16:50:31.820793+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:31.266845+00:00",
-        "2025-08-21T16:50:31.820793+00:00"
-      ],
-      "peak_controversy": 4.8,
-      "trend": "rising"
     },
     {
       "rank": 14,
@@ -817,15 +817,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 461,
-        "replies": 290,
+        "likes": 467,
+        "replies": 293,
         "reposts": 96,
-        "quotes": 691,
+        "quotes": 692,
         "formatted": {
-          "likes": "461",
-          "replies": "290",
+          "likes": "467",
+          "replies": "293",
           "reposts": "96",
-          "quotes": "691"
+          "quotes": "692"
         }
       },
       "sample_replies": [
@@ -862,7 +862,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
         "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
       },
-      "ratio": "18:0",
+      "ratio": "19:0",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -876,12 +876,12 @@
         "likes": 5,
         "replies": 1,
         "reposts": 0,
-        "quotes": 18,
+        "quotes": 19,
         "formatted": {
           "likes": "5",
           "replies": "1",
           "reposts": "0",
-          "quotes": "18"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -918,7 +918,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
         "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "16:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -929,14 +929,14 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 71,
-        "replies": 47,
-        "reposts": 6,
+        "likes": 73,
+        "replies": 48,
+        "reposts": 7,
         "quotes": 113,
         "formatted": {
-          "likes": "71",
-          "replies": "47",
-          "reposts": "6",
+          "likes": "73",
+          "replies": "48",
+          "reposts": "7",
           "quotes": "113"
         }
       },
@@ -973,7 +973,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
         "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
       },
-      "ratio": "6:1",
+      "ratio": "5:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -986,13 +986,13 @@
       "engagement": {
         "likes": 20,
         "replies": 6,
-        "reposts": 8,
-        "quotes": 50,
+        "reposts": 10,
+        "quotes": 51,
         "formatted": {
           "likes": "20",
           "replies": "6",
-          "reposts": "8",
-          "quotes": "50"
+          "reposts": "10",
+          "quotes": "51"
         }
       },
       "sample_replies": [
@@ -1137,7 +1137,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "51:1",
+      "ratio": "52:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1151,12 +1151,12 @@
         "likes": 107,
         "replies": 4,
         "reposts": 3,
-        "quotes": 154,
+        "quotes": 155,
         "formatted": {
           "likes": "107",
           "replies": "4",
           "reposts": "3",
-          "quotes": "154"
+          "quotes": "155"
         }
       },
       "sample_replies": [
@@ -1202,15 +1202,15 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 113,
+        "likes": 114,
         "replies": 11,
         "reposts": 9,
-        "quotes": 117,
+        "quotes": 120,
         "formatted": {
-          "likes": "113",
+          "likes": "114",
           "replies": "11",
           "reposts": "9",
-          "quotes": "117"
+          "quotes": "120"
         }
       },
       "sample_replies": [
@@ -1370,15 +1370,15 @@
         "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
       },
       "engagement": {
-        "likes": 115,
+        "likes": 117,
         "replies": 18,
         "reposts": 16,
-        "quotes": 109,
+        "quotes": 112,
         "formatted": {
-          "likes": "115",
+          "likes": "117",
           "replies": "18",
           "reposts": "16",
-          "quotes": "109"
+          "quotes": "112"
         }
       },
       "sample_replies": [
@@ -1815,12 +1815,12 @@
         "url": "https://bsky.app/profile/electionmaps.uk/post/3lwvmkzpx6k2m"
       },
       "engagement": {
-        "likes": 33,
+        "likes": 34,
         "replies": 27,
         "reposts": 13,
         "quotes": 33,
         "formatted": {
-          "likes": "33",
+          "likes": "34",
           "replies": "27",
           "reposts": "13",
           "quotes": "33"
@@ -2257,15 +2257,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 661,
+        "likes": 664,
         "replies": 64,
         "reposts": 58,
-        "quotes": 305,
+        "quotes": 306,
         "formatted": {
-          "likes": "661",
+          "likes": "664",
           "replies": "64",
           "reposts": "58",
-          "quotes": "305"
+          "quotes": "306"
         }
       },
       "sample_replies": [
@@ -2481,13 +2481,13 @@
         "url": "https://bsky.app/profile/statsboyandi.bsky.social/post/3lwwbfb6cg22m"
       },
       "engagement": {
-        "likes": 74,
-        "replies": 9,
+        "likes": 77,
+        "replies": 10,
         "reposts": 1,
         "quotes": 15,
         "formatted": {
-          "likes": "74",
-          "replies": "9",
+          "likes": "77",
+          "replies": "10",
           "reposts": "1",
           "quotes": "15"
         }
