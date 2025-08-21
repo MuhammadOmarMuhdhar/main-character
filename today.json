@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T16:50:31.820891+00:00",
-    "last_metrics_update": "2025-08-21T18:47:51.342719+00:00",
+    "last_metrics_update": "2025-08-21T19:02:24.496433+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -260,12 +260,12 @@
       },
       "engagement": {
         "likes": 90,
-        "replies": 252,
+        "replies": 253,
         "reposts": 26,
         "quotes": 252,
         "formatted": {
           "likes": "90",
-          "replies": "252",
+          "replies": "253",
           "reposts": "26",
           "quotes": "252"
         }
@@ -318,12 +318,12 @@
         "likes": 132,
         "replies": 202,
         "reposts": 13,
-        "quotes": 191,
+        "quotes": 193,
         "formatted": {
           "likes": "132",
           "replies": "202",
           "reposts": "13",
-          "quotes": "191"
+          "quotes": "193"
         }
       },
       "sample_replies": [
@@ -431,12 +431,12 @@
         "likes": 353,
         "replies": 150,
         "reposts": 41,
-        "quotes": 609,
+        "quotes": 612,
         "formatted": {
           "likes": "353",
           "replies": "150",
           "reposts": "41",
-          "quotes": "609"
+          "quotes": "612"
         }
       },
       "sample_replies": [
@@ -520,6 +520,63 @@
     {
       "rank": 10,
       "user": {
+        "handle": "sophianyx.bsky.social",
+        "display_name": "Sophia_Nyx 🏳️‍⚧️",
+        "initials": "S🏳",
+        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
+        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+      },
+      "ratio": "17:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Name 3 Songs you've heard 600 times.",
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lww54znqvs2m",
+        "created_at": "2025-08-21T14:19:12.092Z",
+        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
+      },
+      "engagement": {
+        "likes": 44,
+        "replies": 35,
+        "reposts": 4,
+        "quotes": 68,
+        "formatted": {
+          "likes": "44",
+          "replies": "35",
+          "reposts": "4",
+          "quotes": "68"
+        }
+      },
+      "sample_replies": [
+        "i grew up in one of the most saturated radio markets in the world, southern california. there are...",
+        "\"Money\"\n\"Stairway to Heaven\"\n\"Freebird\"",
+        "In addition to loving these songs anyway, I also played them in one or more cover bands, which...",
+        "School’s Out\nTiny Dancer\nYesterday"
+      ],
+      "metrics": {
+        "ratio_score": 11.5,
+        "confidence": 0.634,
+        "category": "Complete Ratio",
+        "post_age_minutes": 133.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:31.266845+00:00",
+      "last_updated": "2025-08-21T16:50:31.820793+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:31.266845+00:00",
+        "2025-08-21T16:50:31.820793+00:00"
+      ],
+      "peak_controversy": 4.8,
+      "trend": "rising"
+    },
+    {
+      "rank": 11,
+      "user": {
         "handle": "deerene.bsky.social",
         "display_name": "Gay & Tonic",
         "initials": "G&",
@@ -527,7 +584,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvsnng7pexymcezhvr345xpk/bafkreihufznya74xog46wwk2o77ddxiqz6aalnetsnfhucelwk6jmc2ar4@jpeg",
         "profile_url": "https://bsky.app/profile/deerene.bsky.social"
       },
-      "ratio": "13:1",
+      "ratio": "12:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -538,15 +595,15 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 81,
+        "likes": 83,
         "replies": 63,
-        "reposts": 9,
-        "quotes": 115,
+        "reposts": 10,
+        "quotes": 118,
         "formatted": {
-          "likes": "81",
+          "likes": "83",
           "replies": "63",
-          "reposts": "9",
-          "quotes": "115"
+          "reposts": "10",
+          "quotes": "118"
         }
       },
       "sample_replies": [
@@ -571,62 +628,6 @@
         "2025-08-21T16:50:30.992520+00:00"
       ],
       "peak_controversy": 6.6,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
-      "user": {
-        "handle": "jsrailton.bsky.social",
-        "display_name": "John Scott-Railton",
-        "initials": "JS",
-        "did": "did:plc:qtzckelov7u3bxfxptrzd22u",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtzckelov7u3bxfxptrzd22u/bafkreia6zgrj64cst6uo5osqwthxrqutecfrezde47rhxczc7vkjgsujsu@jpeg",
-        "profile_url": "https://bsky.app/profile/jsrailton.bsky.social"
-      },
-      "ratio": "8:1",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "UK government asks everybody to stop using VPNs.\n\n\"everybody who's out there thinking of using VPNs...verifying your age keeps a child safe...So let's just not try and find a way around. Just prove your age.\"\n\n- UK government",
-        "uri": "at://did:plc:qtzckelov7u3bxfxptrzd22u/app.bsky.feed.post/3lww6k7ymo22q",
-        "created_at": "2025-08-21T14:44:28.689Z",
-        "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
-      },
-      "engagement": {
-        "likes": 339,
-        "replies": 222,
-        "reposts": 72,
-        "quotes": 556,
-        "formatted": {
-          "likes": "339",
-          "replies": "222",
-          "reposts": "72",
-          "quotes": "556"
-        }
-      },
-      "sample_replies": [
-        "\"Verifying your age keeps a child safe\"? I've just spent five minutes thinking on this and I'm...",
-        "Counter argument: I’m not handing over my private information to a whole bunch of websites because...",
-        "you are underestimating the odds of a 13 yr old entering your house via the cat flap and sneaking a...",
-        "\"We have implemented a solution, but it's broken, has huge security risks, has horrible potential..."
-      ],
-      "metrics": {
-        "ratio_score": 7.57,
-        "confidence": 0.867,
-        "category": "Quote Dunk",
-        "post_age_minutes": 108.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:31.687662+00:00",
-      "last_updated": "2025-08-21T16:50:31.687662+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:31.687662+00:00"
-      ],
-      "peak_controversy": 2.7,
       "trend": "new"
     },
     {
@@ -688,59 +689,58 @@
     {
       "rank": 13,
       "user": {
-        "handle": "sophianyx.bsky.social",
-        "display_name": "Sophia_Nyx 🏳️‍⚧️",
-        "initials": "S🏳",
-        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
-        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+        "handle": "jsrailton.bsky.social",
+        "display_name": "John Scott-Railton",
+        "initials": "JS",
+        "did": "did:plc:qtzckelov7u3bxfxptrzd22u",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtzckelov7u3bxfxptrzd22u/bafkreia6zgrj64cst6uo5osqwthxrqutecfrezde47rhxczc7vkjgsujsu@jpeg",
+        "profile_url": "https://bsky.app/profile/jsrailton.bsky.social"
       },
-      "ratio": "16:1",
+      "ratio": "8:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Name 3 Songs you've heard 600 times.",
-        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lww54znqvs2m",
-        "created_at": "2025-08-21T14:19:12.092Z",
-        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
+        "text": "UK government asks everybody to stop using VPNs.\n\n\"everybody who's out there thinking of using VPNs...verifying your age keeps a child safe...So let's just not try and find a way around. Just prove your age.\"\n\n- UK government",
+        "uri": "at://did:plc:qtzckelov7u3bxfxptrzd22u/app.bsky.feed.post/3lww6k7ymo22q",
+        "created_at": "2025-08-21T14:44:28.689Z",
+        "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 44,
-        "replies": 35,
-        "reposts": 4,
-        "quotes": 66,
+        "likes": 355,
+        "replies": 233,
+        "reposts": 76,
+        "quotes": 573,
         "formatted": {
-          "likes": "44",
-          "replies": "35",
-          "reposts": "4",
-          "quotes": "66"
+          "likes": "355",
+          "replies": "233",
+          "reposts": "76",
+          "quotes": "573"
         }
       },
       "sample_replies": [
-        "i grew up in one of the most saturated radio markets in the world, southern california. there are...",
-        "\"Money\"\n\"Stairway to Heaven\"\n\"Freebird\"",
-        "In addition to loving these songs anyway, I also played them in one or more cover bands, which...",
-        "School’s Out\nTiny Dancer\nYesterday"
+        "\"Verifying your age keeps a child safe\"? I've just spent five minutes thinking on this and I'm...",
+        "Counter argument: I’m not handing over my private information to a whole bunch of websites because...",
+        "you are underestimating the odds of a 13 yr old entering your house via the cat flap and sneaking a...",
+        "\"We have implemented a solution, but it's broken, has huge security risks, has horrible potential..."
       ],
       "metrics": {
-        "ratio_score": 11.5,
-        "confidence": 0.634,
-        "category": "Complete Ratio",
-        "post_age_minutes": 133.4
+        "ratio_score": 7.57,
+        "confidence": 0.867,
+        "category": "Quote Dunk",
+        "post_age_minutes": 108.1
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-21T16:50:31.266845+00:00",
-      "last_updated": "2025-08-21T16:50:31.820793+00:00",
+      "first_detected": "2025-08-21T16:50:31.687662+00:00",
+      "last_updated": "2025-08-21T16:50:31.687662+00:00",
       "analysis_windows": [
-        "2025-08-21T16:50:31.266845+00:00",
-        "2025-08-21T16:50:31.820793+00:00"
+        "2025-08-21T16:50:31.687662+00:00"
       ],
-      "peak_controversy": 4.8,
-      "trend": "rising"
+      "peak_controversy": 2.7,
+      "trend": "new"
     },
     {
       "rank": 14,
@@ -752,7 +752,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
         "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
       },
-      "ratio": "22:1",
+      "ratio": "23:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -766,12 +766,12 @@
         "likes": 66,
         "replies": 43,
         "reposts": 5,
-        "quotes": 112,
+        "quotes": 114,
         "formatted": {
           "likes": "66",
           "replies": "43",
           "reposts": "5",
-          "quotes": "112"
+          "quotes": "114"
         }
       },
       "sample_replies": [
@@ -818,12 +818,12 @@
         "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
       },
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "replies": 6,
         "reposts": 5,
         "quotes": 50,
         "formatted": {
-          "likes": "18",
+          "likes": "19",
           "replies": "6",
           "reposts": "5",
           "quotes": "50"
@@ -873,13 +873,13 @@
         "url": "https://bsky.app/profile/migueldelaney.bsky.social/post/3lwwa3dugg22r"
       },
       "engagement": {
-        "likes": 15,
-        "replies": 15,
+        "likes": 17,
+        "replies": 17,
         "reposts": 0,
         "quotes": 17,
         "formatted": {
-          "likes": "15",
-          "replies": "15",
+          "likes": "17",
+          "replies": "17",
           "reposts": "0",
           "quotes": "17"
         }
@@ -932,12 +932,12 @@
         "likes": 76,
         "replies": 18,
         "reposts": 8,
-        "quotes": 117,
+        "quotes": 118,
         "formatted": {
           "likes": "76",
           "replies": "18",
           "reposts": "8",
-          "quotes": "117"
+          "quotes": "118"
         }
       },
       "sample_replies": [
@@ -1083,7 +1083,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "42:1",
+      "ratio": "43:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1094,15 +1094,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 90,
+        "likes": 91,
         "replies": 3,
         "reposts": 3,
-        "quotes": 127,
+        "quotes": 128,
         "formatted": {
-          "likes": "90",
+          "likes": "91",
           "replies": "3",
           "reposts": "3",
-          "quotes": "127"
+          "quotes": "128"
         }
       },
       "sample_replies": [
@@ -1316,15 +1316,15 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 97,
+        "likes": 98,
         "replies": 10,
         "reposts": 9,
-        "quotes": 99,
+        "quotes": 103,
         "formatted": {
-          "likes": "97",
+          "likes": "98",
           "replies": "10",
           "reposts": "9",
-          "quotes": "99"
+          "quotes": "103"
         }
       },
       "sample_replies": [
@@ -1761,15 +1761,15 @@
         "url": "https://bsky.app/profile/electionmaps.uk/post/3lwvmkzpx6k2m"
       },
       "engagement": {
-        "likes": 28,
+        "likes": 29,
         "replies": 25,
         "reposts": 8,
-        "quotes": 29,
+        "quotes": 30,
         "formatted": {
-          "likes": "28",
+          "likes": "29",
           "replies": "25",
           "reposts": "8",
-          "quotes": "29"
+          "quotes": "30"
         }
       },
       "sample_replies": [
@@ -2042,12 +2042,12 @@
       },
       "engagement": {
         "likes": 10,
-        "replies": 5,
+        "replies": 6,
         "reposts": 7,
         "quotes": 14,
         "formatted": {
           "likes": "10",
-          "replies": "5",
+          "replies": "6",
           "reposts": "7",
           "quotes": "14"
         }
@@ -2259,12 +2259,12 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 623,
+        "likes": 626,
         "replies": 62,
         "reposts": 58,
         "quotes": 294,
         "formatted": {
-          "likes": "623",
+          "likes": "626",
           "replies": "62",
           "reposts": "58",
           "quotes": "294"
@@ -2372,13 +2372,13 @@
       },
       "engagement": {
         "likes": 62,
-        "replies": 26,
-        "reposts": 27,
+        "replies": 27,
+        "reposts": 29,
         "quotes": 36,
         "formatted": {
           "likes": "62",
-          "replies": "26",
-          "reposts": "27",
+          "replies": "27",
+          "reposts": "29",
           "quotes": "36"
         }
       },
@@ -2427,12 +2427,12 @@
         "url": "https://bsky.app/profile/statsboyandi.bsky.social/post/3lwwbfb6cg22m"
       },
       "engagement": {
-        "likes": 64,
+        "likes": 67,
         "replies": 7,
         "reposts": 1,
         "quotes": 13,
         "formatted": {
-          "likes": "64",
+          "likes": "67",
           "replies": "7",
           "reposts": "1",
           "quotes": "13"
@@ -2483,12 +2483,12 @@
         "url": "https://bsky.app/profile/felipepepe.bsky.social/post/3lwvpumn5222q"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 54,
         "replies": 3,
         "reposts": 0,
         "quotes": 22,
         "formatted": {
-          "likes": "53",
+          "likes": "54",
           "replies": "3",
           "reposts": "0",
           "quotes": "22"
