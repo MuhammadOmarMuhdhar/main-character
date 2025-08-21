@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T00:04:44.416673+00:00",
-    "last_metrics_update": "2025-08-21T02:32:35.398062+00:00",
+    "last_metrics_update": "2025-08-21T02:47:47.847597+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 41,
@@ -148,12 +148,12 @@
       },
       "engagement": {
         "likes": 5,
-        "replies": 4,
+        "replies": 5,
         "reposts": 0,
         "quotes": 48,
         "formatted": {
           "likes": "5",
-          "replies": "4",
+          "replies": "5",
           "reposts": "0",
           "quotes": "48"
         }
@@ -242,62 +242,6 @@
     {
       "rank": 5,
       "user": {
-        "handle": "cpsc.gov",
-        "display_name": "U.S. Consumer Product Safety Commission",
-        "initials": "UC",
-        "did": "did:plc:wbmw5r5a2j7txv72ggne2uoe",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wbmw5r5a2j7txv72ggne2uoe/bafkreid6oqe3xeeyqbupxknvmwehszrqthjjz5an22vrjezapqn4pjksei@jpeg",
-        "profile_url": "https://bsky.app/profile/cpsc.gov"
-      },
-      "ratio": "9:1",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "CPSC Withdraws Rules That Are Outdated, Fail to Advance Safety; New Leadership Focuses on Hazards That Pose Real Risks. Learn more: www.cpsc.gov/Newsroom/New...",
-        "uri": "at://did:plc:wbmw5r5a2j7txv72ggne2uoe/app.bsky.feed.post/3lwucoviwqs2m",
-        "created_at": "2025-08-20T20:53:20.952Z",
-        "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
-      },
-      "engagement": {
-        "likes": 69,
-        "replies": 207,
-        "reposts": 22,
-        "quotes": 204,
-        "formatted": {
-          "likes": "69",
-          "replies": "207",
-          "reposts": "22",
-          "quotes": "204"
-        }
-      },
-      "sample_replies": [
-        "You’ll always live on in our memories 🥺",
-        "blink twice if you need help",
-        "The part in the zombie movie where the protagonist realizes their best friend has been bitten",
-        "dang"
-      ],
-      "metrics": {
-        "ratio_score": 6.86,
-        "confidence": 0.708,
-        "category": "Quote Dunk",
-        "post_age_minutes": 174.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:43.883751+00:00",
-      "last_updated": "2025-08-21T00:04:43.883751+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:43.883751+00:00"
-      ],
-      "peak_controversy": 2.0,
-      "trend": "new"
-    },
-    {
-      "rank": 6,
-      "user": {
         "handle": "theathleticfc.bsky.social",
         "display_name": "The Athletic | Football",
         "initials": "TA",
@@ -352,6 +296,62 @@
       ],
       "peak_controversy": 5.1,
       "trend": "rising"
+    },
+    {
+      "rank": 6,
+      "user": {
+        "handle": "cpsc.gov",
+        "display_name": "U.S. Consumer Product Safety Commission",
+        "initials": "UC",
+        "did": "did:plc:wbmw5r5a2j7txv72ggne2uoe",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wbmw5r5a2j7txv72ggne2uoe/bafkreid6oqe3xeeyqbupxknvmwehszrqthjjz5an22vrjezapqn4pjksei@jpeg",
+        "profile_url": "https://bsky.app/profile/cpsc.gov"
+      },
+      "ratio": "9:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "CPSC Withdraws Rules That Are Outdated, Fail to Advance Safety; New Leadership Focuses on Hazards That Pose Real Risks. Learn more: www.cpsc.gov/Newsroom/New...",
+        "uri": "at://did:plc:wbmw5r5a2j7txv72ggne2uoe/app.bsky.feed.post/3lwucoviwqs2m",
+        "created_at": "2025-08-20T20:53:20.952Z",
+        "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
+      },
+      "engagement": {
+        "likes": 73,
+        "replies": 209,
+        "reposts": 23,
+        "quotes": 209,
+        "formatted": {
+          "likes": "73",
+          "replies": "209",
+          "reposts": "23",
+          "quotes": "209"
+        }
+      },
+      "sample_replies": [
+        "You’ll always live on in our memories 🥺",
+        "blink twice if you need help",
+        "The part in the zombie movie where the protagonist realizes their best friend has been bitten",
+        "dang"
+      ],
+      "metrics": {
+        "ratio_score": 6.86,
+        "confidence": 0.708,
+        "category": "Quote Dunk",
+        "post_age_minutes": 174.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:43.883751+00:00",
+      "last_updated": "2025-08-21T00:04:43.883751+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:43.883751+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
     },
     {
       "rank": 7,
@@ -485,15 +485,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 298,
-        "replies": 131,
+        "likes": 300,
+        "replies": 132,
         "reposts": 36,
-        "quotes": 532,
+        "quotes": 536,
         "formatted": {
-          "likes": "298",
-          "replies": "131",
+          "likes": "300",
+          "replies": "132",
           "reposts": "36",
-          "quotes": "532"
+          "quotes": "536"
         }
       },
       "sample_replies": [
@@ -654,12 +654,12 @@
       },
       "engagement": {
         "likes": 71,
-        "replies": 16,
+        "replies": 17,
         "reposts": 7,
         "quotes": 111,
         "formatted": {
           "likes": "71",
-          "replies": "16",
+          "replies": "17",
           "reposts": "7",
           "quotes": "111"
         }
@@ -810,7 +810,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ymc5jbmqtr3z6yzlliq7ihi5/bafkreifjjitun5tcpyu7xbymvnotvwd6ns2gsk4fet5a4ajfbnevjuczfu@jpeg",
         "profile_url": "https://bsky.app/profile/erynmccee.bsky.social"
       },
-      "ratio": "21:1",
+      "ratio": "22:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -821,15 +821,15 @@
         "url": "https://bsky.app/profile/erynmccee.bsky.social/post/3lwtzftxd5s2m"
       },
       "engagement": {
-        "likes": 57,
+        "likes": 58,
         "replies": 2,
         "reposts": 4,
-        "quotes": 85,
+        "quotes": 86,
         "formatted": {
-          "likes": "57",
+          "likes": "58",
           "replies": "2",
           "reposts": "4",
-          "quotes": "85"
+          "quotes": "86"
         }
       },
       "sample_replies": [
@@ -931,12 +931,12 @@
       },
       "engagement": {
         "likes": 15,
-        "replies": 7,
+        "replies": 8,
         "reposts": 1,
         "quotes": 22,
         "formatted": {
           "likes": "15",
-          "replies": "7",
+          "replies": "8",
           "reposts": "1",
           "quotes": "22"
         }
@@ -1210,12 +1210,12 @@
         "url": "https://bsky.app/profile/mid-majormadness.bsky.social/post/3lwtqc5usi227"
       },
       "engagement": {
-        "likes": 27,
+        "likes": 28,
         "replies": 10,
         "reposts": 2,
         "quotes": 28,
         "formatted": {
-          "likes": "27",
+          "likes": "28",
           "replies": "10",
           "reposts": "2",
           "quotes": "28"
@@ -1266,12 +1266,12 @@
         "url": "https://bsky.app/profile/rlivre.cc/post/3lwtmpiikac2n"
       },
       "engagement": {
-        "likes": 70,
+        "likes": 71,
         "replies": 12,
         "reposts": 4,
         "quotes": 71,
         "formatted": {
-          "likes": "70",
+          "likes": "71",
           "replies": "12",
           "reposts": "4",
           "quotes": "71"
@@ -2037,7 +2037,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7ztwdzlcpvnf6lsve4gj6bp/bafkreibwinbjplgeyqf7ebzrnjwqw3xipautpa7yoqs5hofmqbfdtjr3ju@jpeg",
         "profile_url": "https://bsky.app/profile/tomandlorenzo.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2048,15 +2048,15 @@
         "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
       },
       "engagement": {
-        "likes": 93,
-        "replies": 24,
-        "reposts": 10,
-        "quotes": 35,
+        "likes": 98,
+        "replies": 25,
+        "reposts": 12,
+        "quotes": 36,
         "formatted": {
-          "likes": "93",
-          "replies": "24",
-          "reposts": "10",
-          "quotes": "35"
+          "likes": "98",
+          "replies": "25",
+          "reposts": "12",
+          "quotes": "36"
         }
       },
       "sample_replies": [
