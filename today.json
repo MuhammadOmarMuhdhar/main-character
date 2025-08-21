@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T06:58:20.340862+00:00",
-    "last_metrics_update": "2025-08-21T08:32:22.864610+00:00",
+    "last_metrics_update": "2025-08-21T08:47:45.824837+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 56,
@@ -374,12 +374,12 @@
         "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
       },
       "engagement": {
-        "likes": 85,
+        "likes": 86,
         "replies": 245,
         "reposts": 26,
         "quotes": 238,
         "formatted": {
-          "likes": "85",
+          "likes": "86",
           "replies": "245",
           "reposts": "26",
           "quotes": "238"
@@ -544,12 +544,12 @@
       },
       "engagement": {
         "likes": 331,
-        "replies": 138,
+        "replies": 140,
         "reposts": 40,
         "quotes": 569,
         "formatted": {
           "likes": "331",
-          "replies": "138",
+          "replies": "140",
           "reposts": "40",
           "quotes": "569"
         }
@@ -699,8 +699,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:myiicuuddgocirxy7h6luz3y/bafkreig4wpt4sbv43t5bdwyy3xlzjc4s4r4roojitn3aiob7xhcdk7p5nq@jpeg",
         "profile_url": "https://bsky.app/profile/rize4eva.bsky.social"
       },
-      "ratio": "17:1",
-      "controversy": 0.7,
+      "ratio": "19:1",
+      "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -710,15 +710,15 @@
         "url": "https://bsky.app/profile/rize4eva.bsky.social/post/3lwv5l3kmic2o"
       },
       "engagement": {
-        "likes": 3,
+        "likes": 4,
         "replies": 3,
         "reposts": 1,
-        "quotes": 17,
+        "quotes": 19,
         "formatted": {
-          "likes": "3",
+          "likes": "4",
           "replies": "3",
           "reposts": "1",
-          "quotes": "17"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -932,15 +932,15 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 63,
+        "likes": 64,
         "replies": 39,
         "reposts": 5,
-        "quotes": 100,
+        "quotes": 101,
         "formatted": {
-          "likes": "63",
+          "likes": "64",
           "replies": "39",
           "reposts": "5",
-          "quotes": "100"
+          "quotes": "101"
         }
       },
       "sample_replies": [
@@ -1297,62 +1297,6 @@
     {
       "rank": 24,
       "user": {
-        "handle": "shojoscholar.bsky.social",
-        "display_name": "The Cloud Akatsuskeet🥷🏾✨",
-        "initials": "TC",
-        "did": "did:plc:q5xswyb56ec756hv2yg577cv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5xswyb56ec756hv2yg577cv/bafkreidfgeey32uownqmbt7vx4nd4w7ah6gwezfjlao2y5rdm5otf4hzh4@jpeg",
-        "profile_url": "https://bsky.app/profile/shojoscholar.bsky.social"
-      },
-      "ratio": "13:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What is it with niggas wanting to be suffocated? I will NAWT catch a homicide case cause you want me to slither over ya nostrils😭😭",
-        "uri": "at://did:plc:q5xswyb56ec756hv2yg577cv/app.bsky.feed.post/3lwvapw4pg22v",
-        "created_at": "2025-08-21T05:50:47.408Z",
-        "url": "https://bsky.app/profile/shojoscholar.bsky.social/post/3lwvapw4pg22v"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 13,
-        "formatted": {
-          "likes": "9",
-          "replies": "2",
-          "reposts": "1",
-          "quotes": "13"
-        }
-      },
-      "sample_replies": [
-        "We got WAIVERS",
-        "I’ll have a prepared video statement clearing you of any and all possible charges 👨🏾‍⚖️ we...",
-        "Love to hear this🙂‍↕️",
-        "HARD HEADED😭"
-      ],
-      "metrics": {
-        "ratio_score": 11,
-        "confidence": 0.365,
-        "category": "Complete Ratio",
-        "post_age_minutes": 56.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.479085+00:00",
-      "last_updated": "2025-08-21T06:58:19.479085+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.479085+00:00"
-      ],
-      "peak_controversy": 1.9,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
-      "user": {
         "handle": "mid-majormadness.bsky.social",
         "display_name": "Mid-Major Madness",
         "initials": "MM",
@@ -1407,7 +1351,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "rlivre.cc",
         "display_name": "Radical Livre",
@@ -1463,7 +1407,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "anythinggoe.com",
         "display_name": "AnythingGOEs - Figure Skating ",
@@ -1517,7 +1461,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "david-ornstein.bsky.social",
         "display_name": "David Ornstein",
@@ -1573,7 +1517,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "user": {
         "handle": "ilovetvtime.bsky.social",
         "display_name": "MS. \"ANN\" TENNA! 📺",
@@ -1629,7 +1573,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "user": {
         "handle": "iamabundantaf.bsky.social",
         "display_name": "I Am Abundant AF",
@@ -1684,6 +1628,62 @@
       "trend": "new"
     },
     {
+      "rank": 30,
+      "user": {
+        "handle": "shojoscholar.bsky.social",
+        "display_name": "The Cloud Akatsuskeet🥷🏾✨",
+        "initials": "TC",
+        "did": "did:plc:q5xswyb56ec756hv2yg577cv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5xswyb56ec756hv2yg577cv/bafkreidfgeey32uownqmbt7vx4nd4w7ah6gwezfjlao2y5rdm5otf4hzh4@jpeg",
+        "profile_url": "https://bsky.app/profile/shojoscholar.bsky.social"
+      },
+      "ratio": "13:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What is it with niggas wanting to be suffocated? I will NAWT catch a homicide case cause you want me to slither over ya nostrils😭😭",
+        "uri": "at://did:plc:q5xswyb56ec756hv2yg577cv/app.bsky.feed.post/3lwvapw4pg22v",
+        "created_at": "2025-08-21T05:50:47.408Z",
+        "url": "https://bsky.app/profile/shojoscholar.bsky.social/post/3lwvapw4pg22v"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 13,
+        "formatted": {
+          "likes": "10",
+          "replies": "2",
+          "reposts": "1",
+          "quotes": "13"
+        }
+      },
+      "sample_replies": [
+        "We got WAIVERS",
+        "I’ll have a prepared video statement clearing you of any and all possible charges 👨🏾‍⚖️ we...",
+        "Love to hear this🙂‍↕️",
+        "HARD HEADED😭"
+      ],
+      "metrics": {
+        "ratio_score": 11,
+        "confidence": 0.365,
+        "category": "Complete Ratio",
+        "post_age_minutes": 56.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.479085+00:00",
+      "last_updated": "2025-08-21T06:58:19.479085+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.479085+00:00"
+      ],
+      "peak_controversy": 1.9,
+      "trend": "new"
+    },
+    {
       "rank": 31,
       "user": {
         "handle": "theathletic.com",
@@ -1694,7 +1694,7 @@
         "profile_url": "https://bsky.app/profile/theathletic.com"
       },
       "ratio": "6:1",
-      "controversy": 0.3,
+      "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1704,12 +1704,12 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwv3ii5mpl24"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 19,
         "replies": 20,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
-          "likes": "17",
+          "likes": "19",
           "replies": "20",
           "reposts": "1",
           "quotes": "6"
@@ -1760,12 +1760,12 @@
         "url": "https://bsky.app/profile/jamesrball.com/post/3lwtcuxekqc2h"
       },
       "engagement": {
-        "likes": 48,
+        "likes": 49,
         "replies": 36,
         "reposts": 0,
         "quotes": 5,
         "formatted": {
-          "likes": "48",
+          "likes": "49",
           "replies": "36",
           "reposts": "0",
           "quotes": "5"
@@ -2317,15 +2317,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 424,
-        "replies": 34,
+        "likes": 426,
+        "replies": 35,
         "reposts": 43,
-        "quotes": 156,
+        "quotes": 163,
         "formatted": {
-          "likes": "424",
-          "replies": "34",
+          "likes": "426",
+          "replies": "35",
           "reposts": "43",
-          "quotes": "156"
+          "quotes": "163"
         }
       },
       "sample_replies": [
@@ -2590,7 +2590,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cmiespgbyd3l67c2wzbcudar/bafkreicuu3wpi4dk6hpm5axyyco3yj4ty7nhokxgoaa334d2hxl5jhvl6m@jpeg",
         "profile_url": "https://bsky.app/profile/bbfeedsfairy.bsky.social"
       },
-      "ratio": "8:1",
+      "ratio": "4:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2601,14 +2601,14 @@
         "url": "https://bsky.app/profile/bbfeedsfairy.bsky.social/post/3lwv4eweqcc2r"
       },
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "replies": 3,
-        "reposts": 1,
+        "reposts": 2,
         "quotes": 8,
         "formatted": {
-          "likes": "14",
+          "likes": "15",
           "replies": "3",
-          "reposts": "1",
+          "reposts": "2",
           "quotes": "8"
         }
       },
@@ -2656,13 +2656,13 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 169,
-        "replies": 76,
+        "likes": 170,
+        "replies": 77,
         "reposts": 62,
         "quotes": 108,
         "formatted": {
-          "likes": "169",
-          "replies": "76",
+          "likes": "170",
+          "replies": "77",
           "reposts": "62",
           "quotes": "108"
         }
