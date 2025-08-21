@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T03:32:26.722120+00:00",
-    "last_metrics_update": "2025-08-21T05:17:21.954546+00:00",
+    "last_metrics_update": "2025-08-21T05:32:25.484120+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 49,
@@ -261,12 +261,12 @@
       },
       "engagement": {
         "likes": 79,
-        "replies": 239,
+        "replies": 240,
         "reposts": 24,
         "quotes": 234,
         "formatted": {
           "likes": "79",
-          "replies": "239",
+          "replies": "240",
           "reposts": "24",
           "quotes": "234"
         }
@@ -430,12 +430,12 @@
         "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwupcdbchc2z"
       },
       "engagement": {
-        "likes": 21,
+        "likes": 22,
         "replies": 10,
         "reposts": 1,
         "quotes": 62,
         "formatted": {
-          "likes": "21",
+          "likes": "22",
           "replies": "10",
           "reposts": "1",
           "quotes": "62"
@@ -476,7 +476,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "15:1",
+      "ratio": "14:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -487,15 +487,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 319,
+        "likes": 322,
         "replies": 138,
-        "reposts": 38,
-        "quotes": 562,
+        "reposts": 39,
+        "quotes": 565,
         "formatted": {
-          "likes": "319",
+          "likes": "322",
           "replies": "138",
-          "reposts": "38",
-          "quotes": "562"
+          "reposts": "39",
+          "quotes": "565"
         }
       },
       "sample_replies": [
@@ -821,12 +821,12 @@
         "url": "https://bsky.app/profile/laportereporte.bsky.social/post/3lwtrlqy3ck2g"
       },
       "engagement": {
-        "likes": 51,
+        "likes": 52,
         "replies": 13,
         "reposts": 5,
         "quotes": 70,
         "formatted": {
-          "likes": "51",
+          "likes": "52",
           "replies": "13",
           "reposts": "5",
           "quotes": "70"
@@ -1546,12 +1546,12 @@
         "likes": 30,
         "replies": 16,
         "reposts": 3,
-        "quotes": 27,
+        "quotes": 28,
         "formatted": {
           "likes": "30",
           "replies": "16",
           "reposts": "3",
-          "quotes": "27"
+          "quotes": "28"
         }
       },
       "sample_replies": [
@@ -1656,12 +1656,12 @@
       },
       "engagement": {
         "likes": 54,
-        "replies": 10,
+        "replies": 11,
         "reposts": 1,
         "quotes": 22,
         "formatted": {
           "likes": "54",
-          "replies": "10",
+          "replies": "11",
           "reposts": "1",
           "quotes": "22"
         }
@@ -1711,12 +1711,12 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 67,
+        "likes": 68,
         "replies": 16,
         "reposts": 9,
         "quotes": 35,
         "formatted": {
-          "likes": "67",
+          "likes": "68",
           "replies": "16",
           "reposts": "9",
           "quotes": "35"
@@ -2082,62 +2082,6 @@
     {
       "rank": 38,
       "user": {
-        "handle": "shanegoldmacher.bsky.social",
-        "display_name": "Shane Goldmacher",
-        "initials": "SG",
-        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
-        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
-        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
-        "created_at": "2025-08-20T12:28:30.233Z",
-        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
-      },
-      "engagement": {
-        "likes": 162,
-        "replies": 72,
-        "reposts": 61,
-        "quotes": 108,
-        "formatted": {
-          "likes": "162",
-          "replies": "72",
-          "reposts": "61",
-          "quotes": "108"
-        }
-      },
-      "sample_replies": [
-        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
-        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
-        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
-        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
-      ],
-      "metrics": {
-        "ratio_score": 7.5,
-        "confidence": 0.468,
-        "category": "Quote Dunk",
-        "post_age_minutes": 64.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.573864+00:00",
-      "last_updated": "2025-08-20T13:46:49.573864+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.573864+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 39,
-      "user": {
         "handle": "jacobtanswell.bsky.social",
         "display_name": "Jacob Tanswell",
         "initials": "JT",
@@ -2192,7 +2136,7 @@
       "trend": "new"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -2212,15 +2156,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 354,
+        "likes": 361,
         "replies": 29,
-        "reposts": 30,
-        "quotes": 128,
+        "reposts": 32,
+        "quotes": 130,
         "formatted": {
-          "likes": "354",
+          "likes": "361",
           "replies": "29",
-          "reposts": "30",
-          "quotes": "128"
+          "reposts": "32",
+          "quotes": "130"
         }
       },
       "sample_replies": [
@@ -2248,7 +2192,7 @@
       "trend": "new"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -2305,6 +2249,62 @@
       ],
       "peak_controversy": 4.0,
       "trend": "rising"
+    },
+    {
+      "rank": 41,
+      "user": {
+        "handle": "shanegoldmacher.bsky.social",
+        "display_name": "Shane Goldmacher",
+        "initials": "SG",
+        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
+        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
+        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
+        "created_at": "2025-08-20T12:28:30.233Z",
+        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
+      },
+      "engagement": {
+        "likes": 164,
+        "replies": 73,
+        "reposts": 62,
+        "quotes": 108,
+        "formatted": {
+          "likes": "164",
+          "replies": "73",
+          "reposts": "62",
+          "quotes": "108"
+        }
+      },
+      "sample_replies": [
+        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
+        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
+        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
+        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
+      ],
+      "metrics": {
+        "ratio_score": 7.5,
+        "confidence": 0.468,
+        "category": "Quote Dunk",
+        "post_age_minutes": 64.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.573864+00:00",
+      "last_updated": "2025-08-20T13:46:49.573864+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.573864+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
     },
     {
       "rank": 42,
