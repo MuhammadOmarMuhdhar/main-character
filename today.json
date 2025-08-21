@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-21T00:04:44.416673+00:00",
-    "last_metrics_update": "2025-08-21T03:02:38.234322+00:00",
+    "last_full_analysis": "2025-08-21T03:32:26.722120+00:00",
+    "last_metrics_update": "2025-08-21T03:32:26.722120+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 41,
+    "main_characters_count": 49,
     "rolling_window": {
-      "last_update": "2025-08-21T00:04:44.416673+00:00",
-      "new_entries_added": 8,
-      "total_in_window": 41,
+      "last_update": "2025-08-21T03:32:26.722120+00:00",
+      "new_entries_added": 9,
+      "total_in_window": 49,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,6 +16,63 @@
   "main_characters": [
     {
       "rank": 1,
+      "user": {
+        "handle": "blackranga.blacksky.app",
+        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
+        "initials": "GI",
+        "did": "did:plc:tom67pr2zmkziputghvxoe34",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
+        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
+      },
+      "ratio": "49:1",
+      "controversy": 5.2,
+      "change": "+5.0",
+      "change_type": "positive",
+      "post": {
+        "text": "Ok, but which Wayans brother had your heart or your draws?\n\n#BlackSky #BlackGaySky",
+        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lwupcdbchc2z",
+        "created_at": "2025-08-21T00:38:57.810Z",
+        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwupcdbchc2z"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 10,
+        "reposts": 1,
+        "quotes": 49,
+        "formatted": {
+          "likes": "20",
+          "replies": "10",
+          "reposts": "1",
+          "quotes": "49"
+        }
+      },
+      "sample_replies": [
+        "shawn was always the finest",
+        "Shawn. It’s always been Shawn",
+        "EVERY. SINGLE. ONE.",
+        "Shawn and Marlon could easily run a train on me"
+      ],
+      "metrics": {
+        "ratio_score": 49.0,
+        "confidence": 0.537,
+        "category": "Complete Ratio",
+        "post_age_minutes": 158.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.482775+00:00",
+      "last_updated": "2025-08-21T03:32:26.722040+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.482775+00:00",
+        "2025-08-21T03:32:26.722040+00:00"
+      ],
+      "peak_controversy": 5.2,
+      "trend": "rising"
+    },
+    {
+      "rank": 2,
       "user": {
         "handle": "seauxcocoa.bsky.social",
         "display_name": "Cocoa Chaos",
@@ -71,7 +128,63 @@
       "trend": "new"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "user": {
+        "handle": "bugsmaytrix.bsky.social",
+        "display_name": "Bugs Maytrix: Insects Reloaded",
+        "initials": "BM",
+        "did": "did:plc:pzsrpsyeeppu4jbadsab7wjp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzsrpsyeeppu4jbadsab7wjp/bafkreia2xrz26vy2bosvuqm3rxtdu4gzpukttqhe4nhrjhnypj4cfqj7ze@jpeg",
+        "profile_url": "https://bsky.app/profile/bugsmaytrix.bsky.social"
+      },
+      "ratio": "11:1",
+      "controversy": 3.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What were your first 3 sets, and what do they say about you?\n\n- Unfinity\n- Brother's War\n- Phyrexia: All Will Be One\n\ni am full of whimsy, artifacts, and glistening oil 😌😌",
+        "uri": "at://did:plc:pzsrpsyeeppu4jbadsab7wjp/app.bsky.feed.post/3lwuwum22cc2x",
+        "created_at": "2025-08-21T02:54:27.189Z",
+        "url": "https://bsky.app/profile/bugsmaytrix.bsky.social/post/3lwuwum22cc2x"
+      },
+      "engagement": {
+        "likes": 28,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 11,
+        "formatted": {
+          "likes": "28",
+          "replies": "3",
+          "reposts": "1",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "and also that i hyperfixated on this game hard",
+        "Understandable, you got in during some banger sets",
+        "brothers war rocks so hard lol",
+        "it's absolutely why they're my favorites lmao"
+      ],
+      "metrics": {
+        "ratio_score": 11.0,
+        "confidence": 0.588,
+        "category": "Complete Ratio",
+        "post_age_minutes": 23.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:25.659027+00:00",
+      "last_updated": "2025-08-21T03:32:25.659027+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:25.659027+00:00"
+      ],
+      "peak_controversy": 3.2,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
       "user": {
         "handle": "alexkirshner.com",
         "display_name": "Alex Kirshner",
@@ -127,7 +240,174 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "user": {
+        "handle": "petersterne.com",
+        "display_name": "Peter Sterne",
+        "initials": "PS",
+        "did": "did:plc:3o3xlahjenddxtpwwk6c6z5w",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3o3xlahjenddxtpwwk6c6z5w/bafkreialpxbc3q7segsi62s7wlpypta734eneseabetcdgle2v6wlmufci@jpeg",
+        "profile_url": "https://bsky.app/profile/petersterne.com"
+      },
+      "ratio": "10:1",
+      "controversy": 2.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Winnie Greco's attorney told The New York Times that it's common in Chinese culture to give cash to reporters. www.nytimes.com/2025/08/20/n...",
+        "uri": "at://did:plc:3o3xlahjenddxtpwwk6c6z5w/app.bsky.feed.post/3lwuvsffgbs2x",
+        "created_at": "2025-08-21T02:35:19.368Z",
+        "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
+      },
+      "engagement": {
+        "likes": 24,
+        "replies": 8,
+        "reposts": 2,
+        "quotes": 19,
+        "formatted": {
+          "likes": "24",
+          "replies": "8",
+          "reposts": "2",
+          "quotes": "19"
+        }
+      },
+      "sample_replies": [
+        "I'm sorry you mistook my bribe for a bribe.",
+        "The Times appears to be lifting this quote from @thecity.nyc and altering it to make it even more...",
+        "He gave that quote to The City. (The NYT seems to have lifted a lot of info/quotes from The City’s...",
+        "This is not a defense of Winnie Greco who stands out for excessive corruption even among Eric..."
+      ],
+      "metrics": {
+        "ratio_score": 9.5,
+        "confidence": 0.578,
+        "category": "Quote Dunk",
+        "post_age_minutes": 42.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:25.800254+00:00",
+      "last_updated": "2025-08-21T03:32:25.800254+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:25.800254+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 6,
+      "user": {
+        "handle": "wovenantelope.bsky.social",
+        "display_name": "Antelope",
+        "initials": "AN",
+        "did": "did:plc:jxeww66t2k5vwuvmxkjydrka",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
+        "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
+      },
+      "ratio": "8:1",
+      "controversy": 2.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What brand of chip bag would you pass a bribe in?",
+        "uri": "at://did:plc:jxeww66t2k5vwuvmxkjydrka/app.bsky.feed.post/3lwuqfs2zjc2d",
+        "created_at": "2025-08-21T00:58:47.746Z",
+        "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
+      },
+      "engagement": {
+        "likes": 53,
+        "replies": 37,
+        "reposts": 5,
+        "quotes": 40,
+        "formatted": {
+          "likes": "53",
+          "replies": "37",
+          "reposts": "5",
+          "quotes": "40"
+        }
+      },
+      "sample_replies": [
+        "I'd keep it local",
+        "Dirty Chips. Obv",
+        "I'm going BOX of Grippo's."
+      ],
+      "metrics": {
+        "ratio_score": 8.0,
+        "confidence": 0.64,
+        "category": "Quote Dunk",
+        "post_age_minutes": 139.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:25.976063+00:00",
+      "last_updated": "2025-08-21T03:32:25.976063+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:25.976063+00:00"
+      ],
+      "peak_controversy": 2.1,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "ilovetvtime.bsky.social",
+        "display_name": "MS. \"ANN\" TENNA! 📺",
+        "initials": "M\"",
+        "did": "did:plc:ltivjmbpum4hdd6nqj3so5o3",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ltivjmbpum4hdd6nqj3so5o3/bafkreidhruqawpn2ogbjl7ybvipgdgv3xhs3sm6rsjxhj37rrkxulnjyrq@jpeg",
+        "profile_url": "https://bsky.app/profile/ilovetvtime.bsky.social"
+      },
+      "ratio": "6:0",
+      "controversy": 1.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I have a PHYSICAL CHALLENGE for everyone! Iit's called. \"Let's all be nice to Tenna for at least one day\"",
+        "uri": "at://did:plc:ltivjmbpum4hdd6nqj3so5o3/app.bsky.feed.post/3lwuosmhu5l2g",
+        "created_at": "2025-08-21T00:30:10.599Z",
+        "url": "https://bsky.app/profile/ilovetvtime.bsky.social/post/3lwuosmhu5l2g"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 6,
+        "formatted": {
+          "likes": "6",
+          "replies": "7",
+          "reposts": "0",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "[ has complicated feelings but is also spiteful ] these other krises are crazy tenna get behind me",
+        "[ Shrinking down and getting behind Gabi. Grown ass woman, btw ]",
+        "I am nice to you every day because I love you and you are a wonderful sister!",
+        "🥺🥺🥺"
+      ],
+      "metrics": {
+        "ratio_score": 13,
+        "confidence": 0.279,
+        "category": "Complete Ratio",
+        "post_age_minutes": 167.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.293648+00:00",
+      "last_updated": "2025-08-21T03:32:26.293648+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.293648+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
+      "rank": 8,
       "user": {
         "handle": "hanginwitcoop.blacksky.app",
         "display_name": "Everything is JOKES!",
@@ -183,64 +463,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
-      "user": {
-        "handle": "mick-ee.bsky.social",
-        "display_name": "🎀 mickee 🎀",
-        "initials": "🎀M",
-        "did": "did:plc:jcv4vlqmnipn2vbw4xdtshw5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jcv4vlqmnipn2vbw4xdtshw5/bafkreienkhhebgw6tg2kskvgbeqm6rs75rxnswo63npadualbqzrmqf2ym@jpeg",
-        "profile_url": "https://bsky.app/profile/mick-ee.bsky.social"
-      },
-      "ratio": "15:0",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Guys Shelby is NAWT a cool white. I repeat she is NAWT COOL",
-        "uri": "at://did:plc:jcv4vlqmnipn2vbw4xdtshw5/app.bsky.feed.post/3lwtp5wazb22t",
-        "created_at": "2025-08-20T15:03:50.211Z",
-        "url": "https://bsky.app/profile/mick-ee.bsky.social/post/3lwtp5wazb22t"
-      },
-      "engagement": {
-        "likes": 3,
-        "replies": 9,
-        "reposts": 0,
-        "quotes": 15,
-        "formatted": {
-          "likes": "3",
-          "replies": "9",
-          "reposts": "0",
-          "quotes": "15"
-        }
-      },
-      "sample_replies": [
-        "Y U C K",
-        "🤣🤣🤣🤣",
-        "OH MY GOSH WHAT THE FUCK",
-        "what in the Sam Hill is going on? ffs im fully dressed on the skyline this morning, lets pull it..."
-      ],
-      "metrics": {
-        "ratio_score": 18,
-        "confidence": 0.327,
-        "category": "Complete Ratio",
-        "post_age_minutes": 104.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:30.265154+00:00",
-      "last_updated": "2025-08-20T17:05:30.680311+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:30.265154+00:00",
-        "2025-08-20T17:05:30.680311+00:00"
-      ],
-      "peak_controversy": 3.7,
-      "trend": "rising"
-    },
-    {
-      "rank": 5,
+      "rank": 9,
       "user": {
         "handle": "theathleticfc.bsky.social",
         "display_name": "The Athletic | Football",
@@ -298,7 +521,230 @@
       "trend": "rising"
     },
     {
-      "rank": 6,
+      "rank": 10,
+      "user": {
+        "handle": "mick-ee.bsky.social",
+        "display_name": "🎀 mickee 🎀",
+        "initials": "🎀M",
+        "did": "did:plc:jcv4vlqmnipn2vbw4xdtshw5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jcv4vlqmnipn2vbw4xdtshw5/bafkreienkhhebgw6tg2kskvgbeqm6rs75rxnswo63npadualbqzrmqf2ym@jpeg",
+        "profile_url": "https://bsky.app/profile/mick-ee.bsky.social"
+      },
+      "ratio": "15:0",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Guys Shelby is NAWT a cool white. I repeat she is NAWT COOL",
+        "uri": "at://did:plc:jcv4vlqmnipn2vbw4xdtshw5/app.bsky.feed.post/3lwtp5wazb22t",
+        "created_at": "2025-08-20T15:03:50.211Z",
+        "url": "https://bsky.app/profile/mick-ee.bsky.social/post/3lwtp5wazb22t"
+      },
+      "engagement": {
+        "likes": 3,
+        "replies": 9,
+        "reposts": 0,
+        "quotes": 15,
+        "formatted": {
+          "likes": "3",
+          "replies": "9",
+          "reposts": "0",
+          "quotes": "15"
+        }
+      },
+      "sample_replies": [
+        "Y U C K",
+        "🤣🤣🤣🤣",
+        "OH MY GOSH WHAT THE FUCK",
+        "what in the Sam Hill is going on? ffs im fully dressed on the skyline this morning, lets pull it..."
+      ],
+      "metrics": {
+        "ratio_score": 18,
+        "confidence": 0.327,
+        "category": "Complete Ratio",
+        "post_age_minutes": 104.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:30.265154+00:00",
+      "last_updated": "2025-08-20T17:05:30.680311+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:30.265154+00:00",
+        "2025-08-20T17:05:30.680311+00:00"
+      ],
+      "peak_controversy": 3.7,
+      "trend": "rising"
+    },
+    {
+      "rank": 11,
+      "user": {
+        "handle": "iamabundantaf.bsky.social",
+        "display_name": "I Am Abundant AF",
+        "initials": "IA",
+        "did": "did:plc:fi4g4mzyxx3djsd66kzz6avj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fi4g4mzyxx3djsd66kzz6avj/bafkreigtsxkr25dngswjmictkgdkgyrbp7su4oslj62vrf3h3tp5rmowga@jpeg",
+        "profile_url": "https://bsky.app/profile/iamabundantaf.bsky.social"
+      },
+      "ratio": "9:1",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Can we have an honest conversation about how ALL of the male characters on Grey’s Anayomy are trash?\n\nEspecially, George! He might be the worst one tbh",
+        "uri": "at://did:plc:fi4g4mzyxx3djsd66kzz6avj/app.bsky.feed.post/3lwuwip6egs2p",
+        "created_at": "2025-08-21T02:47:47.823Z",
+        "url": "https://bsky.app/profile/iamabundantaf.bsky.social/post/3lwuwip6egs2p"
+      },
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 9,
+        "formatted": {
+          "likes": "5",
+          "replies": "3",
+          "reposts": "1",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "I HATED THAT MAN! I feel so seen😂",
+        "The men in general or just George?",
+        "BOFFUM but I’ll say this…..the worst man on Grey’s is absolutely nothing in comparison to Teddy..."
+      ],
+      "metrics": {
+        "ratio_score": 9.0,
+        "confidence": 0.425,
+        "category": "Quote Dunk",
+        "post_age_minutes": 29.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.137764+00:00",
+      "last_updated": "2025-08-21T03:32:26.137764+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.137764+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
+      "user": {
+        "handle": "drspookyer.bsky.social",
+        "display_name": "N.J. Gallegos",
+        "initials": "NG",
+        "did": "did:plc:ilkrbav2ibesg6i6qc3gunsv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilkrbav2ibesg6i6qc3gunsv/bafkreif7ldg6bdpvlyssfgidyaacovfqpdzqzb7njpxhmudgko7mwona64@jpeg",
+        "profile_url": "https://bsky.app/profile/drspookyer.bsky.social"
+      },
+      "ratio": "5:0",
+      "controversy": 1.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Introduce yourself with the last five concerts you attended:\n\nTaylor Swift ERAS\nBeyoncé Renaissance\nBreakaway Musical Festival in Minnesota \nAbove and Beyond’s Group Therapy\nKaskade Freaks of Nature",
+        "uri": "at://did:plc:ilkrbav2ibesg6i6qc3gunsv/app.bsky.feed.post/3lwurcvyhnk2c",
+        "created_at": "2025-08-21T01:15:04.935Z",
+        "url": "https://bsky.app/profile/drspookyer.bsky.social/post/3lwurcvyhnk2c"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 5,
+        "formatted": {
+          "likes": "8",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "2025\n\nWeird Al (Puddles Pity Party opening)\n(12 year gap)\nFiction 8 (convention I hosted)\n(12 year...",
+        "I've only been to THREE concerts in my life: Huey Lewis and the News, Mark Lowry (Christian version...",
+        "Weird Al\nBuddy Guy\nJoe Bonamasa\nThe Outlaws\nLed Zep tribute band"
+      ],
+      "metrics": {
+        "ratio_score": 8,
+        "confidence": 0.338,
+        "category": "Complete Ratio",
+        "post_age_minutes": 122.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.583425+00:00",
+      "last_updated": "2025-08-21T03:32:26.583425+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.583425+00:00"
+      ],
+      "peak_controversy": 1.4,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "3:1",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Alan Cumming says he didn’t know who he was acting with half the time when filming ‘Avengers: Doomsday’ \n\n“I did the entire film in isolation. Lots of green screen, face replacement. They even gave characters fake names. I don’t know who I was acting with half the time”\n\n(via Gold Derby)",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lwuuei27zk2y",
+        "created_at": "2025-08-21T02:09:38.638Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
+      },
+      "engagement": {
+        "likes": 274,
+        "replies": 18,
+        "reposts": 28,
+        "quotes": 81,
+        "formatted": {
+          "likes": "274",
+          "replies": "18",
+          "reposts": "28",
+          "quotes": "81"
+        }
+      },
+      "sample_replies": [
+        "that sounds horrible",
+        "between the movie being written on the fly and this, i feel like doomsday is gonna end up being an...",
+        "This is not how movies should be made",
+        "Can we agree this anti-leak, anti-spoiler secrecy is too damn much?"
+      ],
+      "metrics": {
+        "ratio_score": 2.89,
+        "confidence": 0.943,
+        "category": "Quote Dunk",
+        "post_age_minutes": 67.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.440725+00:00",
+      "last_updated": "2025-08-21T03:32:26.440725+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.440725+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
       "user": {
         "handle": "cpsc.gov",
         "display_name": "U.S. Consumer Product Safety Commission",
@@ -354,118 +800,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
-      "user": {
-        "handle": "paulbrand.bsky.social",
-        "display_name": "Paul Brand",
-        "initials": "PB",
-        "did": "did:plc:p6xfxeazk33zdmexhrlso5b6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6xfxeazk33zdmexhrlso5b6/bafkreig6dmlll3utotsgdsmrtx6b6mnaxro2egqrw56zfrznno6wjvf2z4@jpeg",
-        "profile_url": "https://bsky.app/profile/paulbrand.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "NEW: The Conservatives have written to the Home Secretary asking her to rule out moving asylum seekers to housing needed by locals.\n\n…”that none of the illegal immigrants currently in the Bell Hotel will be moved into hotels, HMOs, apartments, or social housing which are needed for British people.”",
-        "uri": "at://did:plc:p6xfxeazk33zdmexhrlso5b6/app.bsky.feed.post/3lwtf72byys26",
-        "created_at": "2025-08-20T12:05:30.583Z",
-        "url": "https://bsky.app/profile/paulbrand.bsky.social/post/3lwtf72byys26"
-      },
-      "engagement": {
-        "likes": 14,
-        "replies": 43,
-        "reposts": 6,
-        "quotes": 23,
-        "formatted": {
-          "likes": "14",
-          "replies": "43",
-          "reposts": "6",
-          "quotes": "23"
-        }
-      },
-      "sample_replies": [
-        "Perhaps they should have built some housing when they were in power? Just a thought.",
-        "when did we turn into such a nation of c**ts?",
-        "God, they're just scum aren't they.",
-        "So, the architects of the backlog and the housing of asylum seeker in hotels, are now objecting to..."
-      ],
-      "metrics": {
-        "ratio_score": 5.0,
-        "confidence": 0.652,
-        "category": "Quote Dunk",
-        "post_age_minutes": 87.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.748495+00:00",
-      "last_updated": "2025-08-20T13:46:49.748495+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.748495+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
-        "handle": "amesorisu.bsky.social",
-        "display_name": "Damir. 🧸",
-        "initials": "D🧸",
-        "did": "did:plc:63slnz7ykhqj42cp73xux63b",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:63slnz7ykhqj42cp73xux63b/bafkreictkbo74b22rzwoy4jdrtcqratwuzjmkrghffx4s24xmcgne2smii@jpeg",
-        "profile_url": "https://bsky.app/profile/amesorisu.bsky.social"
-      },
-      "ratio": "28:0",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "At your age, what’s a PERFECT gift to give you?",
-        "uri": "at://did:plc:63slnz7ykhqj42cp73xux63b/app.bsky.feed.post/3lwtcw2smrk23",
-        "created_at": "2025-08-20T11:24:41.654Z",
-        "url": "https://bsky.app/profile/amesorisu.bsky.social/post/3lwtcw2smrk23"
-      },
-      "engagement": {
-        "likes": 6,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 28,
-        "formatted": {
-          "likes": "6",
-          "replies": "2",
-          "reposts": "0",
-          "quotes": "28"
-        }
-      },
-      "sample_replies": [
-        "Something practical that I would use more frequently than not",
-        "Practical always hits for me fr",
-        "Paid relocation out of USA"
-      ],
-      "metrics": {
-        "ratio_score": 25,
-        "confidence": 0.348,
-        "category": "Complete Ratio",
-        "post_age_minutes": 128.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.387305+00:00",
-      "last_updated": "2025-08-20T13:46:49.387305+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.387305+00:00"
-      ],
-      "peak_controversy": 3.3,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
+      "rank": 15,
       "user": {
         "handle": "fatkiddeals.com",
         "display_name": "Fat Kid Deals",
@@ -521,7 +856,63 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 16,
+      "user": {
+        "handle": "veryghetto.posts.fyi",
+        "display_name": "Xae 🪼",
+        "initials": "X🪼",
+        "did": "did:plc:aax2d4gyu4vmlccwdtgci474",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aax2d4gyu4vmlccwdtgci474/bafkreiabfg7j2wzskzjn7ksromkjd3mewmsx6nie2yc3bupocnktug757i@jpeg",
+        "profile_url": "https://bsky.app/profile/veryghetto.posts.fyi"
+      },
+      "ratio": "6:1",
+      "controversy": 1.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Smoke this joint with me while i tell you how Meredith grey is the worst character in greys anatomy.",
+        "uri": "at://did:plc:aax2d4gyu4vmlccwdtgci474/app.bsky.feed.post/3lwupain7cc2y",
+        "created_at": "2025-08-21T00:37:56.342Z",
+        "url": "https://bsky.app/profile/veryghetto.posts.fyi/post/3lwupain7cc2y"
+      },
+      "engagement": {
+        "likes": 26,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 13,
+        "formatted": {
+          "likes": "26",
+          "replies": "4",
+          "reposts": "2",
+          "quotes": "13"
+        }
+      },
+      "sample_replies": [
+        "She REALLY IS. And I wish she’d just be gone. They said goodbye & she’s still all in the mix. Ugh!",
+        "I don’t need the joint to agree with you on this one, but pass that bitch anyway",
+        "Insufferable.",
+        "AN.NOY.ING"
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "confidence": 0.394,
+        "category": "Quote Dunk",
+        "post_age_minutes": 159.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.721950+00:00",
+      "last_updated": "2025-08-21T03:32:26.721950+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.721950+00:00"
+      ],
+      "peak_controversy": 1.1,
+      "trend": "new"
+    },
+    {
+      "rank": 17,
       "user": {
         "handle": "pattersona8.bsky.social",
         "display_name": "clit attack survivors ™️",
@@ -577,119 +968,118 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 18,
       "user": {
-        "handle": "lagroovekagejo.bsky.social",
-        "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
-        "initials": "LB",
-        "did": "did:plc:leal4u2mcclqfci4v5l6q6qz",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:leal4u2mcclqfci4v5l6q6qz/bafkreicvsdqblxueqffqzrcsrohj7btwvuabvoio24bfynvbtgx7pzi4li@jpeg",
-        "profile_url": "https://bsky.app/profile/lagroovekagejo.bsky.social"
+        "handle": "amesorisu.bsky.social",
+        "display_name": "Damir. 🧸",
+        "initials": "D🧸",
+        "did": "did:plc:63slnz7ykhqj42cp73xux63b",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:63slnz7ykhqj42cp73xux63b/bafkreictkbo74b22rzwoy4jdrtcqratwuzjmkrghffx4s24xmcgne2smii@jpeg",
+        "profile_url": "https://bsky.app/profile/amesorisu.bsky.social"
       },
-      "ratio": "13:0",
-      "controversy": 0.6,
+      "ratio": "28:0",
+      "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "A woman told me today that women don’t like head no more and I was like damn is that true ?",
-        "uri": "at://did:plc:leal4u2mcclqfci4v5l6q6qz/app.bsky.feed.post/3lwsmkhvnbs2e",
-        "created_at": "2025-08-20T04:44:30.412Z",
-        "url": "https://bsky.app/profile/lagroovekagejo.bsky.social/post/3lwsmkhvnbs2e"
+        "text": "At your age, what’s a PERFECT gift to give you?",
+        "uri": "at://did:plc:63slnz7ykhqj42cp73xux63b/app.bsky.feed.post/3lwtcw2smrk23",
+        "created_at": "2025-08-20T11:24:41.654Z",
+        "url": "https://bsky.app/profile/amesorisu.bsky.social/post/3lwtcw2smrk23"
       },
       "engagement": {
-        "likes": 4,
-        "replies": 5,
+        "likes": 6,
+        "replies": 2,
         "reposts": 0,
-        "quotes": 13,
+        "quotes": 28,
         "formatted": {
-          "likes": "4",
-          "replies": "5",
+          "likes": "6",
+          "replies": "2",
           "reposts": "0",
-          "quotes": "13"
+          "quotes": "28"
         }
       },
       "sample_replies": [
-        "Point her out friend, I just wanna talk 😀🥴, but false information !!",
-        "I just wanna talk 😀",
-        "🙄",
-        "Point her out is crazy 😭😂"
+        "Something practical that I would use more frequently than not",
+        "Practical always hits for me fr",
+        "Paid relocation out of USA"
       ],
       "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.292,
+        "ratio_score": 25,
+        "confidence": 0.348,
         "category": "Complete Ratio",
-        "post_age_minutes": 141.5
+        "post_age_minutes": 128.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T07:17:28.113573+00:00",
-      "last_updated": "2025-08-20T07:17:28.113573+00:00",
+      "first_detected": "2025-08-20T13:46:49.387305+00:00",
+      "last_updated": "2025-08-20T13:46:49.387305+00:00",
       "analysis_windows": [
-        "2025-08-20T07:17:28.113573+00:00"
+        "2025-08-20T13:46:49.387305+00:00"
       ],
-      "peak_controversy": 2.1,
+      "peak_controversy": 3.3,
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 19,
       "user": {
-        "handle": "cometkins.bsky.social",
-        "display_name": "Ian Haramaki 🏳️‍⚧️✨ @ Nan Desu Kan",
-        "initials": "IH",
-        "did": "did:plc:ul5e6unpkw37gbopghlxhigc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
-        "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
+        "handle": "paulbrand.bsky.social",
+        "display_name": "Paul Brand",
+        "initials": "PB",
+        "did": "did:plc:p6xfxeazk33zdmexhrlso5b6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6xfxeazk33zdmexhrlso5b6/bafkreig6dmlll3utotsgdsmrtx6b6mnaxro2egqrw56zfrznno6wjvf2z4@jpeg",
+        "profile_url": "https://bsky.app/profile/paulbrand.bsky.social"
       },
-      "ratio": "16:1",
-      "controversy": 0.5,
+      "ratio": "4:1",
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "If you were to completely wipe out your writing career and start from the beginning, what's something you'd do differently? A piece of advice you'd follow, a mistake you'd avoid, etc #WritingPrompt",
-        "uri": "at://did:plc:ul5e6unpkw37gbopghlxhigc/app.bsky.feed.post/3lwtn6lqhws23",
-        "created_at": "2025-08-20T14:28:25.264Z",
-        "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
+        "text": "NEW: The Conservatives have written to the Home Secretary asking her to rule out moving asylum seekers to housing needed by locals.\n\n…”that none of the illegal immigrants currently in the Bell Hotel will be moved into hotels, HMOs, apartments, or social housing which are needed for British people.”",
+        "uri": "at://did:plc:p6xfxeazk33zdmexhrlso5b6/app.bsky.feed.post/3lwtf72byys26",
+        "created_at": "2025-08-20T12:05:30.583Z",
+        "url": "https://bsky.app/profile/paulbrand.bsky.social/post/3lwtf72byys26"
       },
       "engagement": {
-        "likes": 71,
-        "replies": 17,
-        "reposts": 7,
-        "quotes": 111,
+        "likes": 14,
+        "replies": 43,
+        "reposts": 6,
+        "quotes": 23,
         "formatted": {
-          "likes": "71",
-          "replies": "17",
-          "reposts": "7",
-          "quotes": "111"
+          "likes": "14",
+          "replies": "43",
+          "reposts": "6",
+          "quotes": "23"
         }
       },
       "sample_replies": [
-        "I already have once with a not exactly terrible idea, but the biggest thing I learned from my first...",
-        "I would have built my website a lot sooner, it's been such a relief to have my own archive without...",
-        "start earlier and start building a book oriented social media following. I feel behind at 31.",
-        "Then I am doomed only publishing my first book at 52! ;)"
+        "Perhaps they should have built some housing when they were in power? Just a thought.",
+        "when did we turn into such a nation of c**ts?",
+        "God, they're just scum aren't they.",
+        "So, the architects of the backlog and the housing of asylum seeker in hotels, are now objecting to..."
       ],
       "metrics": {
-        "ratio_score": 11.33,
-        "confidence": 0.692,
-        "category": "Complete Ratio",
-        "post_age_minutes": 139.4
+        "ratio_score": 5.0,
+        "confidence": 0.652,
+        "category": "Quote Dunk",
+        "post_age_minutes": 87.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T17:05:30.132575+00:00",
-      "last_updated": "2025-08-20T17:05:30.132575+00:00",
+      "first_detected": "2025-08-20T13:46:49.748495+00:00",
+      "last_updated": "2025-08-20T13:46:49.748495+00:00",
       "analysis_windows": [
-        "2025-08-20T17:05:30.132575+00:00"
+        "2025-08-20T13:46:49.748495+00:00"
       ],
-      "peak_controversy": 3.8,
+      "peak_controversy": 1.5,
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 20,
       "user": {
         "handle": "freshlogic.bsky.social",
         "display_name": "⚜️New Logic",
@@ -745,7 +1135,63 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 21,
+      "user": {
+        "handle": "lagroovekagejo.bsky.social",
+        "display_name": "Lover Boy Kage of The Village Hidden In The Vibes",
+        "initials": "LB",
+        "did": "did:plc:leal4u2mcclqfci4v5l6q6qz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:leal4u2mcclqfci4v5l6q6qz/bafkreicvsdqblxueqffqzrcsrohj7btwvuabvoio24bfynvbtgx7pzi4li@jpeg",
+        "profile_url": "https://bsky.app/profile/lagroovekagejo.bsky.social"
+      },
+      "ratio": "13:0",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "A woman told me today that women don’t like head no more and I was like damn is that true ?",
+        "uri": "at://did:plc:leal4u2mcclqfci4v5l6q6qz/app.bsky.feed.post/3lwsmkhvnbs2e",
+        "created_at": "2025-08-20T04:44:30.412Z",
+        "url": "https://bsky.app/profile/lagroovekagejo.bsky.social/post/3lwsmkhvnbs2e"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 13,
+        "formatted": {
+          "likes": "4",
+          "replies": "5",
+          "reposts": "0",
+          "quotes": "13"
+        }
+      },
+      "sample_replies": [
+        "Point her out friend, I just wanna talk 😀🥴, but false information !!",
+        "I just wanna talk 😀",
+        "🙄",
+        "Point her out is crazy 😭😂"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.292,
+        "category": "Complete Ratio",
+        "post_age_minutes": 141.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T07:17:28.113573+00:00",
+      "last_updated": "2025-08-20T07:17:28.113573+00:00",
+      "analysis_windows": [
+        "2025-08-20T07:17:28.113573+00:00"
+      ],
+      "peak_controversy": 2.1,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
       "user": {
         "handle": "laportereporte.bsky.social",
         "display_name": "Chris Laporte",
@@ -801,7 +1247,63 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 23,
+      "user": {
+        "handle": "cometkins.bsky.social",
+        "display_name": "Ian Haramaki 🏳️‍⚧️✨ @ Nan Desu Kan",
+        "initials": "IH",
+        "did": "did:plc:ul5e6unpkw37gbopghlxhigc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
+        "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
+      },
+      "ratio": "16:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "If you were to completely wipe out your writing career and start from the beginning, what's something you'd do differently? A piece of advice you'd follow, a mistake you'd avoid, etc #WritingPrompt",
+        "uri": "at://did:plc:ul5e6unpkw37gbopghlxhigc/app.bsky.feed.post/3lwtn6lqhws23",
+        "created_at": "2025-08-20T14:28:25.264Z",
+        "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
+      },
+      "engagement": {
+        "likes": 71,
+        "replies": 17,
+        "reposts": 7,
+        "quotes": 111,
+        "formatted": {
+          "likes": "71",
+          "replies": "17",
+          "reposts": "7",
+          "quotes": "111"
+        }
+      },
+      "sample_replies": [
+        "I already have once with a not exactly terrible idea, but the biggest thing I learned from my first...",
+        "I would have built my website a lot sooner, it's been such a relief to have my own archive without...",
+        "start earlier and start building a book oriented social media following. I feel behind at 31.",
+        "Then I am doomed only publishing my first book at 52! ;)"
+      ],
+      "metrics": {
+        "ratio_score": 11.33,
+        "confidence": 0.692,
+        "category": "Complete Ratio",
+        "post_age_minutes": 139.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:30.132575+00:00",
+      "last_updated": "2025-08-20T17:05:30.132575+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:30.132575+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "new"
+    },
+    {
+      "rank": 24,
       "user": {
         "handle": "erynmccee.bsky.social",
         "display_name": "Eryn McCee",
@@ -854,63 +1356,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
-      "user": {
-        "handle": "gldnlvndrr.bsky.social",
-        "display_name": "J💜",
-        "initials": "J💜",
-        "did": "did:plc:mlgxiks5hlizia3bd6a6xguy",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mlgxiks5hlizia3bd6a6xguy/bafkreigfqn27h3wewaqstnk4ht3sxdzy5xceh6wakfmwl5oadnnqheppxe@jpeg",
-        "profile_url": "https://bsky.app/profile/gldnlvndrr.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Kelley saying she wants to keep Rachel so they can send her first to jury so she can be there alone on her anniversary #bb27",
-        "uri": "at://did:plc:mlgxiks5hlizia3bd6a6xguy/app.bsky.feed.post/3lwulgpnetk2s",
-        "created_at": "2025-08-20T23:29:50.047Z",
-        "url": "https://bsky.app/profile/gldnlvndrr.bsky.social/post/3lwulgpnetk2s"
-      },
-      "engagement": {
-        "likes": 91,
-        "replies": 28,
-        "reposts": 25,
-        "quotes": 85,
-        "formatted": {
-          "likes": "91",
-          "replies": "28",
-          "reposts": "25",
-          "quotes": "85"
-        }
-      },
-      "sample_replies": [
-        "I really don't understand the need to be so evil. Something is wrong with this woman.  We need a...",
-        "Also the way she's so proud of herself for saying this... weirdo",
-        "Gotta make sure @brendonvillegas.bsky.social sees this. Rachel needs to blackball Keanu, Rylie,...",
-        "thinking things that can’t be published"
-      ],
-      "metrics": {
-        "ratio_score": 5.0,
-        "confidence": 0.929,
-        "category": "Fresh Ratio",
-        "post_age_minutes": 18.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:44.019948+00:00",
-      "last_updated": "2025-08-21T00:04:44.019948+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:44.019948+00:00"
-      ],
-      "peak_controversy": 2.4,
-      "trend": "new"
-    },
-    {
-      "rank": 17,
+      "rank": 25,
       "user": {
         "handle": "nymag.com",
         "display_name": "New York Magazine",
@@ -966,119 +1412,63 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 26,
       "user": {
-        "handle": "sebsb.bsky.social",
-        "display_name": "Seb Stafford-Bloor",
-        "initials": "SS",
-        "did": "did:plc:kykap6cwhlj5hhqiul7lpcae",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kykap6cwhlj5hhqiul7lpcae/bafkreicgzryrssod7eka32iy6guz32cw6thvugoje3dzpk7zkhlmhdjcpm@jpeg",
-        "profile_url": "https://bsky.app/profile/sebsb.bsky.social"
+        "handle": "gldnlvndrr.bsky.social",
+        "display_name": "J💜",
+        "initials": "J💜",
+        "did": "did:plc:mlgxiks5hlizia3bd6a6xguy",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mlgxiks5hlizia3bd6a6xguy/bafkreigfqn27h3wewaqstnk4ht3sxdzy5xceh6wakfmwl5oadnnqheppxe@jpeg",
+        "profile_url": "https://bsky.app/profile/gldnlvndrr.bsky.social"
       },
-      "ratio": "6:1",
+      "ratio": "3:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Exclusive: Mark Goldbridge is among the Bundesliga's new live rights holders in the UK.\n\nThe Bundesliga will also be shown live on the BBC, The Overlap, Sky Sports and Amazon Prime this season.\n\n@theathleticfc.bsky.social \n\nwww.nytimes.com/athletic/656...",
-        "uri": "at://did:plc:kykap6cwhlj5hhqiul7lpcae/app.bsky.feed.post/3lwszncsdos2v",
-        "created_at": "2025-08-20T08:38:44.367Z",
-        "url": "https://bsky.app/profile/sebsb.bsky.social/post/3lwszncsdos2v"
+        "text": "Kelley saying she wants to keep Rachel so they can send her first to jury so she can be there alone on her anniversary #bb27",
+        "uri": "at://did:plc:mlgxiks5hlizia3bd6a6xguy/app.bsky.feed.post/3lwulgpnetk2s",
+        "created_at": "2025-08-20T23:29:50.047Z",
+        "url": "https://bsky.app/profile/gldnlvndrr.bsky.social/post/3lwulgpnetk2s"
       },
       "engagement": {
-        "likes": 15,
-        "replies": 17,
-        "reposts": 4,
-        "quotes": 24,
+        "likes": 91,
+        "replies": 28,
+        "reposts": 25,
+        "quotes": 85,
         "formatted": {
-          "likes": "15",
-          "replies": "17",
-          "reposts": "4",
-          "quotes": "24"
+          "likes": "91",
+          "replies": "28",
+          "reposts": "25",
+          "quotes": "85"
         }
       },
       "sample_replies": [
-        "Not for me I'm afraid but each to their own.\nI would prefer a world where quality and talent shines...",
-        "Not the news I was expecting this morning",
-        "Need to keep you on your toes... can't become too predictable.",
-        "Good luck to the guy. Don’t particularly like his content but just shows put the work in and you..."
+        "I really don't understand the need to be so evil. Something is wrong with this woman.  We need a...",
+        "Also the way she's so proud of herself for saying this... weirdo",
+        "Gotta make sure @brendonvillegas.bsky.social sees this. Rachel needs to blackball Keanu, Rylie,...",
+        "thinking things that can’t be published"
       ],
       "metrics": {
-        "ratio_score": 3.67,
-        "confidence": 0.471,
-        "category": "Quote Dunk",
-        "post_age_minutes": 99.1
+        "ratio_score": 5.0,
+        "confidence": 0.929,
+        "category": "Fresh Ratio",
+        "post_age_minutes": 18.0
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T10:27:03.807233+00:00",
-      "last_updated": "2025-08-20T10:27:03.807233+00:00",
+      "first_detected": "2025-08-21T00:04:44.019948+00:00",
+      "last_updated": "2025-08-21T00:04:44.019948+00:00",
       "analysis_windows": [
-        "2025-08-20T10:27:03.807233+00:00"
+        "2025-08-21T00:04:44.019948+00:00"
       ],
-      "peak_controversy": 0.7,
+      "peak_controversy": 2.4,
       "trend": "new"
     },
     {
-      "rank": 19,
-      "user": {
-        "handle": "david-ornstein.bsky.social",
-        "display_name": "David Ornstein",
-        "initials": "DO",
-        "did": "did:plc:j62szermx6ods7lp3xqyembx",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:j62szermx6ods7lp3xqyembx/bafkreichkfgicnp4ur3e7gdpcbneb2kdgw5qd6sziepcnvap6pd77waaiq@jpeg",
-        "profile_url": "https://bsky.app/profile/david-ornstein.bsky.social"
-      },
-      "ratio": "9:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "🚨 EXCL: BlueCo reach agreement with Brighton & Hove Albion to sign Julio Enciso. Personal terms in place with 21yo #BHAFC midfielder & Paraguay int’l expected to initially spend time at Strasbourg but viewed as long-term Chelsea player 🚨 \n\n@theathleticfc.bsky.social\n\nwww.nytimes.com/athletic/656...",
-        "uri": "at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3lwucje3e5225",
-        "created_at": "2025-08-20T20:50:14.908Z",
-        "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3lwucje3e5225"
-      },
-      "engagement": {
-        "likes": 30,
-        "replies": 16,
-        "reposts": 3,
-        "quotes": 26,
-        "formatted": {
-          "likes": "30",
-          "replies": "16",
-          "reposts": "3",
-          "quotes": "26"
-        }
-      },
-      "sample_replies": [
-        "He’s a boyhood BlueCo fan. He had pictures of their mission statement on his wall and would count...",
-        "BlueCo.\nK.\n\nFootball needs better regulation",
-        "Thought 3rd party ownership wasn’t a thing anymore?",
-        "The premier league need to investigate deals between Brighton and Chelsea, something very very fishy"
-      ],
-      "metrics": {
-        "ratio_score": 8.33,
-        "confidence": 0.552,
-        "category": "Quote Dunk",
-        "post_age_minutes": 177.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:44.152251+00:00",
-      "last_updated": "2025-08-21T00:04:44.152251+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:44.152251+00:00"
-      ],
-      "peak_controversy": 1.9,
-      "trend": "new"
-    },
-    {
-      "rank": 20,
+      "rank": 27,
       "user": {
         "handle": "jamesrball.com",
         "display_name": "James Ball",
@@ -1134,7 +1524,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 28,
       "user": {
         "handle": "preshaprincess.bsky.social",
         "display_name": "❤️‍🔥",
@@ -1190,7 +1580,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 29,
       "user": {
         "handle": "mid-majormadness.bsky.social",
         "display_name": "Mid-Major Madness",
@@ -1246,7 +1636,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 30,
       "user": {
         "handle": "rlivre.cc",
         "display_name": "Radical Livre",
@@ -1302,61 +1692,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
-      "user": {
-        "handle": "anythinggoe.com",
-        "display_name": "AnythingGOEs - Figure Skating ",
-        "initials": "A-",
-        "did": "did:plc:uvja5uvpeafln65pfzfm3zvn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uvja5uvpeafln65pfzfm3zvn/bafkreifdaowiuboscb7w5gsnpcw2t2jfud4tri4k5i3cjq6prsarjhvcoy@jpeg",
-        "profile_url": "https://bsky.app/profile/anythinggoe.com"
-      },
-      "ratio": "21:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "🇫🇮 Yuka Orihara / Juho Pirinen will not be able to take part in the Olympics, as Orihara will not be able to get citizenship in time. Finland’s second spot will not be used and will become available to another country. \nyle.fi/a/74-20178541",
-        "uri": "at://did:plc:uvja5uvpeafln65pfzfm3zvn/app.bsky.feed.post/3lwtztvnv7c2m",
-        "created_at": "2025-08-20T18:15:05.209Z",
-        "url": "https://bsky.app/profile/anythinggoe.com/post/3lwtztvnv7c2m"
-      },
-      "engagement": {
-        "likes": 14,
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 21,
-        "formatted": {
-          "likes": "14",
-          "replies": "2",
-          "reposts": "1",
-          "quotes": "21"
-        }
-      },
-      "sample_replies": [
-        "😭",
-        "☹️"
-      ],
-      "metrics": {
-        "ratio_score": 16,
-        "confidence": 0.405,
-        "category": "Complete Ratio",
-        "post_age_minutes": 122.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T20:35:10.359843+00:00",
-      "last_updated": "2025-08-20T20:35:10.359843+00:00",
-      "analysis_windows": [
-        "2025-08-20T20:35:10.359843+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
+      "rank": 31,
       "user": {
         "handle": "bengoessling.bsky.social",
         "display_name": "Ben Goessling",
@@ -1412,452 +1748,173 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 32,
       "user": {
-        "handle": "timbritton.bsky.social",
-        "display_name": "Tim Britton (he/him)",
-        "initials": "TB",
-        "did": "did:plc:ewtw4pptq7oz7lqrxu2txckh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewtw4pptq7oz7lqrxu2txckh/bafkreiflptzbmxsoy6mu4u7ocu74jzsufmljstpctkvotyoa76qc2rusde@jpeg",
-        "profile_url": "https://bsky.app/profile/timbritton.bsky.social"
-      },
-      "ratio": "7:0",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Starling Marte is entering the game in left field for Brandon Nimmo. ",
-        "uri": "at://did:plc:ewtw4pptq7oz7lqrxu2txckh/app.bsky.feed.post/3lwujz6qhp22y",
-        "created_at": "2025-08-20T23:04:22.373Z",
-        "url": "https://bsky.app/profile/timbritton.bsky.social/post/3lwujz6qhp22y"
-      },
-      "engagement": {
-        "likes": 8,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 7,
-        "formatted": {
-          "likes": "8",
-          "replies": "4",
-          "reposts": "0",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "no. no no",
-        "Dammit Tim! Why?!?",
-        "Another one? Ugh"
-      ],
-      "metrics": {
-        "ratio_score": 10,
-        "confidence": 0.372,
-        "category": "Complete Ratio",
-        "post_age_minutes": 43.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:44.416516+00:00",
-      "last_updated": "2025-08-21T00:04:44.416516+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:44.416516+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 27,
-      "user": {
-        "handle": "kelsee.bsky.social",
-        "display_name": "Kelsey",
-        "initials": "KE",
-        "did": "did:plc:muobw7ooi3bfp2ktylfekd2x",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:muobw7ooi3bfp2ktylfekd2x/bafkreia4k5lvqyx4m5jjlun2j6qklvhmt3nbx22ig77d25xmykrq2m4xlm@jpeg",
-        "profile_url": "https://bsky.app/profile/kelsee.bsky.social"
+        "handle": "sebsb.bsky.social",
+        "display_name": "Seb Stafford-Bloor",
+        "initials": "SS",
+        "did": "did:plc:kykap6cwhlj5hhqiul7lpcae",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kykap6cwhlj5hhqiul7lpcae/bafkreicgzryrssod7eka32iy6guz32cw6thvugoje3dzpk7zkhlmhdjcpm@jpeg",
+        "profile_url": "https://bsky.app/profile/sebsb.bsky.social"
       },
       "ratio": "6:1",
-      "controversy": 0.2,
+      "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Ava: I think God has it all planned out. I just need to sit back, relax and watch #bb27",
-        "uri": "at://did:plc:muobw7ooi3bfp2ktylfekd2x/app.bsky.feed.post/3lwulxo6cnc2r",
-        "created_at": "2025-08-20T23:39:18.930Z",
-        "url": "https://bsky.app/profile/kelsee.bsky.social/post/3lwulxo6cnc2r"
+        "text": "Exclusive: Mark Goldbridge is among the Bundesliga's new live rights holders in the UK.\n\nThe Bundesliga will also be shown live on the BBC, The Overlap, Sky Sports and Amazon Prime this season.\n\n@theathleticfc.bsky.social \n\nwww.nytimes.com/athletic/656...",
+        "uri": "at://did:plc:kykap6cwhlj5hhqiul7lpcae/app.bsky.feed.post/3lwszncsdos2v",
+        "created_at": "2025-08-20T08:38:44.367Z",
+        "url": "https://bsky.app/profile/sebsb.bsky.social/post/3lwszncsdos2v"
       },
       "engagement": {
         "likes": 15,
-        "replies": 3,
-        "reposts": 2,
-        "quotes": 13,
+        "replies": 17,
+        "reposts": 4,
+        "quotes": 24,
         "formatted": {
           "likes": "15",
-          "replies": "3",
-          "reposts": "2",
-          "quotes": "13"
-        }
-      },
-      "sample_replies": [
-        "I don’t understand why they cast people who believe a higher power is determining the outcome of a...",
-        "HUH???",
-        "Like crazy thought you can determine what happens tomorrow",
-        "GOD DOESNT CARE ABOUT BIG BROTHER"
-      ],
-      "metrics": {
-        "ratio_score": 8,
-        "confidence": 0.472,
-        "category": "Fresh Ratio",
-        "post_age_minutes": 8.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:44.283670+00:00",
-      "last_updated": "2025-08-21T00:04:44.283670+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:44.283670+00:00"
-      ],
-      "peak_controversy": 1.7,
-      "trend": "new"
-    },
-    {
-      "rank": 28,
-      "user": {
-        "handle": "herooftim.bsky.social",
-        "display_name": "Timothy",
-        "initials": "TI",
-        "did": "did:plc:w2ju7wvppfs4ogf3rimgre34",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:w2ju7wvppfs4ogf3rimgre34/bafkreidkcckayn7auziwst36jp3vkywsds67e7ckk4fogq37mwvbggyyq4@jpeg",
-        "profile_url": "https://bsky.app/profile/herooftim.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "“Autism meal” and it’s something that would cause me a sensory nightmare",
-        "uri": "at://did:plc:w2ju7wvppfs4ogf3rimgre34/app.bsky.feed.post/3lwtrtf7urk2n",
-        "created_at": "2025-08-20T15:51:38.027Z",
-        "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
-      },
-      "engagement": {
-        "likes": 28,
-        "replies": 14,
-        "reposts": 2,
-        "quotes": 9,
-        "formatted": {
-          "likes": "28",
-          "replies": "14",
-          "reposts": "2",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "The spaghetti-o’s sends me the most because those are objectively gross",
-        "What people call “autism food” are single handedly the worse foods to ever exist that personally...",
-        "Gheesh. I'm NT, and that's way too many different shapes on one plate.",
-        "Feels like just the pizza and dino nuggets as a combo would go pretty hard"
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.425,
-        "category": "Complete Ratio",
-        "post_age_minutes": 55.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:30.394738+00:00",
-      "last_updated": "2025-08-20T17:05:30.394738+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:30.394738+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
-      "rank": 29,
-      "user": {
-        "handle": "videogameschronicle.com",
-        "display_name": "VGC",
-        "initials": "VG",
-        "did": "did:plc:udi5cqdsuhu55agzykpvmdgv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:udi5cqdsuhu55agzykpvmdgv/bafkreie6wnuhey6hfmxujdp27qorqdtwcr5wsdciufesbocyh7a4tdug7q@jpeg",
-        "profile_url": "https://bsky.app/profile/videogameschronicle.com"
-      },
-      "ratio": "4:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Dead Space and The Callisto Procol lead Glen Schofield has said that he is “100% behind” the use of generative AI for game development, and has compared job concerns to when Photoshop was introduced to the art industry.\n\nwww.videogameschronicle.com/news/dead-sp...",
-        "uri": "at://did:plc:udi5cqdsuhu55agzykpvmdgv/app.bsky.feed.post/3lwt65rf5xk2s",
-        "created_at": "2025-08-20T09:59:31.502Z",
-        "url": "https://bsky.app/profile/videogameschronicle.com/post/3lwt65rf5xk2s"
-      },
-      "engagement": {
-        "likes": 20,
-        "replies": 6,
-        "reposts": 4,
-        "quotes": 17,
-        "formatted": {
-          "likes": "20",
-          "replies": "6",
+          "replies": "17",
           "reposts": "4",
-          "quotes": "17"
+          "quotes": "24"
         }
       },
       "sample_replies": [
-        "Ah yeah remember when Adobe stole all that creative work to create photoshop and boiled the planet...",
-        "He should be sure to highlight that on steam then if he ever makes a game again."
+        "Not for me I'm afraid but each to their own.\nI would prefer a world where quality and talent shines...",
+        "Not the news I was expecting this morning",
+        "Need to keep you on your toes... can't become too predictable.",
+        "Good luck to the guy. Don’t particularly like his content but just shows put the work in and you..."
       ],
       "metrics": {
-        "ratio_score": 9.0,
-        "confidence": 0.49,
+        "ratio_score": 3.67,
+        "confidence": 0.471,
         "category": "Quote Dunk",
-        "post_age_minutes": 18.3
+        "post_age_minutes": 99.1
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T10:27:03.566445+00:00",
-      "last_updated": "2025-08-20T10:27:03.566445+00:00",
+      "first_detected": "2025-08-20T10:27:03.807233+00:00",
+      "last_updated": "2025-08-20T10:27:03.807233+00:00",
       "analysis_windows": [
-        "2025-08-20T10:27:03.566445+00:00"
+        "2025-08-20T10:27:03.807233+00:00"
       ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
-      "user": {
-        "handle": "blackranga.blacksky.app",
-        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
-        "initials": "GI",
-        "did": "did:plc:tom67pr2zmkziputghvxoe34",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
-        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
-      },
-      "ratio": "11:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "By this logic, you should pay someone to sit through an interview, wasting their time. \n\n$20 for an application? 🤦🏾‍♂️",
-        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lwtbbzcqys2s",
-        "created_at": "2025-08-20T10:55:35.244Z",
-        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwtbbzcqys2s"
-      },
-      "engagement": {
-        "likes": 22,
-        "replies": 10,
-        "reposts": 1,
-        "quotes": 11,
-        "formatted": {
-          "likes": "22",
-          "replies": "10",
-          "reposts": "1",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "$20 to apply for a job?! Is he insensitive? Yes. Is he an asshole for thinking this AND sharing it?...",
-        "Notice, he had to close the comments.\n\nThere are too many psychopaths in positions of power...",
-        "LinkedIn is such a hell scape",
-        "It's pretty much Facebook with a job board, I hate it so much!!!"
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.356,
-        "category": "Complete Ratio",
-        "post_age_minutes": 157.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.482775+00:00",
-      "last_updated": "2025-08-20T13:46:49.482775+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.482775+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 31,
-      "user": {
-        "handle": "magnificent-7.bsky.social",
-        "display_name": "Magnificent 7",
-        "initials": "M7",
-        "did": "did:plc:qkzxfkh3xfzradtffjp6xet7",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkzxfkh3xfzradtffjp6xet7/bafkreibryiuwh2asskgqk2l4j6b3cf362vei2bcssnq4pqk64525zpahni@jpeg",
-        "profile_url": "https://bsky.app/profile/magnificent-7.bsky.social"
-      },
-      "ratio": "6:0",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Henry Winter continues to be a fuckwit of the highest order.\n#LFC",
-        "uri": "at://did:plc:qkzxfkh3xfzradtffjp6xet7/app.bsky.feed.post/3lwtcpur3yk23",
-        "created_at": "2025-08-20T11:21:13.970Z",
-        "url": "https://bsky.app/profile/magnificent-7.bsky.social/post/3lwtcpur3yk23"
-      },
-      "engagement": {
-        "likes": 13,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 6,
-        "formatted": {
-          "likes": "13",
-          "replies": "8",
-          "reposts": "0",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "Hard to see how a premier league record offer was 'disrespectful'. But referring to Newcastle's...",
-        "He just loves an English manager for some reason. He was one of the biggest defenders of hodgson",
-        "Yep, he definitely wears flag of St George pyjamas.",
-        "\"Earlier in the window\"? Are you kidding me? They would have said no then too obviously. Is Henry..."
-      ],
-      "metrics": {
-        "ratio_score": 11,
-        "confidence": 0.317,
-        "category": "Complete Ratio",
-        "post_age_minutes": 131.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.658762+00:00",
-      "last_updated": "2025-08-20T13:46:49.658762+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.658762+00:00"
-      ],
-      "peak_controversy": 1.7,
-      "trend": "new"
-    },
-    {
-      "rank": 32,
-      "user": {
-        "handle": "shanegoldmacher.bsky.social",
-        "display_name": "Shane Goldmacher",
-        "initials": "SG",
-        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
-        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
-        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
-        "created_at": "2025-08-20T12:28:30.233Z",
-        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
-      },
-      "engagement": {
-        "likes": 146,
-        "replies": 68,
-        "reposts": 52,
-        "quotes": 102,
-        "formatted": {
-          "likes": "146",
-          "replies": "68",
-          "reposts": "52",
-          "quotes": "102"
-        }
-      },
-      "sample_replies": [
-        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
-        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
-        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
-        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
-      ],
-      "metrics": {
-        "ratio_score": 7.5,
-        "confidence": 0.468,
-        "category": "Quote Dunk",
-        "post_age_minutes": 64.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T13:46:49.573864+00:00",
-      "last_updated": "2025-08-20T13:46:49.573864+00:00",
-      "analysis_windows": [
-        "2025-08-20T13:46:49.573864+00:00"
-      ],
-      "peak_controversy": 1.5,
+      "peak_controversy": 0.7,
       "trend": "new"
     },
     {
       "rank": 33,
       "user": {
-        "handle": "jacobtanswell.bsky.social",
-        "display_name": "Jacob Tanswell",
-        "initials": "JT",
-        "did": "did:plc:pi2lktaovzmzuflx2au7oyv6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pi2lktaovzmzuflx2au7oyv6/bafkreidfwzjlatye5objq4q4w7m4niiwjnxgpohyb7ckdl7b3n4ru6dyji@jpeg",
-        "profile_url": "https://bsky.app/profile/jacobtanswell.bsky.social"
+        "handle": "anythinggoe.com",
+        "display_name": "AnythingGOEs - Figure Skating ",
+        "initials": "A-",
+        "did": "did:plc:uvja5uvpeafln65pfzfm3zvn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uvja5uvpeafln65pfzfm3zvn/bafkreifdaowiuboscb7w5gsnpcw2t2jfud4tri4k5i3cjq6prsarjhvcoy@jpeg",
+        "profile_url": "https://bsky.app/profile/anythinggoe.com"
       },
-      "ratio": "3:1",
-      "controversy": 0.2,
+      "ratio": "21:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "New: Nottingham Forest are exploring a deal to re-sign Matty Cash. #AVFC yet to receive formal approach & have held talks over extending contract, but 28yo among Forest's options to strengthen the right side of defence. Story @theathleticfc.bsky.social\n\nwww.nytimes.com/athletic/656...",
-        "uri": "at://did:plc:pi2lktaovzmzuflx2au7oyv6/app.bsky.feed.post/3lwszcioxlc2k",
-        "created_at": "2025-08-20T08:32:41.449Z",
-        "url": "https://bsky.app/profile/jacobtanswell.bsky.social/post/3lwszcioxlc2k"
+        "text": "🇫🇮 Yuka Orihara / Juho Pirinen will not be able to take part in the Olympics, as Orihara will not be able to get citizenship in time. Finland’s second spot will not be used and will become available to another country. \nyle.fi/a/74-20178541",
+        "uri": "at://did:plc:uvja5uvpeafln65pfzfm3zvn/app.bsky.feed.post/3lwtztvnv7c2m",
+        "created_at": "2025-08-20T18:15:05.209Z",
+        "url": "https://bsky.app/profile/anythinggoe.com/post/3lwtztvnv7c2m"
       },
       "engagement": {
-        "likes": 9,
-        "replies": 5,
-        "reposts": 3,
-        "quotes": 10,
+        "likes": 14,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 21,
         "formatted": {
-          "likes": "9",
-          "replies": "5",
-          "reposts": "3",
-          "quotes": "10"
+          "likes": "14",
+          "replies": "2",
+          "reposts": "1",
+          "quotes": "21"
         }
       },
       "sample_replies": [
-        "There’d better be a hell of an upgrade ready to be announced…",
-        "I wasn’t bothered by the transfer window. It’s mostly bollocks, but I’m getting a touch concerned...",
-        "Selling players after they’ve done a full preseason makes no sense at all. Unless (& it’s doubtful)...",
-        "We can definitely stand to upgrade, but we surely need to bring someone in to replace him?"
+        "😭",
+        "☹️"
       ],
       "metrics": {
-        "ratio_score": 3.5,
-        "confidence": 0.396,
-        "category": "Quote Dunk",
-        "post_age_minutes": 105.1
+        "ratio_score": 16,
+        "confidence": 0.405,
+        "category": "Complete Ratio",
+        "post_age_minutes": 122.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T10:27:04.053174+00:00",
-      "last_updated": "2025-08-20T10:27:04.053174+00:00",
+      "first_detected": "2025-08-20T20:35:10.359843+00:00",
+      "last_updated": "2025-08-20T20:35:10.359843+00:00",
       "analysis_windows": [
-        "2025-08-20T10:27:04.053174+00:00"
+        "2025-08-20T20:35:10.359843+00:00"
       ],
-      "peak_controversy": 0.6,
+      "peak_controversy": 3.1,
       "trend": "new"
     },
     {
       "rank": 34,
+      "user": {
+        "handle": "david-ornstein.bsky.social",
+        "display_name": "David Ornstein",
+        "initials": "DO",
+        "did": "did:plc:j62szermx6ods7lp3xqyembx",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:j62szermx6ods7lp3xqyembx/bafkreichkfgicnp4ur3e7gdpcbneb2kdgw5qd6sziepcnvap6pd77waaiq@jpeg",
+        "profile_url": "https://bsky.app/profile/david-ornstein.bsky.social"
+      },
+      "ratio": "9:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "🚨 EXCL: BlueCo reach agreement with Brighton & Hove Albion to sign Julio Enciso. Personal terms in place with 21yo #BHAFC midfielder & Paraguay int’l expected to initially spend time at Strasbourg but viewed as long-term Chelsea player 🚨 \n\n@theathleticfc.bsky.social\n\nwww.nytimes.com/athletic/656...",
+        "uri": "at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3lwucje3e5225",
+        "created_at": "2025-08-20T20:50:14.908Z",
+        "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3lwucje3e5225"
+      },
+      "engagement": {
+        "likes": 30,
+        "replies": 16,
+        "reposts": 3,
+        "quotes": 26,
+        "formatted": {
+          "likes": "30",
+          "replies": "16",
+          "reposts": "3",
+          "quotes": "26"
+        }
+      },
+      "sample_replies": [
+        "He’s a boyhood BlueCo fan. He had pictures of their mission statement on his wall and would count...",
+        "BlueCo.\nK.\n\nFootball needs better regulation",
+        "Thought 3rd party ownership wasn’t a thing anymore?",
+        "The premier league need to investigate deals between Brighton and Chelsea, something very very fishy"
+      ],
+      "metrics": {
+        "ratio_score": 8.33,
+        "confidence": 0.552,
+        "category": "Quote Dunk",
+        "post_age_minutes": 177.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:44.152251+00:00",
+      "last_updated": "2025-08-21T00:04:44.152251+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:44.152251+00:00"
+      ],
+      "peak_controversy": 1.9,
+      "trend": "new"
+    },
+    {
+      "rank": 35,
       "user": {
         "handle": "mightyatom.bsky.social",
         "display_name": "max schwartz",
@@ -1913,7 +1970,396 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 36,
+      "user": {
+        "handle": "herooftim.bsky.social",
+        "display_name": "Timothy",
+        "initials": "TI",
+        "did": "did:plc:w2ju7wvppfs4ogf3rimgre34",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:w2ju7wvppfs4ogf3rimgre34/bafkreidkcckayn7auziwst36jp3vkywsds67e7ckk4fogq37mwvbggyyq4@jpeg",
+        "profile_url": "https://bsky.app/profile/herooftim.bsky.social"
+      },
+      "ratio": "4:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "“Autism meal” and it’s something that would cause me a sensory nightmare",
+        "uri": "at://did:plc:w2ju7wvppfs4ogf3rimgre34/app.bsky.feed.post/3lwtrtf7urk2n",
+        "created_at": "2025-08-20T15:51:38.027Z",
+        "url": "https://bsky.app/profile/herooftim.bsky.social/post/3lwtrtf7urk2n"
+      },
+      "engagement": {
+        "likes": 28,
+        "replies": 14,
+        "reposts": 2,
+        "quotes": 9,
+        "formatted": {
+          "likes": "28",
+          "replies": "14",
+          "reposts": "2",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "The spaghetti-o’s sends me the most because those are objectively gross",
+        "What people call “autism food” are single handedly the worse foods to ever exist that personally...",
+        "Gheesh. I'm NT, and that's way too many different shapes on one plate.",
+        "Feels like just the pizza and dino nuggets as a combo would go pretty hard"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.425,
+        "category": "Complete Ratio",
+        "post_age_minutes": 55.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:30.394738+00:00",
+      "last_updated": "2025-08-20T17:05:30.394738+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:30.394738+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
+    },
+    {
+      "rank": 37,
+      "user": {
+        "handle": "timbritton.bsky.social",
+        "display_name": "Tim Britton (he/him)",
+        "initials": "TB",
+        "did": "did:plc:ewtw4pptq7oz7lqrxu2txckh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewtw4pptq7oz7lqrxu2txckh/bafkreiflptzbmxsoy6mu4u7ocu74jzsufmljstpctkvotyoa76qc2rusde@jpeg",
+        "profile_url": "https://bsky.app/profile/timbritton.bsky.social"
+      },
+      "ratio": "7:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Starling Marte is entering the game in left field for Brandon Nimmo. ",
+        "uri": "at://did:plc:ewtw4pptq7oz7lqrxu2txckh/app.bsky.feed.post/3lwujz6qhp22y",
+        "created_at": "2025-08-20T23:04:22.373Z",
+        "url": "https://bsky.app/profile/timbritton.bsky.social/post/3lwujz6qhp22y"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 7,
+        "formatted": {
+          "likes": "8",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "no. no no",
+        "Dammit Tim! Why?!?",
+        "Another one? Ugh"
+      ],
+      "metrics": {
+        "ratio_score": 10,
+        "confidence": 0.372,
+        "category": "Complete Ratio",
+        "post_age_minutes": 43.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:44.416516+00:00",
+      "last_updated": "2025-08-21T00:04:44.416516+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:44.416516+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
+      "rank": 38,
+      "user": {
+        "handle": "videogameschronicle.com",
+        "display_name": "VGC",
+        "initials": "VG",
+        "did": "did:plc:udi5cqdsuhu55agzykpvmdgv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:udi5cqdsuhu55agzykpvmdgv/bafkreie6wnuhey6hfmxujdp27qorqdtwcr5wsdciufesbocyh7a4tdug7q@jpeg",
+        "profile_url": "https://bsky.app/profile/videogameschronicle.com"
+      },
+      "ratio": "4:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Dead Space and The Callisto Procol lead Glen Schofield has said that he is “100% behind” the use of generative AI for game development, and has compared job concerns to when Photoshop was introduced to the art industry.\n\nwww.videogameschronicle.com/news/dead-sp...",
+        "uri": "at://did:plc:udi5cqdsuhu55agzykpvmdgv/app.bsky.feed.post/3lwt65rf5xk2s",
+        "created_at": "2025-08-20T09:59:31.502Z",
+        "url": "https://bsky.app/profile/videogameschronicle.com/post/3lwt65rf5xk2s"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 6,
+        "reposts": 4,
+        "quotes": 17,
+        "formatted": {
+          "likes": "20",
+          "replies": "6",
+          "reposts": "4",
+          "quotes": "17"
+        }
+      },
+      "sample_replies": [
+        "Ah yeah remember when Adobe stole all that creative work to create photoshop and boiled the planet...",
+        "He should be sure to highlight that on steam then if he ever makes a game again."
+      ],
+      "metrics": {
+        "ratio_score": 9.0,
+        "confidence": 0.49,
+        "category": "Quote Dunk",
+        "post_age_minutes": 18.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T10:27:03.566445+00:00",
+      "last_updated": "2025-08-20T10:27:03.566445+00:00",
+      "analysis_windows": [
+        "2025-08-20T10:27:03.566445+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
+      "rank": 39,
+      "user": {
+        "handle": "kelsee.bsky.social",
+        "display_name": "Kelsey",
+        "initials": "KE",
+        "did": "did:plc:muobw7ooi3bfp2ktylfekd2x",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:muobw7ooi3bfp2ktylfekd2x/bafkreia4k5lvqyx4m5jjlun2j6qklvhmt3nbx22ig77d25xmykrq2m4xlm@jpeg",
+        "profile_url": "https://bsky.app/profile/kelsee.bsky.social"
+      },
+      "ratio": "6:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ava: I think God has it all planned out. I just need to sit back, relax and watch #bb27",
+        "uri": "at://did:plc:muobw7ooi3bfp2ktylfekd2x/app.bsky.feed.post/3lwulxo6cnc2r",
+        "created_at": "2025-08-20T23:39:18.930Z",
+        "url": "https://bsky.app/profile/kelsee.bsky.social/post/3lwulxo6cnc2r"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 13,
+        "formatted": {
+          "likes": "15",
+          "replies": "3",
+          "reposts": "2",
+          "quotes": "13"
+        }
+      },
+      "sample_replies": [
+        "I don’t understand why they cast people who believe a higher power is determining the outcome of a...",
+        "HUH???",
+        "Like crazy thought you can determine what happens tomorrow",
+        "GOD DOESNT CARE ABOUT BIG BROTHER"
+      ],
+      "metrics": {
+        "ratio_score": 8,
+        "confidence": 0.472,
+        "category": "Fresh Ratio",
+        "post_age_minutes": 8.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:44.283670+00:00",
+      "last_updated": "2025-08-21T00:04:44.283670+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:44.283670+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 40,
+      "user": {
+        "handle": "magnificent-7.bsky.social",
+        "display_name": "Magnificent 7",
+        "initials": "M7",
+        "did": "did:plc:qkzxfkh3xfzradtffjp6xet7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkzxfkh3xfzradtffjp6xet7/bafkreibryiuwh2asskgqk2l4j6b3cf362vei2bcssnq4pqk64525zpahni@jpeg",
+        "profile_url": "https://bsky.app/profile/magnificent-7.bsky.social"
+      },
+      "ratio": "6:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Henry Winter continues to be a fuckwit of the highest order.\n#LFC",
+        "uri": "at://did:plc:qkzxfkh3xfzradtffjp6xet7/app.bsky.feed.post/3lwtcpur3yk23",
+        "created_at": "2025-08-20T11:21:13.970Z",
+        "url": "https://bsky.app/profile/magnificent-7.bsky.social/post/3lwtcpur3yk23"
+      },
+      "engagement": {
+        "likes": 13,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 6,
+        "formatted": {
+          "likes": "13",
+          "replies": "8",
+          "reposts": "0",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Hard to see how a premier league record offer was 'disrespectful'. But referring to Newcastle's...",
+        "He just loves an English manager for some reason. He was one of the biggest defenders of hodgson",
+        "Yep, he definitely wears flag of St George pyjamas.",
+        "\"Earlier in the window\"? Are you kidding me? They would have said no then too obviously. Is Henry..."
+      ],
+      "metrics": {
+        "ratio_score": 11,
+        "confidence": 0.317,
+        "category": "Complete Ratio",
+        "post_age_minutes": 131.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.658762+00:00",
+      "last_updated": "2025-08-20T13:46:49.658762+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.658762+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 41,
+      "user": {
+        "handle": "shanegoldmacher.bsky.social",
+        "display_name": "Shane Goldmacher",
+        "initials": "SG",
+        "did": "did:plc:5dwp6eo7bwtifvlx4ftcgjmr",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dwp6eo7bwtifvlx4ftcgjmr/bafkreiglwau2nydsvj7vlousdhpt3aspam5fqz4yahky6kwqoqjniwfg3a@jpeg",
+        "profile_url": "https://bsky.app/profile/shanegoldmacher.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "NEW at NYT: The Democratic Party is facing a voter registration crisis in red, blue and battleground states alike — losing ground to the GOP everywhere.\n\nMy deep dive into the numbers and what it reveals about the party's brand.\n\nThread —>\nwww.nytimes.com/2025/08/20/u...",
+        "uri": "at://did:plc:5dwp6eo7bwtifvlx4ftcgjmr/app.bsky.feed.post/3lwtgi5znfs2j",
+        "created_at": "2025-08-20T12:28:30.233Z",
+        "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
+      },
+      "engagement": {
+        "likes": 146,
+        "replies": 68,
+        "reposts": 52,
+        "quotes": 102,
+        "formatted": {
+          "likes": "146",
+          "replies": "68",
+          "reposts": "52",
+          "quotes": "102"
+        }
+      },
+      "sample_replies": [
+        "By percentage, Democrats went from nearly an 11-point edge over GOP in 2020 to just over a 6-point...",
+        "In North Carolina, Republicans erased roughly 95 percent of the registration advantage that...",
+        "30 states plus D.C. allow for partisan registration.\n\nBetween 2020 and 2024, Democrats lost 2.1...",
+        "Has anything happened since the 2024 election that might impact your conclusions here? Anything at..."
+      ],
+      "metrics": {
+        "ratio_score": 7.5,
+        "confidence": 0.468,
+        "category": "Quote Dunk",
+        "post_age_minutes": 64.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.573864+00:00",
+      "last_updated": "2025-08-20T13:46:49.573864+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.573864+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 42,
+      "user": {
+        "handle": "jacobtanswell.bsky.social",
+        "display_name": "Jacob Tanswell",
+        "initials": "JT",
+        "did": "did:plc:pi2lktaovzmzuflx2au7oyv6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pi2lktaovzmzuflx2au7oyv6/bafkreidfwzjlatye5objq4q4w7m4niiwjnxgpohyb7ckdl7b3n4ru6dyji@jpeg",
+        "profile_url": "https://bsky.app/profile/jacobtanswell.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "New: Nottingham Forest are exploring a deal to re-sign Matty Cash. #AVFC yet to receive formal approach & have held talks over extending contract, but 28yo among Forest's options to strengthen the right side of defence. Story @theathleticfc.bsky.social\n\nwww.nytimes.com/athletic/656...",
+        "uri": "at://did:plc:pi2lktaovzmzuflx2au7oyv6/app.bsky.feed.post/3lwszcioxlc2k",
+        "created_at": "2025-08-20T08:32:41.449Z",
+        "url": "https://bsky.app/profile/jacobtanswell.bsky.social/post/3lwszcioxlc2k"
+      },
+      "engagement": {
+        "likes": 9,
+        "replies": 5,
+        "reposts": 3,
+        "quotes": 10,
+        "formatted": {
+          "likes": "9",
+          "replies": "5",
+          "reposts": "3",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "There’d better be a hell of an upgrade ready to be announced…",
+        "I wasn’t bothered by the transfer window. It’s mostly bollocks, but I’m getting a touch concerned...",
+        "Selling players after they’ve done a full preseason makes no sense at all. Unless (& it’s doubtful)...",
+        "We can definitely stand to upgrade, but we surely need to bring someone in to replace him?"
+      ],
+      "metrics": {
+        "ratio_score": 3.5,
+        "confidence": 0.396,
+        "category": "Quote Dunk",
+        "post_age_minutes": 105.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T10:27:04.053174+00:00",
+      "last_updated": "2025-08-20T10:27:04.053174+00:00",
+      "analysis_windows": [
+        "2025-08-20T10:27:04.053174+00:00"
+      ],
+      "peak_controversy": 0.6,
+      "trend": "new"
+    },
+    {
+      "rank": 43,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1972,7 +2418,7 @@
       "trend": "rising"
     },
     {
-      "rank": 36,
+      "rank": 44,
       "user": {
         "handle": "scumbelievable.bsky.social",
         "display_name": "Gretchen Felker-Martin 🍉",
@@ -2028,7 +2474,7 @@
       "trend": "new"
     },
     {
-      "rank": 37,
+      "rank": 45,
       "user": {
         "handle": "tomandlorenzo.bsky.social",
         "display_name": "Tom & Lorenzo",
@@ -2084,7 +2530,7 @@
       "trend": "new"
     },
     {
-      "rank": 38,
+      "rank": 46,
       "user": {
         "handle": "cooperlund.online",
         "display_name": "Cooper Lund",
@@ -2140,7 +2586,7 @@
       "trend": "new"
     },
     {
-      "rank": 39,
+      "rank": 47,
       "user": {
         "handle": "vickyacab.bsky.social",
         "display_name": "Vicky ACAB",
@@ -2196,7 +2642,7 @@
       "trend": "new"
     },
     {
-      "rank": 40,
+      "rank": 48,
       "user": {
         "handle": "financialtimes.com",
         "display_name": "Financial Times",
@@ -2251,7 +2697,7 @@
       "trend": "new"
     },
     {
-      "rank": 41,
+      "rank": 49,
       "user": {
         "handle": "popcrave.com",
         "display_name": "Pop Crave",
