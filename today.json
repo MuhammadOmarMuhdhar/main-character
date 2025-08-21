@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T06:58:20.340862+00:00",
-    "last_metrics_update": "2025-08-21T07:17:50.091129+00:00",
+    "last_metrics_update": "2025-08-21T07:32:52.269824+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 56,
@@ -374,15 +374,15 @@
         "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
       },
       "engagement": {
-        "likes": 83,
+        "likes": 84,
         "replies": 245,
         "reposts": 26,
-        "quotes": 235,
+        "quotes": 237,
         "formatted": {
-          "likes": "83",
+          "likes": "84",
           "replies": "245",
           "reposts": "26",
-          "quotes": "235"
+          "quotes": "237"
         }
       },
       "sample_replies": [
@@ -969,62 +969,6 @@
     {
       "rank": 18,
       "user": {
-        "handle": "shojoscholar.bsky.social",
-        "display_name": "The Cloud Akatsuskeet🥷🏾✨",
-        "initials": "TC",
-        "did": "did:plc:q5xswyb56ec756hv2yg577cv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5xswyb56ec756hv2yg577cv/bafkreidfgeey32uownqmbt7vx4nd4w7ah6gwezfjlao2y5rdm5otf4hzh4@jpeg",
-        "profile_url": "https://bsky.app/profile/shojoscholar.bsky.social"
-      },
-      "ratio": "12:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What is it with niggas wanting to be suffocated? I will NAWT catch a homicide case cause you want me to slither over ya nostrils😭😭",
-        "uri": "at://did:plc:q5xswyb56ec756hv2yg577cv/app.bsky.feed.post/3lwvapw4pg22v",
-        "created_at": "2025-08-21T05:50:47.408Z",
-        "url": "https://bsky.app/profile/shojoscholar.bsky.social/post/3lwvapw4pg22v"
-      },
-      "engagement": {
-        "likes": 5,
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 12,
-        "formatted": {
-          "likes": "5",
-          "replies": "2",
-          "reposts": "1",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [
-        "We got WAIVERS",
-        "I’ll have a prepared video statement clearing you of any and all possible charges 👨🏾‍⚖️ we...",
-        "Love to hear this🙂‍↕️",
-        "HARD HEADED😭"
-      ],
-      "metrics": {
-        "ratio_score": 11,
-        "confidence": 0.365,
-        "category": "Complete Ratio",
-        "post_age_minutes": 56.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.479085+00:00",
-      "last_updated": "2025-08-21T06:58:19.479085+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.479085+00:00"
-      ],
-      "peak_controversy": 1.9,
-      "trend": "new"
-    },
-    {
-      "rank": 19,
-      "user": {
         "handle": "steveincolorado.bsky.social",
         "display_name": "Steve in Colorado 🐏🏔️⛷️",
         "initials": "SI",
@@ -1074,7 +1018,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user": {
         "handle": "erynmccee.bsky.social",
         "display_name": "Eryn McCee",
@@ -1127,7 +1071,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "user": {
         "handle": "laportereporte.bsky.social",
         "display_name": "Chris Laporte",
@@ -1183,7 +1127,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "user": {
         "handle": "nymag.com",
         "display_name": "New York Magazine",
@@ -1239,7 +1183,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "user": {
         "handle": "gldnlvndrr.bsky.social",
         "display_name": "J💜",
@@ -1259,12 +1203,12 @@
         "url": "https://bsky.app/profile/gldnlvndrr.bsky.social/post/3lwulgpnetk2s"
       },
       "engagement": {
-        "likes": 97,
+        "likes": 98,
         "replies": 28,
         "reposts": 27,
         "quotes": 86,
         "formatted": {
-          "likes": "97",
+          "likes": "98",
           "replies": "28",
           "reposts": "27",
           "quotes": "86"
@@ -1295,7 +1239,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "user": {
         "handle": "sebsb.bsky.social",
         "display_name": "Seb Stafford-Bloor",
@@ -1351,63 +1295,63 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "user": {
-        "handle": "jamesrball.com",
-        "display_name": "James Ball",
-        "initials": "JB",
-        "did": "did:plc:iriguxga3a3ngc4ezfk56knk",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iriguxga3a3ngc4ezfk56knk/bafkreiauqzlaxypetzwy4m7k7cgb4fcnw3zudqrikea26p4s57jiqipkni@jpeg",
-        "profile_url": "https://bsky.app/profile/jamesrball.com"
+        "handle": "shojoscholar.bsky.social",
+        "display_name": "The Cloud Akatsuskeet🥷🏾✨",
+        "initials": "TC",
+        "did": "did:plc:q5xswyb56ec756hv2yg577cv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5xswyb56ec756hv2yg577cv/bafkreidfgeey32uownqmbt7vx4nd4w7ah6gwezfjlao2y5rdm5otf4hzh4@jpeg",
+        "profile_url": "https://bsky.app/profile/shojoscholar.bsky.social"
       },
-      "ratio": "5:0",
+      "ratio": "13:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "I am not the friend specified here but I also genuinely intensely dislike tea. Family tried relentlessly to get me to like it as a kid and…nope. It’s foul.\n\nA black coffee now and then is nice. And I drink about six diet cokes a day. But never tea.",
-        "uri": "at://did:plc:iriguxga3a3ngc4ezfk56knk/app.bsky.feed.post/3lwtcuxekqc2h",
-        "created_at": "2025-08-20T11:24:04.494Z",
-        "url": "https://bsky.app/profile/jamesrball.com/post/3lwtcuxekqc2h"
+        "text": "What is it with niggas wanting to be suffocated? I will NAWT catch a homicide case cause you want me to slither over ya nostrils😭😭",
+        "uri": "at://did:plc:q5xswyb56ec756hv2yg577cv/app.bsky.feed.post/3lwvapw4pg22v",
+        "created_at": "2025-08-21T05:50:47.408Z",
+        "url": "https://bsky.app/profile/shojoscholar.bsky.social/post/3lwvapw4pg22v"
       },
       "engagement": {
-        "likes": 47,
-        "replies": 36,
-        "reposts": 0,
-        "quotes": 5,
+        "likes": 7,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 13,
         "formatted": {
-          "likes": "47",
-          "replies": "36",
-          "reposts": "0",
-          "quotes": "5"
+          "likes": "7",
+          "replies": "2",
+          "reposts": "1",
+          "quotes": "13"
         }
       },
       "sample_replies": [
-        "it tastes of dust and sadness",
-        "You're both monsters in human skin.",
-        "You need better tea.",
-        "I also cannot stand tea, we should hang out"
+        "We got WAIVERS",
+        "I’ll have a prepared video statement clearing you of any and all possible charges 👨🏾‍⚖️ we...",
+        "Love to hear this🙂‍↕️",
+        "HARD HEADED😭"
       ],
       "metrics": {
-        "ratio_score": 37,
-        "confidence": 0.609,
+        "ratio_score": 11,
+        "confidence": 0.365,
         "category": "Complete Ratio",
-        "post_age_minutes": 129.0
+        "post_age_minutes": 56.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-20T13:46:49.117612+00:00",
-      "last_updated": "2025-08-20T13:46:49.117612+00:00",
+      "first_detected": "2025-08-21T06:58:19.479085+00:00",
+      "last_updated": "2025-08-21T06:58:19.479085+00:00",
       "analysis_windows": [
-        "2025-08-20T13:46:49.117612+00:00"
+        "2025-08-21T06:58:19.479085+00:00"
       ],
-      "peak_controversy": 6.0,
+      "peak_controversy": 1.9,
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "mid-majormadness.bsky.social",
         "display_name": "Mid-Major Madness",
@@ -1463,7 +1407,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "rlivre.cc",
         "display_name": "Radical Livre",
@@ -1519,7 +1463,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "anythinggoe.com",
         "display_name": "AnythingGOEs - Figure Skating ",
@@ -1573,7 +1517,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "user": {
         "handle": "david-ornstein.bsky.social",
         "display_name": "David Ornstein",
@@ -1593,12 +1537,12 @@
         "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3lwucje3e5225"
       },
       "engagement": {
-        "likes": 30,
+        "likes": 31,
         "replies": 16,
         "reposts": 3,
         "quotes": 28,
         "formatted": {
-          "likes": "30",
+          "likes": "31",
           "replies": "16",
           "reposts": "3",
           "quotes": "28"
@@ -1629,7 +1573,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "user": {
         "handle": "ilovetvtime.bsky.social",
         "display_name": "MS. \"ANN\" TENNA! 📺",
@@ -1685,7 +1629,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "user": {
         "handle": "iamabundantaf.bsky.social",
         "display_name": "I Am Abundant AF",
@@ -1740,7 +1684,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
@@ -1750,7 +1694,7 @@
         "profile_url": "https://bsky.app/profile/theathletic.com"
       },
       "ratio": "6:1",
-      "controversy": 0.2,
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1761,12 +1705,12 @@
       },
       "engagement": {
         "likes": 17,
-        "replies": 19,
+        "replies": 20,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
           "likes": "17",
-          "replies": "19",
+          "replies": "20",
           "reposts": "1",
           "quotes": "6"
         }
@@ -1793,6 +1737,62 @@
         "2025-08-21T06:58:20.047590+00:00"
       ],
       "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 32,
+      "user": {
+        "handle": "jamesrball.com",
+        "display_name": "James Ball",
+        "initials": "JB",
+        "did": "did:plc:iriguxga3a3ngc4ezfk56knk",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iriguxga3a3ngc4ezfk56knk/bafkreiauqzlaxypetzwy4m7k7cgb4fcnw3zudqrikea26p4s57jiqipkni@jpeg",
+        "profile_url": "https://bsky.app/profile/jamesrball.com"
+      },
+      "ratio": "5:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I am not the friend specified here but I also genuinely intensely dislike tea. Family tried relentlessly to get me to like it as a kid and…nope. It’s foul.\n\nA black coffee now and then is nice. And I drink about six diet cokes a day. But never tea.",
+        "uri": "at://did:plc:iriguxga3a3ngc4ezfk56knk/app.bsky.feed.post/3lwtcuxekqc2h",
+        "created_at": "2025-08-20T11:24:04.494Z",
+        "url": "https://bsky.app/profile/jamesrball.com/post/3lwtcuxekqc2h"
+      },
+      "engagement": {
+        "likes": 48,
+        "replies": 36,
+        "reposts": 0,
+        "quotes": 5,
+        "formatted": {
+          "likes": "48",
+          "replies": "36",
+          "reposts": "0",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "it tastes of dust and sadness",
+        "You're both monsters in human skin.",
+        "You need better tea.",
+        "I also cannot stand tea, we should hang out"
+      ],
+      "metrics": {
+        "ratio_score": 37,
+        "confidence": 0.609,
+        "category": "Complete Ratio",
+        "post_age_minutes": 129.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T13:46:49.117612+00:00",
+      "last_updated": "2025-08-20T13:46:49.117612+00:00",
+      "analysis_windows": [
+        "2025-08-20T13:46:49.117612+00:00"
+      ],
+      "peak_controversy": 6.0,
       "trend": "new"
     },
     {
@@ -2040,12 +2040,12 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 78,
+        "likes": 79,
         "replies": 20,
         "reposts": 11,
         "quotes": 40,
         "formatted": {
-          "likes": "78",
+          "likes": "79",
           "replies": "20",
           "reposts": "11",
           "quotes": "40"
@@ -2373,15 +2373,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 397,
+        "likes": 400,
         "replies": 32,
-        "reposts": 37,
-        "quotes": 141,
+        "reposts": 38,
+        "quotes": 144,
         "formatted": {
-          "likes": "397",
+          "likes": "400",
           "replies": "32",
-          "reposts": "37",
-          "quotes": "141"
+          "reposts": "38",
+          "quotes": "144"
         }
       },
       "sample_replies": [
@@ -2545,12 +2545,12 @@
         "url": "https://bsky.app/profile/skullytrickybonez.bsky.social/post/3lwuzyppa422y"
       },
       "engagement": {
-        "likes": 16,
+        "likes": 17,
         "replies": 3,
         "reposts": 0,
         "quotes": 6,
         "formatted": {
-          "likes": "16",
+          "likes": "17",
           "replies": "3",
           "reposts": "0",
           "quotes": "6"
@@ -2656,13 +2656,13 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 167,
-        "replies": 75,
+        "likes": 168,
+        "replies": 76,
         "reposts": 62,
         "quotes": 108,
         "formatted": {
-          "likes": "167",
-          "replies": "75",
+          "likes": "168",
+          "replies": "76",
           "reposts": "62",
           "quotes": "108"
         }
