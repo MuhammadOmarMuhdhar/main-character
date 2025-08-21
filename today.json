@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T13:30:53.255663+00:00",
-    "last_metrics_update": "2025-08-21T14:17:26.389066+00:00",
+    "last_metrics_update": "2025-08-21T14:32:50.604229+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -80,8 +80,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylhqx433ay3y3roq5hi2way6/bafkreid6u5dapmz2wmo3mt34oekivafdze6tihssejioqgoyemaidryvuu@jpeg",
         "profile_url": "https://bsky.app/profile/kennedialy.bsky.social"
       },
-      "ratio": "76:0",
-      "controversy": 1.7,
+      "ratio": "78:0",
+      "controversy": 1.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/kennedialy.bsky.social/post/3lwvwu6gt6k2h"
       },
       "engagement": {
-        "likes": 13,
+        "likes": 14,
         "replies": 9,
         "reposts": 0,
-        "quotes": 76,
+        "quotes": 78,
         "formatted": {
-          "likes": "13",
+          "likes": "14",
           "replies": "9",
           "reposts": "0",
-          "quotes": "76"
+          "quotes": "78"
         }
       },
       "sample_replies": [
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/alexkirshner.com/post/3lwufk4ftrs22"
       },
       "engagement": {
-        "likes": 57,
+        "likes": 58,
         "replies": 106,
         "reposts": 0,
         "quotes": 123,
         "formatted": {
-          "likes": "57",
+          "likes": "58",
           "replies": "106",
           "reposts": "0",
           "quotes": "123"
@@ -304,7 +304,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "38:1",
+      "ratio": "42:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 60,
-        "replies": 97,
+        "likes": 66,
+        "replies": 104,
         "reposts": 2,
-        "quotes": 76,
+        "quotes": 85,
         "formatted": {
-          "likes": "60",
-          "replies": "97",
+          "likes": "66",
+          "replies": "104",
           "reposts": "2",
-          "quotes": "76"
+          "quotes": "85"
         }
       },
       "sample_replies": [
@@ -428,15 +428,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 340,
+        "likes": 341,
         "replies": 143,
         "reposts": 40,
-        "quotes": 584,
+        "quotes": 587,
         "formatted": {
-          "likes": "340",
+          "likes": "341",
           "replies": "143",
           "reposts": "40",
-          "quotes": "584"
+          "quotes": "587"
         }
       },
       "sample_replies": [
@@ -744,6 +744,61 @@
     {
       "rank": 14,
       "user": {
+        "handle": "bamaslymm.blacksky.app",
+        "display_name": "Kyle Barker Jr.",
+        "initials": "KB",
+        "did": "did:plc:ppcpwmrxxyi7k46ajkko2iuk",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
+        "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
+      },
+      "ratio": "10:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Now ShaCarri, this is nasty work.\n\nIf you doing all this at the AIRPORT......",
+        "uri": "at://did:plc:ppcpwmrxxyi7k46ajkko2iuk/app.bsky.feed.post/3lwvx3fifvs2s",
+        "created_at": "2025-08-21T12:30:54.940Z",
+        "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
+      },
+      "engagement": {
+        "likes": 11,
+        "replies": 3,
+        "reposts": 4,
+        "quotes": 42,
+        "formatted": {
+          "likes": "11",
+          "replies": "3",
+          "reposts": "4",
+          "quotes": "42"
+        }
+      },
+      "sample_replies": [
+        "She whooping on that boi on a regular basis and he got all the signs of an abused victim. \n\nThis...",
+        "And apparently she released an apology vid on X but she was smirking and didn't seem...",
+        "This is really bad."
+      ],
+      "metrics": {
+        "ratio_score": 26.0,
+        "confidence": 0.468,
+        "category": "Complete Ratio",
+        "post_age_minutes": 46.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T13:30:52.820245+00:00",
+      "last_updated": "2025-08-21T13:30:52.820245+00:00",
+      "analysis_windows": [
+        "2025-08-21T13:30:52.820245+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 15,
+      "user": {
         "handle": "praz.bsky.social",
         "display_name": "Mike Praznowski",
         "initials": "MP",
@@ -795,61 +850,6 @@
         "2025-08-21T06:58:19.760006+00:00"
       ],
       "peak_controversy": 1.7,
-      "trend": "new"
-    },
-    {
-      "rank": 15,
-      "user": {
-        "handle": "bamaslymm.blacksky.app",
-        "display_name": "Kyle Barker Jr.",
-        "initials": "KB",
-        "did": "did:plc:ppcpwmrxxyi7k46ajkko2iuk",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
-        "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
-      },
-      "ratio": "10:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Now ShaCarri, this is nasty work.\n\nIf you doing all this at the AIRPORT......",
-        "uri": "at://did:plc:ppcpwmrxxyi7k46ajkko2iuk/app.bsky.feed.post/3lwvx3fifvs2s",
-        "created_at": "2025-08-21T12:30:54.940Z",
-        "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
-      },
-      "engagement": {
-        "likes": 12,
-        "replies": 3,
-        "reposts": 4,
-        "quotes": 41,
-        "formatted": {
-          "likes": "12",
-          "replies": "3",
-          "reposts": "4",
-          "quotes": "41"
-        }
-      },
-      "sample_replies": [
-        "She whooping on that boi on a regular basis and he got all the signs of an abused victim. \n\nThis...",
-        "And apparently she released an apology vid on X but she was smirking and didn't seem...",
-        "This is really bad."
-      ],
-      "metrics": {
-        "ratio_score": 26.0,
-        "confidence": 0.468,
-        "category": "Complete Ratio",
-        "post_age_minutes": 46.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T13:30:52.820245+00:00",
-      "last_updated": "2025-08-21T13:30:52.820245+00:00",
-      "analysis_windows": [
-        "2025-08-21T13:30:52.820245+00:00"
-      ],
-      "peak_controversy": 4.7,
       "trend": "new"
     },
     {
@@ -1264,12 +1264,12 @@
         "likes": 109,
         "replies": 30,
         "reposts": 31,
-        "quotes": 90,
+        "quotes": 91,
         "formatted": {
           "likes": "109",
           "replies": "30",
           "reposts": "31",
-          "quotes": "90"
+          "quotes": "91"
         }
       },
       "sample_replies": [
@@ -1306,7 +1306,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "53:0",
+      "ratio": "55:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1317,15 +1317,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 46,
+        "likes": 49,
         "replies": 2,
         "reposts": 0,
-        "quotes": 53,
+        "quotes": 55,
         "formatted": {
-          "likes": "46",
+          "likes": "49",
           "replies": "2",
           "reposts": "0",
-          "quotes": "53"
+          "quotes": "55"
         }
       },
       "sample_replies": [
@@ -1693,8 +1693,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iozffsic2xf3m263j3l7i5vo/bafkreiflq4en23x6nyu7aomuvcjcnaswvyasxr4rju3ska62nhcff3pydq@jpeg",
         "profile_url": "https://bsky.app/profile/electionmaps.uk"
       },
-      "ratio": "4:1",
-      "controversy": 0.3,
+      "ratio": "3:1",
+      "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1706,12 +1706,12 @@
       "engagement": {
         "likes": 24,
         "replies": 20,
-        "reposts": 6,
+        "reposts": 7,
         "quotes": 23,
         "formatted": {
           "likes": "24",
           "replies": "20",
-          "reposts": "6",
+          "reposts": "7",
           "quotes": "23"
         }
       },
@@ -1861,7 +1861,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzsrpsyeeppu4jbadsab7wjp/bafkreia2xrz26vy2bosvuqm3rxtdu4gzpukttqhe4nhrjhnypj4cfqj7ze@jpeg",
         "profile_url": "https://bsky.app/profile/bugsmaytrix.bsky.social"
       },
-      "ratio": "28:1",
+      "ratio": "29:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1873,14 +1873,14 @@
       },
       "engagement": {
         "likes": 68,
-        "replies": 18,
+        "replies": 19,
         "reposts": 1,
-        "quotes": 28,
+        "quotes": 29,
         "formatted": {
           "likes": "68",
-          "replies": "18",
+          "replies": "19",
           "reposts": "1",
-          "quotes": "28"
+          "quotes": "29"
         }
       },
       "sample_replies": [
@@ -2258,15 +2258,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 520,
-        "replies": 43,
-        "reposts": 53,
-        "quotes": 225,
+        "likes": 528,
+        "replies": 45,
+        "reposts": 54,
+        "quotes": 233,
         "formatted": {
-          "likes": "520",
-          "replies": "43",
-          "reposts": "53",
-          "quotes": "225"
+          "likes": "528",
+          "replies": "45",
+          "reposts": "54",
+          "quotes": "233"
         }
       },
       "sample_replies": [
@@ -2370,14 +2370,14 @@
         "url": "https://bsky.app/profile/saulstaniforth.bsky.social/post/3lwvexykwlk2b"
       },
       "engagement": {
-        "likes": 55,
-        "replies": 24,
-        "reposts": 24,
+        "likes": 56,
+        "replies": 25,
+        "reposts": 25,
         "quotes": 35,
         "formatted": {
-          "likes": "55",
-          "replies": "24",
-          "reposts": "24",
+          "likes": "56",
+          "replies": "25",
+          "reposts": "25",
           "quotes": "35"
         }
       },
