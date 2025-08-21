@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T03:32:26.722120+00:00",
-    "last_metrics_update": "2025-08-21T03:47:47.241316+00:00",
+    "last_metrics_update": "2025-08-21T04:02:49.980092+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 49,
@@ -260,15 +260,15 @@
         "url": "https://bsky.app/profile/cpsc.gov/post/3lwucoviwqs2m"
       },
       "engagement": {
-        "likes": 76,
-        "replies": 222,
+        "likes": 78,
+        "replies": 228,
         "reposts": 23,
-        "quotes": 221,
+        "quotes": 224,
         "formatted": {
-          "likes": "76",
-          "replies": "222",
+          "likes": "78",
+          "replies": "228",
           "reposts": "23",
-          "quotes": "221"
+          "quotes": "224"
         }
       },
       "sample_replies": [
@@ -419,7 +419,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreicjg73hoewjlbyablkdhaesfqt5o2vtawest3g5lnhlyeju4tipse@jpeg",
         "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
       },
-      "ratio": "59:1",
+      "ratio": "60:1",
       "controversy": 0.8,
       "change": "+5.0",
       "change_type": "positive",
@@ -433,12 +433,12 @@
         "likes": 21,
         "replies": 10,
         "reposts": 1,
-        "quotes": 59,
+        "quotes": 60,
         "formatted": {
           "likes": "21",
           "replies": "10",
           "reposts": "1",
-          "quotes": "59"
+          "quotes": "60"
         }
       },
       "sample_replies": [
@@ -476,7 +476,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kgt2t7leyrctcy4ud74cxa/bafkreigqdw7rwtith4vthnk63mvsbvl7ae26win233bvnjvib533p3zerm@jpeg",
         "profile_url": "https://bsky.app/profile/fatkiddeals.com"
       },
-      "ratio": "15:1",
+      "ratio": "14:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -487,15 +487,15 @@
         "url": "https://bsky.app/profile/fatkiddeals.com/post/3lwu37jw5r22u"
       },
       "engagement": {
-        "likes": 306,
+        "likes": 309,
         "replies": 135,
-        "reposts": 37,
-        "quotes": 548,
+        "reposts": 38,
+        "quotes": 550,
         "formatted": {
-          "likes": "306",
+          "likes": "309",
           "replies": "135",
-          "reposts": "37",
-          "quotes": "548"
+          "reposts": "38",
+          "quotes": "550"
         }
       },
       "sample_replies": [
@@ -643,7 +643,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
         "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
       },
-      "ratio": "23:1",
+      "ratio": "24:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -657,12 +657,12 @@
         "likes": 55,
         "replies": 39,
         "reposts": 4,
-        "quotes": 92,
+        "quotes": 94,
         "formatted": {
           "likes": "55",
           "replies": "39",
           "reposts": "4",
-          "quotes": "92"
+          "quotes": "94"
         }
       },
       "sample_replies": [
@@ -810,7 +810,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6b3nvvvr4z5662q7va7vxqf7/bafkreibfugyzlykorvccfzmthqn2z4hzm45mak5wenxzuf7wjffxwc6diu@jpeg",
         "profile_url": "https://bsky.app/profile/laportereporte.bsky.social"
       },
-      "ratio": "13:1",
+      "ratio": "14:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -824,12 +824,12 @@
         "likes": 50,
         "replies": 13,
         "reposts": 5,
-        "quotes": 67,
+        "quotes": 69,
         "formatted": {
           "likes": "50",
           "replies": "13",
           "reposts": "5",
-          "quotes": "67"
+          "quotes": "69"
         }
       },
       "sample_replies": [
@@ -1042,15 +1042,15 @@
         "url": "https://bsky.app/profile/gldnlvndrr.bsky.social/post/3lwulgpnetk2s"
       },
       "engagement": {
-        "likes": 95,
+        "likes": 96,
         "replies": 28,
-        "reposts": 25,
-        "quotes": 85,
+        "reposts": 26,
+        "quotes": 86,
         "formatted": {
-          "likes": "95",
+          "likes": "96",
           "replies": "28",
-          "reposts": "25",
-          "quotes": "85"
+          "reposts": "26",
+          "quotes": "86"
         }
       },
       "sample_replies": [
@@ -1199,7 +1199,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fi4g4mzyxx3djsd66kzz6avj/bafkreigtsxkr25dngswjmictkgdkgyrbp7su4oslj62vrf3h3tp5rmowga@jpeg",
         "profile_url": "https://bsky.app/profile/iamabundantaf.bsky.social"
       },
-      "ratio": "10:1",
+      "ratio": "12:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1213,12 +1213,12 @@
         "likes": 7,
         "replies": 3,
         "reposts": 1,
-        "quotes": 10,
+        "quotes": 12,
         "formatted": {
           "likes": "7",
           "replies": "3",
           "reposts": "1",
-          "quotes": "10"
+          "quotes": "12"
         }
       },
       "sample_replies": [
@@ -1471,62 +1471,6 @@
     {
       "rank": 27,
       "user": {
-        "handle": "bengoessling.bsky.social",
-        "display_name": "Ben Goessling",
-        "initials": "BG",
-        "did": "did:plc:kpja25hrau36cr7xvttgbk2x",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpja25hrau36cr7xvttgbk2x/bafkreiacqmwzyss2ovyiftebcqtzyg3a4tl3l6sgee3eeaefawj77ocvai@jpeg",
-        "profile_url": "https://bsky.app/profile/bengoessling.bsky.social"
-      },
-      "ratio": "9:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The #Vikings are trading defensive tackle Harrison Phillips to the Jets, along with a 2027 seventh-round pick. The Vikings will get a 2026 6th-rounder (originally from Denver), and a 2027 6th.",
-        "uri": "at://did:plc:kpja25hrau36cr7xvttgbk2x/app.bsky.feed.post/3lwujadbjxz2h",
-        "created_at": "2025-08-20T22:50:28.083Z",
-        "url": "https://bsky.app/profile/bengoessling.bsky.social/post/3lwujadbjxz2h"
-      },
-      "engagement": {
-        "likes": 20,
-        "replies": 14,
-        "reposts": 1,
-        "quotes": 9,
-        "formatted": {
-          "likes": "20",
-          "replies": "14",
-          "reposts": "1",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "I feel so bad for Harrison, a super great guy and for the the community and as a part of the...",
-        "Early story on the trade: www.startribune.com/minnesota-vi...",
-        "More cap room for a WR maybe",
-        "oh wow they REALLY love Redmond and LDR don’t they"
-      ],
-      "metrics": {
-        "ratio_score": 18,
-        "confidence": 0.476,
-        "category": "Complete Ratio",
-        "post_age_minutes": 57.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:43.612243+00:00",
-      "last_updated": "2025-08-21T00:04:43.612243+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:43.612243+00:00"
-      ],
-      "peak_controversy": 4.2,
-      "trend": "new"
-    },
-    {
-      "rank": 28,
-      "user": {
         "handle": "anythinggoe.com",
         "display_name": "AnythingGOEs - Figure Skating ",
         "initials": "A-",
@@ -1579,7 +1523,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "user": {
         "handle": "david-ornstein.bsky.social",
         "display_name": "David Ornstein",
@@ -1635,6 +1579,62 @@
       "trend": "new"
     },
     {
+      "rank": 29,
+      "user": {
+        "handle": "bengoessling.bsky.social",
+        "display_name": "Ben Goessling",
+        "initials": "BG",
+        "did": "did:plc:kpja25hrau36cr7xvttgbk2x",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kpja25hrau36cr7xvttgbk2x/bafkreiacqmwzyss2ovyiftebcqtzyg3a4tl3l6sgee3eeaefawj77ocvai@jpeg",
+        "profile_url": "https://bsky.app/profile/bengoessling.bsky.social"
+      },
+      "ratio": "9:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The #Vikings are trading defensive tackle Harrison Phillips to the Jets, along with a 2027 seventh-round pick. The Vikings will get a 2026 6th-rounder (originally from Denver), and a 2027 6th.",
+        "uri": "at://did:plc:kpja25hrau36cr7xvttgbk2x/app.bsky.feed.post/3lwujadbjxz2h",
+        "created_at": "2025-08-20T22:50:28.083Z",
+        "url": "https://bsky.app/profile/bengoessling.bsky.social/post/3lwujadbjxz2h"
+      },
+      "engagement": {
+        "likes": 21,
+        "replies": 14,
+        "reposts": 1,
+        "quotes": 9,
+        "formatted": {
+          "likes": "21",
+          "replies": "14",
+          "reposts": "1",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "I feel so bad for Harrison, a super great guy and for the the community and as a part of the...",
+        "Early story on the trade: www.startribune.com/minnesota-vi...",
+        "More cap room for a WR maybe",
+        "oh wow they REALLY love Redmond and LDR don’t they"
+      ],
+      "metrics": {
+        "ratio_score": 18,
+        "confidence": 0.476,
+        "category": "Complete Ratio",
+        "post_age_minutes": 57.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:43.612243+00:00",
+      "last_updated": "2025-08-21T00:04:43.612243+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:43.612243+00:00"
+      ],
+      "peak_controversy": 4.2,
+      "trend": "new"
+    },
+    {
       "rank": 30,
       "user": {
         "handle": "bugsmaytrix.bsky.social",
@@ -1644,7 +1644,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzsrpsyeeppu4jbadsab7wjp/bafkreia2xrz26vy2bosvuqm3rxtdu4gzpukttqhe4nhrjhnypj4cfqj7ze@jpeg",
         "profile_url": "https://bsky.app/profile/bugsmaytrix.bsky.social"
       },
-      "ratio": "15:1",
+      "ratio": "16:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1655,15 +1655,15 @@
         "url": "https://bsky.app/profile/bugsmaytrix.bsky.social/post/3lwuwum22cc2x"
       },
       "engagement": {
-        "likes": 40,
-        "replies": 8,
+        "likes": 46,
+        "replies": 9,
         "reposts": 1,
-        "quotes": 15,
+        "quotes": 16,
         "formatted": {
-          "likes": "40",
-          "replies": "8",
+          "likes": "46",
+          "replies": "9",
           "reposts": "1",
-          "quotes": "15"
+          "quotes": "16"
         }
       },
       "sample_replies": [
@@ -1711,15 +1711,15 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 46,
-        "replies": 12,
-        "reposts": 5,
-        "quotes": 31,
+        "likes": 55,
+        "replies": 14,
+        "reposts": 6,
+        "quotes": 34,
         "formatted": {
-          "likes": "46",
-          "replies": "12",
-          "reposts": "5",
-          "quotes": "31"
+          "likes": "55",
+          "replies": "14",
+          "reposts": "6",
+          "quotes": "34"
         }
       },
       "sample_replies": [
@@ -2101,12 +2101,12 @@
       },
       "engagement": {
         "likes": 150,
-        "replies": 69,
+        "replies": 68,
         "reposts": 52,
         "quotes": 102,
         "formatted": {
           "likes": "150",
-          "replies": "69",
+          "replies": "68",
           "reposts": "52",
           "quotes": "102"
         }
@@ -2194,6 +2194,62 @@
     {
       "rank": 40,
       "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "4:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Alan Cumming says he didn’t know who he was acting with half the time when filming ‘Avengers: Doomsday’ \n\n“I did the entire film in isolation. Lots of green screen, face replacement. They even gave characters fake names. I don’t know who I was acting with half the time”\n\n(via Gold Derby)",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lwuuei27zk2y",
+        "created_at": "2025-08-21T02:09:38.638Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
+      },
+      "engagement": {
+        "likes": 304,
+        "replies": 23,
+        "reposts": 27,
+        "quotes": 110,
+        "formatted": {
+          "likes": "304",
+          "replies": "23",
+          "reposts": "27",
+          "quotes": "110"
+        }
+      },
+      "sample_replies": [
+        "that sounds horrible",
+        "between the movie being written on the fly and this, i feel like doomsday is gonna end up being an...",
+        "This is not how movies should be made",
+        "Can we agree this anti-leak, anti-spoiler secrecy is too damn much?"
+      ],
+      "metrics": {
+        "ratio_score": 2.89,
+        "confidence": 0.943,
+        "category": "Quote Dunk",
+        "post_age_minutes": 67.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T03:32:26.440725+00:00",
+      "last_updated": "2025-08-21T03:32:26.440725+00:00",
+      "analysis_windows": [
+        "2025-08-21T03:32:26.440725+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 41,
+      "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
         "initials": "TG",
@@ -2251,7 +2307,7 @@
       "trend": "rising"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "user": {
         "handle": "drspookyer.bsky.social",
         "display_name": "N.J. Gallegos",
@@ -2271,12 +2327,12 @@
         "url": "https://bsky.app/profile/drspookyer.bsky.social/post/3lwurcvyhnk2c"
       },
       "engagement": {
-        "likes": 9,
+        "likes": 10,
         "replies": 3,
         "reposts": 0,
         "quotes": 5,
         "formatted": {
-          "likes": "9",
+          "likes": "10",
           "replies": "3",
           "reposts": "0",
           "quotes": "5"
@@ -2306,62 +2362,6 @@
       "trend": "new"
     },
     {
-      "rank": 42,
-      "user": {
-        "handle": "culturecrave.co",
-        "display_name": "Culture Crave 🍿",
-        "initials": "CC",
-        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
-        "profile_url": "https://bsky.app/profile/culturecrave.co"
-      },
-      "ratio": "4:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Alan Cumming says he didn’t know who he was acting with half the time when filming ‘Avengers: Doomsday’ \n\n“I did the entire film in isolation. Lots of green screen, face replacement. They even gave characters fake names. I don’t know who I was acting with half the time”\n\n(via Gold Derby)",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lwuuei27zk2y",
-        "created_at": "2025-08-21T02:09:38.638Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
-      },
-      "engagement": {
-        "likes": 293,
-        "replies": 22,
-        "reposts": 27,
-        "quotes": 105,
-        "formatted": {
-          "likes": "293",
-          "replies": "22",
-          "reposts": "27",
-          "quotes": "105"
-        }
-      },
-      "sample_replies": [
-        "that sounds horrible",
-        "between the movie being written on the fly and this, i feel like doomsday is gonna end up being an...",
-        "This is not how movies should be made",
-        "Can we agree this anti-leak, anti-spoiler secrecy is too damn much?"
-      ],
-      "metrics": {
-        "ratio_score": 2.89,
-        "confidence": 0.943,
-        "category": "Quote Dunk",
-        "post_age_minutes": 67.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:26.440725+00:00",
-      "last_updated": "2025-08-21T03:32:26.440725+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:26.440725+00:00"
-      ],
-      "peak_controversy": 1.3,
-      "trend": "new"
-    },
-    {
       "rank": 43,
       "user": {
         "handle": "veryghetto.posts.fyi",
@@ -2371,7 +2371,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aax2d4gyu4vmlccwdtgci474/bafkreiabfg7j2wzskzjn7ksromkjd3mewmsx6nie2yc3bupocnktug757i@jpeg",
         "profile_url": "https://bsky.app/profile/veryghetto.posts.fyi"
       },
-      "ratio": "8:1",
+      "ratio": "10:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2382,15 +2382,15 @@
         "url": "https://bsky.app/profile/veryghetto.posts.fyi/post/3lwupain7cc2y"
       },
       "engagement": {
-        "likes": 25,
+        "likes": 27,
         "replies": 5,
         "reposts": 2,
-        "quotes": 17,
+        "quotes": 19,
         "formatted": {
-          "likes": "25",
+          "likes": "27",
           "replies": "5",
           "reposts": "2",
-          "quotes": "17"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -2494,12 +2494,12 @@
         "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
       },
       "engagement": {
-        "likes": 104,
+        "likes": 106,
         "replies": 28,
         "reposts": 14,
         "quotes": 38,
         "formatted": {
-          "likes": "104",
+          "likes": "106",
           "replies": "28",
           "reposts": "14",
           "quotes": "38"
@@ -2717,12 +2717,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwslv74xvs2s"
       },
       "engagement": {
-        "likes": 173,
+        "likes": 174,
         "replies": 3,
         "reposts": 11,
         "quotes": 32,
         "formatted": {
-          "likes": "173",
+          "likes": "174",
           "replies": "3",
           "reposts": "11",
           "quotes": "32"
