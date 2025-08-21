@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T03:32:26.722120+00:00",
-    "last_metrics_update": "2025-08-21T04:17:34.855709+00:00",
+    "last_metrics_update": "2025-08-21T04:32:22.064837+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 49,
@@ -73,62 +73,6 @@
     {
       "rank": 2,
       "user": {
-        "handle": "alexkirshner.com",
-        "display_name": "Alex Kirshner",
-        "initials": "AK",
-        "did": "did:plc:fg5ks6bevpbwkha6o3s2y27h",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fg5ks6bevpbwkha6o3s2y27h/bafkreidl4ioeiqrgqlnr6wza2mmmqclxx2abq46nuq53jedukxy2ecvk6i@jpeg",
-        "profile_url": "https://bsky.app/profile/alexkirshner.com"
-      },
-      "ratio": "120:0",
-      "controversy": 1.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The time has come. What is your most THOROUGHLY LUKEWARM* take about the 2025 college football season? \n\nI think that between Billy Napier, Brian Kelly, Hugh Freeze, and Brent Venables, exactly one guy will wind up getting fired. Will be a borderline case.\n\n*Nothing hotter than a 6.5 out of 10.",
-        "uri": "at://did:plc:fg5ks6bevpbwkha6o3s2y27h/app.bsky.feed.post/3lwufk4ftrs22",
-        "created_at": "2025-08-20T21:44:21.644Z",
-        "url": "https://bsky.app/profile/alexkirshner.com/post/3lwufk4ftrs22"
-      },
-      "engagement": {
-        "likes": 52,
-        "replies": 100,
-        "reposts": 0,
-        "quotes": 120,
-        "formatted": {
-          "likes": "52",
-          "replies": "100",
-          "reposts": "0",
-          "quotes": "120"
-        }
-      },
-      "sample_replies": [
-        "the ACC Championship berths are not up for grabs during the last week of the regular season",
-        "michigan will beat ohio state",
-        "somebody projected to win 7 or fewer games will go 10-2 and make the Playoff",
-        "Well of course. GT plays a non-conference game that week anyway."
-      ],
-      "metrics": {
-        "ratio_score": 188,
-        "confidence": 0.774,
-        "category": "Complete Ratio",
-        "post_age_minutes": 123.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T00:04:43.462319+00:00",
-      "last_updated": "2025-08-21T00:04:43.462319+00:00",
-      "analysis_windows": [
-        "2025-08-21T00:04:43.462319+00:00"
-      ],
-      "peak_controversy": 7.5,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
         "handle": "hanginwitcoop.blacksky.app",
         "display_name": "Everything is JOKES!",
         "initials": "EI",
@@ -180,6 +124,62 @@
         "2025-08-21T00:04:43.749123+00:00"
       ],
       "peak_controversy": 2.6,
+      "trend": "new"
+    },
+    {
+      "rank": 3,
+      "user": {
+        "handle": "alexkirshner.com",
+        "display_name": "Alex Kirshner",
+        "initials": "AK",
+        "did": "did:plc:fg5ks6bevpbwkha6o3s2y27h",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fg5ks6bevpbwkha6o3s2y27h/bafkreidl4ioeiqrgqlnr6wza2mmmqclxx2abq46nuq53jedukxy2ecvk6i@jpeg",
+        "profile_url": "https://bsky.app/profile/alexkirshner.com"
+      },
+      "ratio": "120:0",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The time has come. What is your most THOROUGHLY LUKEWARM* take about the 2025 college football season? \n\nI think that between Billy Napier, Brian Kelly, Hugh Freeze, and Brent Venables, exactly one guy will wind up getting fired. Will be a borderline case.\n\n*Nothing hotter than a 6.5 out of 10.",
+        "uri": "at://did:plc:fg5ks6bevpbwkha6o3s2y27h/app.bsky.feed.post/3lwufk4ftrs22",
+        "created_at": "2025-08-20T21:44:21.644Z",
+        "url": "https://bsky.app/profile/alexkirshner.com/post/3lwufk4ftrs22"
+      },
+      "engagement": {
+        "likes": 53,
+        "replies": 101,
+        "reposts": 0,
+        "quotes": 120,
+        "formatted": {
+          "likes": "53",
+          "replies": "101",
+          "reposts": "0",
+          "quotes": "120"
+        }
+      },
+      "sample_replies": [
+        "the ACC Championship berths are not up for grabs during the last week of the regular season",
+        "michigan will beat ohio state",
+        "somebody projected to win 7 or fewer games will go 10-2 and make the Playoff",
+        "Well of course. GT plays a non-conference game that week anyway."
+      ],
+      "metrics": {
+        "ratio_score": 188,
+        "confidence": 0.774,
+        "category": "Complete Ratio",
+        "post_age_minutes": 123.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T00:04:43.462319+00:00",
+      "last_updated": "2025-08-21T00:04:43.462319+00:00",
+      "analysis_windows": [
+        "2025-08-21T00:04:43.462319+00:00"
+      ],
+      "peak_controversy": 7.5,
       "trend": "new"
     },
     {
@@ -261,14 +261,14 @@
       },
       "engagement": {
         "likes": 79,
-        "replies": 232,
+        "replies": 235,
         "reposts": 23,
-        "quotes": 226,
+        "quotes": 229,
         "formatted": {
           "likes": "79",
-          "replies": "232",
+          "replies": "235",
           "reposts": "23",
-          "quotes": "226"
+          "quotes": "229"
         }
       },
       "sample_replies": [
@@ -490,12 +490,12 @@
         "likes": 310,
         "replies": 135,
         "reposts": 38,
-        "quotes": 552,
+        "quotes": 555,
         "formatted": {
           "likes": "310",
           "replies": "135",
           "reposts": "38",
-          "quotes": "552"
+          "quotes": "555"
         }
       },
       "sample_replies": [
@@ -654,15 +654,15 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 57,
+        "likes": 58,
         "replies": 39,
         "reposts": 4,
-        "quotes": 94,
+        "quotes": 95,
         "formatted": {
-          "likes": "57",
+          "likes": "58",
           "replies": "39",
           "reposts": "4",
-          "quotes": "94"
+          "quotes": "95"
         }
       },
       "sample_replies": [
@@ -880,12 +880,12 @@
         "likes": 72,
         "replies": 17,
         "reposts": 7,
-        "quotes": 111,
+        "quotes": 112,
         "formatted": {
           "likes": "72",
           "replies": "17",
           "reposts": "7",
-          "quotes": "111"
+          "quotes": "112"
         }
       },
       "sample_replies": [
@@ -1042,14 +1042,14 @@
         "url": "https://bsky.app/profile/gldnlvndrr.bsky.social/post/3lwulgpnetk2s"
       },
       "engagement": {
-        "likes": 96,
+        "likes": 97,
         "replies": 28,
-        "reposts": 26,
+        "reposts": 27,
         "quotes": 86,
         "formatted": {
-          "likes": "96",
+          "likes": "97",
           "replies": "28",
-          "reposts": "26",
+          "reposts": "27",
           "quotes": "86"
         }
       },
@@ -1098,12 +1098,12 @@
         "url": "https://bsky.app/profile/sebsb.bsky.social/post/3lwszncsdos2v"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "replies": 17,
         "reposts": 4,
         "quotes": 24,
         "formatted": {
-          "likes": "15",
+          "likes": "16",
           "replies": "17",
           "reposts": "4",
           "quotes": "24"
@@ -1199,7 +1199,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fi4g4mzyxx3djsd66kzz6avj/bafkreigtsxkr25dngswjmictkgdkgyrbp7su4oslj62vrf3h3tp5rmowga@jpeg",
         "profile_url": "https://bsky.app/profile/iamabundantaf.bsky.social"
       },
-      "ratio": "12:1",
+      "ratio": "13:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1213,12 +1213,12 @@
         "likes": 8,
         "replies": 3,
         "reposts": 1,
-        "quotes": 12,
+        "quotes": 13,
         "formatted": {
           "likes": "8",
           "replies": "3",
           "reposts": "1",
-          "quotes": "12"
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -1644,7 +1644,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzsrpsyeeppu4jbadsab7wjp/bafkreia2xrz26vy2bosvuqm3rxtdu4gzpukttqhe4nhrjhnypj4cfqj7ze@jpeg",
         "profile_url": "https://bsky.app/profile/bugsmaytrix.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "20:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1655,15 +1655,15 @@
         "url": "https://bsky.app/profile/bugsmaytrix.bsky.social/post/3lwuwum22cc2x"
       },
       "engagement": {
-        "likes": 50,
+        "likes": 51,
         "replies": 9,
         "reposts": 1,
-        "quotes": 19,
+        "quotes": 20,
         "formatted": {
-          "likes": "50",
+          "likes": "51",
           "replies": "9",
           "reposts": "1",
-          "quotes": "19"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -1711,14 +1711,14 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 60,
-        "replies": 14,
-        "reposts": 8,
+        "likes": 63,
+        "replies": 15,
+        "reposts": 9,
         "quotes": 35,
         "formatted": {
-          "likes": "60",
-          "replies": "14",
-          "reposts": "8",
+          "likes": "63",
+          "replies": "15",
+          "reposts": "9",
           "quotes": "35"
         }
       },
@@ -2100,15 +2100,15 @@
         "url": "https://bsky.app/profile/shanegoldmacher.bsky.social/post/3lwtgi5znfs2j"
       },
       "engagement": {
-        "likes": 151,
+        "likes": 154,
         "replies": 69,
-        "reposts": 55,
-        "quotes": 104,
+        "reposts": 57,
+        "quotes": 106,
         "formatted": {
-          "likes": "151",
+          "likes": "154",
           "replies": "69",
-          "reposts": "55",
-          "quotes": "104"
+          "reposts": "57",
+          "quotes": "106"
         }
       },
       "sample_replies": [
@@ -2212,15 +2212,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 316,
-        "replies": 25,
-        "reposts": 27,
-        "quotes": 113,
+        "likes": 321,
+        "replies": 28,
+        "reposts": 28,
+        "quotes": 118,
         "formatted": {
-          "likes": "316",
-          "replies": "25",
-          "reposts": "27",
-          "quotes": "113"
+          "likes": "321",
+          "replies": "28",
+          "reposts": "28",
+          "quotes": "118"
         }
       },
       "sample_replies": [
@@ -2494,12 +2494,12 @@
         "url": "https://bsky.app/profile/tomandlorenzo.bsky.social/post/3lwu7ltk4r22x"
       },
       "engagement": {
-        "likes": 106,
+        "likes": 108,
         "replies": 28,
         "reposts": 14,
         "quotes": 38,
         "formatted": {
-          "likes": "106",
+          "likes": "108",
           "replies": "28",
           "reposts": "14",
           "quotes": "38"
