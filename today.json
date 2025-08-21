@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T13:30:53.255663+00:00",
-    "last_metrics_update": "2025-08-21T14:32:50.604229+00:00",
+    "last_metrics_update": "2025-08-21T14:47:22.989027+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -24,7 +24,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mzcmy6awgxir5s7jw5mj5ql/bafkreidtrmpnnimtkyxohfec6fvrrppid75y45caviswlkkzlce5izcafe@jpeg",
         "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
       },
-      "ratio": "104:0",
+      "ratio": "105:0",
       "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
@@ -38,12 +38,12 @@
         "likes": 16,
         "replies": 18,
         "reposts": 0,
-        "quotes": 104,
+        "quotes": 105,
         "formatted": {
           "likes": "16",
           "replies": "18",
           "reposts": "0",
-          "quotes": "104"
+          "quotes": "105"
         }
       },
       "sample_replies": [
@@ -92,12 +92,12 @@
       },
       "engagement": {
         "likes": 14,
-        "replies": 9,
+        "replies": 10,
         "reposts": 0,
         "quotes": 78,
         "formatted": {
           "likes": "14",
-          "replies": "9",
+          "replies": "10",
           "reposts": "0",
           "quotes": "78"
         }
@@ -260,12 +260,12 @@
       },
       "engagement": {
         "likes": 90,
-        "replies": 248,
+        "replies": 249,
         "reposts": 26,
         "quotes": 247,
         "formatted": {
           "likes": "90",
-          "replies": "248",
+          "replies": "249",
           "reposts": "26",
           "quotes": "247"
         }
@@ -304,7 +304,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "42:1",
+      "ratio": "32:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 66,
-        "replies": 104,
-        "reposts": 2,
-        "quotes": 85,
+        "likes": 70,
+        "replies": 111,
+        "reposts": 3,
+        "quotes": 95,
         "formatted": {
-          "likes": "66",
-          "replies": "104",
-          "reposts": "2",
-          "quotes": "85"
+          "likes": "70",
+          "replies": "111",
+          "reposts": "3",
+          "quotes": "95"
         }
       },
       "sample_replies": [
@@ -431,12 +431,12 @@
         "likes": 341,
         "replies": 143,
         "reposts": 40,
-        "quotes": 587,
+        "quotes": 589,
         "formatted": {
           "likes": "341",
           "replies": "143",
           "reposts": "40",
-          "quotes": "587"
+          "quotes": "589"
         }
       },
       "sample_replies": [
@@ -751,7 +751,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreigavkgwg6r33csiquo3ycvs3jogb2fateysvc6xyljav7hrot6wjq@jpeg",
         "profile_url": "https://bsky.app/profile/bamaslymm.blacksky.app"
       },
-      "ratio": "10:1",
+      "ratio": "11:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -762,15 +762,15 @@
         "url": "https://bsky.app/profile/bamaslymm.blacksky.app/post/3lwvx3fifvs2s"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 12,
         "replies": 3,
         "reposts": 4,
-        "quotes": 42,
+        "quotes": 44,
         "formatted": {
-          "likes": "11",
+          "likes": "12",
           "replies": "3",
           "reposts": "4",
-          "quotes": "42"
+          "quotes": "44"
         }
       },
       "sample_replies": [
@@ -855,6 +855,62 @@
     {
       "rank": 16,
       "user": {
+        "handle": "cometkins.bsky.social",
+        "display_name": "Ian Haramaki 🏳️‍⚧️✨ @ Nan Desu Kan",
+        "initials": "IH",
+        "did": "did:plc:ul5e6unpkw37gbopghlxhigc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
+        "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
+      },
+      "ratio": "16:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "If you were to completely wipe out your writing career and start from the beginning, what's something you'd do differently? A piece of advice you'd follow, a mistake you'd avoid, etc #WritingPrompt",
+        "uri": "at://did:plc:ul5e6unpkw37gbopghlxhigc/app.bsky.feed.post/3lwtn6lqhws23",
+        "created_at": "2025-08-20T14:28:25.264Z",
+        "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
+      },
+      "engagement": {
+        "likes": 73,
+        "replies": 18,
+        "reposts": 7,
+        "quotes": 115,
+        "formatted": {
+          "likes": "73",
+          "replies": "18",
+          "reposts": "7",
+          "quotes": "115"
+        }
+      },
+      "sample_replies": [
+        "I already have once with a not exactly terrible idea, but the biggest thing I learned from my first...",
+        "I would have built my website a lot sooner, it's been such a relief to have my own archive without...",
+        "start earlier and start building a book oriented social media following. I feel behind at 31.",
+        "Then I am doomed only publishing my first book at 52! ;)"
+      ],
+      "metrics": {
+        "ratio_score": 11.33,
+        "confidence": 0.692,
+        "category": "Complete Ratio",
+        "post_age_minutes": 139.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-20T17:05:30.132575+00:00",
+      "last_updated": "2025-08-20T17:05:30.132575+00:00",
+      "analysis_windows": [
+        "2025-08-20T17:05:30.132575+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "new"
+    },
+    {
+      "rank": 17,
+      "user": {
         "handle": "freshlogic.bsky.social",
         "display_name": "⚜️New Logic",
         "initials": "⚜L",
@@ -906,62 +962,6 @@
         "2025-08-20T13:46:49.299899+00:00"
       ],
       "peak_controversy": 4.6,
-      "trend": "new"
-    },
-    {
-      "rank": 17,
-      "user": {
-        "handle": "cometkins.bsky.social",
-        "display_name": "Ian Haramaki 🏳️‍⚧️✨ @ Nan Desu Kan",
-        "initials": "IH",
-        "did": "did:plc:ul5e6unpkw37gbopghlxhigc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul5e6unpkw37gbopghlxhigc/bafkreif4kbalx2bcnmblj44hnh6dy22o7le2bff3jbweebhkmdukv4xb6u@jpeg",
-        "profile_url": "https://bsky.app/profile/cometkins.bsky.social"
-      },
-      "ratio": "16:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "If you were to completely wipe out your writing career and start from the beginning, what's something you'd do differently? A piece of advice you'd follow, a mistake you'd avoid, etc #WritingPrompt",
-        "uri": "at://did:plc:ul5e6unpkw37gbopghlxhigc/app.bsky.feed.post/3lwtn6lqhws23",
-        "created_at": "2025-08-20T14:28:25.264Z",
-        "url": "https://bsky.app/profile/cometkins.bsky.social/post/3lwtn6lqhws23"
-      },
-      "engagement": {
-        "likes": 73,
-        "replies": 18,
-        "reposts": 7,
-        "quotes": 114,
-        "formatted": {
-          "likes": "73",
-          "replies": "18",
-          "reposts": "7",
-          "quotes": "114"
-        }
-      },
-      "sample_replies": [
-        "I already have once with a not exactly terrible idea, but the biggest thing I learned from my first...",
-        "I would have built my website a lot sooner, it's been such a relief to have my own archive without...",
-        "start earlier and start building a book oriented social media following. I feel behind at 31.",
-        "Then I am doomed only publishing my first book at 52! ;)"
-      ],
-      "metrics": {
-        "ratio_score": 11.33,
-        "confidence": 0.692,
-        "category": "Complete Ratio",
-        "post_age_minutes": 139.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-20T17:05:30.132575+00:00",
-      "last_updated": "2025-08-20T17:05:30.132575+00:00",
-      "analysis_windows": [
-        "2025-08-20T17:05:30.132575+00:00"
-      ],
-      "peak_controversy": 3.8,
       "trend": "new"
     },
     {
@@ -1264,12 +1264,12 @@
         "likes": 109,
         "replies": 30,
         "reposts": 31,
-        "quotes": 91,
+        "quotes": 92,
         "formatted": {
           "likes": "109",
           "replies": "30",
           "reposts": "31",
-          "quotes": "91"
+          "quotes": "92"
         }
       },
       "sample_replies": [
@@ -1306,7 +1306,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "55:0",
+      "ratio": "59:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1317,15 +1317,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 49,
+        "likes": 51,
         "replies": 2,
         "reposts": 0,
-        "quotes": 55,
+        "quotes": 59,
         "formatted": {
-          "likes": "49",
+          "likes": "51",
           "replies": "2",
           "reposts": "0",
-          "quotes": "55"
+          "quotes": "59"
         }
       },
       "sample_replies": [
@@ -2258,15 +2258,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 528,
-        "replies": 45,
+        "likes": 532,
+        "replies": 46,
         "reposts": 54,
-        "quotes": 233,
+        "quotes": 237,
         "formatted": {
-          "likes": "528",
-          "replies": "45",
+          "likes": "532",
+          "replies": "46",
           "reposts": "54",
-          "quotes": "233"
+          "quotes": "237"
         }
       },
       "sample_replies": [
@@ -2314,12 +2314,12 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwv3ii5mpl24"
       },
       "engagement": {
-        "likes": 30,
+        "likes": 31,
         "replies": 25,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
-          "likes": "30",
+          "likes": "31",
           "replies": "25",
           "reposts": "1",
           "quotes": "6"
@@ -2372,12 +2372,12 @@
       "engagement": {
         "likes": 56,
         "replies": 25,
-        "reposts": 25,
+        "reposts": 26,
         "quotes": 35,
         "formatted": {
           "likes": "56",
           "replies": "25",
-          "reposts": "25",
+          "reposts": "26",
           "quotes": "35"
         }
       },
@@ -2427,12 +2427,12 @@
       },
       "engagement": {
         "likes": 174,
-        "replies": 84,
+        "replies": 85,
         "reposts": 66,
         "quotes": 110,
         "formatted": {
           "likes": "174",
-          "replies": "84",
+          "replies": "85",
           "reposts": "66",
           "quotes": "110"
         }
@@ -2482,12 +2482,12 @@
         "url": "https://bsky.app/profile/felipepepe.bsky.social/post/3lwvpumn5222q"
       },
       "engagement": {
-        "likes": 44,
+        "likes": 45,
         "replies": 3,
         "reposts": 0,
         "quotes": 20,
         "formatted": {
-          "likes": "44",
+          "likes": "45",
           "replies": "3",
           "reposts": "0",
           "quotes": "20"
@@ -2650,12 +2650,12 @@
         "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
       },
       "engagement": {
-        "likes": 120,
+        "likes": 121,
         "replies": 23,
         "reposts": 18,
         "quotes": 54,
         "formatted": {
-          "likes": "120",
+          "likes": "121",
           "replies": "23",
           "reposts": "18",
           "quotes": "54"
@@ -2928,14 +2928,14 @@
         "url": "https://bsky.app/profile/timeextension.com/post/3lwvjms3mre2n"
       },
       "engagement": {
-        "likes": 35,
+        "likes": 36,
         "replies": 7,
-        "reposts": 7,
+        "reposts": 8,
         "quotes": 10,
         "formatted": {
-          "likes": "35",
+          "likes": "36",
           "replies": "7",
-          "reposts": "7",
+          "reposts": "8",
           "quotes": "10"
         }
       },
