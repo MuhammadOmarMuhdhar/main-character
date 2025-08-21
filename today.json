@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T20:20:45.546820+00:00",
-    "last_metrics_update": "2025-08-21T21:32:51.745421+00:00",
+    "last_metrics_update": "2025-08-21T21:47:45.278462+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 54,
@@ -316,14 +316,14 @@
       },
       "engagement": {
         "likes": 144,
-        "replies": 227,
+        "replies": 231,
         "reposts": 13,
-        "quotes": 231,
+        "quotes": 238,
         "formatted": {
           "likes": "144",
-          "replies": "227",
+          "replies": "231",
           "reposts": "13",
-          "quotes": "231"
+          "quotes": "238"
         }
       },
       "sample_replies": [
@@ -360,8 +360,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
         "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
       },
-      "ratio": "41:0",
-      "controversy": 1.0,
+      "ratio": "43:0",
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -371,15 +371,15 @@
         "url": "https://bsky.app/profile/appetizerwritez.bsky.social/post/3lwwgrtwj5k2c"
       },
       "engagement": {
-        "likes": 7,
-        "replies": 3,
+        "likes": 8,
+        "replies": 4,
         "reposts": 0,
-        "quotes": 41,
+        "quotes": 43,
         "formatted": {
-          "likes": "7",
-          "replies": "3",
+          "likes": "8",
+          "replies": "4",
           "reposts": "0",
-          "quotes": "41"
+          "quotes": "43"
         }
       },
       "sample_replies": [
@@ -409,62 +409,6 @@
     {
       "rank": 8,
       "user": {
-        "handle": "patricklovellpresentsthecleannewdeal.com",
-        "display_name": "Patrick Lovell The Producer  ",
-        "initials": "PL",
-        "did": "did:plc:owasym32475ohumf7bwkxn54",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:owasym32475ohumf7bwkxn54/bafkreictxmytwhj3gzr52vqkhkwkdl542ouytbhxpqrxno6bx3cpmyok2i@jpeg",
-        "profile_url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com"
-      },
-      "ratio": "22:1",
-      "controversy": 1.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I just learned JP Morgan referred to #Epstein as “The Producer.”  I’m the Mother Fucking People’s Producer #PatrickLovellTheProducer with the Mother Fucking #71TrillionTruth",
-        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwwpa5qkdc2g",
-        "created_at": "2025-08-21T19:43:04.387Z",
-        "url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com/post/3lwwpa5qkdc2g"
-      },
-      "engagement": {
-        "likes": 6,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 22,
-        "formatted": {
-          "likes": "6",
-          "replies": "6",
-          "reposts": "1",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "www.thecon.tv",
-        "youtu.be/BEHlYif7tdQ?...",
-        "www.thecleannewdeal.org",
-        "youtu.be/NHQsX13H9aU?..."
-      ],
-      "metrics": {
-        "ratio_score": 22,
-        "confidence": 0.496,
-        "category": "Complete Ratio",
-        "post_age_minutes": 19.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:44.716977+00:00",
-      "last_updated": "2025-08-21T20:20:44.716977+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:44.716977+00:00"
-      ],
-      "peak_controversy": 4.8,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
         "handle": "fatkiddeals.com",
         "display_name": "Fat Kid Deals",
         "initials": "FK",
@@ -486,12 +430,12 @@
         "likes": 354,
         "replies": 151,
         "reposts": 41,
-        "quotes": 620,
+        "quotes": 621,
         "formatted": {
           "likes": "354",
           "replies": "151",
           "reposts": "41",
-          "quotes": "620"
+          "quotes": "621"
         }
       },
       "sample_replies": [
@@ -519,7 +463,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "user": {
         "handle": "rize4eva.bsky.social",
         "display_name": "Raphael Phaasiq",
@@ -573,6 +517,62 @@
       "trend": "new"
     },
     {
+      "rank": 10,
+      "user": {
+        "handle": "patricklovellpresentsthecleannewdeal.com",
+        "display_name": "Patrick Lovell The Producer  ",
+        "initials": "PL",
+        "did": "did:plc:owasym32475ohumf7bwkxn54",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:owasym32475ohumf7bwkxn54/bafkreictxmytwhj3gzr52vqkhkwkdl542ouytbhxpqrxno6bx3cpmyok2i@jpeg",
+        "profile_url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com"
+      },
+      "ratio": "11:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I just learned JP Morgan referred to #Epstein as “The Producer.”  I’m the Mother Fucking People’s Producer #PatrickLovellTheProducer with the Mother Fucking #71TrillionTruth",
+        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwwpa5qkdc2g",
+        "created_at": "2025-08-21T19:43:04.387Z",
+        "url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com/post/3lwwpa5qkdc2g"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 22,
+        "formatted": {
+          "likes": "8",
+          "replies": "6",
+          "reposts": "2",
+          "quotes": "22"
+        }
+      },
+      "sample_replies": [
+        "www.thecon.tv",
+        "youtu.be/BEHlYif7tdQ?...",
+        "www.thecleannewdeal.org",
+        "youtu.be/NHQsX13H9aU?..."
+      ],
+      "metrics": {
+        "ratio_score": 22,
+        "confidence": 0.496,
+        "category": "Complete Ratio",
+        "post_age_minutes": 19.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:44.716977+00:00",
+      "last_updated": "2025-08-21T20:20:44.716977+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:44.716977+00:00"
+      ],
+      "peak_controversy": 4.8,
+      "trend": "new"
+    },
+    {
       "rank": 11,
       "user": {
         "handle": "atrupar.com",
@@ -593,15 +593,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 780,
-        "replies": 953,
-        "reposts": 146,
-        "quotes": 727,
+        "likes": 807,
+        "replies": 994,
+        "reposts": 152,
+        "quotes": 751,
         "formatted": {
-          "likes": "780",
-          "replies": "953",
-          "reposts": "146",
-          "quotes": "727"
+          "likes": "807",
+          "replies": "994",
+          "reposts": "152",
+          "quotes": "751"
         }
       },
       "sample_replies": [
@@ -638,7 +638,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvsnng7pexymcezhvr345xpk/bafkreihufznya74xog46wwk2o77ddxiqz6aalnetsnfhucelwk6jmc2ar4@jpeg",
         "profile_url": "https://bsky.app/profile/deerene.bsky.social"
       },
-      "ratio": "12:1",
+      "ratio": "13:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -649,15 +649,15 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 86,
-        "replies": 65,
+        "likes": 87,
+        "replies": 66,
         "reposts": 10,
-        "quotes": 124,
+        "quotes": 127,
         "formatted": {
-          "likes": "86",
-          "replies": "65",
+          "likes": "87",
+          "replies": "66",
           "reposts": "10",
-          "quotes": "124"
+          "quotes": "127"
         }
       },
       "sample_replies": [
@@ -694,7 +694,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
         "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
       },
-      "ratio": "18:1",
+      "ratio": "19:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -705,15 +705,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
       },
       "engagement": {
-        "likes": 60,
-        "replies": 42,
+        "likes": 64,
+        "replies": 45,
         "reposts": 5,
-        "quotes": 88,
+        "quotes": 96,
         "formatted": {
-          "likes": "60",
-          "replies": "42",
+          "likes": "64",
+          "replies": "45",
           "reposts": "5",
-          "quotes": "88"
+          "quotes": "96"
         }
       },
       "sample_replies": [
@@ -817,15 +817,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 451,
-        "replies": 286,
-        "reposts": 93,
-        "quotes": 682,
+        "likes": 458,
+        "replies": 288,
+        "reposts": 96,
+        "quotes": 683,
         "formatted": {
-          "likes": "451",
-          "replies": "286",
-          "reposts": "93",
-          "quotes": "682"
+          "likes": "458",
+          "replies": "288",
+          "reposts": "96",
+          "quotes": "683"
         }
       },
       "sample_replies": [
@@ -873,13 +873,13 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 68,
-        "replies": 45,
+        "likes": 71,
+        "replies": 46,
         "reposts": 6,
         "quotes": 113,
         "formatted": {
-          "likes": "68",
-          "replies": "45",
+          "likes": "71",
+          "replies": "46",
           "reposts": "6",
           "quotes": "113"
         }
@@ -1137,7 +1137,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "49:1",
+      "ratio": "50:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1148,15 +1148,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 101,
+        "likes": 103,
         "replies": 4,
         "reposts": 3,
-        "quotes": 148,
+        "quotes": 150,
         "formatted": {
-          "likes": "101",
+          "likes": "103",
           "replies": "4",
           "reposts": "3",
-          "quotes": "148"
+          "quotes": "150"
         }
       },
       "sample_replies": [
@@ -1202,12 +1202,12 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 109,
+        "likes": 110,
         "replies": 11,
         "reposts": 9,
         "quotes": 114,
         "formatted": {
-          "likes": "109",
+          "likes": "110",
           "replies": "11",
           "reposts": "9",
           "quotes": "114"
@@ -1359,7 +1359,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:knj5sw5al3sukl6vhkpi7637/bafkreibyyspgkbm3xrgbu4qsemkjkphzfg2lcy6pa6zcdeverzmmtfbsuq@jpeg",
         "profile_url": "https://bsky.app/profile/wario64.bsky.social"
       },
-      "ratio": "7:1",
+      "ratio": "8:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1371,14 +1371,14 @@
       },
       "engagement": {
         "likes": 112,
-        "replies": 17,
+        "replies": 18,
         "reposts": 14,
-        "quotes": 104,
+        "quotes": 106,
         "formatted": {
           "likes": "112",
-          "replies": "17",
+          "replies": "18",
           "reposts": "14",
-          "quotes": "104"
+          "quotes": "106"
         }
       },
       "sample_replies": [
@@ -1429,12 +1429,12 @@
         "likes": 17,
         "replies": 3,
         "reposts": 2,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
           "likes": "17",
           "replies": "3",
           "reposts": "2",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -1759,12 +1759,12 @@
         "url": "https://bsky.app/profile/mlbtraderumors.bsky.social/post/3lwwkxi24e32r"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "replies": 5,
         "reposts": 1,
         "quotes": 17,
         "formatted": {
-          "likes": "15",
+          "likes": "16",
           "replies": "5",
           "reposts": "1",
           "quotes": "17"
@@ -1804,7 +1804,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iozffsic2xf3m263j3l7i5vo/bafkreiflq4en23x6nyu7aomuvcjcnaswvyasxr4rju3ska62nhcff3pydq@jpeg",
         "profile_url": "https://bsky.app/profile/electionmaps.uk"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1815,15 +1815,15 @@
         "url": "https://bsky.app/profile/electionmaps.uk/post/3lwvmkzpx6k2m"
       },
       "engagement": {
-        "likes": 32,
-        "replies": 26,
+        "likes": 33,
+        "replies": 27,
         "reposts": 13,
-        "quotes": 32,
+        "quotes": 33,
         "formatted": {
-          "likes": "32",
-          "replies": "26",
+          "likes": "33",
+          "replies": "27",
           "reposts": "13",
-          "quotes": "32"
+          "quotes": "33"
         }
       },
       "sample_replies": [
@@ -2257,15 +2257,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 657,
+        "likes": 658,
         "replies": 64,
         "reposts": 58,
-        "quotes": 304,
+        "quotes": 305,
         "formatted": {
-          "likes": "657",
+          "likes": "658",
           "replies": "64",
           "reposts": "58",
-          "quotes": "304"
+          "quotes": "305"
         }
       },
       "sample_replies": [
@@ -2313,13 +2313,13 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwv3ii5mpl24"
       },
       "engagement": {
-        "likes": 42,
-        "replies": 29,
+        "likes": 43,
+        "replies": 30,
         "reposts": 3,
         "quotes": 9,
         "formatted": {
-          "likes": "42",
-          "replies": "29",
+          "likes": "43",
+          "replies": "30",
           "reposts": "3",
           "quotes": "9"
         }
@@ -2369,12 +2369,12 @@
         "url": "https://bsky.app/profile/saulstaniforth.bsky.social/post/3lwvexykwlk2b"
       },
       "engagement": {
-        "likes": 65,
+        "likes": 66,
         "replies": 28,
         "reposts": 29,
         "quotes": 36,
         "formatted": {
-          "likes": "65",
+          "likes": "66",
           "replies": "28",
           "reposts": "29",
           "quotes": "36"
