@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T03:17:36.562898+00:00",
-    "last_metrics_update": "2025-08-22T06:02:31.146486+00:00",
+    "last_metrics_update": "2025-08-22T06:17:34.079128+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 51,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 209,
+        "likes": 210,
         "replies": 319,
         "reposts": 20,
         "quotes": 384,
         "formatted": {
-          "likes": "209",
+          "likes": "210",
           "replies": "319",
           "reposts": "20",
           "quotes": "384"
@@ -351,62 +351,6 @@
     {
       "rank": 7,
       "user": {
-        "handle": "deerene.bsky.social",
-        "display_name": "Gay & Tonic",
-        "initials": "G&",
-        "did": "did:plc:tvsnng7pexymcezhvr345xpk",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvsnng7pexymcezhvr345xpk/bafkreihufznya74xog46wwk2o77ddxiqz6aalnetsnfhucelwk6jmc2ar4@jpeg",
-        "profile_url": "https://bsky.app/profile/deerene.bsky.social"
-      },
-      "ratio": "13:1",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Those of you 40 and up… how did you manage that whole “what am I doing with my life?” “Did I waste my life?” Feeling\n\n(obvs if you didn’t feel that way this question isn’t for you)",
-        "uri": "at://did:plc:tvsnng7pexymcezhvr345xpk/app.bsky.feed.post/3lww5eeu5n22g",
-        "created_at": "2025-08-21T14:23:18.717Z",
-        "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
-      },
-      "engagement": {
-        "likes": 102,
-        "replies": 75,
-        "reposts": 11,
-        "quotes": 141,
-        "formatted": {
-          "likes": "102",
-          "replies": "75",
-          "reposts": "11",
-          "quotes": "141"
-        }
-      },
-      "sample_replies": [
-        "........LMFAOOOOOOOO....well.....I think my woo wooness helped me here because in my 30s, I...",
-        "After my parents died in like a 6 month time frame. I looked at my current situation and what I was...",
-        "Related. If you made a pivot later in life (40 and beyond) how did you figure it out? What did you...",
-        "I had a fucking baby. It was ghetto. Don't be like me. But seriously, everybody i know that had a..."
-      ],
-      "metrics": {
-        "ratio_score": 18.6,
-        "confidence": 0.717,
-        "category": "Complete Ratio",
-        "post_age_minutes": 129.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:30.992520+00:00",
-      "last_updated": "2025-08-21T16:50:30.992520+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:30.992520+00:00"
-      ],
-      "peak_controversy": 6.6,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
         "initials": "S🏳",
@@ -425,15 +369,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
       },
       "engagement": {
-        "likes": 79,
-        "replies": 58,
+        "likes": 82,
+        "replies": 60,
         "reposts": 6,
-        "quotes": 119,
+        "quotes": 123,
         "formatted": {
-          "likes": "79",
-          "replies": "58",
+          "likes": "82",
+          "replies": "60",
           "reposts": "6",
-          "quotes": "119"
+          "quotes": "123"
         }
       },
       "sample_replies": [
@@ -460,6 +404,62 @@
       ],
       "peak_controversy": 4.8,
       "trend": "rising"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "deerene.bsky.social",
+        "display_name": "Gay & Tonic",
+        "initials": "G&",
+        "did": "did:plc:tvsnng7pexymcezhvr345xpk",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvsnng7pexymcezhvr345xpk/bafkreihufznya74xog46wwk2o77ddxiqz6aalnetsnfhucelwk6jmc2ar4@jpeg",
+        "profile_url": "https://bsky.app/profile/deerene.bsky.social"
+      },
+      "ratio": "13:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Those of you 40 and up… how did you manage that whole “what am I doing with my life?” “Did I waste my life?” Feeling\n\n(obvs if you didn’t feel that way this question isn’t for you)",
+        "uri": "at://did:plc:tvsnng7pexymcezhvr345xpk/app.bsky.feed.post/3lww5eeu5n22g",
+        "created_at": "2025-08-21T14:23:18.717Z",
+        "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
+      },
+      "engagement": {
+        "likes": 104,
+        "replies": 75,
+        "reposts": 11,
+        "quotes": 142,
+        "formatted": {
+          "likes": "104",
+          "replies": "75",
+          "reposts": "11",
+          "quotes": "142"
+        }
+      },
+      "sample_replies": [
+        "........LMFAOOOOOOOO....well.....I think my woo wooness helped me here because in my 30s, I...",
+        "After my parents died in like a 6 month time frame. I looked at my current situation and what I was...",
+        "Related. If you made a pivot later in life (40 and beyond) how did you figure it out? What did you...",
+        "I had a fucking baby. It was ghetto. Don't be like me. But seriously, everybody i know that had a..."
+      ],
+      "metrics": {
+        "ratio_score": 18.6,
+        "confidence": 0.717,
+        "category": "Complete Ratio",
+        "post_age_minutes": 129.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:30.992520+00:00",
+      "last_updated": "2025-08-21T16:50:30.992520+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:30.992520+00:00"
+      ],
+      "peak_controversy": 6.6,
+      "trend": "new"
     },
     {
       "rank": 9,
@@ -537,13 +537,13 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 550,
-        "replies": 321,
+        "likes": 556,
+        "replies": 322,
         "reposts": 111,
         "quotes": 758,
         "formatted": {
-          "likes": "550",
-          "replies": "321",
+          "likes": "556",
+          "replies": "322",
           "reposts": "111",
           "quotes": "758"
         }
@@ -594,7 +594,7 @@
       },
       "engagement": {
         "likes": 1316,
-        "replies": 1543,
+        "replies": 1547,
         "reposts": 276,
         "quotes": 1101,
         "formatted": {
@@ -861,7 +861,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "48:1",
+      "ratio": "39:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -872,15 +872,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 128,
+        "likes": 129,
         "replies": 4,
-        "reposts": 4,
-        "quotes": 192,
+        "reposts": 5,
+        "quotes": 193,
         "formatted": {
-          "likes": "128",
+          "likes": "129",
           "replies": "4",
-          "reposts": "4",
-          "quotes": "192"
+          "reposts": "5",
+          "quotes": "193"
         }
       },
       "sample_replies": [
@@ -1538,15 +1538,15 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 662,
+        "likes": 669,
         "replies": 225,
         "reposts": 81,
-        "quotes": 284,
+        "quotes": 285,
         "formatted": {
-          "likes": "662",
+          "likes": "669",
           "replies": "225",
           "reposts": "81",
-          "quotes": "284"
+          "quotes": "285"
         }
       },
       "sample_replies": [
@@ -2037,12 +2037,12 @@
         "url": "https://bsky.app/profile/jeffpasan.bsky.social/post/3lwx343a6v22m"
       },
       "engagement": {
-        "likes": 68,
+        "likes": 69,
         "replies": 7,
         "reposts": 6,
         "quotes": 39,
         "formatted": {
-          "likes": "68",
+          "likes": "69",
           "replies": "7",
           "reposts": "6",
           "quotes": "39"
@@ -2206,12 +2206,12 @@
         "likes": 34,
         "replies": 28,
         "reposts": 14,
-        "quotes": 34,
+        "quotes": 35,
         "formatted": {
           "likes": "34",
           "replies": "28",
           "reposts": "14",
-          "quotes": "34"
+          "quotes": "35"
         }
       },
       "sample_replies": [
