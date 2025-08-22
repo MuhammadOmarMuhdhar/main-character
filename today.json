@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T13:15:41.450578+00:00",
-    "last_metrics_update": "2025-08-22T14:47:26.670088+00:00",
+    "last_metrics_update": "2025-08-22T15:02:33.032321+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 47,
@@ -539,10 +539,10 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1452,
-        "replies": 1678,
+        "likes": 1455,
+        "replies": 1682,
         "reposts": 314,
-        "quotes": 1145,
+        "quotes": 1148,
         "formatted": {
           "likes": "1.5K",
           "replies": "1.7K",
@@ -576,6 +576,61 @@
     },
     {
       "rank": 11,
+      "user": {
+        "handle": "vulture.com",
+        "display_name": "Vulture",
+        "initials": "VU",
+        "did": "did:plc:sfvkd7mmhdpilq6zwiomisqe",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfvkd7mmhdpilq6zwiomisqe/bafkreiechbviu5bx5f6n4pntjv2g42bftsrl64y5iqendvg3pmaw7ykvda@jpeg",
+        "profile_url": "https://bsky.app/profile/vulture.com"
+      },
+      "ratio": "19:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Apple TV+ is hiking its monthly subscription price by 30 percent, right in time for new seasons of ‘The Morning Show’ and ‘Loot.’",
+        "uri": "at://did:plc:sfvkd7mmhdpilq6zwiomisqe/app.bsky.feed.post/3lwwlrn4ehp2d",
+        "created_at": "2025-08-21T18:41:15.954Z",
+        "url": "https://bsky.app/profile/vulture.com/post/3lwwlrn4ehp2d"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 19,
+        "formatted": {
+          "likes": "6",
+          "replies": "3",
+          "reposts": "1",
+          "quotes": "19"
+        }
+      },
+      "sample_replies": [
+        "Subscribers should be comforted knowing such a steep increase is needed so Tim Apple can present...",
+        "In an unrelated coincidence, I will be cancelling.",
+        "Public libraries… still free."
+      ],
+      "metrics": {
+        "ratio_score": 15.0,
+        "confidence": 0.377,
+        "category": "Complete Ratio",
+        "post_age_minutes": 81.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.073979+00:00",
+      "last_updated": "2025-08-21T20:20:45.073979+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.073979+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -633,7 +688,7 @@
       "trend": "rising"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "jsrailton.bsky.social",
         "display_name": "John Scott-Railton",
@@ -653,15 +708,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 662,
+        "likes": 664,
         "replies": 379,
-        "reposts": 143,
-        "quotes": 885,
+        "reposts": 144,
+        "quotes": 895,
         "formatted": {
-          "likes": "662",
+          "likes": "664",
           "replies": "379",
-          "reposts": "143",
-          "quotes": "885"
+          "reposts": "144",
+          "quotes": "895"
         }
       },
       "sample_replies": [
@@ -684,61 +739,6 @@
       "last_updated": "2025-08-21T16:50:31.687662+00:00",
       "analysis_windows": [
         "2025-08-21T16:50:31.687662+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 13,
-      "user": {
-        "handle": "vulture.com",
-        "display_name": "Vulture",
-        "initials": "VU",
-        "did": "did:plc:sfvkd7mmhdpilq6zwiomisqe",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfvkd7mmhdpilq6zwiomisqe/bafkreiechbviu5bx5f6n4pntjv2g42bftsrl64y5iqendvg3pmaw7ykvda@jpeg",
-        "profile_url": "https://bsky.app/profile/vulture.com"
-      },
-      "ratio": "18:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Apple TV+ is hiking its monthly subscription price by 30 percent, right in time for new seasons of ‘The Morning Show’ and ‘Loot.’",
-        "uri": "at://did:plc:sfvkd7mmhdpilq6zwiomisqe/app.bsky.feed.post/3lwwlrn4ehp2d",
-        "created_at": "2025-08-21T18:41:15.954Z",
-        "url": "https://bsky.app/profile/vulture.com/post/3lwwlrn4ehp2d"
-      },
-      "engagement": {
-        "likes": 6,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 18,
-        "formatted": {
-          "likes": "6",
-          "replies": "3",
-          "reposts": "1",
-          "quotes": "18"
-        }
-      },
-      "sample_replies": [
-        "Subscribers should be comforted knowing such a steep increase is needed so Tim Apple can present...",
-        "In an unrelated coincidence, I will be cancelling.",
-        "Public libraries… still free."
-      ],
-      "metrics": {
-        "ratio_score": 15.0,
-        "confidence": 0.377,
-        "category": "Complete Ratio",
-        "post_age_minutes": 81.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.073979+00:00",
-      "last_updated": "2025-08-21T20:20:45.073979+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.073979+00:00"
       ],
       "peak_controversy": 2.7,
       "trend": "new"
@@ -932,15 +932,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 148,
+        "likes": 150,
         "replies": 4,
         "reposts": 6,
-        "quotes": 214,
+        "quotes": 217,
         "formatted": {
-          "likes": "148",
+          "likes": "150",
           "replies": "4",
           "reposts": "6",
-          "quotes": "214"
+          "quotes": "217"
         }
       },
       "sample_replies": [
@@ -1548,12 +1548,12 @@
         "likes": 140,
         "replies": 19,
         "reposts": 17,
-        "quotes": 122,
+        "quotes": 123,
         "formatted": {
           "likes": "140",
           "replies": "19",
           "reposts": "17",
-          "quotes": "122"
+          "quotes": "123"
         }
       },
       "sample_replies": [
@@ -2090,7 +2090,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/bafkreiegkrp7aglu36764u6432m2hcgotmplgq5y34vsf6y5sh5txmtghq@jpeg",
         "profile_url": "https://bsky.app/profile/reichlinmelnick.bsky.social"
       },
-      "ratio": "3:1",
+      "ratio": "4:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -2101,15 +2101,15 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 724,
+        "likes": 727,
         "replies": 232,
         "reposts": 85,
-        "quotes": 297,
+        "quotes": 299,
         "formatted": {
-          "likes": "724",
+          "likes": "727",
           "replies": "232",
           "reposts": "85",
-          "quotes": "297"
+          "quotes": "299"
         }
       },
       "sample_replies": [
@@ -2157,15 +2157,15 @@
         "url": "https://bsky.app/profile/quantian.bsky.social/post/3lwyhnyqurc2q"
       },
       "engagement": {
-        "likes": 203,
+        "likes": 221,
         "replies": 26,
-        "reposts": 9,
-        "quotes": 39,
+        "reposts": 10,
+        "quotes": 41,
         "formatted": {
-          "likes": "203",
+          "likes": "221",
           "replies": "26",
-          "reposts": "9",
-          "quotes": "39"
+          "reposts": "10",
+          "quotes": "41"
         }
       },
       "sample_replies": [
@@ -2382,12 +2382,12 @@
       },
       "engagement": {
         "likes": 45,
-        "replies": 6,
+        "replies": 7,
         "reposts": 3,
         "quotes": 9,
         "formatted": {
           "likes": "45",
-          "replies": "6",
+          "replies": "7",
           "reposts": "3",
           "quotes": "9"
         }
