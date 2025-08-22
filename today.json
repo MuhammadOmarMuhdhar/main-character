@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T16:35:56.160485+00:00",
-    "last_metrics_update": "2025-08-22T16:47:30.253774+00:00",
+    "last_metrics_update": "2025-08-22T17:02:23.918006+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 50,
@@ -38,12 +38,12 @@
         "likes": 12,
         "replies": 5,
         "reposts": 2,
-        "quotes": 83,
+        "quotes": 84,
         "formatted": {
           "likes": "12",
           "replies": "5",
           "reposts": "2",
-          "quotes": "83"
+          "quotes": "84"
         }
       },
       "sample_replies": [
@@ -73,62 +73,6 @@
     {
       "rank": 2,
       "user": {
-        "handle": "seauxcocoa.bsky.social",
-        "display_name": "Cocoa Chaos",
-        "initials": "CC",
-        "did": "did:plc:5mzcmy6awgxir5s7jw5mj5ql",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mzcmy6awgxir5s7jw5mj5ql/bafkreidtrmpnnimtkyxohfec6fvrrppid75y45caviswlkkzlce5izcafe@jpeg",
-        "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
-      },
-      "ratio": "69:0",
-      "controversy": 1.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Oh!!! Tell me your top voices you like currently. \n\nNot songs, just voices. \n\nDo not include Whitney, MJ, nor Lutha.",
-        "uri": "at://did:plc:5mzcmy6awgxir5s7jw5mj5ql/app.bsky.feed.post/3lwylqf4bwk2g",
-        "created_at": "2025-08-22T13:45:53.499Z",
-        "url": "https://bsky.app/profile/seauxcocoa.bsky.social/post/3lwylqf4bwk2g"
-      },
-      "engagement": {
-        "likes": 14,
-        "replies": 13,
-        "reposts": 0,
-        "quotes": 69,
-        "formatted": {
-          "likes": "14",
-          "replies": "13",
-          "reposts": "0",
-          "quotes": "69"
-        }
-      },
-      "sample_replies": [
-        "Alex Isley\nSnoh\nOctober London",
-        "Alex Isley\nCleo Sol\nVictoria Monet",
-        "Ledisi \n\nThe lead singer of Tank and the bangas. Her nickname is Tank.\n\nAndra Day",
-        "People sleep on October!"
-      ],
-      "metrics": {
-        "ratio_score": 82,
-        "confidence": 0.62,
-        "category": "Complete Ratio",
-        "post_age_minutes": 152.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:55.446391+00:00",
-      "last_updated": "2025-08-22T16:35:55.446391+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:55.446391+00:00"
-      ],
-      "peak_controversy": 6.0,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
         "handle": "gibiz.bsky.social",
         "display_name": "GamesIndustry.biz",
         "initials": "GA",
@@ -136,8 +80,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxpcdjq45e4e3izvobsuoyl4/bafkreibhtu76qygol6uokb7hftn736xmzcsawegv7h6ub6miktbomagaca@jpeg",
         "profile_url": "https://bsky.app/profile/gibiz.bsky.social"
       },
-      "ratio": "24:1",
-      "controversy": 1.7,
+      "ratio": "28:1",
+      "controversy": 2.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -147,15 +91,15 @@
         "url": "https://bsky.app/profile/gibiz.bsky.social/post/3lwyo2umnqs2p"
       },
       "engagement": {
-        "likes": 16,
-        "replies": 32,
+        "likes": 17,
+        "replies": 39,
         "reposts": 3,
-        "quotes": 71,
+        "quotes": 84,
         "formatted": {
-          "likes": "16",
-          "replies": "32",
+          "likes": "17",
+          "replies": "39",
           "reposts": "3",
-          "quotes": "71"
+          "quotes": "84"
         }
       },
       "sample_replies": [
@@ -183,6 +127,62 @@
       "trend": "new"
     },
     {
+      "rank": 3,
+      "user": {
+        "handle": "seauxcocoa.bsky.social",
+        "display_name": "Cocoa Chaos",
+        "initials": "CC",
+        "did": "did:plc:5mzcmy6awgxir5s7jw5mj5ql",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mzcmy6awgxir5s7jw5mj5ql/bafkreidtrmpnnimtkyxohfec6fvrrppid75y45caviswlkkzlce5izcafe@jpeg",
+        "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
+      },
+      "ratio": "70:0",
+      "controversy": 1.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Oh!!! Tell me your top voices you like currently. \n\nNot songs, just voices. \n\nDo not include Whitney, MJ, nor Lutha.",
+        "uri": "at://did:plc:5mzcmy6awgxir5s7jw5mj5ql/app.bsky.feed.post/3lwylqf4bwk2g",
+        "created_at": "2025-08-22T13:45:53.499Z",
+        "url": "https://bsky.app/profile/seauxcocoa.bsky.social/post/3lwylqf4bwk2g"
+      },
+      "engagement": {
+        "likes": 14,
+        "replies": 13,
+        "reposts": 0,
+        "quotes": 70,
+        "formatted": {
+          "likes": "14",
+          "replies": "13",
+          "reposts": "0",
+          "quotes": "70"
+        }
+      },
+      "sample_replies": [
+        "Alex Isley\nSnoh\nOctober London",
+        "Alex Isley\nCleo Sol\nVictoria Monet",
+        "Ledisi \n\nThe lead singer of Tank and the bangas. Her nickname is Tank.\n\nAndra Day",
+        "People sleep on October!"
+      ],
+      "metrics": {
+        "ratio_score": 82,
+        "confidence": 0.62,
+        "category": "Complete Ratio",
+        "post_age_minutes": 152.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:55.446391+00:00",
+      "last_updated": "2025-08-22T16:35:55.446391+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:55.446391+00:00"
+      ],
+      "peak_controversy": 6.0,
+      "trend": "new"
+    },
+    {
       "rank": 4,
       "user": {
         "handle": "auntiebaecc.blacksky.app",
@@ -192,7 +192,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvxyse3hlczyu2zg63auopwz/bafkreic3ggvt722tuo3nubdh2rtj3uyd7gm6rwejexpbgtvn4aqgrhpnue@jpeg",
         "profile_url": "https://bsky.app/profile/auntiebaecc.blacksky.app"
       },
-      "ratio": "67:0",
+      "ratio": "68:0",
       "controversy": 1.4,
       "change": "NEW",
       "change_type": "new",
@@ -206,12 +206,12 @@
         "likes": 12,
         "replies": 15,
         "reposts": 0,
-        "quotes": 67,
+        "quotes": 68,
         "formatted": {
           "likes": "12",
           "replies": "15",
           "reposts": "0",
-          "quotes": "67"
+          "quotes": "68"
         }
       },
       "sample_replies": [
@@ -304,7 +304,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4zghywgmcs7dsyg2ubw62yr6/bafkreifdccbw24wjgnx6khlvtlw7kxxlsi4ej6vgo2lsquuz6pcsqi3vae@jpeg",
         "profile_url": "https://bsky.app/profile/appetizerwritez.bsky.social"
       },
-      "ratio": "70:1",
+      "ratio": "71:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -318,12 +318,12 @@
         "likes": 11,
         "replies": 6,
         "reposts": 1,
-        "quotes": 70,
+        "quotes": 71,
         "formatted": {
           "likes": "11",
           "replies": "6",
           "reposts": "1",
-          "quotes": "70"
+          "quotes": "71"
         }
       },
       "sample_replies": [
@@ -541,12 +541,12 @@
       },
       "engagement": {
         "likes": 159,
-        "replies": 112,
+        "replies": 113,
         "reposts": 15,
         "quotes": 177,
         "formatted": {
           "likes": "159",
-          "replies": "112",
+          "replies": "113",
           "reposts": "15",
           "quotes": "177"
         }
@@ -651,14 +651,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1488,
-        "replies": 1718,
-        "reposts": 321,
-        "quotes": 1164,
+        "likes": 1492,
+        "replies": 1727,
+        "reposts": 322,
+        "quotes": 1167,
         "formatted": {
           "likes": "1.5K",
           "replies": "1.7K",
-          "reposts": "321",
+          "reposts": "322",
           "quotes": "1.2K"
         }
       },
@@ -708,12 +708,12 @@
       },
       "engagement": {
         "likes": 681,
-        "replies": 387,
+        "replies": 388,
         "reposts": 146,
         "quotes": 907,
         "formatted": {
           "likes": "681",
-          "replies": "387",
+          "replies": "388",
           "reposts": "146",
           "quotes": "907"
         }
@@ -1215,12 +1215,12 @@
         "likes": 152,
         "replies": 15,
         "reposts": 10,
-        "quotes": 170,
+        "quotes": 171,
         "formatted": {
           "likes": "152",
           "replies": "15",
           "reposts": "10",
-          "quotes": "170"
+          "quotes": "171"
         }
       },
       "sample_replies": [
@@ -1257,7 +1257,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
         "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
       },
-      "ratio": "21:1",
+      "ratio": "22:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1271,12 +1271,12 @@
         "likes": 7,
         "replies": 4,
         "reposts": 1,
-        "quotes": 21,
+        "quotes": 22,
         "formatted": {
           "likes": "7",
           "replies": "4",
           "reposts": "1",
-          "quotes": "21"
+          "quotes": "22"
         }
       },
       "sample_replies": [
@@ -1313,7 +1313,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cetrjmezvk2esgi7g5albcek/bafkreie4oqu7zkemxwu3hbajtukcphgdnkjpnz7mumtyufnebhnnt6no2q@jpeg",
         "profile_url": "https://bsky.app/profile/hillarymonahan.bsky.social"
       },
-      "ratio": "29:1",
+      "ratio": "30:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1324,15 +1324,15 @@
         "url": "https://bsky.app/profile/hillarymonahan.bsky.social/post/3lwylavamck27"
       },
       "engagement": {
-        "likes": 40,
+        "likes": 41,
         "replies": 15,
         "reposts": 1,
-        "quotes": 29,
+        "quotes": 30,
         "formatted": {
-          "likes": "40",
+          "likes": "41",
           "replies": "15",
           "reposts": "1",
-          "quotes": "29"
+          "quotes": "30"
         }
       },
       "sample_replies": [
@@ -1369,7 +1369,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2qarfoklzpw6sgbkme4b66n/bafkreie4cwbvjz3bsdkxs5p4vm2ymjkr5zkhiaj3uwaaqtdjptlahnt22e@jpeg",
         "profile_url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app"
       },
-      "ratio": "6:0",
+      "ratio": "7:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1380,15 +1380,15 @@
         "url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app/post/3lwypxtrdf22e"
       },
       "engagement": {
-        "likes": 8,
+        "likes": 9,
         "replies": 5,
         "reposts": 0,
-        "quotes": 6,
+        "quotes": 7,
         "formatted": {
-          "likes": "8",
+          "likes": "9",
           "replies": "5",
           "reposts": "0",
-          "quotes": "6"
+          "quotes": "7"
         }
       },
       "sample_replies": [
@@ -1648,7 +1648,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/bafkreigczen44plmbtq77w6uatenhgkul7py4vtug4guyhegmje5aknp6y@jpeg",
         "profile_url": "https://bsky.app/profile/proptermalone.bsky.social"
       },
-      "ratio": "10:1",
+      "ratio": "11:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1659,15 +1659,15 @@
         "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
       },
       "engagement": {
-        "likes": 186,
-        "replies": 149,
+        "likes": 188,
+        "replies": 150,
         "reposts": 2,
-        "quotes": 21,
+        "quotes": 22,
         "formatted": {
-          "likes": "186",
-          "replies": "149",
+          "likes": "188",
+          "replies": "150",
           "reposts": "2",
-          "quotes": "21"
+          "quotes": "22"
         }
       },
       "sample_replies": [
@@ -1825,12 +1825,12 @@
         "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lwymfvezwc2w"
       },
       "engagement": {
-        "likes": 16,
+        "likes": 17,
         "replies": 4,
         "reposts": 0,
         "quotes": 11,
         "formatted": {
-          "likes": "16",
+          "likes": "17",
           "replies": "4",
           "reposts": "0",
           "quotes": "11"
@@ -1881,12 +1881,12 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwymbq2rg22q"
       },
       "engagement": {
-        "likes": 20,
+        "likes": 21,
         "replies": 6,
         "reposts": 1,
         "quotes": 12,
         "formatted": {
-          "likes": "20",
+          "likes": "21",
           "replies": "6",
           "reposts": "1",
           "quotes": "12"
@@ -2038,7 +2038,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d77lpmzmfo4rho4gow2hrkdz/bafkreia6bvlmyvmfxq5bmmalposiwmcsdxbpesikm256kap3inrt4hhhs4@jpeg",
         "profile_url": "https://bsky.app/profile/naiijah.bsky.social"
       },
-      "ratio": "11:1",
+      "ratio": "12:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -2052,12 +2052,12 @@
         "likes": 37,
         "replies": 14,
         "reposts": 3,
-        "quotes": 34,
+        "quotes": 35,
         "formatted": {
           "likes": "37",
           "replies": "14",
           "reposts": "3",
-          "quotes": "34"
+          "quotes": "35"
         }
       },
       "sample_replies": [
