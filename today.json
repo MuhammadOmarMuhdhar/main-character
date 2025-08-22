@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-22T03:17:36.562898+00:00",
-    "last_metrics_update": "2025-08-22T06:17:34.079128+00:00",
+    "last_full_analysis": "2025-08-22T06:43:36.284561+00:00",
+    "last_metrics_update": "2025-08-22T06:43:36.284561+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 51,
+    "main_characters_count": 49,
     "rolling_window": {
-      "last_update": "2025-08-22T03:17:36.562898+00:00",
+      "last_update": "2025-08-22T06:43:36.284561+00:00",
       "new_entries_added": 6,
-      "total_in_window": 51,
+      "total_in_window": 49,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,6 +16,174 @@
   "main_characters": [
     {
       "rank": 1,
+      "user": {
+        "handle": "naiijah.bsky.social",
+        "display_name": "Clitasaurus Rex 🦖",
+        "initials": "CR",
+        "did": "did:plc:d77lpmzmfo4rho4gow2hrkdz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d77lpmzmfo4rho4gow2hrkdz/bafkreia6bvlmyvmfxq5bmmalposiwmcsdxbpesikm256kap3inrt4hhhs4@jpeg",
+        "profile_url": "https://bsky.app/profile/naiijah.bsky.social"
+      },
+      "ratio": "9:0",
+      "controversy": 3.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I have a friend who only drinks room temp water \n\nPretty sure she’s a serial killer",
+        "uri": "at://did:plc:d77lpmzmfo4rho4gow2hrkdz/app.bsky.feed.post/3lwxpbywfic26",
+        "created_at": "2025-08-22T05:16:46.189Z",
+        "url": "https://bsky.app/profile/naiijah.bsky.social/post/3lwxpbywfic26"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 9,
+        "reposts": 0,
+        "quotes": 9,
+        "formatted": {
+          "likes": "17",
+          "replies": "9",
+          "reposts": "0",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "So much hatred fo drining water at the temperature you found it at. \n\nIt is unnatural to drink cold...",
+        "You suppose to be on the other side of planet!",
+        "I used to dig swimming pools in Las Vegas, my boss taught me. Dipping one one those super-absorbent...",
+        "Well people who don’t drink room temp water are poopy heads ok🤦🏾‍♀️😂"
+      ],
+      "metrics": {
+        "ratio_score": 18,
+        "confidence": 0.425,
+        "category": "Complete Ratio",
+        "post_age_minutes": 75.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:35.615151+00:00",
+      "last_updated": "2025-08-22T06:43:35.615151+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:35.615151+00:00"
+      ],
+      "peak_controversy": 3.7,
+      "trend": "new"
+    },
+    {
+      "rank": 2,
+      "user": {
+        "handle": "becauseofnikki.blacksky.app",
+        "display_name": "NIKKI Baby 🍫♊️💜",
+        "initials": "NB",
+        "did": "did:plc:s7ppdtkml2i7gqxxh32x5qj7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7ppdtkml2i7gqxxh32x5qj7/bafkreib4qa56phbel3yy4cpwc7gnyh2lfx7bn5o2wfl2zzqzuqkks6i5t4@jpeg",
+        "profile_url": "https://bsky.app/profile/becauseofnikki.blacksky.app"
+      },
+      "ratio": "18:1",
+      "controversy": 3.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Wait, y’all be fuckin with your glasses on?\n\nMe? I can’t!",
+        "uri": "at://did:plc:s7ppdtkml2i7gqxxh32x5qj7/app.bsky.feed.post/3lwxljepi5s2n",
+        "created_at": "2025-08-22T04:09:18.460Z",
+        "url": "https://bsky.app/profile/becauseofnikki.blacksky.app/post/3lwxljepi5s2n"
+      },
+      "engagement": {
+        "likes": 12,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 18,
+        "formatted": {
+          "likes": "12",
+          "replies": "2",
+          "reposts": "1",
+          "quotes": "18"
+        }
+      },
+      "sample_replies": [
+        "Only with the sapiosexuals",
+        "No",
+        "Yea I ain’t never did that🤣🤣🤣",
+        "I mean I can or have it just depends."
+      ],
+      "metrics": {
+        "ratio_score": 18.0,
+        "confidence": 0.342,
+        "category": "Complete Ratio",
+        "post_age_minutes": 143.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:35.750675+00:00",
+      "last_updated": "2025-08-22T06:43:35.750675+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:35.750675+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 3,
+      "user": {
+        "handle": "reuters.com",
+        "display_name": "Reuters",
+        "initials": "RE",
+        "did": "did:plc:jbvnehrrdqoulco4rf5gxg5r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreibl5cibo6e7epl3pomyqeu7pkvb6yo7zg6q3wf2o4syej5yycrepy@jpeg",
+        "profile_url": "https://bsky.app/profile/reuters.com"
+      },
+      "ratio": "9:1",
+      "controversy": 1.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Tesla raises price of fastest Cybertruck by $15,000 in US reut.rs/45ZBfMy",
+        "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3lwxondha6p2c",
+        "created_at": "2025-08-22T05:05:12Z",
+        "url": "https://bsky.app/profile/reuters.com/post/3lwxondha6p2c"
+      },
+      "engagement": {
+        "likes": 14,
+        "replies": 31,
+        "reposts": 1,
+        "quotes": 9,
+        "formatted": {
+          "likes": "14",
+          "replies": "31",
+          "reposts": "1",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "I wouldn't buy it if they lowered it by $15,000.",
+        "That’s definitely going to help revenue",
+        "Why are you wasting energy and time x'D it's over... No one needs SwastiCars",
+        "Trump tariffs"
+      ],
+      "metrics": {
+        "ratio_score": 9.0,
+        "confidence": 0.498,
+        "category": "Quote Dunk",
+        "post_age_minutes": 87.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:35.888709+00:00",
+      "last_updated": "2025-08-22T06:43:35.888709+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:35.888709+00:00"
+      ],
+      "peak_controversy": 1.9,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
       "user": {
         "handle": "jonathancohn.bsky.social",
         "display_name": "Jonathan Cohn ",
@@ -71,7 +239,7 @@
       "trend": "new"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "user": {
         "handle": "kennedialy.bsky.social",
         "display_name": "jerk punani 🇯🇲",
@@ -127,7 +295,7 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "user": {
         "handle": "appetizerwritez.bsky.social",
         "display_name": "Bunsz, #TheWriter",
@@ -183,7 +351,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "user": {
         "handle": "blu-ray381.blacksky.app",
         "display_name": "The Yaptain 🫡 aka Skylar Niggins",
@@ -237,173 +405,6 @@
       ],
       "peak_controversy": 3.5,
       "trend": "new"
-    },
-    {
-      "rank": 5,
-      "user": {
-        "handle": "theigbobear.blacksky.app",
-        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
-        "initials": "TC",
-        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
-        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
-      },
-      "ratio": "40:0",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Niggas wearing night gowns now?",
-        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
-        "created_at": "2025-08-21T18:20:48.773Z",
-        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
-      },
-      "engagement": {
-        "likes": 8,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 40,
-        "formatted": {
-          "likes": "8",
-          "replies": "4",
-          "reposts": "0",
-          "quotes": "40"
-        }
-      },
-      "sample_replies": [
-        "😭 $82 for that is robbery",
-        "😂😂",
-        "Smh",
-        "They always be taxing the men when it comes to clothes"
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.314,
-        "category": "Complete Ratio",
-        "post_age_minutes": 101.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.307287+00:00",
-      "last_updated": "2025-08-21T20:20:45.307287+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.307287+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 6,
-      "user": {
-        "handle": "rize4eva.bsky.social",
-        "display_name": "Raphael Phaasiq",
-        "initials": "RP",
-        "did": "did:plc:myiicuuddgocirxy7h6luz3y",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:myiicuuddgocirxy7h6luz3y/bafkreig4wpt4sbv43t5bdwyy3xlzjc4s4r4roojitn3aiob7xhcdk7p5nq@jpeg",
-        "profile_url": "https://bsky.app/profile/rize4eva.bsky.social"
-      },
-      "ratio": "19:0",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Women are sickos",
-        "uri": "at://did:plc:myiicuuddgocirxy7h6luz3y/app.bsky.feed.post/3lwv5l3kmic2o",
-        "created_at": "2025-08-21T04:54:24.107Z",
-        "url": "https://bsky.app/profile/rize4eva.bsky.social/post/3lwv5l3kmic2o"
-      },
-      "engagement": {
-        "likes": 4,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 19,
-        "formatted": {
-          "likes": "4",
-          "replies": "3",
-          "reposts": "0",
-          "quotes": "19"
-        }
-      },
-      "sample_replies": [
-        "Oh.",
-        "😳"
-      ],
-      "metrics": {
-        "ratio_score": 11.0,
-        "confidence": 0.29,
-        "category": "Complete Ratio",
-        "post_age_minutes": 113.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T06:58:19.907047+00:00",
-      "last_updated": "2025-08-21T06:58:19.907047+00:00",
-      "analysis_windows": [
-        "2025-08-21T06:58:19.907047+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "sophianyx.bsky.social",
-        "display_name": "Sophia_Nyx 🏳️‍⚧️",
-        "initials": "S🏳",
-        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
-        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
-      },
-      "ratio": "20:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Name 3 Songs you've heard 600 times.",
-        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lww54znqvs2m",
-        "created_at": "2025-08-21T14:19:12.092Z",
-        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
-      },
-      "engagement": {
-        "likes": 82,
-        "replies": 60,
-        "reposts": 6,
-        "quotes": 123,
-        "formatted": {
-          "likes": "82",
-          "replies": "60",
-          "reposts": "6",
-          "quotes": "123"
-        }
-      },
-      "sample_replies": [
-        "i grew up in one of the most saturated radio markets in the world, southern california. there are...",
-        "\"Money\"\n\"Stairway to Heaven\"\n\"Freebird\"",
-        "In addition to loving these songs anyway, I also played them in one or more cover bands, which...",
-        "School’s Out\nTiny Dancer\nYesterday"
-      ],
-      "metrics": {
-        "ratio_score": 11.5,
-        "confidence": 0.634,
-        "category": "Complete Ratio",
-        "post_age_minutes": 133.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:31.266845+00:00",
-      "last_updated": "2025-08-21T16:50:31.820793+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:31.266845+00:00",
-        "2025-08-21T16:50:31.820793+00:00"
-      ],
-      "peak_controversy": 4.8,
-      "trend": "rising"
     },
     {
       "rank": 8,
@@ -464,6 +465,229 @@
     {
       "rank": 9,
       "user": {
+        "handle": "theigbobear.blacksky.app",
+        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
+        "initials": "TC",
+        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
+        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
+      },
+      "ratio": "40:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Niggas wearing night gowns now?",
+        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
+        "created_at": "2025-08-21T18:20:48.773Z",
+        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 40,
+        "formatted": {
+          "likes": "8",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "40"
+        }
+      },
+      "sample_replies": [
+        "😭 $82 for that is robbery",
+        "😂😂",
+        "Smh",
+        "They always be taxing the men when it comes to clothes"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.314,
+        "category": "Complete Ratio",
+        "post_age_minutes": 101.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.307287+00:00",
+      "last_updated": "2025-08-21T20:20:45.307287+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.307287+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
+      "user": {
+        "handle": "sophianyx.bsky.social",
+        "display_name": "Sophia_Nyx 🏳️‍⚧️",
+        "initials": "S🏳",
+        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidmbb3af5ogyuf7qjfdwfyv4d2cvmavz75gs6k7g3dr4zsn6tlqnm@jpeg",
+        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+      },
+      "ratio": "20:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Name 3 Songs you've heard 600 times.",
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lww54znqvs2m",
+        "created_at": "2025-08-21T14:19:12.092Z",
+        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lww54znqvs2m"
+      },
+      "engagement": {
+        "likes": 82,
+        "replies": 60,
+        "reposts": 6,
+        "quotes": 123,
+        "formatted": {
+          "likes": "82",
+          "replies": "60",
+          "reposts": "6",
+          "quotes": "123"
+        }
+      },
+      "sample_replies": [
+        "i grew up in one of the most saturated radio markets in the world, southern california. there are...",
+        "\"Money\"\n\"Stairway to Heaven\"\n\"Freebird\"",
+        "In addition to loving these songs anyway, I also played them in one or more cover bands, which...",
+        "School’s Out\nTiny Dancer\nYesterday"
+      ],
+      "metrics": {
+        "ratio_score": 11.5,
+        "confidence": 0.634,
+        "category": "Complete Ratio",
+        "post_age_minutes": 133.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:31.266845+00:00",
+      "last_updated": "2025-08-21T16:50:31.820793+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:31.266845+00:00",
+        "2025-08-21T16:50:31.820793+00:00"
+      ],
+      "peak_controversy": 4.8,
+      "trend": "rising"
+    },
+    {
+      "rank": 11,
+      "user": {
+        "handle": "rize4eva.bsky.social",
+        "display_name": "Raphael Phaasiq",
+        "initials": "RP",
+        "did": "did:plc:myiicuuddgocirxy7h6luz3y",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:myiicuuddgocirxy7h6luz3y/bafkreig4wpt4sbv43t5bdwyy3xlzjc4s4r4roojitn3aiob7xhcdk7p5nq@jpeg",
+        "profile_url": "https://bsky.app/profile/rize4eva.bsky.social"
+      },
+      "ratio": "19:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Women are sickos",
+        "uri": "at://did:plc:myiicuuddgocirxy7h6luz3y/app.bsky.feed.post/3lwv5l3kmic2o",
+        "created_at": "2025-08-21T04:54:24.107Z",
+        "url": "https://bsky.app/profile/rize4eva.bsky.social/post/3lwv5l3kmic2o"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 19,
+        "formatted": {
+          "likes": "4",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "19"
+        }
+      },
+      "sample_replies": [
+        "Oh.",
+        "😳"
+      ],
+      "metrics": {
+        "ratio_score": 11.0,
+        "confidence": 0.29,
+        "category": "Complete Ratio",
+        "post_age_minutes": 113.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T06:58:19.907047+00:00",
+      "last_updated": "2025-08-21T06:58:19.907047+00:00",
+      "analysis_windows": [
+        "2025-08-21T06:58:19.907047+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
+      "user": {
+        "handle": "apnews.com",
+        "display_name": "The Associated Press",
+        "initials": "TA",
+        "did": "did:plc:a67zdrt4nl2tv2qojpngogbq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreicqe453w2txy6eyooe4a6dbtvmflmfp7ydzunwjxuulvmgvntp42a@jpeg",
+        "profile_url": "https://bsky.app/profile/apnews.com"
+      },
+      "ratio": "2:1",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Cracker Barrel is marching forward with an ongoing makeover.",
+        "uri": "at://did:plc:a67zdrt4nl2tv2qojpngogbq/app.bsky.feed.post/3lwxmoxh5ac2k",
+        "created_at": "2025-08-22T04:30:19Z",
+        "url": "https://bsky.app/profile/apnews.com/post/3lwxmoxh5ac2k"
+      },
+      "engagement": {
+        "likes": 73,
+        "replies": 21,
+        "reposts": 5,
+        "quotes": 12,
+        "formatted": {
+          "likes": "73",
+          "replies": "21",
+          "reposts": "5",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "This is the dumbest shit ever",
+        "Now I'm woke. \n\nDamn you, Cracker Barrel!!!",
+        "What Maga doesn't get is that \"Cracker\" has always been a derogatory word meaning... uneducated...",
+        "Looks like the cracker stole the barrel?"
+      ],
+      "metrics": {
+        "ratio_score": 2.4,
+        "confidence": 0.656,
+        "category": "Quote Dunk",
+        "post_age_minutes": 122.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:36.019397+00:00",
+      "last_updated": "2025-08-22T06:43:36.019397+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:36.019397+00:00"
+      ],
+      "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
         "handle": "vulture.com",
         "display_name": "Vulture",
         "initials": "VU",
@@ -517,7 +741,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 14,
       "user": {
         "handle": "jsrailton.bsky.social",
         "display_name": "John Scott-Railton",
@@ -573,7 +797,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 15,
       "user": {
         "handle": "atrupar.com",
         "display_name": "Aaron Rupar",
@@ -629,7 +853,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 16,
       "user": {
         "handle": "tryvns.writes.fyi",
         "display_name": "Treywop. 🌬️🪼",
@@ -685,7 +909,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 17,
       "user": {
         "handle": "cerromerussell.bsky.social",
         "display_name": "MonsterKing",
@@ -741,118 +965,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
-      "user": {
-        "handle": "wovenantelope.bsky.social",
-        "display_name": "Antelope",
-        "initials": "AN",
-        "did": "did:plc:jxeww66t2k5vwuvmxkjydrka",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxeww66t2k5vwuvmxkjydrka/bafkreibvkik43fjuctpn2j4hroexhu7v27fwk4j662oubuxwxoyxqaaqva@jpeg",
-        "profile_url": "https://bsky.app/profile/wovenantelope.bsky.social"
-      },
-      "ratio": "14:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What brand of chip bag would you pass a bribe in?",
-        "uri": "at://did:plc:jxeww66t2k5vwuvmxkjydrka/app.bsky.feed.post/3lwuqfs2zjc2d",
-        "created_at": "2025-08-21T00:58:47.746Z",
-        "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
-      },
-      "engagement": {
-        "likes": 83,
-        "replies": 55,
-        "reposts": 8,
-        "quotes": 116,
-        "formatted": {
-          "likes": "83",
-          "replies": "55",
-          "reposts": "8",
-          "quotes": "116"
-        }
-      },
-      "sample_replies": [
-        "I'd keep it local",
-        "Dirty Chips. Obv",
-        "I'm going BOX of Grippo's."
-      ],
-      "metrics": {
-        "ratio_score": 8.0,
-        "confidence": 0.64,
-        "category": "Quote Dunk",
-        "post_age_minutes": 139.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:25.976063+00:00",
-      "last_updated": "2025-08-21T03:32:25.976063+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:25.976063+00:00"
-      ],
-      "peak_controversy": 2.1,
-      "trend": "new"
-    },
-    {
-      "rank": 15,
-      "user": {
-        "handle": "patricklovellpresentsthecleannewdeal.com",
-        "display_name": "Patrick Lovell The Producer  ",
-        "initials": "PL",
-        "did": "did:plc:owasym32475ohumf7bwkxn54",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:owasym32475ohumf7bwkxn54/bafkreictxmytwhj3gzr52vqkhkwkdl542ouytbhxpqrxno6bx3cpmyok2i@jpeg",
-        "profile_url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com"
-      },
-      "ratio": "6:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I just learned JP Morgan referred to #Epstein as “The Producer.”  I’m the Mother Fucking People’s Producer #PatrickLovellTheProducer with the Mother Fucking #71TrillionTruth",
-        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwwpa5qkdc2g",
-        "created_at": "2025-08-21T19:43:04.387Z",
-        "url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com/post/3lwwpa5qkdc2g"
-      },
-      "engagement": {
-        "likes": 11,
-        "replies": 6,
-        "reposts": 4,
-        "quotes": 22,
-        "formatted": {
-          "likes": "11",
-          "replies": "6",
-          "reposts": "4",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "www.thecon.tv",
-        "youtu.be/BEHlYif7tdQ?...",
-        "www.thecleannewdeal.org",
-        "youtu.be/NHQsX13H9aU?..."
-      ],
-      "metrics": {
-        "ratio_score": 22,
-        "confidence": 0.496,
-        "category": "Complete Ratio",
-        "post_age_minutes": 19.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:44.716977+00:00",
-      "last_updated": "2025-08-21T20:20:44.716977+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:44.716977+00:00"
-      ],
-      "peak_controversy": 4.8,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
+      "rank": 18,
       "user": {
         "handle": "cloud-ra.bsky.social",
         "display_name": "cloud ☁︎｡ ⋆｡ ﾟ☀︎ @ 7.0",
@@ -906,7 +1019,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "user": {
         "handle": "migueldelaney.bsky.social",
         "display_name": "Miguel Delaney",
@@ -962,7 +1075,63 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 20,
+      "user": {
+        "handle": "patricklovellpresentsthecleannewdeal.com",
+        "display_name": "Patrick Lovell The Producer  ",
+        "initials": "PL",
+        "did": "did:plc:owasym32475ohumf7bwkxn54",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:owasym32475ohumf7bwkxn54/bafkreictxmytwhj3gzr52vqkhkwkdl542ouytbhxpqrxno6bx3cpmyok2i@jpeg",
+        "profile_url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com"
+      },
+      "ratio": "6:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I just learned JP Morgan referred to #Epstein as “The Producer.”  I’m the Mother Fucking People’s Producer #PatrickLovellTheProducer with the Mother Fucking #71TrillionTruth",
+        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwwpa5qkdc2g",
+        "created_at": "2025-08-21T19:43:04.387Z",
+        "url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com/post/3lwwpa5qkdc2g"
+      },
+      "engagement": {
+        "likes": 11,
+        "replies": 6,
+        "reposts": 4,
+        "quotes": 22,
+        "formatted": {
+          "likes": "11",
+          "replies": "6",
+          "reposts": "4",
+          "quotes": "22"
+        }
+      },
+      "sample_replies": [
+        "www.thecon.tv",
+        "youtu.be/BEHlYif7tdQ?...",
+        "www.thecleannewdeal.org",
+        "youtu.be/NHQsX13H9aU?..."
+      ],
+      "metrics": {
+        "ratio_score": 22,
+        "confidence": 0.496,
+        "category": "Complete Ratio",
+        "post_age_minutes": 19.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:44.716977+00:00",
+      "last_updated": "2025-08-21T20:20:44.716977+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:44.716977+00:00"
+      ],
+      "peak_controversy": 4.8,
+      "trend": "new"
+    },
+    {
+      "rank": 21,
       "user": {
         "handle": "bamaslymm.blacksky.app",
         "display_name": "Kyle Barker Jr.",
@@ -1017,7 +1186,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 22,
       "user": {
         "handle": "dailyocs.bsky.social",
         "display_name": "Daily OC questions",
@@ -1073,7 +1242,115 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 23,
+      "user": {
+        "handle": "anthrclfrnn.bsky.social",
+        "display_name": "Another Californian",
+        "initials": "AC",
+        "did": "did:plc:dxsy5hlvmzxpdzfqxtw3vp2h",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dxsy5hlvmzxpdzfqxtw3vp2h/bafkreiepgabfc2cfjjtpfaqrtwb7ibiphui65icv7knsxoq7olfrlorfaq@jpeg",
+        "profile_url": "https://bsky.app/profile/anthrclfrnn.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "🔥Aug 22, 2025: 5 days of Russian Federation Armed Forces losses (as reported by General Staff of the Armed Forces of #Ukraine) compared to the invasion average: Yellow is below average; Green is above average; the number is the ratio of the day’s losses over average. @anthrclfrnn.bsky.social",
+        "uri": "at://did:plc:dxsy5hlvmzxpdzfqxtw3vp2h/app.bsky.feed.post/3lwxmmxte4k2x",
+        "created_at": "2025-08-22T04:29:12.913Z",
+        "url": "https://bsky.app/profile/anthrclfrnn.bsky.social/post/3lwxmmxte4k2x"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 9,
+        "formatted": {
+          "likes": "17",
+          "replies": "2",
+          "reposts": "3",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "Today's raw numbers from UA General Staff:",
+        "Interesting. Thanks"
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "confidence": 0.431,
+        "category": "Quote Dunk",
+        "post_age_minutes": 123.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:36.154241+00:00",
+      "last_updated": "2025-08-22T06:43:36.154241+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:36.154241+00:00"
+      ],
+      "peak_controversy": 0.5,
+      "trend": "new"
+    },
+    {
+      "rank": 24,
+      "user": {
+        "handle": "shesroyalty.bsky.social",
+        "display_name": "Queen Antonia",
+        "initials": "QA",
+        "did": "did:plc:7ksscjlidgzs5qlkrafd3itc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ksscjlidgzs5qlkrafd3itc/bafkreiajik4nxvqpxpfghrgfxd7yqtbvocjom4wztn6oe6ri3glvvmn64q@jpeg",
+        "profile_url": "https://bsky.app/profile/shesroyalty.bsky.social"
+      },
+      "ratio": "4:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "It’s always \nNeed dat \nNeed t his \nI need…\n\non these posts after hours.\n\nY’all gotta stop playing in people’s phones and start making plans! 💅🏾",
+        "uri": "at://did:plc:7ksscjlidgzs5qlkrafd3itc/app.bsky.feed.post/3lwxlk3g3522s",
+        "created_at": "2025-08-22T04:09:42.268Z",
+        "url": "https://bsky.app/profile/shesroyalty.bsky.social/post/3lwxlk3g3522s"
+      },
+      "engagement": {
+        "likes": 9,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 7,
+        "formatted": {
+          "likes": "9",
+          "replies": "3",
+          "reposts": "2",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "You sit this out bc we all know! You have regul….-NEVERMIND!\n\nGo on!!",
+        "the posts just inspiration for real life 🙂‍↕️"
+      ],
+      "metrics": {
+        "ratio_score": 3.5,
+        "confidence": 0.322,
+        "category": "Quote Dunk",
+        "post_age_minutes": 142.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:36.284351+00:00",
+      "last_updated": "2025-08-22T06:43:36.284351+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:36.284351+00:00"
+      ],
+      "peak_controversy": 0.5,
+      "trend": "new"
+    },
+    {
+      "rank": 25,
       "user": {
         "handle": "praz.bsky.social",
         "display_name": "Mike Praznowski",
@@ -1129,340 +1406,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
-      "user": {
-        "handle": "missxbri.bsky.social",
-        "display_name": "B.",
-        "initials": "B.",
-        "did": "did:plc:jf6ii5oftz7huqjaeygrgz4q",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jf6ii5oftz7huqjaeygrgz4q/bafkreidtqyvv4r77ihc2rppe4duebnhmipd64yp3z7imxl5gg6bwxntwia@jpeg",
-        "profile_url": "https://bsky.app/profile/missxbri.bsky.social"
-      },
-      "ratio": "6:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Y’all be fighting over people e-private parts?",
-        "uri": "at://did:plc:jf6ii5oftz7huqjaeygrgz4q/app.bsky.feed.post/3lwxbagrljc2h",
-        "created_at": "2025-08-22T01:05:21.217Z",
-        "url": "https://bsky.app/profile/missxbri.bsky.social/post/3lwxbagrljc2h"
-      },
-      "engagement": {
-        "likes": 3,
-        "replies": 2,
-        "reposts": 2,
-        "quotes": 11,
-        "formatted": {
-          "likes": "3",
-          "replies": "2",
-          "reposts": "2",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "That sounds stressful",
-        "Lmfaoooooooo some losers if you ask meeeeee"
-      ],
-      "metrics": {
-        "ratio_score": 6.5,
-        "confidence": 0.306,
-        "category": "Quote Dunk",
-        "post_age_minutes": 117.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T03:17:36.562724+00:00",
-      "last_updated": "2025-08-22T03:17:36.562724+00:00",
-      "analysis_windows": [
-        "2025-08-22T03:17:36.562724+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 22,
-      "user": {
-        "handle": "proptermalone.bsky.social",
-        "display_name": "post malone ergo propter malone",
-        "initials": "PM",
-        "did": "did:plc:e6n7jxtu2qrhwvp3j6ib6sq6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/bafkreigczen44plmbtq77w6uatenhgkul7py4vtug4guyhegmje5aknp6y@jpeg",
-        "profile_url": "https://bsky.app/profile/proptermalone.bsky.social"
-      },
-      "ratio": "10:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I’ve never been to a Cracker Barrel.  am I missing out?",
-        "uri": "at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3lwwxvynqbk2a",
-        "created_at": "2025-08-21T22:18:27.191Z",
-        "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
-      },
-      "engagement": {
-        "likes": 176,
-        "replies": 144,
-        "reposts": 2,
-        "quotes": 20,
-        "formatted": {
-          "likes": "176",
-          "replies": "144",
-          "reposts": "2",
-          "quotes": "20"
-        }
-      },
-      "sample_replies": [
-        "you? no. it could be tolerable if you’d been on the road forever and your surroundings were all...",
-        "i specify *you* because you grew up close enough to the rurals that none of it’s kitsch would even...",
-        "Not in isolation. A Cracker Barrel brunch after pulling 16 hours on the interstate is pretty nice...",
-        "I have definitely been to better truck stop restaurants but Cracker Barrel gives you that..."
-      ],
-      "metrics": {
-        "ratio_score": 8.0,
-        "confidence": 0.784,
-        "category": "Quote Dunk",
-        "post_age_minutes": 74.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T23:50:12.194096+00:00",
-      "last_updated": "2025-08-21T23:50:12.194096+00:00",
-      "analysis_windows": [
-        "2025-08-21T23:50:12.194096+00:00"
-      ],
-      "peak_controversy": 2.6,
-      "trend": "new"
-    },
-    {
-      "rank": 23,
-      "user": {
-        "handle": "wario64.bsky.social",
-        "display_name": "Wario64",
-        "initials": "WA",
-        "did": "did:plc:knj5sw5al3sukl6vhkpi7637",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:knj5sw5al3sukl6vhkpi7637/bafkreibyyspgkbm3xrgbu4qsemkjkphzfg2lcy6pa6zcdeverzmmtfbsuq@jpeg",
-        "profile_url": "https://bsky.app/profile/wario64.bsky.social"
-      },
-      "ratio": "7:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Persona 5 collab teased for Overwatch 2 www.youtube.com/watch?v=r2nw...",
-        "uri": "at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3lwwm42mucd2l",
-        "created_at": "2025-08-21T18:47:04.902Z",
-        "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
-      },
-      "engagement": {
-        "likes": 136,
-        "replies": 19,
-        "reposts": 17,
-        "quotes": 118,
-        "formatted": {
-          "likes": "136",
-          "replies": "19",
-          "reposts": "17",
-          "quotes": "118"
-        }
-      },
-      "sample_replies": [
-        "START THE CLOCK!",
-        "LETS GO!! OVERWATCH 2 IS SHUTTING DOWN IN A YEAR!\n\nThe curse lives on!",
-        "I don't care if Persona 5 is doing a collab, I am not playing Overwatch 2!",
-        "Think Overwatch 2 may have just heard some chains rattling..."
-      ],
-      "metrics": {
-        "ratio_score": 6.5,
-        "confidence": 0.775,
-        "category": "Quote Dunk",
-        "post_age_minutes": 75.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.189870+00:00",
-      "last_updated": "2025-08-21T20:20:45.189870+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.189870+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
-      "user": {
-        "handle": "ilovetvtime.bsky.social",
-        "display_name": "MS. \"ANN\" TENNA! 📺",
-        "initials": "M\"",
-        "did": "did:plc:ltivjmbpum4hdd6nqj3so5o3",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ltivjmbpum4hdd6nqj3so5o3/bafkreidhruqawpn2ogbjl7ybvipgdgv3xhs3sm6rsjxhj37rrkxulnjyrq@jpeg",
-        "profile_url": "https://bsky.app/profile/ilovetvtime.bsky.social"
-      },
-      "ratio": "7:0",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I have a PHYSICAL CHALLENGE for everyone! Iit's called. \"Let's all be nice to Tenna for at least one day\"",
-        "uri": "at://did:plc:ltivjmbpum4hdd6nqj3so5o3/app.bsky.feed.post/3lwuosmhu5l2g",
-        "created_at": "2025-08-21T00:30:10.599Z",
-        "url": "https://bsky.app/profile/ilovetvtime.bsky.social/post/3lwuosmhu5l2g"
-      },
-      "engagement": {
-        "likes": 6,
-        "replies": 7,
-        "reposts": 0,
-        "quotes": 7,
-        "formatted": {
-          "likes": "6",
-          "replies": "7",
-          "reposts": "0",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "[ has complicated feelings but is also spiteful ] these other krises are crazy tenna get behind me",
-        "[ Shrinking down and getting behind Gabi. Grown ass woman, btw ]",
-        "I am nice to you every day because I love you and you are a wonderful sister!",
-        "🥺🥺🥺"
-      ],
-      "metrics": {
-        "ratio_score": 13,
-        "confidence": 0.279,
-        "category": "Complete Ratio",
-        "post_age_minutes": 167.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:26.293648+00:00",
-      "last_updated": "2025-08-21T03:32:26.293648+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:26.293648+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
-      "user": {
-        "handle": "libdems.org.uk",
-        "display_name": "Liberal Democrats",
-        "initials": "LD",
-        "did": "did:plc:5cb5baul4azrgk7rkkgyt64w",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5cb5baul4azrgk7rkkgyt64w/bafkreibmn4cxvrv6w4d3q2i6t7ijgxftloubdurjtgyq6nybetx5vxiwwe@jpeg",
-        "profile_url": "https://bsky.app/profile/libdems.org.uk"
-      },
-      "ratio": "2:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "People are sick of headphone dodgers blasting music on public transport and ruining journeys.\n\nThe Government should back our calls for tough action and fines.",
-        "uri": "at://did:plc:5cb5baul4azrgk7rkkgyt64w/app.bsky.feed.post/3lwvtwhsldx26",
-        "created_at": "2025-08-21T11:34:28.185Z",
-        "url": "https://bsky.app/profile/libdems.org.uk/post/3lwvtwhsldx26"
-      },
-      "engagement": {
-        "likes": 17,
-        "replies": 27,
-        "reposts": 6,
-        "quotes": 14,
-        "formatted": {
-          "likes": "17",
-          "replies": "27",
-          "reposts": "6",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "Please don’t promote GBNews! I expect better!",
-        "please don't share GB news articles, like ever",
-        "GB News? Really? Do better.",
-        "Why are we sharing GB News articles?"
-      ],
-      "metrics": {
-        "ratio_score": 8.0,
-        "confidence": 0.446,
-        "category": "Quote Dunk",
-        "post_age_minutes": 103.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T13:30:53.255474+00:00",
-      "last_updated": "2025-08-21T13:30:53.255474+00:00",
-      "analysis_windows": [
-        "2025-08-21T13:30:53.255474+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
       "rank": 26,
-      "user": {
-        "handle": "iamabundantaf.bsky.social",
-        "display_name": "I Am Abundant AF",
-        "initials": "IA",
-        "did": "did:plc:fi4g4mzyxx3djsd66kzz6avj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fi4g4mzyxx3djsd66kzz6avj/bafkreigtsxkr25dngswjmictkgdkgyrbp7su4oslj62vrf3h3tp5rmowga@jpeg",
-        "profile_url": "https://bsky.app/profile/iamabundantaf.bsky.social"
-      },
-      "ratio": "13:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Can we have an honest conversation about how ALL of the male characters on Grey’s Anayomy are trash?\n\nEspecially, George! He might be the worst one tbh",
-        "uri": "at://did:plc:fi4g4mzyxx3djsd66kzz6avj/app.bsky.feed.post/3lwuwip6egs2p",
-        "created_at": "2025-08-21T02:47:47.823Z",
-        "url": "https://bsky.app/profile/iamabundantaf.bsky.social/post/3lwuwip6egs2p"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 13,
-        "formatted": {
-          "likes": "9",
-          "replies": "4",
-          "reposts": "1",
-          "quotes": "13"
-        }
-      },
-      "sample_replies": [
-        "I HATED THAT MAN! I feel so seen😂",
-        "The men in general or just George?",
-        "BOFFUM but I’ll say this…..the worst man on Grey’s is absolutely nothing in comparison to Teddy..."
-      ],
-      "metrics": {
-        "ratio_score": 9.0,
-        "confidence": 0.425,
-        "category": "Quote Dunk",
-        "post_age_minutes": 29.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:26.137764+00:00",
-      "last_updated": "2025-08-21T03:32:26.137764+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:26.137764+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 27,
       "user": {
         "handle": "bizzybaby.bsky.social",
         "display_name": "Bizzy",
@@ -1518,171 +1462,225 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
-        "handle": "reichlinmelnick.bsky.social",
-        "display_name": "Aaron Reichlin-Melnick",
-        "initials": "AR",
-        "did": "did:plc:2vtbmhmrwzbqcfv4we4uxzzt",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/bafkreiegkrp7aglu36764u6432m2hcgotmplgq5y34vsf6y5sh5txmtghq@jpeg",
-        "profile_url": "https://bsky.app/profile/reichlinmelnick.bsky.social"
+        "handle": "proptermalone.bsky.social",
+        "display_name": "post malone ergo propter malone",
+        "initials": "PM",
+        "did": "did:plc:e6n7jxtu2qrhwvp3j6ib6sq6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/bafkreigczen44plmbtq77w6uatenhgkul7py4vtug4guyhegmje5aknp6y@jpeg",
+        "profile_url": "https://bsky.app/profile/proptermalone.bsky.social"
       },
-      "ratio": "4:1",
-      "controversy": 0.2,
+      "ratio": "10:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Chris Rufo suggests his new campaign is to “break” the Barrel.",
-        "uri": "at://did:plc:2vtbmhmrwzbqcfv4we4uxzzt/app.bsky.feed.post/3lwx25hbv2s2t",
-        "created_at": "2025-08-21T22:58:24.885Z",
-        "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
+        "text": "I’ve never been to a Cracker Barrel.  am I missing out?",
+        "uri": "at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3lwwxvynqbk2a",
+        "created_at": "2025-08-21T22:18:27.191Z",
+        "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
       },
       "engagement": {
-        "likes": 669,
-        "replies": 225,
-        "reposts": 81,
-        "quotes": 285,
+        "likes": 176,
+        "replies": 144,
+        "reposts": 2,
+        "quotes": 20,
         "formatted": {
-          "likes": "669",
-          "replies": "225",
-          "reposts": "81",
-          "quotes": "285"
+          "likes": "176",
+          "replies": "144",
+          "reposts": "2",
+          "quotes": "20"
         }
       },
       "sample_replies": [
-        "wtf are these people even talking about? Anything to be outraged.",
-        "He gave his life to Christ in a Cracker Barrel parking lot?…so much to unpack here",
-        "Yeah I'm baffled - what about the previous design was... unwoke, or whatever? Like why is the new...",
-        "The logo was changed after a PE firm bought the chain. Wokeness had nothing to do with the change...."
+        "you? no. it could be tolerable if you’d been on the road forever and your surroundings were all...",
+        "i specify *you* because you grew up close enough to the rurals that none of it’s kitsch would even...",
+        "Not in isolation. A Cracker Barrel brunch after pulling 16 hours on the interstate is pretty nice...",
+        "I have definitely been to better truck stop restaurants but Cracker Barrel gives you that..."
       ],
       "metrics": {
-        "ratio_score": 3.59,
-        "confidence": 0.893,
+        "ratio_score": 8.0,
+        "confidence": 0.784,
         "category": "Quote Dunk",
-        "post_age_minutes": 34.5
+        "post_age_minutes": 74.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-21T23:50:12.482873+00:00",
-      "last_updated": "2025-08-21T23:50:12.482873+00:00",
+      "first_detected": "2025-08-21T23:50:12.194096+00:00",
+      "last_updated": "2025-08-21T23:50:12.194096+00:00",
       "analysis_windows": [
-        "2025-08-21T23:50:12.482873+00:00"
+        "2025-08-21T23:50:12.194096+00:00"
       ],
-      "peak_controversy": 1.4,
+      "peak_controversy": 2.6,
+      "trend": "new"
+    },
+    {
+      "rank": 28,
+      "user": {
+        "handle": "wario64.bsky.social",
+        "display_name": "Wario64",
+        "initials": "WA",
+        "did": "did:plc:knj5sw5al3sukl6vhkpi7637",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:knj5sw5al3sukl6vhkpi7637/bafkreibyyspgkbm3xrgbu4qsemkjkphzfg2lcy6pa6zcdeverzmmtfbsuq@jpeg",
+        "profile_url": "https://bsky.app/profile/wario64.bsky.social"
+      },
+      "ratio": "7:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Persona 5 collab teased for Overwatch 2 www.youtube.com/watch?v=r2nw...",
+        "uri": "at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3lwwm42mucd2l",
+        "created_at": "2025-08-21T18:47:04.902Z",
+        "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
+      },
+      "engagement": {
+        "likes": 136,
+        "replies": 19,
+        "reposts": 17,
+        "quotes": 118,
+        "formatted": {
+          "likes": "136",
+          "replies": "19",
+          "reposts": "17",
+          "quotes": "118"
+        }
+      },
+      "sample_replies": [
+        "START THE CLOCK!",
+        "LETS GO!! OVERWATCH 2 IS SHUTTING DOWN IN A YEAR!\n\nThe curse lives on!",
+        "I don't care if Persona 5 is doing a collab, I am not playing Overwatch 2!",
+        "Think Overwatch 2 may have just heard some chains rattling..."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "confidence": 0.775,
+        "category": "Quote Dunk",
+        "post_age_minutes": 75.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.189870+00:00",
+      "last_updated": "2025-08-21T20:20:45.189870+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.189870+00:00"
+      ],
+      "peak_controversy": 2.2,
       "trend": "new"
     },
     {
       "rank": 29,
       "user": {
-        "handle": "wanderingdruid3300.bsky.social",
-        "display_name": "Mozelle Baitise Delacroix’s only son.",
-        "initials": "MB",
-        "did": "did:plc:hpoekge36giga7bonx3sqzid",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hpoekge36giga7bonx3sqzid/bafkreidnmaiyfplbjtgdl5teubu73w7kadjki7iclctalxrvnihgisor2i@jpeg",
-        "profile_url": "https://bsky.app/profile/wanderingdruid3300.bsky.social"
+        "handle": "libdems.org.uk",
+        "display_name": "Liberal Democrats",
+        "initials": "LD",
+        "did": "did:plc:5cb5baul4azrgk7rkkgyt64w",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5cb5baul4azrgk7rkkgyt64w/bafkreibmn4cxvrv6w4d3q2i6t7ijgxftloubdurjtgyq6nybetx5vxiwwe@jpeg",
+        "profile_url": "https://bsky.app/profile/libdems.org.uk"
       },
-      "ratio": "8:0",
-      "controversy": 0.2,
+      "ratio": "2:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Do y’all remember David the Gnome?",
-        "uri": "at://did:plc:hpoekge36giga7bonx3sqzid/app.bsky.feed.post/3lwxe2fisx22k",
-        "created_at": "2025-08-22T01:55:39.780Z",
-        "url": "https://bsky.app/profile/wanderingdruid3300.bsky.social/post/3lwxe2fisx22k"
+        "text": "People are sick of headphone dodgers blasting music on public transport and ruining journeys.\n\nThe Government should back our calls for tough action and fines.",
+        "uri": "at://did:plc:5cb5baul4azrgk7rkkgyt64w/app.bsky.feed.post/3lwvtwhsldx26",
+        "created_at": "2025-08-21T11:34:28.185Z",
+        "url": "https://bsky.app/profile/libdems.org.uk/post/3lwvtwhsldx26"
       },
       "engagement": {
-        "likes": 7,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 8,
+        "likes": 17,
+        "replies": 27,
+        "reposts": 6,
+        "quotes": 14,
         "formatted": {
-          "likes": "7",
-          "replies": "3",
-          "reposts": "0",
-          "quotes": "8"
+          "likes": "17",
+          "replies": "27",
+          "reposts": "6",
+          "quotes": "14"
         }
       },
       "sample_replies": [
-        "This and Eureka's Castle 🙌",
-        "I liked the trolls",
-        "Cuz sir! Why you walking around with a flaccid penis on your face? Have some decency!!!",
-        "Amazing intro and puppet work"
+        "Please don’t promote GBNews! I expect better!",
+        "please don't share GB news articles, like ever",
+        "GB News? Really? Do better.",
+        "Why are we sharing GB News articles?"
       ],
       "metrics": {
-        "ratio_score": 10,
-        "confidence": 0.33,
-        "category": "Complete Ratio",
-        "post_age_minutes": 66.9
+        "ratio_score": 8.0,
+        "confidence": 0.446,
+        "category": "Quote Dunk",
+        "post_age_minutes": 103.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-22T03:17:36.282266+00:00",
-      "last_updated": "2025-08-22T03:17:36.282266+00:00",
+      "first_detected": "2025-08-21T13:30:53.255474+00:00",
+      "last_updated": "2025-08-21T13:30:53.255474+00:00",
       "analysis_windows": [
-        "2025-08-22T03:17:36.282266+00:00"
+        "2025-08-21T13:30:53.255474+00:00"
       ],
-      "peak_controversy": 1.7,
+      "peak_controversy": 1.5,
       "trend": "new"
     },
     {
       "rank": 30,
       "user": {
-        "handle": "locgoody.bsky.social",
-        "display_name": "Filthy Fox 🖤➿",
-        "initials": "FF",
-        "did": "did:plc:pi6a5kro3sjj7x7j2gb7l2cq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pi6a5kro3sjj7x7j2gb7l2cq/bafkreiffo23z26c2v74nrtnkpd5sitfxibvtjhs3kco2ovt6lj3kzl23bq@jpeg",
-        "profile_url": "https://bsky.app/profile/locgoody.bsky.social"
+        "handle": "missxbri.bsky.social",
+        "display_name": "B.",
+        "initials": "B.",
+        "did": "did:plc:jf6ii5oftz7huqjaeygrgz4q",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jf6ii5oftz7huqjaeygrgz4q/bafkreidtqyvv4r77ihc2rppe4duebnhmipd64yp3z7imxl5gg6bwxntwia@jpeg",
+        "profile_url": "https://bsky.app/profile/missxbri.bsky.social"
       },
-      "ratio": "9:1",
-      "controversy": 0.2,
+      "ratio": "6:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Bread pudding is actually sweet stuffing.",
-        "uri": "at://did:plc:pi6a5kro3sjj7x7j2gb7l2cq/app.bsky.feed.post/3lwwx5hucfc2q",
-        "created_at": "2025-08-21T22:04:44.274Z",
-        "url": "https://bsky.app/profile/locgoody.bsky.social/post/3lwwx5hucfc2q"
+        "text": "Y’all be fighting over people e-private parts?",
+        "uri": "at://did:plc:jf6ii5oftz7huqjaeygrgz4q/app.bsky.feed.post/3lwxbagrljc2h",
+        "created_at": "2025-08-22T01:05:21.217Z",
+        "url": "https://bsky.app/profile/missxbri.bsky.social/post/3lwxbagrljc2h"
       },
       "engagement": {
-        "likes": 25,
-        "replies": 9,
-        "reposts": 3,
-        "quotes": 27,
+        "likes": 3,
+        "replies": 2,
+        "reposts": 2,
+        "quotes": 11,
         "formatted": {
-          "likes": "25",
-          "replies": "9",
-          "reposts": "3",
-          "quotes": "27"
+          "likes": "3",
+          "replies": "2",
+          "reposts": "2",
+          "quotes": "11"
         }
       },
       "sample_replies": [
-        "And the caramel sauce is sweet gravy ☝🏾",
-        "I got an entire loaf that was crumbled…\n\nIt’s just bread, milk, eggs, sugar, vanilla & spices, if...",
-        "I’m ’bout to make sum tonight!\n\nWith blueberries and a cream cheese drizzle",
-        "Facts!!! Ok! Now that you said this, I’ll whip up a lil sweet potato custard to put in it!! Thank..."
+        "That sounds stressful",
+        "Lmfaoooooooo some losers if you ask meeeeee"
       ],
       "metrics": {
-        "ratio_score": 9.0,
-        "confidence": 0.41,
+        "ratio_score": 6.5,
+        "confidence": 0.306,
         "category": "Quote Dunk",
-        "post_age_minutes": 88.3
+        "post_age_minutes": 117.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-21T23:50:12.283669+00:00",
-      "last_updated": "2025-08-21T23:50:12.283669+00:00",
+      "first_detected": "2025-08-22T03:17:36.562724+00:00",
+      "last_updated": "2025-08-22T03:17:36.562724+00:00",
       "analysis_windows": [
-        "2025-08-21T23:50:12.283669+00:00"
+        "2025-08-22T03:17:36.562724+00:00"
       ],
-      "peak_controversy": 1.5,
+      "peak_controversy": 0.8,
       "trend": "new"
     },
     {
@@ -1800,62 +1798,6 @@
     {
       "rank": 33,
       "user": {
-        "handle": "bugsmaytrix.bsky.social",
-        "display_name": "Bugs Maytrix: Insects Reloaded",
-        "initials": "BM",
-        "did": "did:plc:pzsrpsyeeppu4jbadsab7wjp",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pzsrpsyeeppu4jbadsab7wjp/bafkreia2xrz26vy2bosvuqm3rxtdu4gzpukttqhe4nhrjhnypj4cfqj7ze@jpeg",
-        "profile_url": "https://bsky.app/profile/bugsmaytrix.bsky.social"
-      },
-      "ratio": "29:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What were your first 3 sets, and what do they say about you?\n\n- Unfinity\n- Brother's War\n- Phyrexia: All Will Be One\n\ni am full of whimsy, artifacts, and glistening oil 😌😌",
-        "uri": "at://did:plc:pzsrpsyeeppu4jbadsab7wjp/app.bsky.feed.post/3lwuwum22cc2x",
-        "created_at": "2025-08-21T02:54:27.189Z",
-        "url": "https://bsky.app/profile/bugsmaytrix.bsky.social/post/3lwuwum22cc2x"
-      },
-      "engagement": {
-        "likes": 68,
-        "replies": 19,
-        "reposts": 1,
-        "quotes": 29,
-        "formatted": {
-          "likes": "68",
-          "replies": "19",
-          "reposts": "1",
-          "quotes": "29"
-        }
-      },
-      "sample_replies": [
-        "and also that i hyperfixated on this game hard",
-        "Understandable, you got in during some banger sets",
-        "brothers war rocks so hard lol",
-        "it's absolutely why they're my favorites lmao"
-      ],
-      "metrics": {
-        "ratio_score": 11.0,
-        "confidence": 0.588,
-        "category": "Complete Ratio",
-        "post_age_minutes": 23.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:25.659027+00:00",
-      "last_updated": "2025-08-21T03:32:25.659027+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:25.659027+00:00"
-      ],
-      "peak_controversy": 3.2,
-      "trend": "new"
-    },
-    {
-      "rank": 34,
-      "user": {
         "handle": "mlbtraderumors.bsky.social",
         "display_name": "MLB Trade Rumors",
         "initials": "MT",
@@ -1910,7 +1852,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "user": {
         "handle": "steveincolorado.bsky.social",
         "display_name": "Steve in Colorado 🐏🏔️⛷️",
@@ -1961,7 +1903,7 @@
       "trend": "new"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "user": {
         "handle": "shojoscholar.bsky.social",
         "display_name": "The Cloud Akatsuskeet🥷🏾✨",
@@ -2014,6 +1956,62 @@
         "2025-08-21T06:58:19.479085+00:00"
       ],
       "peak_controversy": 1.9,
+      "trend": "new"
+    },
+    {
+      "rank": 36,
+      "user": {
+        "handle": "wanderingdruid3300.bsky.social",
+        "display_name": "Mozelle Baitise Delacroix’s only son.",
+        "initials": "MB",
+        "did": "did:plc:hpoekge36giga7bonx3sqzid",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hpoekge36giga7bonx3sqzid/bafkreidnmaiyfplbjtgdl5teubu73w7kadjki7iclctalxrvnihgisor2i@jpeg",
+        "profile_url": "https://bsky.app/profile/wanderingdruid3300.bsky.social"
+      },
+      "ratio": "8:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Do y’all remember David the Gnome?",
+        "uri": "at://did:plc:hpoekge36giga7bonx3sqzid/app.bsky.feed.post/3lwxe2fisx22k",
+        "created_at": "2025-08-22T01:55:39.780Z",
+        "url": "https://bsky.app/profile/wanderingdruid3300.bsky.social/post/3lwxe2fisx22k"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 8,
+        "formatted": {
+          "likes": "7",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "This and Eureka's Castle 🙌",
+        "I liked the trolls",
+        "Cuz sir! Why you walking around with a flaccid penis on your face? Have some decency!!!",
+        "Amazing intro and puppet work"
+      ],
+      "metrics": {
+        "ratio_score": 10,
+        "confidence": 0.33,
+        "category": "Complete Ratio",
+        "post_age_minutes": 66.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T03:17:36.282266+00:00",
+      "last_updated": "2025-08-22T03:17:36.282266+00:00",
+      "analysis_windows": [
+        "2025-08-22T03:17:36.282266+00:00"
+      ],
+      "peak_controversy": 1.7,
       "trend": "new"
     },
     {
@@ -2073,61 +2071,117 @@
     {
       "rank": 38,
       "user": {
-        "handle": "culturecrave.co",
-        "display_name": "Culture Crave 🍿",
-        "initials": "CC",
-        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
-        "profile_url": "https://bsky.app/profile/culturecrave.co"
+        "handle": "locgoody.bsky.social",
+        "display_name": "Filthy Fox 🖤➿",
+        "initials": "FF",
+        "did": "did:plc:pi6a5kro3sjj7x7j2gb7l2cq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pi6a5kro3sjj7x7j2gb7l2cq/bafkreiffo23z26c2v74nrtnkpd5sitfxibvtjhs3kco2ovt6lj3kzl23bq@jpeg",
+        "profile_url": "https://bsky.app/profile/locgoody.bsky.social"
       },
-      "ratio": "5:1",
+      "ratio": "9:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Alan Cumming says he didn’t know who he was acting with half the time when filming ‘Avengers: Doomsday’ \n\n“I did the entire film in isolation. Lots of green screen, face replacement. They even gave characters fake names. I don’t know who I was acting with half the time”\n\n(via Gold Derby)",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lwuuei27zk2y",
-        "created_at": "2025-08-21T02:09:38.638Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
+        "text": "Bread pudding is actually sweet stuffing.",
+        "uri": "at://did:plc:pi6a5kro3sjj7x7j2gb7l2cq/app.bsky.feed.post/3lwwx5hucfc2q",
+        "created_at": "2025-08-21T22:04:44.274Z",
+        "url": "https://bsky.app/profile/locgoody.bsky.social/post/3lwwx5hucfc2q"
       },
       "engagement": {
-        "likes": 701,
-        "replies": 65,
-        "reposts": 63,
-        "quotes": 313,
+        "likes": 25,
+        "replies": 9,
+        "reposts": 3,
+        "quotes": 27,
         "formatted": {
-          "likes": "701",
-          "replies": "65",
-          "reposts": "63",
-          "quotes": "313"
+          "likes": "25",
+          "replies": "9",
+          "reposts": "3",
+          "quotes": "27"
         }
       },
       "sample_replies": [
-        "that sounds horrible",
-        "between the movie being written on the fly and this, i feel like doomsday is gonna end up being an...",
-        "This is not how movies should be made",
-        "Can we agree this anti-leak, anti-spoiler secrecy is too damn much?"
+        "And the caramel sauce is sweet gravy ☝🏾",
+        "I got an entire loaf that was crumbled…\n\nIt’s just bread, milk, eggs, sugar, vanilla & spices, if...",
+        "I’m ’bout to make sum tonight!\n\nWith blueberries and a cream cheese drizzle",
+        "Facts!!! Ok! Now that you said this, I’ll whip up a lil sweet potato custard to put in it!! Thank..."
       ],
       "metrics": {
-        "ratio_score": 2.89,
-        "confidence": 0.943,
+        "ratio_score": 9.0,
+        "confidence": 0.41,
         "category": "Quote Dunk",
-        "post_age_minutes": 67.9
+        "post_age_minutes": 88.3
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-21T03:32:26.440725+00:00",
-      "last_updated": "2025-08-21T03:32:26.440725+00:00",
+      "first_detected": "2025-08-21T23:50:12.283669+00:00",
+      "last_updated": "2025-08-21T23:50:12.283669+00:00",
       "analysis_windows": [
-        "2025-08-21T03:32:26.440725+00:00"
+        "2025-08-21T23:50:12.283669+00:00"
       ],
-      "peak_controversy": 1.3,
+      "peak_controversy": 1.5,
       "trend": "new"
     },
     {
       "rank": 39,
+      "user": {
+        "handle": "reichlinmelnick.bsky.social",
+        "display_name": "Aaron Reichlin-Melnick",
+        "initials": "AR",
+        "did": "did:plc:2vtbmhmrwzbqcfv4we4uxzzt",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/bafkreiegkrp7aglu36764u6432m2hcgotmplgq5y34vsf6y5sh5txmtghq@jpeg",
+        "profile_url": "https://bsky.app/profile/reichlinmelnick.bsky.social"
+      },
+      "ratio": "4:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Chris Rufo suggests his new campaign is to “break” the Barrel.",
+        "uri": "at://did:plc:2vtbmhmrwzbqcfv4we4uxzzt/app.bsky.feed.post/3lwx25hbv2s2t",
+        "created_at": "2025-08-21T22:58:24.885Z",
+        "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
+      },
+      "engagement": {
+        "likes": 669,
+        "replies": 225,
+        "reposts": 81,
+        "quotes": 285,
+        "formatted": {
+          "likes": "669",
+          "replies": "225",
+          "reposts": "81",
+          "quotes": "285"
+        }
+      },
+      "sample_replies": [
+        "wtf are these people even talking about? Anything to be outraged.",
+        "He gave his life to Christ in a Cracker Barrel parking lot?…so much to unpack here",
+        "Yeah I'm baffled - what about the previous design was... unwoke, or whatever? Like why is the new...",
+        "The logo was changed after a PE firm bought the chain. Wokeness had nothing to do with the change...."
+      ],
+      "metrics": {
+        "ratio_score": 3.59,
+        "confidence": 0.893,
+        "category": "Quote Dunk",
+        "post_age_minutes": 34.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T23:50:12.482873+00:00",
+      "last_updated": "2025-08-21T23:50:12.482873+00:00",
+      "analysis_windows": [
+        "2025-08-21T23:50:12.482873+00:00"
+      ],
+      "peak_controversy": 1.4,
+      "trend": "new"
+    },
+    {
+      "rank": 40,
       "user": {
         "handle": "saulstaniforth.bsky.social",
         "display_name": "Saul Staniforth",
@@ -2183,7 +2237,7 @@
       "trend": "new"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "user": {
         "handle": "electionmaps.uk",
         "display_name": "Election Maps UK",
@@ -2236,62 +2290,6 @@
         "2025-08-21T10:11:39.628833+00:00"
       ],
       "peak_controversy": 0.4,
-      "trend": "new"
-    },
-    {
-      "rank": 41,
-      "user": {
-        "handle": "sickoscommittee.org",
-        "display_name": "Sickos Committee",
-        "initials": "SC",
-        "did": "did:plc:upyx3raxzpwlnzojrncogd7y",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:upyx3raxzpwlnzojrncogd7y/bafkreiema6hpmysc65cb3ialzkkddvtj6vi6sutplt2iymo2fsq4y3nqoq@jpeg",
-        "profile_url": "https://bsky.app/profile/sickoscommittee.org"
-      },
-      "ratio": "3:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "BUY THREE RED BARON PIZZAS AND GET TWO FREE GOPHERS TICKETS?\n\ngophersports.com/sports/2025/...",
-        "uri": "at://did:plc:upyx3raxzpwlnzojrncogd7y/app.bsky.feed.post/3lwxgl2ge6k2j",
-        "created_at": "2025-08-22T02:40:46.067Z",
-        "url": "https://bsky.app/profile/sickoscommittee.org/post/3lwxgl2ge6k2j"
-      },
-      "engagement": {
-        "likes": 40,
-        "replies": 6,
-        "reposts": 3,
-        "quotes": 9,
-        "formatted": {
-          "likes": "40",
-          "replies": "6",
-          "reposts": "3",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "Pete LemBuffalo \nThe Demons\nPurdue\n\nAll seems like fun times for us. \nbsky.app/profile/hock...",
-        "Where is Dave Brandon these days?",
-        "I’m enjoying the implied insult of Purdue being the only conference game on the list",
-        "This seems like an idea y'all would have."
-      ],
-      "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.555,
-        "category": "Quote Dunk",
-        "post_age_minutes": 21.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T03:17:36.148568+00:00",
-      "last_updated": "2025-08-22T03:17:36.148568+00:00",
-      "analysis_windows": [
-        "2025-08-22T03:17:36.148568+00:00"
-      ],
-      "peak_controversy": 1.6,
       "trend": "new"
     },
     {
@@ -2409,62 +2407,6 @@
     {
       "rank": 44,
       "user": {
-        "handle": "petersterne.com",
-        "display_name": "Peter Sterne",
-        "initials": "PS",
-        "did": "did:plc:3o3xlahjenddxtpwwk6c6z5w",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3o3xlahjenddxtpwwk6c6z5w/bafkreialpxbc3q7segsi62s7wlpypta734eneseabetcdgle2v6wlmufci@jpeg",
-        "profile_url": "https://bsky.app/profile/petersterne.com"
-      },
-      "ratio": "4:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Winnie Greco's attorney told The New York Times that it's common in Chinese culture to give cash to reporters. www.nytimes.com/2025/08/20/n...",
-        "uri": "at://did:plc:3o3xlahjenddxtpwwk6c6z5w/app.bsky.feed.post/3lwuvsffgbs2x",
-        "created_at": "2025-08-21T02:35:19.368Z",
-        "url": "https://bsky.app/profile/petersterne.com/post/3lwuvsffgbs2x"
-      },
-      "engagement": {
-        "likes": 134,
-        "replies": 27,
-        "reposts": 18,
-        "quotes": 64,
-        "formatted": {
-          "likes": "134",
-          "replies": "27",
-          "reposts": "18",
-          "quotes": "64"
-        }
-      },
-      "sample_replies": [
-        "I'm sorry you mistook my bribe for a bribe.",
-        "The Times appears to be lifting this quote from @thecity.nyc and altering it to make it even more...",
-        "He gave that quote to The City. (The NYT seems to have lifted a lot of info/quotes from The City’s...",
-        "This is not a defense of Winnie Greco who stands out for excessive corruption even among Eric..."
-      ],
-      "metrics": {
-        "ratio_score": 9.5,
-        "confidence": 0.578,
-        "category": "Quote Dunk",
-        "post_age_minutes": 42.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T03:32:25.800254+00:00",
-      "last_updated": "2025-08-21T03:32:25.800254+00:00",
-      "analysis_windows": [
-        "2025-08-21T03:32:25.800254+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 45,
-      "user": {
         "handle": "skullytrickybonez.bsky.social",
         "display_name": "💗Skully/Cotton💗",
         "initials": "💗S",
@@ -2519,62 +2461,63 @@
       "trend": "new"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "user": {
-        "handle": "drspookyer.bsky.social",
-        "display_name": "N.J. Gallegos",
-        "initials": "NG",
-        "did": "did:plc:ilkrbav2ibesg6i6qc3gunsv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ilkrbav2ibesg6i6qc3gunsv/bafkreif7ldg6bdpvlyssfgidyaacovfqpdzqzb7njpxhmudgko7mwona64@jpeg",
-        "profile_url": "https://bsky.app/profile/drspookyer.bsky.social"
+        "handle": "sickoscommittee.org",
+        "display_name": "Sickos Committee",
+        "initials": "SC",
+        "did": "did:plc:upyx3raxzpwlnzojrncogd7y",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:upyx3raxzpwlnzojrncogd7y/bafkreiema6hpmysc65cb3ialzkkddvtj6vi6sutplt2iymo2fsq4y3nqoq@jpeg",
+        "profile_url": "https://bsky.app/profile/sickoscommittee.org"
       },
-      "ratio": "5:0",
+      "ratio": "3:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Introduce yourself with the last five concerts you attended:\n\nTaylor Swift ERAS\nBeyoncé Renaissance\nBreakaway Musical Festival in Minnesota \nAbove and Beyond’s Group Therapy\nKaskade Freaks of Nature",
-        "uri": "at://did:plc:ilkrbav2ibesg6i6qc3gunsv/app.bsky.feed.post/3lwurcvyhnk2c",
-        "created_at": "2025-08-21T01:15:04.935Z",
-        "url": "https://bsky.app/profile/drspookyer.bsky.social/post/3lwurcvyhnk2c"
+        "text": "BUY THREE RED BARON PIZZAS AND GET TWO FREE GOPHERS TICKETS?\n\ngophersports.com/sports/2025/...",
+        "uri": "at://did:plc:upyx3raxzpwlnzojrncogd7y/app.bsky.feed.post/3lwxgl2ge6k2j",
+        "created_at": "2025-08-22T02:40:46.067Z",
+        "url": "https://bsky.app/profile/sickoscommittee.org/post/3lwxgl2ge6k2j"
       },
       "engagement": {
-        "likes": 16,
-        "replies": 7,
-        "reposts": 0,
-        "quotes": 5,
+        "likes": 40,
+        "replies": 6,
+        "reposts": 3,
+        "quotes": 9,
         "formatted": {
-          "likes": "16",
-          "replies": "7",
-          "reposts": "0",
-          "quotes": "5"
+          "likes": "40",
+          "replies": "6",
+          "reposts": "3",
+          "quotes": "9"
         }
       },
       "sample_replies": [
-        "2025\n\nWeird Al (Puddles Pity Party opening)\n(12 year gap)\nFiction 8 (convention I hosted)\n(12 year...",
-        "I've only been to THREE concerts in my life: Huey Lewis and the News, Mark Lowry (Christian version...",
-        "Weird Al\nBuddy Guy\nJoe Bonamasa\nThe Outlaws\nLed Zep tribute band"
+        "Pete LemBuffalo \nThe Demons\nPurdue\n\nAll seems like fun times for us. \nbsky.app/profile/hock...",
+        "Where is Dave Brandon these days?",
+        "I’m enjoying the implied insult of Purdue being the only conference game on the list",
+        "This seems like an idea y'all would have."
       ],
       "metrics": {
-        "ratio_score": 8,
-        "confidence": 0.338,
-        "category": "Complete Ratio",
-        "post_age_minutes": 122.5
+        "ratio_score": 7.0,
+        "confidence": 0.555,
+        "category": "Quote Dunk",
+        "post_age_minutes": 21.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-21T03:32:26.583425+00:00",
-      "last_updated": "2025-08-21T03:32:26.583425+00:00",
+      "first_detected": "2025-08-22T03:17:36.148568+00:00",
+      "last_updated": "2025-08-22T03:17:36.148568+00:00",
       "analysis_windows": [
-        "2025-08-21T03:32:26.583425+00:00"
+        "2025-08-22T03:17:36.148568+00:00"
       ],
-      "peak_controversy": 1.4,
+      "peak_controversy": 1.6,
       "trend": "new"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
@@ -2630,63 +2573,62 @@
       "trend": "new"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "user": {
-        "handle": "veryghetto.posts.fyi",
-        "display_name": "Xae 🪼",
-        "initials": "X🪼",
-        "did": "did:plc:aax2d4gyu4vmlccwdtgci474",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aax2d4gyu4vmlccwdtgci474/bafkreiabfg7j2wzskzjn7ksromkjd3mewmsx6nie2yc3bupocnktug757i@jpeg",
-        "profile_url": "https://bsky.app/profile/veryghetto.posts.fyi"
+        "handle": "emceekayvee.bsky.social",
+        "display_name": "emceekayvee",
+        "initials": "EM",
+        "did": "did:plc:dszgyni4f42kj24bukbkbvzj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dszgyni4f42kj24bukbkbvzj/bafkreibo47hu4bgmyqfedtyibhdm7yjjncvqqmqeafkrkwye7m3nmcnqm4@jpeg",
+        "profile_url": "https://bsky.app/profile/emceekayvee.bsky.social"
       },
-      "ratio": "10:1",
+      "ratio": "8:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Smoke this joint with me while i tell you how Meredith grey is the worst character in greys anatomy.",
-        "uri": "at://did:plc:aax2d4gyu4vmlccwdtgci474/app.bsky.feed.post/3lwupain7cc2y",
-        "created_at": "2025-08-21T00:37:56.342Z",
-        "url": "https://bsky.app/profile/veryghetto.posts.fyi/post/3lwupain7cc2y"
+        "text": "I'm \n\n⚪️ single\n\n⚪️ taken \n\n🔘 a motherfucking nightmare",
+        "uri": "at://did:plc:dszgyni4f42kj24bukbkbvzj/app.bsky.feed.post/3lwxb4nhkvs26",
+        "created_at": "2025-08-22T01:03:14.011Z",
+        "url": "https://bsky.app/profile/emceekayvee.bsky.social/post/3lwxb4nhkvs26"
       },
       "engagement": {
-        "likes": 37,
-        "replies": 8,
-        "reposts": 2,
-        "quotes": 21,
+        "likes": 29,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 8,
         "formatted": {
-          "likes": "37",
-          "replies": "8",
-          "reposts": "2",
-          "quotes": "21"
+          "likes": "29",
+          "replies": "3",
+          "reposts": "1",
+          "quotes": "8"
         }
       },
       "sample_replies": [
-        "She REALLY IS. And I wish she’d just be gone. They said goodbye & she’s still all in the mix. Ugh!",
-        "I don’t need the joint to agree with you on this one, but pass that bitch anyway",
-        "Insufferable.",
-        "AN.NOY.ING"
+        "⚪️ single\n\n⚪️ double\n\n🔘 foul ball",
+        "Hey, tell us something we don't know!",
+        "Surely not 😂"
       ],
       "metrics": {
-        "ratio_score": 6.5,
-        "confidence": 0.394,
+        "ratio_score": 6.0,
+        "confidence": 0.355,
         "category": "Quote Dunk",
-        "post_age_minutes": 159.7
+        "post_age_minutes": 119.3
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-21T03:32:26.721950+00:00",
-      "last_updated": "2025-08-21T03:32:26.721950+00:00",
+      "first_detected": "2025-08-22T03:17:36.422096+00:00",
+      "last_updated": "2025-08-22T03:17:36.422096+00:00",
       "analysis_windows": [
-        "2025-08-21T03:32:26.721950+00:00"
+        "2025-08-22T03:17:36.422096+00:00"
       ],
-      "peak_controversy": 1.1,
+      "peak_controversy": 1.0,
       "trend": "new"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "user": {
         "handle": "bbfeedsfairy.bsky.social",
         "display_name": "BB27 Feeds Fairy",
@@ -2741,7 +2683,7 @@
       "trend": "new"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "user": {
         "handle": "timeextension.com",
         "display_name": "Time Extension",
@@ -2794,61 +2736,6 @@
         "2025-08-21T10:11:39.323199+00:00"
       ],
       "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 51,
-      "user": {
-        "handle": "emceekayvee.bsky.social",
-        "display_name": "emceekayvee",
-        "initials": "EM",
-        "did": "did:plc:dszgyni4f42kj24bukbkbvzj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dszgyni4f42kj24bukbkbvzj/bafkreibo47hu4bgmyqfedtyibhdm7yjjncvqqmqeafkrkwye7m3nmcnqm4@jpeg",
-        "profile_url": "https://bsky.app/profile/emceekayvee.bsky.social"
-      },
-      "ratio": "8:1",
-      "controversy": 0.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I'm \n\n⚪️ single\n\n⚪️ taken \n\n🔘 a motherfucking nightmare",
-        "uri": "at://did:plc:dszgyni4f42kj24bukbkbvzj/app.bsky.feed.post/3lwxb4nhkvs26",
-        "created_at": "2025-08-22T01:03:14.011Z",
-        "url": "https://bsky.app/profile/emceekayvee.bsky.social/post/3lwxb4nhkvs26"
-      },
-      "engagement": {
-        "likes": 29,
-        "replies": 3,
-        "reposts": 1,
-        "quotes": 8,
-        "formatted": {
-          "likes": "29",
-          "replies": "3",
-          "reposts": "1",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "⚪️ single\n\n⚪️ double\n\n🔘 foul ball",
-        "Hey, tell us something we don't know!",
-        "Surely not 😂"
-      ],
-      "metrics": {
-        "ratio_score": 6.0,
-        "confidence": 0.355,
-        "category": "Quote Dunk",
-        "post_age_minutes": 119.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T03:17:36.422096+00:00",
-      "last_updated": "2025-08-22T03:17:36.422096+00:00",
-      "analysis_windows": [
-        "2025-08-22T03:17:36.422096+00:00"
-      ],
-      "peak_controversy": 1.0,
       "trend": "new"
     }
   ]
