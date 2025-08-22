@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-21T23:50:12.483087+00:00",
-    "last_metrics_update": "2025-08-22T01:17:28.636989+00:00",
+    "last_metrics_update": "2025-08-22T01:32:36.614658+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 53,
@@ -259,15 +259,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 170,
-        "replies": 273,
+        "likes": 173,
+        "replies": 275,
         "reposts": 17,
-        "quotes": 299,
+        "quotes": 304,
         "formatted": {
-          "likes": "170",
-          "replies": "273",
+          "likes": "173",
+          "replies": "275",
           "reposts": "17",
-          "quotes": "299"
+          "quotes": "304"
         }
       },
       "sample_replies": [
@@ -316,12 +316,12 @@
       },
       "engagement": {
         "likes": 9,
-        "replies": 4,
+        "replies": 5,
         "reposts": 1,
         "quotes": 69,
         "formatted": {
           "likes": "9",
-          "replies": "4",
+          "replies": "5",
           "reposts": "1",
           "quotes": "69"
         }
@@ -463,6 +463,62 @@
     {
       "rank": 9,
       "user": {
+        "handle": "theigbobear.blacksky.app",
+        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
+        "initials": "TC",
+        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
+        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
+      },
+      "ratio": "33:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Niggas wearing night gowns now?",
+        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
+        "created_at": "2025-08-21T18:20:48.773Z",
+        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 33,
+        "formatted": {
+          "likes": "7",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "33"
+        }
+      },
+      "sample_replies": [
+        "😭 $82 for that is robbery",
+        "😂😂",
+        "Smh",
+        "They always be taxing the men when it comes to clothes"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.314,
+        "category": "Complete Ratio",
+        "post_age_minutes": 101.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.307287+00:00",
+      "last_updated": "2025-08-21T20:20:45.307287+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.307287+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
+      "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
         "initials": "S🏳",
@@ -518,62 +574,6 @@
       "trend": "rising"
     },
     {
-      "rank": 10,
-      "user": {
-        "handle": "theigbobear.blacksky.app",
-        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
-        "initials": "TC",
-        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
-        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
-      },
-      "ratio": "30:0",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Niggas wearing night gowns now?",
-        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
-        "created_at": "2025-08-21T18:20:48.773Z",
-        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 30,
-        "formatted": {
-          "likes": "7",
-          "replies": "3",
-          "reposts": "0",
-          "quotes": "30"
-        }
-      },
-      "sample_replies": [
-        "😭 $82 for that is robbery",
-        "😂😂",
-        "Smh",
-        "They always be taxing the men when it comes to clothes"
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.314,
-        "category": "Complete Ratio",
-        "post_age_minutes": 101.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.307287+00:00",
-      "last_updated": "2025-08-21T20:20:45.307287+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.307287+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
       "rank": 11,
       "user": {
         "handle": "deerene.bsky.social",
@@ -595,12 +595,12 @@
       },
       "engagement": {
         "likes": 99,
-        "replies": 71,
+        "replies": 72,
         "reposts": 11,
         "quotes": 141,
         "formatted": {
           "likes": "99",
-          "replies": "71",
+          "replies": "72",
           "reposts": "11",
           "quotes": "141"
         }
@@ -708,12 +708,12 @@
         "likes": 508,
         "replies": 309,
         "reposts": 102,
-        "quotes": 736,
+        "quotes": 738,
         "formatted": {
           "likes": "508",
           "replies": "309",
           "reposts": "102",
-          "quotes": "736"
+          "quotes": "738"
         }
       },
       "sample_replies": [
@@ -761,15 +761,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1131,
-        "replies": 1358,
-        "reposts": 224,
-        "quotes": 996,
+        "likes": 1150,
+        "replies": 1382,
+        "reposts": 229,
+        "quotes": 1007,
         "formatted": {
           "likes": "1.1K",
           "replies": "1.4K",
-          "reposts": "224",
-          "quotes": "996"
+          "reposts": "229",
+          "quotes": "1.0K"
         }
       },
       "sample_replies": [
@@ -873,15 +873,15 @@
         "url": "https://bsky.app/profile/wovenantelope.bsky.social/post/3lwuqfs2zjc2d"
       },
       "engagement": {
-        "likes": 80,
-        "replies": 52,
+        "likes": 81,
+        "replies": 53,
         "reposts": 8,
-        "quotes": 114,
+        "quotes": 115,
         "formatted": {
-          "likes": "80",
-          "replies": "52",
+          "likes": "81",
+          "replies": "53",
           "reposts": "8",
-          "quotes": "114"
+          "quotes": "115"
         }
       },
       "sample_replies": [
@@ -982,12 +982,12 @@
         "url": "https://bsky.app/profile/migueldelaney.bsky.social/post/3lwwa3dugg22r"
       },
       "engagement": {
-        "likes": 22,
+        "likes": 23,
         "replies": 20,
         "reposts": 0,
         "quotes": 19,
         "formatted": {
-          "likes": "22",
+          "likes": "23",
           "replies": "20",
           "reposts": "0",
           "quotes": "19"
@@ -1040,13 +1040,13 @@
       "engagement": {
         "likes": 25,
         "replies": 7,
-        "reposts": 15,
-        "quotes": 60,
+        "reposts": 17,
+        "quotes": 61,
         "formatted": {
           "likes": "25",
           "replies": "7",
-          "reposts": "15",
-          "quotes": "60"
+          "reposts": "17",
+          "quotes": "61"
         }
       },
       "sample_replies": [
@@ -1093,15 +1093,15 @@
         "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
       },
       "engagement": {
-        "likes": 129,
+        "likes": 130,
         "replies": 13,
         "reposts": 9,
-        "quotes": 141,
+        "quotes": 142,
         "formatted": {
-          "likes": "129",
+          "likes": "130",
           "replies": "13",
           "reposts": "9",
-          "quotes": "141"
+          "quotes": "142"
         }
       },
       "sample_replies": [
@@ -1243,62 +1243,6 @@
     {
       "rank": 23,
       "user": {
-        "handle": "bizzybaby.bsky.social",
-        "display_name": "Bizzy",
-        "initials": "BI",
-        "did": "did:plc:pd3d7mbnheavhjranou52ims",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pd3d7mbnheavhjranou52ims/bafkreigd22iuagqqohavrbea6dmnvgdwpqhqnle36wsomgvts46hfmc5r4@jpeg",
-        "profile_url": "https://bsky.app/profile/bizzybaby.bsky.social"
-      },
-      "ratio": "11:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "#wolqotd what color is ur oc's aether cock?",
-        "uri": "at://did:plc:pd3d7mbnheavhjranou52ims/app.bsky.feed.post/3lwwupftiu22x",
-        "created_at": "2025-08-21T21:21:04.905Z",
-        "url": "https://bsky.app/profile/bizzybaby.bsky.social/post/3lwwupftiu22x"
-      },
-      "engagement": {
-        "likes": 20,
-        "replies": 8,
-        "reposts": 2,
-        "quotes": 22,
-        "formatted": {
-          "likes": "20",
-          "replies": "8",
-          "reposts": "2",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "Bizzys is purple!!!!!!!!!!!!!!!!",
-        "Titania's would probably be some shade of yellow to compliment the blonde highlights in her hair....",
-        "Yellow for sure, so it fits with her hair\nBut wait, she'd have two! 💕",
-        "Lomasi's is green like her eyesssss art by Nocturea"
-      ],
-      "metrics": {
-        "ratio_score": 19.0,
-        "confidence": 0.408,
-        "category": "Complete Ratio",
-        "post_age_minutes": 131.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T23:50:12.105106+00:00",
-      "last_updated": "2025-08-21T23:50:12.105106+00:00",
-      "analysis_windows": [
-        "2025-08-21T23:50:12.105106+00:00"
-      ],
-      "peak_controversy": 3.7,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
-      "user": {
         "handle": "proptermalone.bsky.social",
         "display_name": "post malone ergo propter malone",
         "initials": "PM",
@@ -1317,13 +1261,13 @@
         "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
       },
       "engagement": {
-        "likes": 156,
-        "replies": 135,
+        "likes": 159,
+        "replies": 137,
         "reposts": 2,
         "quotes": 20,
         "formatted": {
-          "likes": "156",
-          "replies": "135",
+          "likes": "159",
+          "replies": "137",
           "reposts": "2",
           "quotes": "20"
         }
@@ -1353,7 +1297,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "user": {
         "handle": "locgoody.bsky.social",
         "display_name": "Filthy Fox 🖤➿",
@@ -1373,12 +1317,12 @@
         "url": "https://bsky.app/profile/locgoody.bsky.social/post/3lwwx5hucfc2q"
       },
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "replies": 8,
         "reposts": 2,
         "quotes": 25,
         "formatted": {
-          "likes": "18",
+          "likes": "19",
           "replies": "8",
           "reposts": "2",
           "quotes": "25"
@@ -1409,7 +1353,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "reichlinmelnick.bsky.social",
         "display_name": "Aaron Reichlin-Melnick",
@@ -1429,15 +1373,15 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 484,
-        "replies": 161,
-        "reposts": 55,
-        "quotes": 239,
+        "likes": 504,
+        "replies": 170,
+        "reposts": 58,
+        "quotes": 249,
         "formatted": {
-          "likes": "484",
-          "replies": "161",
-          "reposts": "55",
-          "quotes": "239"
+          "likes": "504",
+          "replies": "170",
+          "reposts": "58",
+          "quotes": "249"
         }
       },
       "sample_replies": [
@@ -1465,7 +1409,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1485,12 +1429,12 @@
         "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
       },
       "engagement": {
-        "likes": 126,
+        "likes": 127,
         "replies": 18,
         "reposts": 16,
         "quotes": 117,
         "formatted": {
-          "likes": "126",
+          "likes": "127",
           "replies": "18",
           "reposts": "16",
           "quotes": "117"
@@ -1521,7 +1465,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "david-ornstein.bsky.social",
         "display_name": "David Ornstein",
@@ -1577,7 +1521,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "user": {
         "handle": "ilovetvtime.bsky.social",
         "display_name": "MS. \"ANN\" TENNA! 📺",
@@ -1633,7 +1577,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "user": {
         "handle": "libdems.org.uk",
         "display_name": "Liberal Democrats",
@@ -1689,7 +1633,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "user": {
         "handle": "iamabundantaf.bsky.social",
         "display_name": "I Am Abundant AF",
@@ -1744,6 +1688,62 @@
       "trend": "new"
     },
     {
+      "rank": 31,
+      "user": {
+        "handle": "bizzybaby.bsky.social",
+        "display_name": "Bizzy",
+        "initials": "BI",
+        "did": "did:plc:pd3d7mbnheavhjranou52ims",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pd3d7mbnheavhjranou52ims/bafkreigd22iuagqqohavrbea6dmnvgdwpqhqnle36wsomgvts46hfmc5r4@jpeg",
+        "profile_url": "https://bsky.app/profile/bizzybaby.bsky.social"
+      },
+      "ratio": "7:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#wolqotd what color is ur oc's aether cock?",
+        "uri": "at://did:plc:pd3d7mbnheavhjranou52ims/app.bsky.feed.post/3lwwupftiu22x",
+        "created_at": "2025-08-21T21:21:04.905Z",
+        "url": "https://bsky.app/profile/bizzybaby.bsky.social/post/3lwwupftiu22x"
+      },
+      "engagement": {
+        "likes": 21,
+        "replies": 8,
+        "reposts": 3,
+        "quotes": 22,
+        "formatted": {
+          "likes": "21",
+          "replies": "8",
+          "reposts": "3",
+          "quotes": "22"
+        }
+      },
+      "sample_replies": [
+        "Bizzys is purple!!!!!!!!!!!!!!!!",
+        "Titania's would probably be some shade of yellow to compliment the blonde highlights in her hair....",
+        "Yellow for sure, so it fits with her hair\nBut wait, she'd have two! 💕",
+        "Lomasi's is green like her eyesssss art by Nocturea"
+      ],
+      "metrics": {
+        "ratio_score": 19.0,
+        "confidence": 0.408,
+        "category": "Complete Ratio",
+        "post_age_minutes": 131.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T23:50:12.105106+00:00",
+      "last_updated": "2025-08-21T23:50:12.105106+00:00",
+      "analysis_windows": [
+        "2025-08-21T23:50:12.105106+00:00"
+      ],
+      "peak_controversy": 3.7,
+      "trend": "new"
+    },
+    {
       "rank": 32,
       "user": {
         "handle": "jeffpasan.bsky.social",
@@ -1764,15 +1764,15 @@
         "url": "https://bsky.app/profile/jeffpasan.bsky.social/post/3lwx343a6v22m"
       },
       "engagement": {
-        "likes": 53,
-        "replies": 6,
+        "likes": 56,
+        "replies": 7,
         "reposts": 5,
-        "quotes": 35,
+        "quotes": 36,
         "formatted": {
-          "likes": "53",
-          "replies": "6",
+          "likes": "56",
+          "replies": "7",
           "reposts": "5",
-          "quotes": "35"
+          "quotes": "36"
         }
       },
       "sample_replies": [
@@ -2316,12 +2316,12 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwuuei27zk2y"
       },
       "engagement": {
-        "likes": 690,
+        "likes": 691,
         "replies": 65,
         "reposts": 62,
         "quotes": 312,
         "formatted": {
-          "likes": "690",
+          "likes": "691",
           "replies": "65",
           "reposts": "62",
           "quotes": "312"
@@ -2484,12 +2484,12 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwv3ii5mpl24"
       },
       "engagement": {
-        "likes": 50,
+        "likes": 51,
         "replies": 31,
         "reposts": 4,
         "quotes": 11,
         "formatted": {
-          "likes": "50",
+          "likes": "51",
           "replies": "31",
           "reposts": "4",
           "quotes": "11"
