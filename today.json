@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T18:49:41.862789+00:00",
-    "last_metrics_update": "2025-08-22T19:32:34.662919+00:00",
+    "last_metrics_update": "2025-08-22T19:47:28.295112+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 12,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 917,
-        "replies": 350,
-        "reposts": 288,
-        "quotes": 108,
+        "likes": 1015,
+        "replies": 382,
+        "reposts": 317,
+        "quotes": 120,
         "formatted": {
-          "likes": "917",
-          "replies": "350",
-          "reposts": "288",
-          "quotes": "108"
+          "likes": "1.0K",
+          "replies": "382",
+          "reposts": "317",
+          "quotes": "120"
         }
       },
       "sample_replies": [
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
       },
       "engagement": {
-        "likes": 53,
-        "replies": 63,
-        "reposts": 35,
-        "quotes": 26,
+        "likes": 54,
+        "replies": 65,
+        "reposts": 37,
+        "quotes": 27,
         "formatted": {
-          "likes": "53",
-          "replies": "63",
-          "reposts": "35",
-          "quotes": "26"
+          "likes": "54",
+          "replies": "65",
+          "reposts": "37",
+          "quotes": "27"
         }
       },
       "sample_replies": [
@@ -146,12 +146,12 @@
         "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
       },
       "engagement": {
-        "likes": 58,
+        "likes": 59,
         "replies": 34,
         "reposts": 7,
         "quotes": 11,
         "formatted": {
-          "likes": "58",
+          "likes": "59",
           "replies": "34",
           "reposts": "7",
           "quotes": "11"
@@ -203,13 +203,13 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lwz2e4p4i22k"
       },
       "engagement": {
-        "likes": 72,
-        "replies": 41,
+        "likes": 77,
+        "replies": 43,
         "reposts": 14,
         "quotes": 9,
         "formatted": {
-          "likes": "72",
-          "replies": "41",
+          "likes": "77",
+          "replies": "43",
           "reposts": "14",
           "quotes": "9"
         }
@@ -315,14 +315,14 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 79,
-        "replies": 38,
-        "reposts": 12,
+        "likes": 85,
+        "replies": 41,
+        "reposts": 15,
         "quotes": 11,
         "formatted": {
-          "likes": "79",
-          "replies": "38",
-          "reposts": "12",
+          "likes": "85",
+          "replies": "41",
+          "reposts": "15",
           "quotes": "11"
         }
       },
@@ -371,12 +371,12 @@
         "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lwxhshexvs2c"
       },
       "engagement": {
-        "likes": 119,
+        "likes": 120,
         "replies": 65,
         "reposts": 12,
         "quotes": 159,
         "formatted": {
-          "likes": "119",
+          "likes": "120",
           "replies": "65",
           "reposts": "12",
           "quotes": "159"
@@ -427,12 +427,12 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 43,
+        "likes": 45,
         "replies": 5,
         "reposts": 6,
         "quotes": 6,
         "formatted": {
-          "likes": "43",
+          "likes": "45",
           "replies": "5",
           "reposts": "6",
           "quotes": "6"
@@ -486,13 +486,13 @@
       "engagement": {
         "likes": 23,
         "replies": 12,
-        "reposts": 5,
-        "quotes": 6,
+        "reposts": 6,
+        "quotes": 7,
         "formatted": {
           "likes": "23",
           "replies": "12",
-          "reposts": "5",
-          "quotes": "6"
+          "reposts": "6",
+          "quotes": "7"
         }
       },
       "sample_replies": [
