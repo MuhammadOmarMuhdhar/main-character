@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T18:49:41.862789+00:00",
-    "last_metrics_update": "2025-08-22T20:47:32.177363+00:00",
+    "last_metrics_update": "2025-08-22T21:02:31.015573+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 12,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 1318,
-        "replies": 469,
-        "reposts": 399,
-        "quotes": 153,
+        "likes": 1373,
+        "replies": 488,
+        "reposts": 418,
+        "quotes": 156,
         "formatted": {
-          "likes": "1.3K",
-          "replies": "469",
-          "reposts": "399",
-          "quotes": "153"
+          "likes": "1.4K",
+          "replies": "488",
+          "reposts": "418",
+          "quotes": "156"
         }
       },
       "sample_replies": [
@@ -203,13 +203,13 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lwz2e4p4i22k"
       },
       "engagement": {
-        "likes": 89,
-        "replies": 48,
+        "likes": 94,
+        "replies": 49,
         "reposts": 14,
         "quotes": 9,
         "formatted": {
-          "likes": "89",
-          "replies": "48",
+          "likes": "94",
+          "replies": "49",
           "reposts": "14",
           "quotes": "9"
         }
@@ -315,12 +315,12 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 105,
+        "likes": 112,
         "replies": 45,
         "reposts": 16,
         "quotes": 12,
         "formatted": {
-          "likes": "105",
+          "likes": "112",
           "replies": "45",
           "reposts": "16",
           "quotes": "12"
@@ -374,12 +374,12 @@
         "likes": 121,
         "replies": 65,
         "reposts": 12,
-        "quotes": 159,
+        "quotes": 160,
         "formatted": {
           "likes": "121",
           "replies": "65",
           "reposts": "12",
-          "quotes": "159"
+          "quotes": "160"
         }
       },
       "sample_replies": [
@@ -427,12 +427,12 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 52,
+        "likes": 56,
         "replies": 5,
         "reposts": 8,
         "quotes": 7,
         "formatted": {
-          "likes": "52",
+          "likes": "56",
           "replies": "5",
           "reposts": "8",
           "quotes": "7"
