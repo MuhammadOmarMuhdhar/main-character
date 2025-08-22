@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T16:35:56.160485+00:00",
-    "last_metrics_update": "2025-08-22T16:35:56.160485+00:00",
+    "last_metrics_update": "2025-08-22T16:47:30.253774+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 50,
@@ -24,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7p6pezxyq3fr3fza4e4gdpst/bafkreihjvbxd5ecj3uuhwb4fmfulziw3n6dwyebm7hnnex4kbd4kyhr6dm@jpeg",
         "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
       },
-      "ratio": "29:1",
-      "controversy": 6.8,
+      "ratio": "42:1",
+      "controversy": 2.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/mewefree.bsky.social/post/3lwysq3rtes2n"
       },
       "engagement": {
-        "likes": 10,
-        "replies": 3,
+        "likes": 12,
+        "replies": 5,
         "reposts": 2,
-        "quotes": 58,
+        "quotes": 83,
         "formatted": {
-          "likes": "10",
-          "replies": "3",
+          "likes": "12",
+          "replies": "5",
           "reposts": "2",
-          "quotes": "58"
+          "quotes": "83"
         }
       },
       "sample_replies": [
@@ -81,7 +81,7 @@
         "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
       },
       "ratio": "69:0",
-      "controversy": 6.0,
+      "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -91,12 +91,12 @@
         "url": "https://bsky.app/profile/seauxcocoa.bsky.social/post/3lwylqf4bwk2g"
       },
       "engagement": {
-        "likes": 13,
+        "likes": 14,
         "replies": 13,
         "reposts": 0,
         "quotes": 69,
         "formatted": {
-          "likes": "13",
+          "likes": "14",
           "replies": "13",
           "reposts": "0",
           "quotes": "69"
@@ -136,8 +136,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxpcdjq45e4e3izvobsuoyl4/bafkreibhtu76qygol6uokb7hftn736xmzcsawegv7h6ub6miktbomagaca@jpeg",
         "profile_url": "https://bsky.app/profile/gibiz.bsky.social"
       },
-      "ratio": "16:1",
-      "controversy": 5.3,
+      "ratio": "24:1",
+      "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/gibiz.bsky.social/post/3lwyo2umnqs2p"
       },
       "engagement": {
-        "likes": 14,
-        "replies": 24,
+        "likes": 16,
+        "replies": 32,
         "reposts": 3,
-        "quotes": 49,
+        "quotes": 71,
         "formatted": {
-          "likes": "14",
-          "replies": "24",
+          "likes": "16",
+          "replies": "32",
           "reposts": "3",
-          "quotes": "49"
+          "quotes": "71"
         }
       },
       "sample_replies": [
@@ -185,341 +185,6 @@
     {
       "rank": 4,
       "user": {
-        "handle": "jazminetiii.bsky.social",
-        "display_name": "SummaTime Fineee 🌸",
-        "initials": "SF",
-        "did": "did:plc:o5qyzojt3ffdxzsgwflwwjv4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:o5qyzojt3ffdxzsgwflwwjv4/bafkreiblyaimeaq6ros45m3iz5x5gkep2fnvs54ncsvzlyr64n2vnowgsq@jpeg",
-        "profile_url": "https://bsky.app/profile/jazminetiii.bsky.social"
-      },
-      "ratio": "20:0",
-      "controversy": 4.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "#HappyFreakyFriday \n\nWhats your go-to drink to get you in the mood to have the freakiest night with your partner?\n\nStella Black + Hennessy for me. You only need maybe two and it’ll be a great night \n\nor; \n\nBeing wine drunk will probably end in a fun night",
-        "uri": "at://did:plc:o5qyzojt3ffdxzsgwflwwjv4/app.bsky.feed.post/3lwyrrrz4is2k",
-        "created_at": "2025-08-22T15:34:03.032Z",
-        "url": "https://bsky.app/profile/jazminetiii.bsky.social/post/3lwyrrrz4is2k"
-      },
-      "engagement": {
-        "likes": 4,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 20,
-        "formatted": {
-          "likes": "4",
-          "replies": "2",
-          "reposts": "0",
-          "quotes": "20"
-        }
-      },
-      "sample_replies": [
-        "Imma try this - THANK YOU!",
-        "Hennessy period !!!",
-        "Lmao.. my bad. Straight Hennessy doesn’t make you wanna fight or get mad?",
-        "Nah it actually mellows me out and makes my gif of gab turn into Super Sayian 2 😂😈"
-      ],
-      "metrics": {
-        "ratio_score": 22,
-        "confidence": 0.482,
-        "category": "Complete Ratio",
-        "post_age_minutes": 44.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:55.706279+00:00",
-      "last_updated": "2025-08-22T16:35:55.706279+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:55.706279+00:00"
-      ],
-      "peak_controversy": 4.7,
-      "trend": "new"
-    },
-    {
-      "rank": 5,
-      "user": {
-        "handle": "hillarymonahan.bsky.social",
-        "display_name": "Hillary Monahan",
-        "initials": "HM",
-        "did": "did:plc:cetrjmezvk2esgi7g5albcek",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cetrjmezvk2esgi7g5albcek/bafkreie4oqu7zkemxwu3hbajtukcphgdnkjpnz7mumtyufnebhnnt6no2q@jpeg",
-        "profile_url": "https://bsky.app/profile/hillarymonahan.bsky.social"
-      },
-      "ratio": "14:1",
-      "controversy": 3.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What's your favorite:\n\nVampire Movie:\nWerewolf:\nGhost:\nSlasher:\nFolk Horror:\nGiant Monster:\nZombie:\nHorror Comedy:\nAlien:\nCosmic Horror:\nPsychological:\nHorror Anthology:\n[Defies Category]:",
-        "uri": "at://did:plc:cetrjmezvk2esgi7g5albcek/app.bsky.feed.post/3lwylavamck27",
-        "created_at": "2025-08-22T13:37:13.547Z",
-        "url": "https://bsky.app/profile/hillarymonahan.bsky.social/post/3lwylavamck27"
-      },
-      "engagement": {
-        "likes": 40,
-        "replies": 17,
-        "reposts": 2,
-        "quotes": 27,
-        "formatted": {
-          "likes": "40",
-          "replies": "17",
-          "reposts": "2",
-          "quotes": "27"
-        }
-      },
-      "sample_replies": [
-        "Possession Movie:\nSci-Fi, Non Aliens:\nBody Horror:\nSerial Killer Non-Slasher:\nMan Vs Nature:\nHorror...",
-        "Dracula: Dead and Loving It\nTeen Wolf\nDave Casper, \"The Ghost to the Post\"\nn/a\nDeliverance\nJaws\nn/a\n...",
-        "Alien",
-        "What's your favorite:\n\nV: 30 Days of Night\nW: Brotherhood of the  Wolf\nG: 13 Ghosts\nSlasher: \nFH:..."
-      ],
-      "metrics": {
-        "ratio_score": 13.5,
-        "confidence": 0.599,
-        "category": "Complete Ratio",
-        "post_age_minutes": 160.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:55.793523+00:00",
-      "last_updated": "2025-08-22T16:35:55.793523+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:55.793523+00:00"
-      ],
-      "peak_controversy": 3.9,
-      "trend": "new"
-    },
-    {
-      "rank": 6,
-      "user": {
-        "handle": "keeksreal.bsky.social",
-        "display_name": "🇹🇹Menacing Keeks",
-        "initials": "🇹K",
-        "did": "did:plc:hur5kz4omzpee5kh5i6qifdp",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hur5kz4omzpee5kh5i6qifdp/bafkreifi3xmfnwzg35onezx34enj3xzcunajpra6n4bt3bkhdjflbnjyru@jpeg",
-        "profile_url": "https://bsky.app/profile/keeksreal.bsky.social"
-      },
-      "ratio": "11:0",
-      "controversy": 2.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Completely unrelated note:\n\nI've realized over and over that I would never actually want to meet some of the people on here for real... It's fun on here, but I feel like a face to face interaction would make me feel like unleashing a pack of stray dogs on you. I'm often happy I live a country away.",
-        "uri": "at://did:plc:hur5kz4omzpee5kh5i6qifdp/app.bsky.feed.post/3lwymfvezwc2w",
-        "created_at": "2025-08-22T13:57:55.206Z",
-        "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lwymfvezwc2w"
-      },
-      "engagement": {
-        "likes": 16,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 11,
-        "formatted": {
-          "likes": "16",
-          "replies": "3",
-          "reposts": "0",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "It's only 3 Americans I'd love to meet. I love being a country away too. 🌚🌚",
-        "Oh. So you hate me",
-        "Wow so you not tryna help me taste test the caramel???",
-        "Man, come on"
-      ],
-      "metrics": {
-        "ratio_score": 14,
-        "confidence": 0.412,
-        "category": "Complete Ratio",
-        "post_age_minutes": 140.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:55.880373+00:00",
-      "last_updated": "2025-08-22T16:35:55.880373+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:55.880373+00:00"
-      ],
-      "peak_controversy": 2.8,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "theathleticfc.bsky.social",
-        "display_name": "The Athletic | Football",
-        "initials": "TA",
-        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
-        "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
-      },
-      "ratio": "12:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Nuno Espirito Santo has said his relationship with Nottingham Forest owner Evangelos Marinakis has changed since last season and the two are “not so close” anymore.\n\nMore from @colinmillar.bsky.social ⤵️\n\n🔗 www.nytimes.com/athletic/656...",
-        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lwymbq2rg22q",
-        "created_at": "2025-08-22T13:55:35.384Z",
-        "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwymbq2rg22q"
-      },
-      "engagement": {
-        "likes": 20,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 12,
-        "formatted": {
-          "likes": "20",
-          "replies": "6",
-          "reposts": "1",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [
-        "THAT’S THE OWNER!? 😳",
-        "So Nuno will be the first one to bounce",
-        "Come And Get Me Plea™",
-        "Marinakis has plug in earphones?"
-      ],
-      "metrics": {
-        "ratio_score": 12.0,
-        "confidence": 0.433,
-        "category": "Complete Ratio",
-        "post_age_minutes": 142.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:55.969847+00:00",
-      "last_updated": "2025-08-22T16:35:55.969847+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:55.969847+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
-        "handle": "hnysuklchocolat.blacksky.app",
-        "display_name": "cognitive dissonance is a helluva drug",
-        "initials": "CD",
-        "did": "did:plc:e2qarfoklzpw6sgbkme4b66n",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2qarfoklzpw6sgbkme4b66n/bafkreie4cwbvjz3bsdkxs5p4vm2ymjkr5zkhiaj3uwaaqtdjptlahnt22e@jpeg",
-        "profile_url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app"
-      },
-      "ratio": "5:0",
-      "controversy": 2.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "i hear y'all on the big ass/legs complaint, but having big breaststroke is thee worst\n\neverything either makes you look like a slore--cause you can't hide titties--or a tent--because now EVERYTHING is hidden\n\nhate it so bad.",
-        "uri": "at://did:plc:e2qarfoklzpw6sgbkme4b66n/app.bsky.feed.post/3lwypxtrdf22e",
-        "created_at": "2025-08-22T15:01:38.716Z",
-        "url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app/post/3lwypxtrdf22e"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 5,
-        "formatted": {
-          "likes": "9",
-          "replies": "5",
-          "reposts": "0",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "i'm not short, but felt.\n\nthey make me look super bulky on top no matter what.  i think they're a...",
-        "kiddo's not taller than me *yet* but by xmas, we may be eye to eye 😭😭😭",
-        "#FirstWorldProblems",
-        "i see you wanna fight 🤣"
-      ],
-      "metrics": {
-        "ratio_score": 10,
-        "confidence": 0.402,
-        "category": "Complete Ratio",
-        "post_age_minutes": 76.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:56.072372+00:00",
-      "last_updated": "2025-08-22T16:35:56.072372+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:56.072372+00:00"
-      ],
-      "peak_controversy": 2.0,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "dlchandler123.bsky.social",
-        "display_name": "D.L. Chandler",
-        "initials": "DC",
-        "did": "did:plc:lyr2nmjy7wmxadcfqdewmh7j",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lyr2nmjy7wmxadcfqdewmh7j/bafkreicoksggucyp2xx35pm5vllppopksqqr2ycs26pfbe6bakncahxgzu@jpeg",
-        "profile_url": "https://bsky.app/profile/dlchandler123.bsky.social"
-      },
-      "ratio": "5:0",
-      "controversy": 2.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Getting it out the way now. Yes, I know I'm not all that cute. Might be ugly to someone. But my penis and wallet are both heavy and you're still you, so...",
-        "uri": "at://did:plc:lyr2nmjy7wmxadcfqdewmh7j/app.bsky.feed.post/3lwykpew5vc2p",
-        "created_at": "2025-08-22T13:27:26.001Z",
-        "url": "https://bsky.app/profile/dlchandler123.bsky.social/post/3lwykpew5vc2p"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 5,
-        "formatted": {
-          "likes": "9",
-          "replies": "8",
-          "reposts": "0",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "Good morning lmaooo",
-        "Well damn",
-        "Oop"
-      ],
-      "metrics": {
-        "ratio_score": 13,
-        "confidence": 0.306,
-        "category": "Complete Ratio",
-        "post_age_minutes": 170.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:56.160281+00:00",
-      "last_updated": "2025-08-22T16:35:56.160281+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:56.160281+00:00"
-      ],
-      "peak_controversy": 2.0,
-      "trend": "new"
-    },
-    {
-      "rank": 10,
-      "user": {
         "handle": "auntiebaecc.blacksky.app",
         "display_name": "Snack Queen",
         "initials": "SQ",
@@ -528,7 +193,7 @@
         "profile_url": "https://bsky.app/profile/auntiebaecc.blacksky.app"
       },
       "ratio": "67:0",
-      "controversy": 1.5,
+      "controversy": 1.4,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -538,12 +203,12 @@
         "url": "https://bsky.app/profile/auntiebaecc.blacksky.app/post/3lwyamesm5s2z"
       },
       "engagement": {
-        "likes": 11,
+        "likes": 12,
         "replies": 15,
         "reposts": 0,
         "quotes": 67,
         "formatted": {
-          "likes": "11",
+          "likes": "12",
           "replies": "15",
           "reposts": "0",
           "quotes": "67"
@@ -574,7 +239,63 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 5,
+      "user": {
+        "handle": "jazminetiii.bsky.social",
+        "display_name": "SummaTime Fineee 🌸",
+        "initials": "SF",
+        "did": "did:plc:o5qyzojt3ffdxzsgwflwwjv4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:o5qyzojt3ffdxzsgwflwwjv4/bafkreiblyaimeaq6ros45m3iz5x5gkep2fnvs54ncsvzlyr64n2vnowgsq@jpeg",
+        "profile_url": "https://bsky.app/profile/jazminetiii.bsky.social"
+      },
+      "ratio": "21:0",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#HappyFreakyFriday \n\nWhats your go-to drink to get you in the mood to have the freakiest night with your partner?\n\nStella Black + Hennessy for me. You only need maybe two and it’ll be a great night \n\nor; \n\nBeing wine drunk will probably end in a fun night",
+        "uri": "at://did:plc:o5qyzojt3ffdxzsgwflwwjv4/app.bsky.feed.post/3lwyrrrz4is2k",
+        "created_at": "2025-08-22T15:34:03.032Z",
+        "url": "https://bsky.app/profile/jazminetiii.bsky.social/post/3lwyrrrz4is2k"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 21,
+        "formatted": {
+          "likes": "4",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "21"
+        }
+      },
+      "sample_replies": [
+        "Imma try this - THANK YOU!",
+        "Hennessy period !!!",
+        "Lmao.. my bad. Straight Hennessy doesn’t make you wanna fight or get mad?",
+        "Nah it actually mellows me out and makes my gif of gab turn into Super Sayian 2 😂😈"
+      ],
+      "metrics": {
+        "ratio_score": 22,
+        "confidence": 0.482,
+        "category": "Complete Ratio",
+        "post_age_minutes": 44.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:55.706279+00:00",
+      "last_updated": "2025-08-22T16:35:55.706279+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:55.706279+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 6,
       "user": {
         "handle": "appetizerwritez.bsky.social",
         "display_name": "Bunsz, #TheWriter",
@@ -630,7 +351,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 7,
       "user": {
         "handle": "blu-ray381.blacksky.app",
         "display_name": "The Yaptain 🫡 aka Skylar Niggins",
@@ -686,7 +407,63 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 8,
+      "user": {
+        "handle": "theigbobear.blacksky.app",
+        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
+        "initials": "TC",
+        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
+        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
+      },
+      "ratio": "41:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Niggas wearing night gowns now?",
+        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
+        "created_at": "2025-08-21T18:20:48.773Z",
+        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 41,
+        "formatted": {
+          "likes": "8",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "41"
+        }
+      },
+      "sample_replies": [
+        "😭 $82 for that is robbery",
+        "😂😂",
+        "Smh",
+        "They always be taxing the men when it comes to clothes"
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.314,
+        "category": "Complete Ratio",
+        "post_age_minutes": 101.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:45.307287+00:00",
+      "last_updated": "2025-08-21T20:20:45.307287+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:45.307287+00:00"
+      ],
+      "peak_controversy": 2.3,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -743,7 +520,7 @@
       "trend": "rising"
     },
     {
-      "rank": 14,
+      "rank": 10,
       "user": {
         "handle": "deerene.bsky.social",
         "display_name": "Gay & Tonic",
@@ -763,12 +540,12 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 158,
+        "likes": 159,
         "replies": 112,
         "reposts": 15,
         "quotes": 177,
         "formatted": {
-          "likes": "158",
+          "likes": "159",
           "replies": "112",
           "reposts": "15",
           "quotes": "177"
@@ -799,63 +576,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
-      "user": {
-        "handle": "theigbobear.blacksky.app",
-        "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
-        "initials": "TC",
-        "did": "did:plc:7ofw5buk67zrgsk3dcfctrlh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ofw5buk67zrgsk3dcfctrlh/bafkreidl5gllp4kmt6yc5rt36ipjmpqoa732k4nvkpl736buq77pts3gru@jpeg",
-        "profile_url": "https://bsky.app/profile/theigbobear.blacksky.app"
-      },
-      "ratio": "40:0",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Niggas wearing night gowns now?",
-        "uri": "at://did:plc:7ofw5buk67zrgsk3dcfctrlh/app.bsky.feed.post/3lwwkn2rlr22l",
-        "created_at": "2025-08-21T18:20:48.773Z",
-        "url": "https://bsky.app/profile/theigbobear.blacksky.app/post/3lwwkn2rlr22l"
-      },
-      "engagement": {
-        "likes": 8,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 40,
-        "formatted": {
-          "likes": "8",
-          "replies": "4",
-          "reposts": "0",
-          "quotes": "40"
-        }
-      },
-      "sample_replies": [
-        "😭 $82 for that is robbery",
-        "😂😂",
-        "Smh",
-        "They always be taxing the men when it comes to clothes"
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.314,
-        "category": "Complete Ratio",
-        "post_age_minutes": 101.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:45.307287+00:00",
-      "last_updated": "2025-08-21T20:20:45.307287+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:45.307287+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
+      "rank": 11,
       "user": {
         "handle": "vulture.com",
         "display_name": "Vulture",
@@ -910,7 +631,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 12,
       "user": {
         "handle": "atrupar.com",
         "display_name": "Aaron Rupar",
@@ -930,14 +651,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1477,
-        "replies": 1706,
-        "reposts": 319,
-        "quotes": 1159,
+        "likes": 1488,
+        "replies": 1718,
+        "reposts": 321,
+        "quotes": 1164,
         "formatted": {
           "likes": "1.5K",
           "replies": "1.7K",
-          "reposts": "319",
+          "reposts": "321",
           "quotes": "1.2K"
         }
       },
@@ -966,7 +687,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 13,
       "user": {
         "handle": "jsrailton.bsky.social",
         "display_name": "John Scott-Railton",
@@ -986,15 +707,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 677,
-        "replies": 385,
-        "reposts": 145,
-        "quotes": 904,
+        "likes": 681,
+        "replies": 387,
+        "reposts": 146,
+        "quotes": 907,
         "formatted": {
-          "likes": "677",
-          "replies": "385",
-          "reposts": "145",
-          "quotes": "904"
+          "likes": "681",
+          "replies": "387",
+          "reposts": "146",
+          "quotes": "907"
         }
       },
       "sample_replies": [
@@ -1022,7 +743,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 14,
       "user": {
         "handle": "cerromerussell.bsky.social",
         "display_name": "MonsterKing",
@@ -1078,7 +799,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 15,
       "user": {
         "handle": "yatesyman.bsky.social",
         "display_name": "Steve Yates",
@@ -1134,63 +855,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
-      "user": {
-        "handle": "migueldelaney.bsky.social",
-        "display_name": "Miguel Delaney",
-        "initials": "MD",
-        "did": "did:plc:3ls3nyrwpg55g4g64gyiwqmn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ls3nyrwpg55g4g64gyiwqmn/bafkreicywuys3pfvu2aosfwyoicpmjg36giaptfzlfrud2vihpt5hadvfe@jpeg",
-        "profile_url": "https://bsky.app/profile/migueldelaney.bsky.social"
-      },
-      "ratio": "20:0",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Spurs have contacted intermediaries about Morgan Rogers, who is now a priority target\n\nVilla don't want to sell but there's a feeling an actual bid could change things amid PSR pressures\n\nContract ensures he would cost considerably more than Eze\n\nwww.independent.co.uk/sport/footba...",
-        "uri": "at://did:plc:3ls3nyrwpg55g4g64gyiwqmn/app.bsky.feed.post/3lwwa3dugg22r",
-        "created_at": "2025-08-21T15:11:56.912Z",
-        "url": "https://bsky.app/profile/migueldelaney.bsky.social/post/3lwwa3dugg22r"
-      },
-      "engagement": {
-        "likes": 23,
-        "replies": 21,
-        "reposts": 0,
-        "quotes": 20,
-        "formatted": {
-          "likes": "23",
-          "replies": "21",
-          "reposts": "0",
-          "quotes": "20"
-        }
-      },
-      "sample_replies": [
-        "Don’t talk garbage.",
-        "Is the \"one big obstacle\" that they're Spurs?",
-        "This would be significantly better than Eze, and worth every penny, but I refuse to entertain the...",
-        "None of this is my opinion, and what's \"garbage\"?"
-      ],
-      "metrics": {
-        "ratio_score": 25,
-        "confidence": 0.508,
-        "category": "Complete Ratio",
-        "post_age_minutes": 80.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:31.131073+00:00",
-      "last_updated": "2025-08-21T16:50:31.131073+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:31.131073+00:00"
-      ],
-      "peak_controversy": 5.0,
-      "trend": "new"
-    },
-    {
-      "rank": 22,
+      "rank": 16,
       "user": {
         "handle": "omarsueead.bsky.social",
         "display_name": ".💔 Soad 💔.",
@@ -1199,7 +864,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
         "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
       },
-      "ratio": "5:1",
+      "ratio": "4:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -1210,15 +875,15 @@
         "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 25,
         "replies": 3,
-        "reposts": 23,
-        "quotes": 116,
+        "reposts": 29,
+        "quotes": 119,
         "formatted": {
-          "likes": "23",
+          "likes": "25",
           "replies": "3",
-          "reposts": "23",
-          "quotes": "116"
+          "reposts": "29",
+          "quotes": "119"
         }
       },
       "sample_replies": [
@@ -1245,63 +910,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
-      "user": {
-        "handle": "patricklovellpresentsthecleannewdeal.com",
-        "display_name": "Patrick Lovell The Producer  ",
-        "initials": "PL",
-        "did": "did:plc:owasym32475ohumf7bwkxn54",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:owasym32475ohumf7bwkxn54/bafkreictxmytwhj3gzr52vqkhkwkdl542ouytbhxpqrxno6bx3cpmyok2i@jpeg",
-        "profile_url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com"
-      },
-      "ratio": "6:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I just learned JP Morgan referred to #Epstein as “The Producer.”  I’m the Mother Fucking People’s Producer #PatrickLovellTheProducer with the Mother Fucking #71TrillionTruth",
-        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwwpa5qkdc2g",
-        "created_at": "2025-08-21T19:43:04.387Z",
-        "url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com/post/3lwwpa5qkdc2g"
-      },
-      "engagement": {
-        "likes": 11,
-        "replies": 6,
-        "reposts": 4,
-        "quotes": 22,
-        "formatted": {
-          "likes": "11",
-          "replies": "6",
-          "reposts": "4",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "www.thecon.tv",
-        "youtu.be/BEHlYif7tdQ?...",
-        "www.thecleannewdeal.org",
-        "youtu.be/NHQsX13H9aU?..."
-      ],
-      "metrics": {
-        "ratio_score": 22,
-        "confidence": 0.496,
-        "category": "Complete Ratio",
-        "post_age_minutes": 19.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T20:20:44.716977+00:00",
-      "last_updated": "2025-08-21T20:20:44.716977+00:00",
-      "analysis_windows": [
-        "2025-08-21T20:20:44.716977+00:00"
-      ],
-      "peak_controversy": 4.8,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
+      "rank": 17,
       "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
@@ -1357,119 +966,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
-      "user": {
-        "handle": "tryvns.writes.fyi",
-        "display_name": "Treywop. 🌬️🪼",
-        "initials": "T🌬",
-        "did": "did:plc:lens7d52dmyc2hheuxa2onyd",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lens7d52dmyc2hheuxa2onyd/bafkreignqoe76gwlm4mvzt4vudrjihexzwbtlwlkwjpjtrhasahxamenhq@jpeg",
-        "profile_url": "https://bsky.app/profile/tryvns.writes.fyi"
-      },
-      "ratio": "25:0",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "i remember i wished a woman a happy new year last year and this was the result.",
-        "uri": "at://did:plc:lens7d52dmyc2hheuxa2onyd/app.bsky.feed.post/3lwxc6pc4b223",
-        "created_at": "2025-08-22T01:22:16.771Z",
-        "url": "https://bsky.app/profile/tryvns.writes.fyi/post/3lwxc6pc4b223"
-      },
-      "engagement": {
-        "likes": 16,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 25,
-        "formatted": {
-          "likes": "16",
-          "replies": "6",
-          "reposts": "0",
-          "quotes": "25"
-        }
-      },
-      "sample_replies": [
-        "the crazy thing is, i agree with her. but i still wouldve asked 'is this a bot' lfenof;abwu;fbja;...",
-        "i was scared lowkey. the exclamation after everything was kinda threatening. lol",
-        "literally, 'sorry im not like others'... girl ok lmfaikfnoeasbf",
-        "So, it wasn’t 2024 for her yet? Bc you didn’t say happy new year— you marked a date change. \n\nOkay,..."
-      ],
-      "metrics": {
-        "ratio_score": 25,
-        "confidence": 0.399,
-        "category": "Complete Ratio",
-        "post_age_minutes": 100.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T03:17:35.877800+00:00",
-      "last_updated": "2025-08-22T03:17:35.877800+00:00",
-      "analysis_windows": [
-        "2025-08-22T03:17:35.877800+00:00"
-      ],
-      "peak_controversy": 3.9,
-      "trend": "new"
-    },
-    {
-      "rank": 26,
-      "user": {
-        "handle": "dailyocs.bsky.social",
-        "display_name": "Daily OC questions",
-        "initials": "DO",
-        "did": "did:plc:3uegoq5262fhatqzgan4gcvl",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3uegoq5262fhatqzgan4gcvl/bafkreibsxmg75ns7xqywwjdiwwkdfldieob4dtbcyezuap2yjk53zijv2u@jpeg",
-        "profile_url": "https://bsky.app/profile/dailyocs.bsky.social"
-      },
-      "ratio": "17:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Does your OC like wearing makeup? 💄 \n\n(and why aren't there more makeup emojis? 😭)\n\n#dailyocs",
-        "uri": "at://did:plc:3uegoq5262fhatqzgan4gcvl/app.bsky.feed.post/3lwwbshlpzs2d",
-        "created_at": "2025-08-21T15:42:46.316Z",
-        "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
-      },
-      "engagement": {
-        "likes": 152,
-        "replies": 15,
-        "reposts": 10,
-        "quotes": 169,
-        "formatted": {
-          "likes": "152",
-          "replies": "15",
-          "reposts": "10",
-          "quotes": "169"
-        }
-      },
-      "sample_replies": [
-        "Tracy is more or less indifferent to makeup.",
-        "currently:\n\nLily with her purple eye shadow\n\nNaomi with her blue lipsick\n\nand naomi's mom queen...",
-        "Lucy and Cookie love it and the flexibility it gives for their appearances. Believe it or not...",
-        "Erlina sure does. It makes her more beautiful."
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.778,
-        "category": "Complete Ratio",
-        "post_age_minutes": 49.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:31.413984+00:00",
-      "last_updated": "2025-08-21T16:50:31.413984+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:31.413984+00:00"
-      ],
-      "peak_controversy": 3.7,
-      "trend": "new"
-    },
-    {
-      "rank": 27,
+      "rank": 18,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1527,7 +1024,454 @@
       "trend": "rising"
     },
     {
-      "rank": 28,
+      "rank": 19,
+      "user": {
+        "handle": "migueldelaney.bsky.social",
+        "display_name": "Miguel Delaney",
+        "initials": "MD",
+        "did": "did:plc:3ls3nyrwpg55g4g64gyiwqmn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ls3nyrwpg55g4g64gyiwqmn/bafkreicywuys3pfvu2aosfwyoicpmjg36giaptfzlfrud2vihpt5hadvfe@jpeg",
+        "profile_url": "https://bsky.app/profile/migueldelaney.bsky.social"
+      },
+      "ratio": "20:0",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Spurs have contacted intermediaries about Morgan Rogers, who is now a priority target\n\nVilla don't want to sell but there's a feeling an actual bid could change things amid PSR pressures\n\nContract ensures he would cost considerably more than Eze\n\nwww.independent.co.uk/sport/footba...",
+        "uri": "at://did:plc:3ls3nyrwpg55g4g64gyiwqmn/app.bsky.feed.post/3lwwa3dugg22r",
+        "created_at": "2025-08-21T15:11:56.912Z",
+        "url": "https://bsky.app/profile/migueldelaney.bsky.social/post/3lwwa3dugg22r"
+      },
+      "engagement": {
+        "likes": 23,
+        "replies": 21,
+        "reposts": 0,
+        "quotes": 20,
+        "formatted": {
+          "likes": "23",
+          "replies": "21",
+          "reposts": "0",
+          "quotes": "20"
+        }
+      },
+      "sample_replies": [
+        "Don’t talk garbage.",
+        "Is the \"one big obstacle\" that they're Spurs?",
+        "This would be significantly better than Eze, and worth every penny, but I refuse to entertain the...",
+        "None of this is my opinion, and what's \"garbage\"?"
+      ],
+      "metrics": {
+        "ratio_score": 25,
+        "confidence": 0.508,
+        "category": "Complete Ratio",
+        "post_age_minutes": 80.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:31.131073+00:00",
+      "last_updated": "2025-08-21T16:50:31.131073+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:31.131073+00:00"
+      ],
+      "peak_controversy": 5.0,
+      "trend": "new"
+    },
+    {
+      "rank": 20,
+      "user": {
+        "handle": "patricklovellpresentsthecleannewdeal.com",
+        "display_name": "Patrick Lovell The Producer  ",
+        "initials": "PL",
+        "did": "did:plc:owasym32475ohumf7bwkxn54",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:owasym32475ohumf7bwkxn54/bafkreictxmytwhj3gzr52vqkhkwkdl542ouytbhxpqrxno6bx3cpmyok2i@jpeg",
+        "profile_url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com"
+      },
+      "ratio": "6:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I just learned JP Morgan referred to #Epstein as “The Producer.”  I’m the Mother Fucking People’s Producer #PatrickLovellTheProducer with the Mother Fucking #71TrillionTruth",
+        "uri": "at://did:plc:owasym32475ohumf7bwkxn54/app.bsky.feed.post/3lwwpa5qkdc2g",
+        "created_at": "2025-08-21T19:43:04.387Z",
+        "url": "https://bsky.app/profile/patricklovellpresentsthecleannewdeal.com/post/3lwwpa5qkdc2g"
+      },
+      "engagement": {
+        "likes": 11,
+        "replies": 6,
+        "reposts": 4,
+        "quotes": 22,
+        "formatted": {
+          "likes": "11",
+          "replies": "6",
+          "reposts": "4",
+          "quotes": "22"
+        }
+      },
+      "sample_replies": [
+        "www.thecon.tv",
+        "youtu.be/BEHlYif7tdQ?...",
+        "www.thecleannewdeal.org",
+        "youtu.be/NHQsX13H9aU?..."
+      ],
+      "metrics": {
+        "ratio_score": 22,
+        "confidence": 0.496,
+        "category": "Complete Ratio",
+        "post_age_minutes": 19.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T20:20:44.716977+00:00",
+      "last_updated": "2025-08-21T20:20:44.716977+00:00",
+      "analysis_windows": [
+        "2025-08-21T20:20:44.716977+00:00"
+      ],
+      "peak_controversy": 4.8,
+      "trend": "new"
+    },
+    {
+      "rank": 21,
+      "user": {
+        "handle": "tryvns.writes.fyi",
+        "display_name": "Treywop. 🌬️🪼",
+        "initials": "T🌬",
+        "did": "did:plc:lens7d52dmyc2hheuxa2onyd",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lens7d52dmyc2hheuxa2onyd/bafkreignqoe76gwlm4mvzt4vudrjihexzwbtlwlkwjpjtrhasahxamenhq@jpeg",
+        "profile_url": "https://bsky.app/profile/tryvns.writes.fyi"
+      },
+      "ratio": "25:0",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "i remember i wished a woman a happy new year last year and this was the result.",
+        "uri": "at://did:plc:lens7d52dmyc2hheuxa2onyd/app.bsky.feed.post/3lwxc6pc4b223",
+        "created_at": "2025-08-22T01:22:16.771Z",
+        "url": "https://bsky.app/profile/tryvns.writes.fyi/post/3lwxc6pc4b223"
+      },
+      "engagement": {
+        "likes": 16,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 25,
+        "formatted": {
+          "likes": "16",
+          "replies": "6",
+          "reposts": "0",
+          "quotes": "25"
+        }
+      },
+      "sample_replies": [
+        "the crazy thing is, i agree with her. but i still wouldve asked 'is this a bot' lfenof;abwu;fbja;...",
+        "i was scared lowkey. the exclamation after everything was kinda threatening. lol",
+        "literally, 'sorry im not like others'... girl ok lmfaikfnoeasbf",
+        "So, it wasn’t 2024 for her yet? Bc you didn’t say happy new year— you marked a date change. \n\nOkay,..."
+      ],
+      "metrics": {
+        "ratio_score": 25,
+        "confidence": 0.399,
+        "category": "Complete Ratio",
+        "post_age_minutes": 100.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T03:17:35.877800+00:00",
+      "last_updated": "2025-08-22T03:17:35.877800+00:00",
+      "analysis_windows": [
+        "2025-08-22T03:17:35.877800+00:00"
+      ],
+      "peak_controversy": 3.9,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
+      "user": {
+        "handle": "dailyocs.bsky.social",
+        "display_name": "Daily OC questions",
+        "initials": "DO",
+        "did": "did:plc:3uegoq5262fhatqzgan4gcvl",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3uegoq5262fhatqzgan4gcvl/bafkreibsxmg75ns7xqywwjdiwwkdfldieob4dtbcyezuap2yjk53zijv2u@jpeg",
+        "profile_url": "https://bsky.app/profile/dailyocs.bsky.social"
+      },
+      "ratio": "17:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Does your OC like wearing makeup? 💄 \n\n(and why aren't there more makeup emojis? 😭)\n\n#dailyocs",
+        "uri": "at://did:plc:3uegoq5262fhatqzgan4gcvl/app.bsky.feed.post/3lwwbshlpzs2d",
+        "created_at": "2025-08-21T15:42:46.316Z",
+        "url": "https://bsky.app/profile/dailyocs.bsky.social/post/3lwwbshlpzs2d"
+      },
+      "engagement": {
+        "likes": 152,
+        "replies": 15,
+        "reposts": 10,
+        "quotes": 170,
+        "formatted": {
+          "likes": "152",
+          "replies": "15",
+          "reposts": "10",
+          "quotes": "170"
+        }
+      },
+      "sample_replies": [
+        "Tracy is more or less indifferent to makeup.",
+        "currently:\n\nLily with her purple eye shadow\n\nNaomi with her blue lipsick\n\nand naomi's mom queen...",
+        "Lucy and Cookie love it and the flexibility it gives for their appearances. Believe it or not...",
+        "Erlina sure does. It makes her more beautiful."
+      ],
+      "metrics": {
+        "ratio_score": 10.0,
+        "confidence": 0.778,
+        "category": "Complete Ratio",
+        "post_age_minutes": 49.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:31.413984+00:00",
+      "last_updated": "2025-08-21T16:50:31.413984+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:31.413984+00:00"
+      ],
+      "peak_controversy": 3.7,
+      "trend": "new"
+    },
+    {
+      "rank": 23,
+      "user": {
+        "handle": "dessertnotdemure.bsky.social",
+        "display_name": "Dee.",
+        "initials": "DE",
+        "did": "did:plc:zq5aq75naxtspoeoyls4y5ip",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
+        "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
+      },
+      "ratio": "21:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Fellas if you had to choose a skyskimo brother to share custody of a skybae w, who would it be?",
+        "uri": "at://did:plc:zq5aq75naxtspoeoyls4y5ip/app.bsky.feed.post/3lwyf53ubgc25",
+        "created_at": "2025-08-22T11:47:43.813Z",
+        "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 21,
+        "formatted": {
+          "likes": "7",
+          "replies": "4",
+          "reposts": "1",
+          "quotes": "21"
+        }
+      },
+      "sample_replies": [
+        "Girl lmaooo what did we do?? 😂😂\n\n(Let’s do it again 😈)\n(Omg.. who said that?👀😇)",
+        "skyskimo",
+        "@infamousbrave.blacksky.app this brudda fr. Lmao",
+        "It’s me trying to see who that is & he has me blocked 😂 lmao"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "confidence": 0.344,
+        "category": "Quote Dunk",
+        "post_age_minutes": 75.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T13:15:41.446621+00:00",
+      "last_updated": "2025-08-22T13:15:41.446621+00:00",
+      "analysis_windows": [
+        "2025-08-22T13:15:41.446621+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 24,
+      "user": {
+        "handle": "hillarymonahan.bsky.social",
+        "display_name": "Hillary Monahan",
+        "initials": "HM",
+        "did": "did:plc:cetrjmezvk2esgi7g5albcek",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cetrjmezvk2esgi7g5albcek/bafkreie4oqu7zkemxwu3hbajtukcphgdnkjpnz7mumtyufnebhnnt6no2q@jpeg",
+        "profile_url": "https://bsky.app/profile/hillarymonahan.bsky.social"
+      },
+      "ratio": "29:1",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What's your favorite:\n\nVampire Movie:\nWerewolf:\nGhost:\nSlasher:\nFolk Horror:\nGiant Monster:\nZombie:\nHorror Comedy:\nAlien:\nCosmic Horror:\nPsychological:\nHorror Anthology:\n[Defies Category]:",
+        "uri": "at://did:plc:cetrjmezvk2esgi7g5albcek/app.bsky.feed.post/3lwylavamck27",
+        "created_at": "2025-08-22T13:37:13.547Z",
+        "url": "https://bsky.app/profile/hillarymonahan.bsky.social/post/3lwylavamck27"
+      },
+      "engagement": {
+        "likes": 40,
+        "replies": 15,
+        "reposts": 1,
+        "quotes": 29,
+        "formatted": {
+          "likes": "40",
+          "replies": "15",
+          "reposts": "1",
+          "quotes": "29"
+        }
+      },
+      "sample_replies": [
+        "Possession Movie:\nSci-Fi, Non Aliens:\nBody Horror:\nSerial Killer Non-Slasher:\nMan Vs Nature:\nHorror...",
+        "Dracula: Dead and Loving It\nTeen Wolf\nDave Casper, \"The Ghost to the Post\"\nn/a\nDeliverance\nJaws\nn/a\n...",
+        "Alien",
+        "What's your favorite:\n\nV: 30 Days of Night\nW: Brotherhood of the  Wolf\nG: 13 Ghosts\nSlasher: \nFH:..."
+      ],
+      "metrics": {
+        "ratio_score": 13.5,
+        "confidence": 0.599,
+        "category": "Complete Ratio",
+        "post_age_minutes": 160.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:55.793523+00:00",
+      "last_updated": "2025-08-22T16:35:55.793523+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:55.793523+00:00"
+      ],
+      "peak_controversy": 3.9,
+      "trend": "new"
+    },
+    {
+      "rank": 25,
+      "user": {
+        "handle": "hnysuklchocolat.blacksky.app",
+        "display_name": "cognitive dissonance is a helluva drug",
+        "initials": "CD",
+        "did": "did:plc:e2qarfoklzpw6sgbkme4b66n",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2qarfoklzpw6sgbkme4b66n/bafkreie4cwbvjz3bsdkxs5p4vm2ymjkr5zkhiaj3uwaaqtdjptlahnt22e@jpeg",
+        "profile_url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app"
+      },
+      "ratio": "6:0",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "i hear y'all on the big ass/legs complaint, but having big breaststroke is thee worst\n\neverything either makes you look like a slore--cause you can't hide titties--or a tent--because now EVERYTHING is hidden\n\nhate it so bad.",
+        "uri": "at://did:plc:e2qarfoklzpw6sgbkme4b66n/app.bsky.feed.post/3lwypxtrdf22e",
+        "created_at": "2025-08-22T15:01:38.716Z",
+        "url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app/post/3lwypxtrdf22e"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 6,
+        "formatted": {
+          "likes": "8",
+          "replies": "5",
+          "reposts": "0",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "i'm not short, but felt.\n\nthey make me look super bulky on top no matter what.  i think they're a...",
+        "kiddo's not taller than me *yet* but by xmas, we may be eye to eye 😭😭😭",
+        "#FirstWorldProblems",
+        "i see you wanna fight 🤣"
+      ],
+      "metrics": {
+        "ratio_score": 10,
+        "confidence": 0.402,
+        "category": "Complete Ratio",
+        "post_age_minutes": 76.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:56.072372+00:00",
+      "last_updated": "2025-08-22T16:35:56.072372+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:56.072372+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
+    },
+    {
+      "rank": 26,
+      "user": {
+        "handle": "dlchandler123.bsky.social",
+        "display_name": "D.L. Chandler",
+        "initials": "DC",
+        "did": "did:plc:lyr2nmjy7wmxadcfqdewmh7j",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lyr2nmjy7wmxadcfqdewmh7j/bafkreicoksggucyp2xx35pm5vllppopksqqr2ycs26pfbe6bakncahxgzu@jpeg",
+        "profile_url": "https://bsky.app/profile/dlchandler123.bsky.social"
+      },
+      "ratio": "10:0",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Getting it out the way now. Yes, I know I'm not all that cute. Might be ugly to someone. But my penis and wallet are both heavy and you're still you, so...",
+        "uri": "at://did:plc:lyr2nmjy7wmxadcfqdewmh7j/app.bsky.feed.post/3lwykpew5vc2p",
+        "created_at": "2025-08-22T13:27:26.001Z",
+        "url": "https://bsky.app/profile/dlchandler123.bsky.social/post/3lwykpew5vc2p"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 10,
+        "formatted": {
+          "likes": "10",
+          "replies": "8",
+          "reposts": "0",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "Good morning lmaooo",
+        "Well damn",
+        "Oop"
+      ],
+      "metrics": {
+        "ratio_score": 13,
+        "confidence": 0.306,
+        "category": "Complete Ratio",
+        "post_age_minutes": 170.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:56.160281+00:00",
+      "last_updated": "2025-08-22T16:35:56.160281+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:56.160281+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
+    },
+    {
+      "rank": 27,
       "user": {
         "handle": "naiyalove.bsky.social",
         "display_name": "👩🏽‍⚕️🏥Your Skeetiatrician 🏥👩🏽‍⚕️",
@@ -1583,63 +1527,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
-      "user": {
-        "handle": "dessertnotdemure.bsky.social",
-        "display_name": "Dee.",
-        "initials": "DE",
-        "did": "did:plc:zq5aq75naxtspoeoyls4y5ip",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
-        "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
-      },
-      "ratio": "17:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Fellas if you had to choose a skyskimo brother to share custody of a skybae w, who would it be?",
-        "uri": "at://did:plc:zq5aq75naxtspoeoyls4y5ip/app.bsky.feed.post/3lwyf53ubgc25",
-        "created_at": "2025-08-22T11:47:43.813Z",
-        "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 17,
-        "formatted": {
-          "likes": "7",
-          "replies": "4",
-          "reposts": "1",
-          "quotes": "17"
-        }
-      },
-      "sample_replies": [
-        "Girl lmaooo what did we do?? 😂😂\n\n(Let’s do it again 😈)\n(Omg.. who said that?👀😇)",
-        "skyskimo",
-        "@infamousbrave.blacksky.app this brudda fr. Lmao",
-        "It’s me trying to see who that is & he has me blocked 😂 lmao"
-      ],
-      "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.344,
-        "category": "Quote Dunk",
-        "post_age_minutes": 75.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T13:15:41.446621+00:00",
-      "last_updated": "2025-08-22T13:15:41.446621+00:00",
-      "analysis_windows": [
-        "2025-08-22T13:15:41.446621+00:00"
-      ],
-      "peak_controversy": 1.0,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
+      "rank": 28,
       "user": {
         "handle": "bizzybaby.bsky.social",
         "display_name": "Bizzy",
@@ -1695,7 +1583,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "user": {
         "handle": "becauseofnikki.blacksky.app",
         "display_name": "NIKKI Baby 🍫♊️💜",
@@ -1715,13 +1603,13 @@
         "url": "https://bsky.app/profile/becauseofnikki.blacksky.app/post/3lwxljepi5s2n"
       },
       "engagement": {
-        "likes": 24,
-        "replies": 7,
+        "likes": 25,
+        "replies": 8,
         "reposts": 1,
         "quotes": 33,
         "formatted": {
-          "likes": "24",
-          "replies": "7",
+          "likes": "25",
+          "replies": "8",
           "reposts": "1",
           "quotes": "33"
         }
@@ -1751,7 +1639,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "user": {
         "handle": "proptermalone.bsky.social",
         "display_name": "post malone ergo propter malone",
@@ -1772,12 +1660,12 @@
       },
       "engagement": {
         "likes": 186,
-        "replies": 148,
+        "replies": 149,
         "reposts": 2,
         "quotes": 21,
         "formatted": {
           "likes": "186",
-          "replies": "148",
+          "replies": "149",
           "reposts": "2",
           "quotes": "21"
         }
@@ -1807,7 +1695,7 @@
       "trend": "new"
     },
     {
-      "rank": 33,
+      "rank": 31,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1863,7 +1751,7 @@
       "trend": "new"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "user": {
         "handle": "missxbri.bsky.social",
         "display_name": "B.",
@@ -1914,6 +1802,118 @@
         "2025-08-22T03:17:36.562724+00:00"
       ],
       "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 33,
+      "user": {
+        "handle": "keeksreal.bsky.social",
+        "display_name": "🇹🇹Menacing Keeks",
+        "initials": "🇹K",
+        "did": "did:plc:hur5kz4omzpee5kh5i6qifdp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hur5kz4omzpee5kh5i6qifdp/bafkreifi3xmfnwzg35onezx34enj3xzcunajpra6n4bt3bkhdjflbnjyru@jpeg",
+        "profile_url": "https://bsky.app/profile/keeksreal.bsky.social"
+      },
+      "ratio": "11:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Completely unrelated note:\n\nI've realized over and over that I would never actually want to meet some of the people on here for real... It's fun on here, but I feel like a face to face interaction would make me feel like unleashing a pack of stray dogs on you. I'm often happy I live a country away.",
+        "uri": "at://did:plc:hur5kz4omzpee5kh5i6qifdp/app.bsky.feed.post/3lwymfvezwc2w",
+        "created_at": "2025-08-22T13:57:55.206Z",
+        "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lwymfvezwc2w"
+      },
+      "engagement": {
+        "likes": 16,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 11,
+        "formatted": {
+          "likes": "16",
+          "replies": "4",
+          "reposts": "0",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "It's only 3 Americans I'd love to meet. I love being a country away too. 🌚🌚",
+        "Oh. So you hate me",
+        "Wow so you not tryna help me taste test the caramel???",
+        "Man, come on"
+      ],
+      "metrics": {
+        "ratio_score": 14,
+        "confidence": 0.412,
+        "category": "Complete Ratio",
+        "post_age_minutes": 140.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:55.880373+00:00",
+      "last_updated": "2025-08-22T16:35:55.880373+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:55.880373+00:00"
+      ],
+      "peak_controversy": 2.8,
+      "trend": "new"
+    },
+    {
+      "rank": 34,
+      "user": {
+        "handle": "theathleticfc.bsky.social",
+        "display_name": "The Athletic | Football",
+        "initials": "TA",
+        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
+        "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
+      },
+      "ratio": "12:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Nuno Espirito Santo has said his relationship with Nottingham Forest owner Evangelos Marinakis has changed since last season and the two are “not so close” anymore.\n\nMore from @colinmillar.bsky.social ⤵️\n\n🔗 www.nytimes.com/athletic/656...",
+        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lwymbq2rg22q",
+        "created_at": "2025-08-22T13:55:35.384Z",
+        "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwymbq2rg22q"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 6,
+        "reposts": 1,
+        "quotes": 12,
+        "formatted": {
+          "likes": "20",
+          "replies": "6",
+          "reposts": "1",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "THAT’S THE OWNER!? 😳",
+        "So Nuno will be the first one to bounce",
+        "Come And Get Me Plea™",
+        "Marinakis has plug in earphones?"
+      ],
+      "metrics": {
+        "ratio_score": 12.0,
+        "confidence": 0.433,
+        "category": "Complete Ratio",
+        "post_age_minutes": 142.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:55.969847+00:00",
+      "last_updated": "2025-08-22T16:35:55.969847+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:55.969847+00:00"
+      ],
+      "peak_controversy": 2.7,
       "trend": "new"
     },
     {
@@ -2038,7 +2038,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d77lpmzmfo4rho4gow2hrkdz/bafkreia6bvlmyvmfxq5bmmalposiwmcsdxbpesikm256kap3inrt4hhhs4@jpeg",
         "profile_url": "https://bsky.app/profile/naiijah.bsky.social"
       },
-      "ratio": "9:1",
+      "ratio": "11:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -2049,15 +2049,15 @@
         "url": "https://bsky.app/profile/naiijah.bsky.social/post/3lwxpbywfic26"
       },
       "engagement": {
-        "likes": 33,
-        "replies": 12,
+        "likes": 37,
+        "replies": 14,
         "reposts": 3,
-        "quotes": 28,
+        "quotes": 34,
         "formatted": {
-          "likes": "33",
-          "replies": "12",
+          "likes": "37",
+          "replies": "14",
           "reposts": "3",
-          "quotes": "28"
+          "quotes": "34"
         }
       },
       "sample_replies": [
@@ -2327,14 +2327,14 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 732,
-        "replies": 232,
-        "reposts": 87,
+        "likes": 737,
+        "replies": 233,
+        "reposts": 88,
         "quotes": 300,
         "formatted": {
-          "likes": "732",
-          "replies": "232",
-          "reposts": "87",
+          "likes": "737",
+          "replies": "233",
+          "reposts": "88",
           "quotes": "300"
         }
       },
@@ -2439,15 +2439,15 @@
         "url": "https://bsky.app/profile/quantian.bsky.social/post/3lwyhnyqurc2q"
       },
       "engagement": {
-        "likes": 248,
-        "replies": 28,
+        "likes": 261,
+        "replies": 32,
         "reposts": 13,
-        "quotes": 44,
+        "quotes": 45,
         "formatted": {
-          "likes": "248",
-          "replies": "28",
+          "likes": "261",
+          "replies": "32",
           "reposts": "13",
-          "quotes": "44"
+          "quotes": "45"
         }
       },
       "sample_replies": [
@@ -2717,12 +2717,12 @@
         "url": "https://bsky.app/profile/shesroyalty.bsky.social/post/3lwxlk3g3522s"
       },
       "engagement": {
-        "likes": 9,
+        "likes": 10,
         "replies": 3,
         "reposts": 3,
         "quotes": 8,
         "formatted": {
-          "likes": "9",
+          "likes": "10",
           "replies": "3",
           "reposts": "3",
           "quotes": "8"
