@@ -1,21 +1,245 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-22T04:30:34.602648+00:00",
-    "last_metrics_update": "2025-08-22T04:30:34.602648+00:00",
-    "collection_period_hours": 6,
+    "last_full_analysis": "2025-08-22T18:49:41.862789+00:00",
+    "last_metrics_update": "2025-08-22T18:49:41.862789+00:00",
+    "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 4,
+    "main_characters_count": 12,
     "rolling_window": {
-      "last_update": "2025-08-22T04:30:34.602648+00:00",
-      "new_entries_added": 4,
-      "total_in_window": 4,
+      "last_update": "2025-08-22T18:49:41.862789+00:00",
+      "new_entries_added": 10,
+      "total_in_window": 12,
       "window_hours": 24,
-      "update_interval_hours": 6
+      "update_interval_hours": 3
     }
   },
   "main_characters": [
     {
       "rank": 1,
+      "user": {
+        "handle": "acyn.bsky.social",
+        "display_name": "Acyn",
+        "initials": "AC",
+        "did": "did:plc:iu4j537hox5huj4bwnwgub4z",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iu4j537hox5huj4bwnwgub4z/bafkreiejey5fptauulotqljyt3zneppll5o24f4xu3t7khx2dqqpmhmwxi@jpeg",
+        "profile_url": "https://bsky.app/profile/acyn.bsky.social"
+      },
+      "ratio": "1:3",
+      "controversy": 10.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Reporter: The DOJ is sending the Epstein files to Oversight\n\nTrump: You have a lot of people that could be mentioned in those files that don't deserve to be because he knew everybody in Palm Beach. The whole Epstein thing is a democrat hoax",
+        "uri": "at://did:plc:iu4j537hox5huj4bwnwgub4z/app.bsky.feed.post/3lwz2yoa5dt2k",
+        "created_at": "2025-08-22T18:18:57.492Z",
+        "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
+      },
+      "engagement": {
+        "likes": 333,
+        "replies": 163,
+        "reposts": 92,
+        "quotes": 33,
+        "formatted": {
+          "likes": "333",
+          "replies": "163",
+          "reposts": "92",
+          "quotes": "33"
+        }
+      },
+      "sample_replies": [
+        "Trump raped children. Change my mind.",
+        "So he’s definitely in the Epstein Files, got it.",
+        "Well if Clinton is in there him and trump can be bunk mates for all I care",
+        "I've read all the depositions, statements, etc from the victims, and I have to say this: If I was a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.11,
+        "time_bucket": 0,
+        "total_engagement": 621,
+        "post_age_minutes": 12.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:40.736412+00:00",
+      "last_updated": "2025-08-22T18:49:40.736412+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:40.736412+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "new"
+    },
+    {
+      "rank": 2,
+      "user": {
+        "handle": "thebulwark.com",
+        "display_name": "The Bulwark",
+        "initials": "TB",
+        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
+        "profile_url": "https://bsky.app/profile/thebulwark.com"
+      },
+      "ratio": "1:1",
+      "controversy": 3.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
+        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
+        "created_at": "2025-08-22T18:02:18.976Z",
+        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
+      },
+      "engagement": {
+        "likes": 46,
+        "replies": 33,
+        "reposts": 7,
+        "quotes": 8,
+        "formatted": {
+          "likes": "46",
+          "replies": "33",
+          "reposts": "7",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "Again with the fucking \"two weeks\".",
+        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
+        "Dude puts an alarm for two weeks and snoozes it for four years...",
+        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
+      ],
+      "metrics": {
+        "ratio_score": 5.12,
+        "time_bucket": 1,
+        "total_engagement": 94,
+        "post_age_minutes": 29.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.095162+00:00",
+      "last_updated": "2025-08-22T18:49:41.862738+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.095162+00:00",
+        "2025-08-22T18:49:41.862738+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 3,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 4.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
+        "created_at": "2025-08-22T18:16:28.004085937Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
+      },
+      "engagement": {
+        "likes": 35,
+        "replies": 42,
+        "reposts": 24,
+        "quotes": 17,
+        "formatted": {
+          "likes": "35",
+          "replies": "42",
+          "reposts": "24",
+          "quotes": "17"
+        }
+      },
+      "sample_replies": [
+        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
+        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
+        "Keep sane washing, corporate buttholes."
+      ],
+      "metrics": {
+        "ratio_score": 2.36,
+        "time_bucket": 1,
+        "total_engagement": 118,
+        "post_age_minutes": 15.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.218980+00:00",
+      "last_updated": "2025-08-22T18:49:41.218980+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.218980+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
+      "user": {
+        "handle": "antongerashchenko.bsky.social",
+        "display_name": "Anton Gerashchenko",
+        "initials": "AG",
+        "did": "did:plc:5jbj2wzit57tfjmmwocupfs7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5jbj2wzit57tfjmmwocupfs7/bafkreiczdq3dlnnvhnc5nyn7ciyput5n7la63x2wh42zp7zjpvxcnrekum@jpeg",
+        "profile_url": "https://bsky.app/profile/antongerashchenko.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 3.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "President Trump on the Ukrainian-Russian war:\n\nI say, over the next two weeks, we are going to find out which way it is going to go. I'd better be very happy.",
+        "uri": "at://did:plc:5jbj2wzit57tfjmmwocupfs7/app.bsky.feed.post/3lwz2e4p4i22k",
+        "created_at": "2025-08-22T18:07:28.152Z",
+        "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lwz2e4p4i22k"
+      },
+      "engagement": {
+        "likes": 46,
+        "replies": 34,
+        "reposts": 11,
+        "quotes": 7,
+        "formatted": {
+          "likes": "46",
+          "replies": "34",
+          "reposts": "11",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Two weeks - Too weak\n#TACO",
+        ".... Two weeks again ....",
+        "He's just bullshiting his way through another press session. He speaks in vague generalities,...",
+        "It’s all about Trump’s happiness!  No concern about the Ukraine children that will inevitably be..."
+      ],
+      "metrics": {
+        "ratio_score": 3.42,
+        "time_bucket": 1,
+        "total_engagement": 98,
+        "post_age_minutes": 24.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.374288+00:00",
+      "last_updated": "2025-08-22T18:49:41.374288+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.374288+00:00"
+      ],
+      "peak_controversy": 3.9,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
       "user": {
         "handle": "fleerultra.bsky.social",
         "display_name": "Michael",
@@ -71,7 +295,63 @@
       "trend": "new"
     },
     {
-      "rank": 2,
+      "rank": 6,
+      "user": {
+        "handle": "kyivindependent.com",
+        "display_name": "The Kyiv Independent",
+        "initials": "TK",
+        "did": "did:plc:yazbevg3wkzp5llnzb44tqgh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
+        "profile_url": "https://bsky.app/profile/kyivindependent.com"
+      },
+      "ratio": "5:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "⚡️Trump 'not happy' about Russian strike on US factory in Ukraine. \n\n\"I told (Putin) I'm not happy about it,\" Trump claimed a day after a Russian missile hit an American electronics plant in western Ukraine.",
+        "uri": "at://did:plc:yazbevg3wkzp5llnzb44tqgh/app.bsky.feed.post/3lwz35thvxk2d",
+        "created_at": "2025-08-22T18:21:50.892Z",
+        "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
+      },
+      "engagement": {
+        "likes": 29,
+        "replies": 18,
+        "reposts": 1,
+        "quotes": 5,
+        "formatted": {
+          "likes": "29",
+          "replies": "18",
+          "reposts": "1",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "God, Americans are so weak. Like, beyond weak. Zero backbone.",
+        "We have the dumbest president the US has ever had. Putin plays him like a fiddle...",
+        "Only angry when fast food restaurants get a new logo",
+        "Trump says he's not happy about something. Big fucking deal. When's he actually going to DO..."
+      ],
+      "metrics": {
+        "ratio_score": 11.5,
+        "time_bucket": 0,
+        "total_engagement": 53,
+        "post_age_minutes": 9.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:40.970723+00:00",
+      "last_updated": "2025-08-22T18:49:40.970723+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:40.970723+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
       "user": {
         "handle": "radiofreetom.bsky.social",
         "display_name": "Tom Nichols",
@@ -127,7 +407,176 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "user": {
+        "handle": "unusualwhales.bsky.social",
+        "display_name": "Unusual Whales",
+        "initials": "UW",
+        "did": "did:plc:7l75ck5g4b5k6gxqaq5rejit",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7l75ck5g4b5k6gxqaq5rejit/bafkreia2gyds76c6uk5szzdxvsfcvnm4nh5nvudchuu3tqc6nlkwetcjai@jpeg",
+        "profile_url": "https://bsky.app/profile/unusualwhales.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "OnlyFans founder Leonid Radvinsky was just paid over $700 million in dividends, per the Guardian",
+        "uri": "at://did:plc:7l75ck5g4b5k6gxqaq5rejit/app.bsky.feed.post/3lwz2gyw6322d",
+        "created_at": "2025-08-22T18:09:04.853Z",
+        "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
+      },
+      "engagement": {
+        "likes": 30,
+        "replies": 3,
+        "reposts": 4,
+        "quotes": 6,
+        "formatted": {
+          "likes": "30",
+          "replies": "3",
+          "reposts": "4",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Sex work still illegal but being a pimp isn’t lol",
+        "That’s a lot of pervs….",
+        "Are the dividends reinvested or will it be cash?",
+        "Pimpin"
+      ],
+      "metrics": {
+        "ratio_score": 1.8,
+        "time_bucket": 1,
+        "total_engagement": 43,
+        "post_age_minutes": 22.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:40.853762+00:00",
+      "last_updated": "2025-08-22T18:49:41.862738+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:40.853762+00:00",
+        "2025-08-22T18:49:41.862738+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "rising"
+    },
+    {
+      "rank": 9,
+      "user": {
+        "handle": "financialtimes.com",
+        "display_name": "Financial Times",
+        "initials": "FT",
+        "did": "did:plc:5u54z2qgkq43dh2nzwzdbbhb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
+        "profile_url": "https://bsky.app/profile/financialtimes.com"
+      },
+      "ratio": "2:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trump says Intel has agreed to give US 10% stake in chipmaker on.ft.com/45Iwk1e",
+        "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3lwz2rc3asp2s",
+        "created_at": "2025-08-22T18:14:49.946554Z",
+        "url": "https://bsky.app/profile/financialtimes.com/post/3lwz2rc3asp2s"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 9,
+        "reposts": 2,
+        "quotes": 5,
+        "formatted": {
+          "likes": "15",
+          "replies": "9",
+          "reposts": "2",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "TJust trying to understand why this is OK to MAGA. If Biden attempted to do this there would have...",
+        "Bill Maher called Mamdani a 'full on Communist' the other day. Meanwhile the US government is...",
+        "Give a 10 percent stake?\n\nWhat about the shareholders who paid ?",
+        "Communism comes to America."
+      ],
+      "metrics": {
+        "ratio_score": 4.67,
+        "time_bucket": 1,
+        "total_engagement": 31,
+        "post_age_minutes": 16.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.733212+00:00",
+      "last_updated": "2025-08-22T18:49:41.733212+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.733212+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
+      "user": {
+        "handle": "reneedechert.com",
+        "display_name": "Renee Dechert",
+        "initials": "RD",
+        "did": "did:plc:5dlodj4eu2uqvupkiqqubzzo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dlodj4eu2uqvupkiqqubzzo/bafkreidqivzqe2ndrim34fbg5pzyqkcpw6brrphojwqwzgydcvuddtktrq@jpeg",
+        "profile_url": "https://bsky.app/profile/reneedechert.com"
+      },
+      "ratio": "6:1",
+      "controversy": 1.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "And with that, the Nolan Arenado trade has concluded.\n\nx.com/rockiesclubi...",
+        "uri": "at://did:plc:5dlodj4eu2uqvupkiqqubzzo/app.bsky.feed.post/3lwz2rzvo4s2r",
+        "created_at": "2025-08-22T18:15:14.978Z",
+        "url": "https://bsky.app/profile/reneedechert.com/post/3lwz2rzvo4s2r"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 6,
+        "formatted": {
+          "likes": "15",
+          "replies": "3",
+          "reposts": "1",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Probably.\n\n(I have lost track, TBH.)",
+        "That sucks for Austin. Hope he lands on his feet somewhere.",
+        "Don't the Rockies owe St. Louis 5 more million dollars next year?",
+        "We can hope the Cardinals did too!"
+      ],
+      "metrics": {
+        "ratio_score": 4.5,
+        "time_bucket": 1,
+        "total_engagement": 25,
+        "post_age_minutes": 16.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.862663+00:00",
+      "last_updated": "2025-08-22T18:49:41.862663+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.862663+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 11,
       "user": {
         "handle": "mick-ee.bsky.social",
         "display_name": "🎀 mickee 🎀",
@@ -183,7 +632,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 12,
       "user": {
         "handle": "latimes.com",
         "display_name": "Los Angeles Times",
