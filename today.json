@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T16:35:56.160485+00:00",
-    "last_metrics_update": "2025-08-22T17:02:23.918006+00:00",
+    "last_metrics_update": "2025-08-22T17:17:45.009075+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 50,
@@ -24,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7p6pezxyq3fr3fza4e4gdpst/bafkreihjvbxd5ecj3uuhwb4fmfulziw3n6dwyebm7hnnex4kbd4kyhr6dm@jpeg",
         "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
       },
-      "ratio": "42:1",
-      "controversy": 2.1,
+      "ratio": "44:1",
+      "controversy": 2.2,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/mewefree.bsky.social/post/3lwysq3rtes2n"
       },
       "engagement": {
-        "likes": 12,
-        "replies": 5,
+        "likes": 13,
+        "replies": 9,
         "reposts": 2,
-        "quotes": 84,
+        "quotes": 88,
         "formatted": {
-          "likes": "12",
-          "replies": "5",
+          "likes": "13",
+          "replies": "9",
           "reposts": "2",
-          "quotes": "84"
+          "quotes": "88"
         }
       },
       "sample_replies": [
@@ -80,8 +80,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxpcdjq45e4e3izvobsuoyl4/bafkreibhtu76qygol6uokb7hftn736xmzcsawegv7h6ub6miktbomagaca@jpeg",
         "profile_url": "https://bsky.app/profile/gibiz.bsky.social"
       },
-      "ratio": "28:1",
-      "controversy": 2.0,
+      "ratio": "33:1",
+      "controversy": 2.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/gibiz.bsky.social/post/3lwyo2umnqs2p"
       },
       "engagement": {
-        "likes": 17,
-        "replies": 39,
+        "likes": 19,
+        "replies": 43,
         "reposts": 3,
-        "quotes": 84,
+        "quotes": 99,
         "formatted": {
-          "likes": "17",
-          "replies": "39",
+          "likes": "19",
+          "replies": "43",
           "reposts": "3",
-          "quotes": "84"
+          "quotes": "99"
         }
       },
       "sample_replies": [
@@ -148,12 +148,12 @@
       },
       "engagement": {
         "likes": 14,
-        "replies": 13,
+        "replies": 14,
         "reposts": 0,
         "quotes": 70,
         "formatted": {
           "likes": "14",
-          "replies": "13",
+          "replies": "14",
           "reposts": "0",
           "quotes": "70"
         }
@@ -541,12 +541,12 @@
       },
       "engagement": {
         "likes": 159,
-        "replies": 113,
+        "replies": 114,
         "reposts": 15,
         "quotes": 177,
         "formatted": {
           "likes": "159",
-          "replies": "113",
+          "replies": "114",
           "reposts": "15",
           "quotes": "177"
         }
@@ -651,8 +651,8 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1492,
-        "replies": 1727,
+        "likes": 1496,
+        "replies": 1731,
         "reposts": 322,
         "quotes": 1167,
         "formatted": {
@@ -710,12 +710,12 @@
         "likes": 681,
         "replies": 388,
         "reposts": 146,
-        "quotes": 907,
+        "quotes": 910,
         "formatted": {
           "likes": "681",
           "replies": "388",
           "reposts": "146",
-          "quotes": "907"
+          "quotes": "910"
         }
       },
       "sample_replies": [
@@ -857,61 +857,6 @@
     {
       "rank": 16,
       "user": {
-        "handle": "omarsueead.bsky.social",
-        "display_name": ".💔 Soad 💔.",
-        "initials": ".S",
-        "did": "did:plc:ywn47rynilubeo6722mkvcen",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
-        "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "🚨🚨Humanitarian appeal \n\nI'm talking to you With a broken heart\n\nBecause I am unable to help my child\n\nI don't know what to say, but I know that your kind hearts will not let this child suffer any more\n\nMy child Omar is asking for your help to get his right to food and treatment👇\ntinyurl.com/ycxdtddx",
-        "uri": "at://did:plc:ywn47rynilubeo6722mkvcen/app.bsky.feed.post/3lwy7xvmws22v",
-        "created_at": "2025-08-22T10:15:20.710Z",
-        "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
-      },
-      "engagement": {
-        "likes": 25,
-        "replies": 3,
-        "reposts": 29,
-        "quotes": 119,
-        "formatted": {
-          "likes": "25",
-          "replies": "3",
-          "reposts": "29",
-          "quotes": "119"
-        }
-      },
-      "sample_replies": [
-        "@indrapramitdas.bsky.social \n\nMy friend how are you I hope you are well please quote my post Tag...",
-        "@fairshare.help",
-        "Added\n\nPlease donate if you can and share the original.\n\nDirectly asking people you know is the..."
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.439,
-        "category": "Complete Ratio",
-        "post_age_minutes": 167.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T13:15:41.312092+00:00",
-      "last_updated": "2025-08-22T13:15:41.312092+00:00",
-      "analysis_windows": [
-        "2025-08-22T13:15:41.312092+00:00"
-      ],
-      "peak_controversy": 2.1,
-      "trend": "new"
-    },
-    {
-      "rank": 17,
-      "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
         "initials": "RE",
@@ -966,7 +911,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1022,6 +967,61 @@
       ],
       "peak_controversy": 1.3,
       "trend": "rising"
+    },
+    {
+      "rank": 18,
+      "user": {
+        "handle": "omarsueead.bsky.social",
+        "display_name": ".💔 Soad 💔.",
+        "initials": ".S",
+        "did": "did:plc:ywn47rynilubeo6722mkvcen",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
+        "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "🚨🚨Humanitarian appeal \n\nI'm talking to you With a broken heart\n\nBecause I am unable to help my child\n\nI don't know what to say, but I know that your kind hearts will not let this child suffer any more\n\nMy child Omar is asking for your help to get his right to food and treatment👇\ntinyurl.com/ycxdtddx",
+        "uri": "at://did:plc:ywn47rynilubeo6722mkvcen/app.bsky.feed.post/3lwy7xvmws22v",
+        "created_at": "2025-08-22T10:15:20.710Z",
+        "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
+      },
+      "engagement": {
+        "likes": 28,
+        "replies": 3,
+        "reposts": 35,
+        "quotes": 122,
+        "formatted": {
+          "likes": "28",
+          "replies": "3",
+          "reposts": "35",
+          "quotes": "122"
+        }
+      },
+      "sample_replies": [
+        "@indrapramitdas.bsky.social \n\nMy friend how are you I hope you are well please quote my post Tag...",
+        "@fairshare.help",
+        "Added\n\nPlease donate if you can and share the original.\n\nDirectly asking people you know is the..."
+      ],
+      "metrics": {
+        "ratio_score": 10.0,
+        "confidence": 0.439,
+        "category": "Complete Ratio",
+        "post_age_minutes": 167.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T13:15:41.312092+00:00",
+      "last_updated": "2025-08-22T13:15:41.312092+00:00",
+      "analysis_windows": [
+        "2025-08-22T13:15:41.312092+00:00"
+      ],
+      "peak_controversy": 2.1,
+      "trend": "new"
     },
     {
       "rank": 19,
@@ -1257,7 +1257,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
         "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
       },
-      "ratio": "22:1",
+      "ratio": "14:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -1268,15 +1268,15 @@
         "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
       },
       "engagement": {
-        "likes": 7,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 22,
+        "likes": 8,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 27,
         "formatted": {
-          "likes": "7",
-          "replies": "4",
-          "reposts": "1",
-          "quotes": "22"
+          "likes": "8",
+          "replies": "5",
+          "reposts": "2",
+          "quotes": "27"
         }
       },
       "sample_replies": [
@@ -1324,12 +1324,12 @@
         "url": "https://bsky.app/profile/hillarymonahan.bsky.social/post/3lwylavamck27"
       },
       "engagement": {
-        "likes": 41,
+        "likes": 43,
         "replies": 15,
         "reposts": 1,
         "quotes": 30,
         "formatted": {
-          "likes": "41",
+          "likes": "43",
           "replies": "15",
           "reposts": "1",
           "quotes": "30"
@@ -1361,62 +1361,6 @@
     },
     {
       "rank": 25,
-      "user": {
-        "handle": "hnysuklchocolat.blacksky.app",
-        "display_name": "cognitive dissonance is a helluva drug",
-        "initials": "CD",
-        "did": "did:plc:e2qarfoklzpw6sgbkme4b66n",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2qarfoklzpw6sgbkme4b66n/bafkreie4cwbvjz3bsdkxs5p4vm2ymjkr5zkhiaj3uwaaqtdjptlahnt22e@jpeg",
-        "profile_url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app"
-      },
-      "ratio": "7:0",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "i hear y'all on the big ass/legs complaint, but having big breaststroke is thee worst\n\neverything either makes you look like a slore--cause you can't hide titties--or a tent--because now EVERYTHING is hidden\n\nhate it so bad.",
-        "uri": "at://did:plc:e2qarfoklzpw6sgbkme4b66n/app.bsky.feed.post/3lwypxtrdf22e",
-        "created_at": "2025-08-22T15:01:38.716Z",
-        "url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app/post/3lwypxtrdf22e"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 7,
-        "formatted": {
-          "likes": "9",
-          "replies": "5",
-          "reposts": "0",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "i'm not short, but felt.\n\nthey make me look super bulky on top no matter what.  i think they're a...",
-        "kiddo's not taller than me *yet* but by xmas, we may be eye to eye 😭😭😭",
-        "#FirstWorldProblems",
-        "i see you wanna fight 🤣"
-      ],
-      "metrics": {
-        "ratio_score": 10,
-        "confidence": 0.402,
-        "category": "Complete Ratio",
-        "post_age_minutes": 76.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:56.072372+00:00",
-      "last_updated": "2025-08-22T16:35:56.072372+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:56.072372+00:00"
-      ],
-      "peak_controversy": 2.0,
-      "trend": "new"
-    },
-    {
-      "rank": 26,
       "user": {
         "handle": "dlchandler123.bsky.social",
         "display_name": "D.L. Chandler",
@@ -1471,7 +1415,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "naiyalove.bsky.social",
         "display_name": "👩🏽‍⚕️🏥Your Skeetiatrician 🏥👩🏽‍⚕️",
@@ -1527,7 +1471,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "bizzybaby.bsky.social",
         "display_name": "Bizzy",
@@ -1583,63 +1527,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
-      "user": {
-        "handle": "becauseofnikki.blacksky.app",
-        "display_name": "NIKKI Baby 🍫♊️💜",
-        "initials": "NB",
-        "did": "did:plc:s7ppdtkml2i7gqxxh32x5qj7",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7ppdtkml2i7gqxxh32x5qj7/bafkreib4qa56phbel3yy4cpwc7gnyh2lfx7bn5o2wfl2zzqzuqkks6i5t4@jpeg",
-        "profile_url": "https://bsky.app/profile/becauseofnikki.blacksky.app"
-      },
-      "ratio": "33:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Wait, y’all be fuckin with your glasses on?\n\nMe? I can’t!",
-        "uri": "at://did:plc:s7ppdtkml2i7gqxxh32x5qj7/app.bsky.feed.post/3lwxljepi5s2n",
-        "created_at": "2025-08-22T04:09:18.460Z",
-        "url": "https://bsky.app/profile/becauseofnikki.blacksky.app/post/3lwxljepi5s2n"
-      },
-      "engagement": {
-        "likes": 25,
-        "replies": 8,
-        "reposts": 1,
-        "quotes": 33,
-        "formatted": {
-          "likes": "25",
-          "replies": "8",
-          "reposts": "1",
-          "quotes": "33"
-        }
-      },
-      "sample_replies": [
-        "Only with the sapiosexuals",
-        "No",
-        "Yea I ain’t never did that🤣🤣🤣",
-        "I mean I can or have it just depends."
-      ],
-      "metrics": {
-        "ratio_score": 18.0,
-        "confidence": 0.342,
-        "category": "Complete Ratio",
-        "post_age_minutes": 143.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T06:43:35.750675+00:00",
-      "last_updated": "2025-08-22T06:43:35.750675+00:00",
-      "analysis_windows": [
-        "2025-08-22T06:43:35.750675+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
+      "rank": 28,
       "user": {
         "handle": "proptermalone.bsky.social",
         "display_name": "post malone ergo propter malone",
@@ -1695,7 +1583,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1751,7 +1639,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "user": {
         "handle": "missxbri.bsky.social",
         "display_name": "B.",
@@ -1802,6 +1690,118 @@
         "2025-08-22T03:17:36.562724+00:00"
       ],
       "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 31,
+      "user": {
+        "handle": "hnysuklchocolat.blacksky.app",
+        "display_name": "cognitive dissonance is a helluva drug",
+        "initials": "CD",
+        "did": "did:plc:e2qarfoklzpw6sgbkme4b66n",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e2qarfoklzpw6sgbkme4b66n/bafkreie4cwbvjz3bsdkxs5p4vm2ymjkr5zkhiaj3uwaaqtdjptlahnt22e@jpeg",
+        "profile_url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app"
+      },
+      "ratio": "7:0",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "i hear y'all on the big ass/legs complaint, but having big breaststroke is thee worst\n\neverything either makes you look like a slore--cause you can't hide titties--or a tent--because now EVERYTHING is hidden\n\nhate it so bad.",
+        "uri": "at://did:plc:e2qarfoklzpw6sgbkme4b66n/app.bsky.feed.post/3lwypxtrdf22e",
+        "created_at": "2025-08-22T15:01:38.716Z",
+        "url": "https://bsky.app/profile/hnysuklchocolat.blacksky.app/post/3lwypxtrdf22e"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 7,
+        "formatted": {
+          "likes": "10",
+          "replies": "5",
+          "reposts": "0",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "i'm not short, but felt.\n\nthey make me look super bulky on top no matter what.  i think they're a...",
+        "kiddo's not taller than me *yet* but by xmas, we may be eye to eye 😭😭😭",
+        "#FirstWorldProblems",
+        "i see you wanna fight 🤣"
+      ],
+      "metrics": {
+        "ratio_score": 10,
+        "confidence": 0.402,
+        "category": "Complete Ratio",
+        "post_age_minutes": 76.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:56.072372+00:00",
+      "last_updated": "2025-08-22T16:35:56.072372+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:56.072372+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
+    },
+    {
+      "rank": 32,
+      "user": {
+        "handle": "becauseofnikki.blacksky.app",
+        "display_name": "NIKKI Baby 🍫♊️💜",
+        "initials": "NB",
+        "did": "did:plc:s7ppdtkml2i7gqxxh32x5qj7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7ppdtkml2i7gqxxh32x5qj7/bafkreib4qa56phbel3yy4cpwc7gnyh2lfx7bn5o2wfl2zzqzuqkks6i5t4@jpeg",
+        "profile_url": "https://bsky.app/profile/becauseofnikki.blacksky.app"
+      },
+      "ratio": "33:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Wait, y’all be fuckin with your glasses on?\n\nMe? I can’t!",
+        "uri": "at://did:plc:s7ppdtkml2i7gqxxh32x5qj7/app.bsky.feed.post/3lwxljepi5s2n",
+        "created_at": "2025-08-22T04:09:18.460Z",
+        "url": "https://bsky.app/profile/becauseofnikki.blacksky.app/post/3lwxljepi5s2n"
+      },
+      "engagement": {
+        "likes": 26,
+        "replies": 8,
+        "reposts": 1,
+        "quotes": 33,
+        "formatted": {
+          "likes": "26",
+          "replies": "8",
+          "reposts": "1",
+          "quotes": "33"
+        }
+      },
+      "sample_replies": [
+        "Only with the sapiosexuals",
+        "No",
+        "Yea I ain’t never did that🤣🤣🤣",
+        "I mean I can or have it just depends."
+      ],
+      "metrics": {
+        "ratio_score": 18.0,
+        "confidence": 0.342,
+        "category": "Complete Ratio",
+        "post_age_minutes": 143.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T06:43:35.750675+00:00",
+      "last_updated": "2025-08-22T06:43:35.750675+00:00",
+      "analysis_windows": [
+        "2025-08-22T06:43:35.750675+00:00"
+      ],
+      "peak_controversy": 3.0,
       "trend": "new"
     },
     {
@@ -1881,12 +1881,12 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lwymbq2rg22q"
       },
       "engagement": {
-        "likes": 21,
+        "likes": 22,
         "replies": 6,
         "reposts": 1,
         "quotes": 12,
         "formatted": {
-          "likes": "21",
+          "likes": "22",
           "replies": "6",
           "reposts": "1",
           "quotes": "12"
@@ -2049,13 +2049,13 @@
         "url": "https://bsky.app/profile/naiijah.bsky.social/post/3lwxpbywfic26"
       },
       "engagement": {
-        "likes": 37,
-        "replies": 14,
+        "likes": 38,
+        "replies": 15,
         "reposts": 3,
         "quotes": 35,
         "formatted": {
-          "likes": "37",
-          "replies": "14",
+          "likes": "38",
+          "replies": "15",
           "reposts": "3",
           "quotes": "35"
         }
@@ -2274,12 +2274,12 @@
         "likes": 30,
         "replies": 9,
         "reposts": 4,
-        "quotes": 27,
+        "quotes": 28,
         "formatted": {
           "likes": "30",
           "replies": "9",
           "reposts": "4",
-          "quotes": "27"
+          "quotes": "28"
         }
       },
       "sample_replies": [
@@ -2329,12 +2329,12 @@
       "engagement": {
         "likes": 737,
         "replies": 233,
-        "reposts": 88,
+        "reposts": 89,
         "quotes": 300,
         "formatted": {
           "likes": "737",
           "replies": "233",
-          "reposts": "88",
+          "reposts": "89",
           "quotes": "300"
         }
       },
@@ -2771,12 +2771,12 @@
         "url": "https://bsky.app/profile/emceekayvee.bsky.social/post/3lwxb4nhkvs26"
       },
       "engagement": {
-        "likes": 31,
+        "likes": 32,
         "replies": 3,
         "reposts": 1,
         "quotes": 8,
         "formatted": {
-          "likes": "31",
+          "likes": "32",
           "replies": "3",
           "reposts": "1",
           "quotes": "8"
