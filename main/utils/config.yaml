@@ -1,0 +1,191 @@
+# Main Character Configuration
+# Centralized configuration for all thresholds, timeouts, and parameters
+# This file controls behavior across all modules without requiring code changes
+
+# =============================================================================
+# DATA COLLECTION SETTINGS
+# =============================================================================
+collection:
+  # How far back to collect posts (in hours) - simplified to 1 hour for recency focus
+  hours_back: 6
+  
+  # Maximum time to spend collecting data (seconds)
+  timeout_seconds: 3600  # 1 hour
+  
+  # Number of posts to process in batches (for API rate limiting)
+  batch_size: 25
+  
+  # Only analyze posts newer than this (hours) - focus on recent activity
+  max_post_age_hours: 1.0
+  
+  # Time window for collecting related posts (hours)
+  collection_window_hours: 1.0
+  
+  # Report progress every N posts during collection
+  progress_report_interval: 1000
+
+# =============================================================================
+# SIMPLIFIED RANKING SYSTEM
+# =============================================================================
+ranking:
+  # Time bucket size in minutes for primary ranking
+  time_bucket_minutes: 15  # Creates buckets: 0-15, 15-30, 30-45, 45-60 min
+  
+  # Maximum age for posts to be considered (hours)
+  max_post_age_hours: 1.0  # Only posts from last hour
+  
+  # Minimum total engagement required for analysis
+  min_engagement: 10  # likes + replies + quotes + reposts
+
+# =============================================================================
+# BASIC RATIO DETECTION
+# =============================================================================
+ratio_detection:
+  # Minimum engagement thresholds - posts need this much activity to be considered
+  min_quotes_threshold: 5      # Minimum quote tweets required
+  min_likes_threshold: 3       # Minimum likes required  
+  min_replies_threshold: 2     # Minimum replies required
+  
+  # Basic ratio threshold - quotes vs reposts
+  min_ratio_threshold: 0.05     # Minimum ratio score to be considered
+  
+  # Default number of top results to return
+  default_top_n: 50
+
+# =============================================================================
+# SENTIMENT ANALYSIS
+# =============================================================================
+sentiment:
+  # Threshold for detecting "high emotion" posts (anger, disgust, etc.)
+  high_emotion_threshold: 0.3  # 0.0-1.0 scale
+
+# =============================================================================
+# TOPIC MODELING (BERTopic)
+# =============================================================================
+topics:
+  # Topic size constraints
+  min_topic_size: 3            # Minimum posts required to form a topic
+  max_topics: 15               # Maximum number of topics to extract
+  max_keywords: 25             # Maximum keywords to extract per topic
+  
+  # Model configuration
+  embedding_model: "all-MiniLM-L6-v2"  # Sentence transformer model for embeddings
+  
+  # Text vectorization parameters
+  min_df: 1                    # Minimum document frequency for word inclusion
+  ngram_range: [1, 2]         # Include unigrams and bigrams (1-2 word phrases)
+  
+  # HDBSCAN clustering parameters (tuned for better granularity)
+  hdbscan:
+    min_cluster_size: 3        # Minimum size for HDBSCAN clusters
+    min_samples: 2             # Conservative clustering requirement
+    cluster_selection_epsilon: 0.02  # Fine-grained cluster splits
+    cluster_selection_method: "leaf"  # More granular than "eom"
+    metric: "euclidean"        # Distance metric for clustering
+
+# =============================================================================
+# API LIMITS & CONSTRAINTS
+# =============================================================================
+api_limits:
+  # Search and retrieval limits (prevents API overuse)
+  search_results_limit: 100   # Max results per search query
+  thread_depth: 10            # Max depth when following reply threads
+  max_quote_results: 200      # Max quote tweets to collect per post
+
+# =============================================================================
+# TIMEOUTS & DELAYS
+# =============================================================================
+timeouts:
+  # Connection management
+  connection_wait_seconds: 30  # How long to wait for connections
+  websocket_timeout: 3600      # WebSocket timeout (1 hr)
+  sleep_interval: 0.1         # Sleep between operations (100ms)
+
+# =============================================================================
+# METRICS & TRENDING
+# =============================================================================
+metrics:
+  # Only update metrics for analyses newer than this
+  max_age_hours: 25
+  
+  # Simple trending calculations - removed complex multipliers
+  trend_multipliers:
+    rising: 1.1     # Small boost for rising topics
+    falling: 0.95   # Small reduction for falling topics  
+    new: 1.05       # Small boost for new topics
+
+# =============================================================================
+# ROLLING WINDOW ANALYSIS
+# =============================================================================
+rolling_window:
+  # Time window for rolling analysis
+  window_hours: 24            # Analyze last 24 hours of data
+  update_interval_hours: 6    # Update analysis every 6 hours
+
+# =============================================================================
+# DATA PROCESSING
+# =============================================================================
+data_processing:
+  # Minimum characters required for language detection
+  min_chars_for_language_detection: 10
+
+# =============================================================================
+# ANALYSIS PIPELINE
+# =============================================================================
+pipeline:
+  # Number of top items to analyze in detail
+  deep_dive_top_n: 10         # Detailed analysis for top 10 posts
+  top_n_ratios: 20            # Keep top 20 posts in results
+
+# =============================================================================
+# TEST MODE OVERRIDES
+# =============================================================================
+# These values override normal settings when test_mode=True
+# Used for faster testing with smaller datasets and shorter timeouts
+test_mode:
+  collection:
+    hours_back: 0.25          # 15 minutes instead of 6 hours
+    timeout_seconds: 60       # 1 minute instead of 1 hour
+  ranking:
+    min_engagement: 1         # Lower engagement requirement
+    max_post_age_hours: 0.25  # 15 minutes for testing
+  pipeline:
+    deep_dive_top_n: 3        # Fewer items for faster testing
+    top_n_ratios: 5
+
+# =============================================================================
+# CLI DEFAULT VALUES
+# =============================================================================
+# Default values for command-line interfaces across all modules
+cli_defaults:
+  ratio_detection:
+    min_ratio_score: 0.5
+    min_quotes: 5
+    top_n: 20
+    
+  topics:
+    min_topic_size: 3
+    max_topics: 15
+    
+  pipeline:
+    hours_back: 1
+    timeout: 600              # 10 minutes
+    min_engagement: 10
+    top_n_ratios: 20
+    deep_dive_top_n: 5
+    
+  analysis:
+    hours_back: 1             # Changed from 6 to 1 hour
+    min_engagement: 10
+    top_n: 10
+    
+  collection:
+    hours_back: 1
+    timeout: 600
+    
+  responses:
+    max_quotes: 100
+    thread_depth: 10
+    
+  metrics:
+    max_age_hours: 25

@@ -1,0 +1,2567 @@
+{
+  "total_tests": 150,
+  "valid_results": 150,
+  "best_silhouette": {
+    "params": {
+      "min_cluster_size": 3,
+      "min_samples": 2,
+      "cluster_selection_epsilon": 0.02,
+      "cluster_selection_method": "leaf"
+    },
+    "metrics": {
+      "num_topics": 4,
+      "silhouette_score": 0.10899999737739563,
+      "topic_distribution": [
+        9,
+        4,
+        3,
+        3
+      ]
+    },
+    "sample_topics": [
+      {
+        "id": 0,
+        "keywords": [
+          "president",
+          "job",
+          "judges",
+          "respect",
+          "habba"
+        ],
+        "post_count": 9
+      },
+      {
+        "id": 1,
+        "keywords": [
+          "feelings",
+          "real",
+          "cunt",
+          "know",
+          "feelings stupid"
+        ],
+        "post_count": 4
+      },
+      {
+        "id": 2,
+        "keywords": [
+          "barrel",
+          "cracker",
+          "fans",
+          "say thiscracker",
+          "marching forward"
+        ],
+        "post_count": 3
+      }
+    ]
+  },
+  "recommended": {
+    "params": {
+      "min_cluster_size": 3,
+      "min_samples": 2,
+      "cluster_selection_epsilon": 0.02,
+      "cluster_selection_method": "leaf"
+    },
+    "metrics": {
+      "num_topics": 4,
+      "silhouette_score": 0.10899999737739563,
+      "topic_distribution": [
+        9,
+        4,
+        3,
+        3
+      ]
+    },
+    "sample_topics": [
+      {
+        "id": 0,
+        "keywords": [
+          "president",
+          "job",
+          "judges",
+          "respect",
+          "habba"
+        ],
+        "post_count": 9
+      },
+      {
+        "id": 1,
+        "keywords": [
+          "feelings",
+          "real",
+          "cunt",
+          "know",
+          "feelings stupid"
+        ],
+        "post_count": 4
+      },
+      {
+        "id": 2,
+        "keywords": [
+          "barrel",
+          "cracker",
+          "fans",
+          "say thiscracker",
+          "marching forward"
+        ],
+        "post_count": 3
+      }
+    ],
+    "reason": "Best balance of clustering quality and topic count"
+  },
+  "all_results": [
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.07500000298023224,
+        "topic_distribution": [
+          10,
+          5,
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.09399999678134918,
+        "topic_distribution": [
+          9,
+          5,
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 5,
+        "silhouette_score": 0.07999999821186066,
+        "topic_distribution": [
+          6,
+          5,
+          4,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09799999743700027,
+        "topic_distribution": [
+          9,
+          7,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.07500000298023224,
+        "topic_distribution": [
+          10,
+          5,
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 5,
+        "silhouette_score": 0.06599999964237213,
+        "topic_distribution": [
+          5,
+          5,
+          5,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.10899999737739563,
+        "topic_distribution": [
+          9,
+          4,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.08500000089406967,
+        "topic_distribution": [
+          9,
+          5,
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 5,
+        "silhouette_score": 0.054999999701976776,
+        "topic_distribution": [
+          6,
+          5,
+          5,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09399999678134918,
+        "topic_distribution": [
+          10,
+          6,
+          4
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.08399999886751175,
+        "topic_distribution": [
+          10,
+          5,
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 5,
+        "silhouette_score": 0.05000000074505806,
+        "topic_distribution": [
+          5,
+          5,
+          4,
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09700000286102295,
+        "topic_distribution": [
+          10,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09099999815225601,
+        "topic_distribution": [
+          9,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 5,
+        "silhouette_score": 0.06599999964237213,
+        "topic_distribution": [
+          5,
+          5,
+          4,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08799999952316284,
+        "topic_distribution": [
+          10,
+          8,
+          3
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 3,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08799999952316284,
+        "topic_distribution": [
+          10,
+          6,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.07199999690055847,
+        "topic_distribution": [
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09600000083446503,
+        "topic_distribution": [
+          9,
+          7,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 4,
+        "silhouette_score": 0.07999999821186066,
+        "topic_distribution": [
+          10,
+          5,
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.0820000022649765,
+        "topic_distribution": [
+          12,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09099999815225601,
+        "topic_distribution": [
+          9,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09700000286102295,
+        "topic_distribution": [
+          9,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09099999815225601,
+        "topic_distribution": [
+          9,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 4,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08900000154972076,
+        "topic_distribution": [
+          13,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.0949999988079071,
+        "topic_distribution": [
+          9,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          10,
+          6,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.08100000023841858,
+        "topic_distribution": [
+          10,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08699999749660492,
+        "topic_distribution": [
+          13,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 3,
+        "silhouette_score": 0.09099999815225601,
+        "topic_distribution": [
+          9,
+          8,
+          5
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 5,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          12,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 6,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.0,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.02,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.05,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.1,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "eom"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.0949999988079071,
+        "topic_distribution": [
+          13,
+          8
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 1,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.07900000363588333,
+        "topic_distribution": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 2,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.08299999684095383,
+        "topic_distribution": [
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "params": {
+        "min_cluster_size": 8,
+        "min_samples": 3,
+        "cluster_selection_epsilon": 0.15,
+        "cluster_selection_method": "leaf"
+      },
+      "metrics": {
+        "num_topics": 2,
+        "silhouette_score": 0.0820000022649765,
+        "topic_distribution": [
+          12,
+          10
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-08-21T20:45:40.293798",
+  "test_corpus_size": 23
+}

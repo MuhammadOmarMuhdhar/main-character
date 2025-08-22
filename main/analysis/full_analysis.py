@@ -174,6 +174,46 @@ def run_full_analysis(hours_back: int = 6,
         else:
             print("⚠️ Warning: No topics data found in pipeline results")
         
+        # Update topic feeds if topics were found
+        if topics_data:
+            print("🎯 Updating topic feeds...")
+            try:
+                # Import and run topic feed update
+                import subprocess
+                import sys
+                
+                # Build path to topic feed update script
+                script_path = os.path.join(
+                    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
+                    'feeds', 'scripts', 'update_topic_feeds.py'
+                )
+                
+                if os.path.exists(script_path):
+                    # Run the topic feed update script
+                    result = subprocess.run([
+                        sys.executable, script_path,
+                        '--topics-file', 'frontend/topics.json',
+                        '--analysis-file', 'main/data/today.json'
+                    ], capture_output=True, text=True, cwd=os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+                    
+                    if result.returncode == 0:
+                        print("✅ Topic feeds updated successfully")
+                        # Log any output from the script
+                        if result.stdout:
+                            for line in result.stdout.strip().split('\n'):
+                                if line.strip():
+                                    print(f"   {line}")
+                    else:
+                        print(f"⚠️ Topic feed update had issues (exit code: {result.returncode})")
+                        if result.stderr:
+                            print(f"   Error: {result.stderr}")
+                else:
+                    print("⚠️ Topic feed update script not found, skipping feed updates")
+                    
+            except Exception as e:
+                print(f"⚠️ Failed to update topic feeds: {e}")
+                # Don't fail the main analysis if topic feed update fails
+        
         # Print summary
         print("\n📊 Analysis Complete!")
         print("=" * 50)

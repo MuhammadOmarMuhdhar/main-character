@@ -68,7 +68,7 @@ class RatioPipeline:
             min_likes_threshold=3,
             min_replies_threshold=2,
             min_ratio_threshold=0.5,
-            collection_window_hours=hours_back
+            test_mode=False
         )
         
         self.responses_collector = PostResponsesCollector()
@@ -211,9 +211,10 @@ class RatioPipeline:
                         'original_post': ratio_result.post,
                         'ratio_metrics': {
                             'score': ratio_result.ratio_score,
-                            'confidence': ratio_result.confidence,
-                            'category': ratio_result.category.value,
-                            'explanation': ratio_result.explanation
+                            'time_bucket': ratio_result.time_bucket,
+                            'total_engagement': ratio_result.total_engagement,
+                            'explanation': ratio_result.explanation,
+                            'post_age_minutes': ratio_result.post_age_minutes
                         },
                         'top_5_replies': [],
                         'top_5_quotes': [],
@@ -307,8 +308,8 @@ class RatioPipeline:
                     },
                     'ratio_metrics': {
                         'score': round(ratio_result.ratio_score, 2),
-                        'confidence': round(ratio_result.confidence, 3),
-                        'category': ratio_result.category.value,
+                        'time_bucket': ratio_result.time_bucket,
+                        'total_engagement': ratio_result.total_engagement,
                         'explanation': ratio_result.explanation,
                         'post_age_minutes': round(ratio_result.post_age_minutes, 1)
                     },
@@ -431,7 +432,7 @@ class RatioPipeline:
                 'ratios_detected': len(self.detected_ratios),
                 'analysis_timestamp': self.analysis_timestamp.isoformat() if self.analysis_timestamp else None,
                 'top_ratio_score': max([r.ratio_score for r in self.detected_ratios]) if self.detected_ratios else 0,
-                'categories_found': list(set([r.category.value for r in self.detected_ratios])) if self.detected_ratios else []
+                'time_buckets_found': list(set([r.time_bucket for r in self.detected_ratios])) if self.detected_ratios else []
             },
             'settings': {
                 'hours_back': self.hours_back,
@@ -461,8 +462,8 @@ class RatioPipeline:
             {
                 'rank': i + 1,
                 'ratio_score': round(ratio.ratio_score, 2),
-                'confidence': round(ratio.confidence, 3),
-                'category': ratio.category.value,
+                'time_bucket': ratio.time_bucket,
+                'total_engagement': ratio.total_engagement,
                 'explanation': ratio.explanation,
                 'post': {
                     'uri': ratio.post['uri'],
@@ -565,13 +566,15 @@ class RatioPipeline:
             
             if top_ratios:
                 print(f"   Top ratio score: {summary['analysis_stats']['top_ratio_score']:.2f}")
-                print(f"   Categories found: {', '.join(summary['analysis_stats']['categories_found'])}")
+                print(f"   Time buckets found: {', '.join(map(str, summary['analysis_stats']['time_buckets_found']))}")
                 
                 print("\n🔥 Top 5 Ratios with Response Analysis:")
                 for i, result in enumerate(deep_dive_results[:5]):
                     ratio = result['ratio_metrics']
                     sentiment = result['overall_sentiment']
-                    print(f"   {i+1}. {ratio['category']} (Score: {ratio['score']}) - Responses: {sentiment['analyzed_total_responses']}")
+                    bucket_labels = ["0-15m", "15-30m", "30-45m", "45-60m"]
+                    bucket_str = bucket_labels[ratio['time_bucket']] if ratio['time_bucket'] < 4 else "60m+"
+                    print(f"   {i+1}. {bucket_str} (Score: {ratio['score']}) - Responses: {sentiment['analyzed_total_responses']}")
                     print(f"      Text: {result['original_post']['text'][:80]}...")
                     print(f"      Sentiment: Polarity {sentiment['avg_polarity']:.2f}, Anger {sentiment['avg_anger']:.2f}")
                     print()

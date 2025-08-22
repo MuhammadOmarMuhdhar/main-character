@@ -150,8 +150,8 @@ class MainCharacterTransformer:
             "sample_replies": sample_replies,
             "metrics": {
                 "ratio_score": ratio_metrics.get('score', 0),
-                "confidence": ratio_metrics.get('confidence', 0),
-                "category": ratio_metrics.get('category', 'Unknown'),
+                "time_bucket": ratio_metrics.get('time_bucket', 0),
+                "total_engagement": ratio_metrics.get('total_engagement', 0),
                 "post_age_minutes": ratio_metrics.get('post_age_minutes', 0)
             },
             "previous_analysis": {
@@ -218,38 +218,30 @@ class MainCharacterTransformer:
     def _calculate_controversy_score(self, ratio_metrics: Dict[str, Any], 
                                    sentiment: Dict[str, Any]) -> float:
         """
-        Calculate controversy score (0-10 scale) from ratio metrics and sentiment
+        Calculate engagement score (0-10 scale) from engagement and recency
         
         Args:
             ratio_metrics: Ratio detection metrics
-            sentiment: Sentiment analysis results
+            sentiment: Sentiment analysis results (ignored in simple ranking)
             
         Returns:
-            Controversy score between 0 and 10
+            Engagement score between 0 and 10
         """
-        ratio_score = ratio_metrics.get('score', 0)
-        confidence = ratio_metrics.get('confidence', 0)
+        # Simple ranking: pure engagement + recency
+        total_engagement = ratio_metrics.get('total_engagement', 0)
         
-        # Base score from ratio (cap at 8 to leave room for sentiment boost)
-        base_score = min(ratio_score * 0.4, 8.0)  # Scale down ratio score
+        # Base engagement score (scale to 0-8 range)
+        base_score = min(total_engagement / 50, 8.0)  # 400+ engagement = max 8.0
         
-        # Sentiment boost (0-2 points possible)
-        avg_anger = sentiment.get('avg_anger', 0)
-        avg_disgust = sentiment.get('avg_disgust', 0)
-        sentiment_boost = (avg_anger + avg_disgust) * 2
+        # Time bucket boost (more recent = higher score)
+        time_bucket = ratio_metrics.get('time_bucket', 3)
+        time_boost = 1.0 + (0.5 * (3 - time_bucket))  # 0-15min gets 2.5x, 45-60min gets 1.0x
         
-        # Apply confidence multiplier
-        raw_score = (base_score + sentiment_boost) * confidence
-        
-        # Category-based adjustments
-        category = ratio_metrics.get('category', '')
-        if category == 'Complete Ratio':
-            raw_score *= 1.2  # 20% boost for complete ratios
-        elif category == 'Fresh Ratio':
-            raw_score *= 1.1  # 10% boost for fresh ratios
+        # Final score with time boost
+        final_score = base_score * time_boost
         
         # Cap at 10 and round
-        return min(raw_score, 10.0)
+        return min(final_score, 10.0)
     
     def _calculate_change_indicator(self, handle: str, current_controversy: float,
                                   current_rank: int, previous_data: Optional[Dict[str, Any]]) -> Dict[str, Any]:

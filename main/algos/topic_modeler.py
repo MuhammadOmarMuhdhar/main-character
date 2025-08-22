@@ -11,6 +11,14 @@ import numpy as np
 from typing import Dict, List, Any, Tuple, Optional
 from dataclasses import dataclass
 from datetime import datetime, timezone
+try:
+    from ..shared.config import get_config
+except ImportError:
+    # Handle direct execution
+    import sys
+    import os
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    from shared.config import get_config
 
 try:
     import langdetect
@@ -52,6 +60,14 @@ except ImportError:
     import subprocess
     subprocess.check_call(['pip', 'install', 'scikit-learn'])
     from sklearn.feature_extraction.text import CountVectorizer
+
+try:
+    import hdbscan
+except ImportError:
+    print("Installing hdbscan...")
+    import subprocess
+    subprocess.check_call(['pip', 'install', 'hdbscan'])
+    import hdbscan
 
 
 @dataclass
@@ -226,9 +242,10 @@ class EnglishTopicModeler:
     """English-only topic modeling using BERTopic + Gemini"""
     
     def __init__(self, 
-                 min_topic_size: int = 3,
-                 max_topics: int = 15,
-                 embedding_model: str = "all-MiniLM-L6-v2"):
+                 min_topic_size: int = None,
+                 max_topics: int = None,
+                 embedding_model: str = None,
+                 test_mode: bool = False):
         """
         Initialize English topic modeler
         
@@ -236,9 +253,14 @@ class EnglishTopicModeler:
             min_topic_size: Minimum posts per topic
             max_topics: Maximum number of topics
             embedding_model: Sentence transformer model for embeddings
+            test_mode: Whether to use test mode configurations
         """
-        self.min_topic_size = min_topic_size
-        self.max_topics = max_topics
+        config = get_config(test_mode=test_mode)
+        topics_config = config.get_topics_config()
+        
+        self.min_topic_size = min_topic_size or topics_config.get('min_topic_size', 3)
+        self.max_topics = max_topics or topics_config.get('max_topics', 15)
+        embedding_model = embedding_model or topics_config.get('embedding_model', 'all-MiniLM-L6-v2')
         
         # Initialize sentence transformer for embeddings
         print(f"Loading embedding model: {embedding_model}")
@@ -248,11 +270,22 @@ class EnglishTopicModeler:
         self.gemini_labeler = None
         
         # Set up BERTopic components
+        min_df = topics_config.get('min_df', 1)
+        ngram_range = tuple(topics_config.get('ngram_range', [1, 2]))
+        
         self.vectorizer = CountVectorizer(
             stop_words="english",
-            min_df=1,
-            ngram_range=(1, 2)
+            min_df=min_df,
+            ngram_range=ngram_range
         )
+        
+        # Set up HDBSCAN parameters
+        hdbscan_config = topics_config.get('hdbscan', {})
+        self.hdbscan_min_cluster_size = hdbscan_config.get('min_cluster_size', 5)
+        self.hdbscan_min_samples = hdbscan_config.get('min_samples', None)
+        self.hdbscan_epsilon = hdbscan_config.get('cluster_selection_epsilon', 0.0)
+        self.hdbscan_method = hdbscan_config.get('cluster_selection_method', 'eom')
+        self.hdbscan_metric = hdbscan_config.get('metric', 'euclidean')
     
     def setup_gemini(self, api_key: str):
         """Setup Gemini labeler with API key"""
@@ -334,8 +367,12 @@ class EnglishTopicModeler:
                 return {}
             
             # Convert to word scores dict
+            config = get_config()
+            topics_config = config.get_topics_config()
+            max_keywords = topics_config.get('max_keywords', 25)
+            
             word_scores = {}
-            for word, score in topic_words[:25]:  # Top 25 keywords
+            for word, score in topic_words[:max_keywords]:
                 word_scores[word] = round(float(score), 3)
             
             return word_scores
@@ -418,9 +455,28 @@ class EnglishTopicModeler:
             if api_key:
                 self.setup_gemini(api_key)
             
-            # Initialize BERTopic
+            # Create custom HDBSCAN model with tuned parameters
+            hdbscan_params = {
+                'min_cluster_size': self.hdbscan_min_cluster_size,
+                'cluster_selection_epsilon': self.hdbscan_epsilon,
+                'cluster_selection_method': self.hdbscan_method,
+                'metric': self.hdbscan_metric
+            }
+            
+            # Add min_samples if specified in config
+            if self.hdbscan_min_samples is not None:
+                hdbscan_params['min_samples'] = self.hdbscan_min_samples
+                
+            hdbscan_model = hdbscan.HDBSCAN(**hdbscan_params)
+            
+            min_samples_str = f", min_samples={self.hdbscan_min_samples}" if self.hdbscan_min_samples else ""
+            print(f"Using HDBSCAN: min_cluster_size={self.hdbscan_min_cluster_size}, "
+                  f"epsilon={self.hdbscan_epsilon}, method={self.hdbscan_method}{min_samples_str}")
+            
+            # Initialize BERTopic with custom HDBSCAN
             topic_model = BERTopic(
                 embedding_model=None,  # We provide pre-computed embeddings
+                hdbscan_model=hdbscan_model,  # Use custom HDBSCAN parameters
                 vectorizer_model=self.vectorizer,
                 representation_model=self.gemini_labeler,  # Use Gemini for labeling
                 min_topic_size=self.min_topic_size,
@@ -607,10 +663,15 @@ def main():
     parser = argparse.ArgumentParser(description='Analyze topics in Bluesky posts using BERTopic')
     parser.add_argument('input_file', help='JSON file with posts data')
     parser.add_argument('--output', help='Output file for topic results')
-    parser.add_argument('--min-topic-size', type=int, default=3,
-                       help='Minimum topic size (default: 3)')
-    parser.add_argument('--max-topics', type=int, default=15,
-                       help='Maximum number of topics (default: 15)')
+    config = get_config()
+    cli_defaults = config.get_cli_defaults('topics')
+    
+    parser.add_argument('--min-topic-size', type=int, 
+                       default=cli_defaults.get('min_topic_size', 3),
+                       help=f'Minimum topic size (default: {cli_defaults.get("min_topic_size", 3)})')
+    parser.add_argument('--max-topics', type=int, 
+                       default=cli_defaults.get('max_topics', 15),
+                       help=f'Maximum number of topics (default: {cli_defaults.get("max_topics", 15)})')
     parser.add_argument('--gemini-key', help='Gemini API key for topic labeling')
     
     args = parser.parse_args()

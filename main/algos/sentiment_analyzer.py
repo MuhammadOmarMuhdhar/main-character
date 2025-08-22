@@ -8,6 +8,14 @@ import json
 import re
 from typing import Dict, List, Any
 from dataclasses import dataclass
+try:
+    from ..shared.config import get_config
+except ImportError:
+    # Handle direct execution
+    import sys
+    import os
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    from shared.config import get_config
 
 try:
     from textblob import TextBlob
@@ -156,9 +164,13 @@ class SentimentAnalyzer:
         avg_anger = sum(s['anger'] for s in sentiments) / len(sentiments)
         avg_disgust = sum(s['disgust'] for s in sentiments) / len(sentiments)
         
-        # Count posts with significant emotions (threshold > 0.3)
-        high_anger = len([s for s in sentiments if s['anger'] > 0.3])
-        high_disgust = len([s for s in sentiments if s['disgust'] > 0.3])
+        config = get_config()
+        sentiment_config = config.get_sentiment_config()
+        high_emotion_threshold = sentiment_config.get('high_emotion_threshold', 0.3)
+        
+        # Count posts with significant emotions
+        high_anger = len([s for s in sentiments if s['anger'] > high_emotion_threshold])
+        high_disgust = len([s for s in sentiments if s['disgust'] > high_emotion_threshold])
         
         # Most emotional posts
         most_negative = max(sentiments, key=lambda x: x['total_negative_emotion'])
