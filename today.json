@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T18:49:41.862789+00:00",
-    "last_metrics_update": "2025-08-22T19:47:28.295112+00:00",
+    "last_metrics_update": "2025-08-22T20:02:44.867653+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 12,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 1015,
-        "replies": 382,
-        "reposts": 317,
-        "quotes": 120,
+        "likes": 1133,
+        "replies": 397,
+        "reposts": 346,
+        "quotes": 136,
         "formatted": {
-          "likes": "1.0K",
-          "replies": "382",
-          "reposts": "317",
-          "quotes": "120"
+          "likes": "1.1K",
+          "replies": "397",
+          "reposts": "346",
+          "quotes": "136"
         }
       },
       "sample_replies": [
@@ -91,13 +91,13 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
       },
       "engagement": {
-        "likes": 54,
-        "replies": 65,
+        "likes": 55,
+        "replies": 68,
         "reposts": 37,
         "quotes": 27,
         "formatted": {
-          "likes": "54",
-          "replies": "65",
+          "likes": "55",
+          "replies": "68",
           "reposts": "37",
           "quotes": "27"
         }
@@ -203,13 +203,13 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lwz2e4p4i22k"
       },
       "engagement": {
-        "likes": 77,
-        "replies": 43,
+        "likes": 80,
+        "replies": 45,
         "reposts": 14,
         "quotes": 9,
         "formatted": {
-          "likes": "77",
-          "replies": "43",
+          "likes": "80",
+          "replies": "45",
           "reposts": "14",
           "quotes": "9"
         }
@@ -315,13 +315,13 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 85,
-        "replies": 41,
+        "likes": 89,
+        "replies": 43,
         "reposts": 15,
         "quotes": 11,
         "formatted": {
-          "likes": "85",
-          "replies": "41",
+          "likes": "89",
+          "replies": "43",
           "reposts": "15",
           "quotes": "11"
         }
@@ -427,15 +427,15 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 45,
+        "likes": 48,
         "replies": 5,
         "reposts": 6,
-        "quotes": 6,
+        "quotes": 7,
         "formatted": {
-          "likes": "45",
+          "likes": "48",
           "replies": "5",
           "reposts": "6",
-          "quotes": "6"
+          "quotes": "7"
         }
       },
       "sample_replies": [
@@ -484,12 +484,12 @@
         "url": "https://bsky.app/profile/financialtimes.com/post/3lwz2rc3asp2s"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 25,
         "replies": 12,
         "reposts": 6,
         "quotes": 7,
         "formatted": {
-          "likes": "23",
+          "likes": "25",
           "replies": "12",
           "reposts": "6",
           "quotes": "7"
