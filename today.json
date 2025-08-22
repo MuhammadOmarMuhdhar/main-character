@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T03:17:36.562898+00:00",
-    "last_metrics_update": "2025-08-22T04:32:34.836422+00:00",
+    "last_metrics_update": "2025-08-22T04:47:23.895384+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 51,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 202,
-        "replies": 311,
+        "likes": 204,
+        "replies": 314,
         "reposts": 19,
-        "quotes": 372,
+        "quotes": 376,
         "formatted": {
-          "likes": "202",
-          "replies": "311",
+          "likes": "204",
+          "replies": "314",
           "reposts": "19",
-          "quotes": "372"
+          "quotes": "376"
         }
       },
       "sample_replies": [
@@ -369,12 +369,12 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 101,
+        "likes": 102,
         "replies": 75,
         "reposts": 11,
         "quotes": 141,
         "formatted": {
-          "likes": "101",
+          "likes": "102",
           "replies": "75",
           "reposts": "11",
           "quotes": "141"
@@ -537,12 +537,12 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 530,
+        "likes": 533,
         "replies": 317,
         "reposts": 105,
         "quotes": 755,
         "formatted": {
-          "likes": "530",
+          "likes": "533",
           "replies": "317",
           "reposts": "105",
           "quotes": "755"
@@ -593,14 +593,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1287,
-        "replies": 1523,
-        "reposts": 269,
-        "quotes": 1084,
+        "likes": 1294,
+        "replies": 1525,
+        "reposts": 272,
+        "quotes": 1087,
         "formatted": {
           "likes": "1.3K",
           "replies": "1.5K",
-          "reposts": "269",
+          "reposts": "272",
           "quotes": "1.1K"
         }
       },
@@ -861,7 +861,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "44:1",
+      "ratio": "46:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -872,15 +872,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 121,
+        "likes": 125,
         "replies": 4,
         "reposts": 4,
-        "quotes": 177,
+        "quotes": 182,
         "formatted": {
-          "likes": "121",
+          "likes": "125",
           "replies": "4",
           "reposts": "4",
-          "quotes": "177"
+          "quotes": "182"
         }
       },
       "sample_replies": [
@@ -1203,12 +1203,12 @@
         "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
       },
       "engagement": {
-        "likes": 175,
+        "likes": 176,
         "replies": 144,
         "reposts": 2,
         "quotes": 20,
         "formatted": {
-          "likes": "175",
+          "likes": "176",
           "replies": "144",
           "reposts": "2",
           "quotes": "20"
@@ -1259,12 +1259,12 @@
         "url": "https://bsky.app/profile/wario64.bsky.social/post/3lwwm42mucd2l"
       },
       "engagement": {
-        "likes": 133,
+        "likes": 134,
         "replies": 19,
         "reposts": 17,
         "quotes": 118,
         "formatted": {
-          "likes": "133",
+          "likes": "134",
           "replies": "19",
           "reposts": "17",
           "quotes": "118"
@@ -1464,62 +1464,6 @@
     {
       "rank": 27,
       "user": {
-        "handle": "reichlinmelnick.bsky.social",
-        "display_name": "Aaron Reichlin-Melnick",
-        "initials": "AR",
-        "did": "did:plc:2vtbmhmrwzbqcfv4we4uxzzt",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/bafkreiegkrp7aglu36764u6432m2hcgotmplgq5y34vsf6y5sh5txmtghq@jpeg",
-        "profile_url": "https://bsky.app/profile/reichlinmelnick.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 0.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Chris Rufo suggests his new campaign is to “break” the Barrel.",
-        "uri": "at://did:plc:2vtbmhmrwzbqcfv4we4uxzzt/app.bsky.feed.post/3lwx25hbv2s2t",
-        "created_at": "2025-08-21T22:58:24.885Z",
-        "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
-      },
-      "engagement": {
-        "likes": 636,
-        "replies": 217,
-        "reposts": 80,
-        "quotes": 273,
-        "formatted": {
-          "likes": "636",
-          "replies": "217",
-          "reposts": "80",
-          "quotes": "273"
-        }
-      },
-      "sample_replies": [
-        "wtf are these people even talking about? Anything to be outraged.",
-        "He gave his life to Christ in a Cracker Barrel parking lot?…so much to unpack here",
-        "Yeah I'm baffled - what about the previous design was... unwoke, or whatever? Like why is the new...",
-        "The logo was changed after a PE firm bought the chain. Wokeness had nothing to do with the change...."
-      ],
-      "metrics": {
-        "ratio_score": 3.59,
-        "confidence": 0.893,
-        "category": "Quote Dunk",
-        "post_age_minutes": 34.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T23:50:12.482873+00:00",
-      "last_updated": "2025-08-21T23:50:12.482873+00:00",
-      "analysis_windows": [
-        "2025-08-21T23:50:12.482873+00:00"
-      ],
-      "peak_controversy": 1.4,
-      "trend": "new"
-    },
-    {
-      "rank": 28,
-      "user": {
         "handle": "bizzybaby.bsky.social",
         "display_name": "Bizzy",
         "initials": "BI",
@@ -1528,7 +1472,7 @@
         "profile_url": "https://bsky.app/profile/bizzybaby.bsky.social"
       },
       "ratio": "8:1",
-      "controversy": 0.2,
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1541,12 +1485,12 @@
         "likes": 22,
         "replies": 8,
         "reposts": 3,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
           "likes": "22",
           "replies": "8",
           "reposts": "3",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -1571,6 +1515,62 @@
         "2025-08-21T23:50:12.105106+00:00"
       ],
       "peak_controversy": 3.7,
+      "trend": "new"
+    },
+    {
+      "rank": 28,
+      "user": {
+        "handle": "reichlinmelnick.bsky.social",
+        "display_name": "Aaron Reichlin-Melnick",
+        "initials": "AR",
+        "did": "did:plc:2vtbmhmrwzbqcfv4we4uxzzt",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/bafkreiegkrp7aglu36764u6432m2hcgotmplgq5y34vsf6y5sh5txmtghq@jpeg",
+        "profile_url": "https://bsky.app/profile/reichlinmelnick.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Chris Rufo suggests his new campaign is to “break” the Barrel.",
+        "uri": "at://did:plc:2vtbmhmrwzbqcfv4we4uxzzt/app.bsky.feed.post/3lwx25hbv2s2t",
+        "created_at": "2025-08-21T22:58:24.885Z",
+        "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
+      },
+      "engagement": {
+        "likes": 640,
+        "replies": 217,
+        "reposts": 80,
+        "quotes": 276,
+        "formatted": {
+          "likes": "640",
+          "replies": "217",
+          "reposts": "80",
+          "quotes": "276"
+        }
+      },
+      "sample_replies": [
+        "wtf are these people even talking about? Anything to be outraged.",
+        "He gave his life to Christ in a Cracker Barrel parking lot?…so much to unpack here",
+        "Yeah I'm baffled - what about the previous design was... unwoke, or whatever? Like why is the new...",
+        "The logo was changed after a PE firm bought the chain. Wokeness had nothing to do with the change...."
+      ],
+      "metrics": {
+        "ratio_score": 3.59,
+        "confidence": 0.893,
+        "category": "Quote Dunk",
+        "post_age_minutes": 34.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T23:50:12.482873+00:00",
+      "last_updated": "2025-08-21T23:50:12.482873+00:00",
+      "analysis_windows": [
+        "2025-08-21T23:50:12.482873+00:00"
+      ],
+      "peak_controversy": 1.4,
       "trend": "new"
     },
     {
@@ -1639,7 +1639,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pi6a5kro3sjj7x7j2gb7l2cq/bafkreiffo23z26c2v74nrtnkpd5sitfxibvtjhs3kco2ovt6lj3kzl23bq@jpeg",
         "profile_url": "https://bsky.app/profile/locgoody.bsky.social"
       },
-      "ratio": "14:1",
+      "ratio": "9:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1650,14 +1650,14 @@
         "url": "https://bsky.app/profile/locgoody.bsky.social/post/3lwwx5hucfc2q"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 9,
-        "reposts": 2,
+        "reposts": 3,
         "quotes": 27,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "9",
-          "reposts": "2",
+          "reposts": "3",
           "quotes": "27"
         }
       },
@@ -2094,12 +2094,12 @@
         "likes": 700,
         "replies": 66,
         "reposts": 63,
-        "quotes": 313,
+        "quotes": 312,
         "formatted": {
           "likes": "700",
           "replies": "66",
           "reposts": "63",
-          "quotes": "313"
+          "quotes": "312"
         }
       },
       "sample_replies": [
@@ -2360,7 +2360,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rmn6mvqjgmemgtl2cpkznar7/bafkreido3ee7gppqcblhu4dinple4oodymepzaldzpvn552fkpyospaoxm@jpeg",
         "profile_url": "https://bsky.app/profile/statsboyandi.bsky.social"
       },
-      "ratio": "9:1",
+      "ratio": "6:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2371,14 +2371,14 @@
         "url": "https://bsky.app/profile/statsboyandi.bsky.social/post/3lwwbfb6cg22m"
       },
       "engagement": {
-        "likes": 83,
-        "replies": 14,
-        "reposts": 2,
+        "likes": 84,
+        "replies": 15,
+        "reposts": 3,
         "quotes": 18,
         "formatted": {
-          "likes": "83",
-          "replies": "14",
-          "reposts": "2",
+          "likes": "84",
+          "replies": "15",
+          "reposts": "3",
           "quotes": "18"
         }
       },
