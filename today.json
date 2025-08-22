@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T09:56:56.778442+00:00",
-    "last_metrics_update": "2025-08-22T10:02:43.000692+00:00",
+    "last_metrics_update": "2025-08-22T10:17:47.832080+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 45,
@@ -36,12 +36,12 @@
       },
       "engagement": {
         "likes": 213,
-        "replies": 322,
+        "replies": 323,
         "reposts": 21,
         "quotes": 391,
         "formatted": {
           "likes": "213",
-          "replies": "322",
+          "replies": "323",
           "reposts": "21",
           "quotes": "391"
         }
@@ -372,13 +372,13 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 131,
-        "replies": 90,
+        "likes": 132,
+        "replies": 91,
         "reposts": 13,
         "quotes": 165,
         "formatted": {
-          "likes": "131",
-          "replies": "90",
+          "likes": "132",
+          "replies": "91",
           "reposts": "13",
           "quotes": "165"
         }
@@ -483,15 +483,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 599,
-        "replies": 357,
+        "likes": 600,
+        "replies": 359,
         "reposts": 122,
-        "quotes": 815,
+        "quotes": 820,
         "formatted": {
-          "likes": "599",
-          "replies": "357",
+          "likes": "600",
+          "replies": "359",
           "reposts": "122",
-          "quotes": "815"
+          "quotes": "820"
         }
       },
       "sample_replies": [
@@ -539,14 +539,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1366,
-        "replies": 1587,
-        "reposts": 296,
+        "likes": 1370,
+        "replies": 1589,
+        "reposts": 298,
         "quotes": 1112,
         "formatted": {
           "likes": "1.4K",
           "replies": "1.6K",
-          "reposts": "296",
+          "reposts": "298",
           "quotes": "1.1K"
         }
       },
@@ -577,6 +577,64 @@
     {
       "rank": 11,
       "user": {
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
+      },
+      "ratio": "2:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Protests expected at asylum hotels across England as tensions mount",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lwxvolqdoa2s",
+        "created_at": "2025-08-22T07:11:10Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lwxvolqdoa2s"
+      },
+      "engagement": {
+        "likes": 18,
+        "replies": 39,
+        "reposts": 6,
+        "quotes": 14,
+        "formatted": {
+          "likes": "18",
+          "replies": "39",
+          "reposts": "6",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "Racists on the march. Tell the truth about who these characters are. Racism is not a \"legitimate...",
+        "To call these “protests” and “demonstrations” is laughable. \n\nThis is the far right on the march,...",
+        "“Protests expected” is not news. It is a flier. What a fucking disgrace",
+        "100% agree. \n\nIt’s bad enough when toilet paper like the Daily Mail and Express, and televisual..."
+      ],
+      "metrics": {
+        "ratio_score": 2.17,
+        "confidence": 0.521,
+        "category": "Quote Dunk",
+        "post_age_minutes": 156.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T09:56:56.486246+00:00",
+      "last_updated": "2025-08-22T09:56:56.778356+00:00",
+      "analysis_windows": [
+        "2025-08-22T09:56:56.486246+00:00",
+        "2025-08-22T09:56:56.778356+00:00",
+        "2025-08-22T09:56:56.778356+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "rising"
+    },
+    {
+      "rank": 12,
+      "user": {
         "handle": "yatesyman.bsky.social",
         "display_name": "Steve Yates",
         "initials": "SY",
@@ -595,15 +653,15 @@
         "url": "https://bsky.app/profile/yatesyman.bsky.social/post/3lwxvncjb4k22"
       },
       "engagement": {
-        "likes": 29,
-        "replies": 24,
+        "likes": 30,
+        "replies": 27,
         "reposts": 5,
-        "quotes": 48,
+        "quotes": 50,
         "formatted": {
-          "likes": "29",
-          "replies": "24",
+          "likes": "30",
+          "replies": "27",
           "reposts": "5",
-          "quotes": "48"
+          "quotes": "50"
         }
       },
       "sample_replies": [
@@ -631,7 +689,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "cerromerussell.bsky.social",
         "display_name": "MonsterKing",
@@ -687,7 +745,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
@@ -743,64 +801,6 @@
       "trend": "new"
     },
     {
-      "rank": 14,
-      "user": {
-        "handle": "theguardian.com",
-        "display_name": "The Guardian",
-        "initials": "TG",
-        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
-        "profile_url": "https://bsky.app/profile/theguardian.com"
-      },
-      "ratio": "2:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Protests expected at asylum hotels across England as tensions mount",
-        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lwxvolqdoa2s",
-        "created_at": "2025-08-22T07:11:10Z",
-        "url": "https://bsky.app/profile/theguardian.com/post/3lwxvolqdoa2s"
-      },
-      "engagement": {
-        "likes": 18,
-        "replies": 37,
-        "reposts": 6,
-        "quotes": 12,
-        "formatted": {
-          "likes": "18",
-          "replies": "37",
-          "reposts": "6",
-          "quotes": "12"
-        }
-      },
-      "sample_replies": [
-        "Racists on the march. Tell the truth about who these characters are. Racism is not a \"legitimate...",
-        "To call these “protests” and “demonstrations” is laughable. \n\nThis is the far right on the march,...",
-        "“Protests expected” is not news. It is a flier. What a fucking disgrace",
-        "100% agree. \n\nIt’s bad enough when toilet paper like the Daily Mail and Express, and televisual..."
-      ],
-      "metrics": {
-        "ratio_score": 2.17,
-        "confidence": 0.521,
-        "category": "Quote Dunk",
-        "post_age_minutes": 156.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T09:56:56.486246+00:00",
-      "last_updated": "2025-08-22T09:56:56.778356+00:00",
-      "analysis_windows": [
-        "2025-08-22T09:56:56.486246+00:00",
-        "2025-08-22T09:56:56.778356+00:00",
-        "2025-08-22T09:56:56.778356+00:00"
-      ],
-      "peak_controversy": 1.3,
-      "trend": "rising"
-    },
-    {
       "rank": 15,
       "user": {
         "handle": "cloud-ra.bsky.social",
@@ -824,12 +824,12 @@
         "likes": 135,
         "replies": 4,
         "reposts": 5,
-        "quotes": 201,
+        "quotes": 202,
         "formatted": {
           "likes": "135",
           "replies": "4",
           "reposts": "5",
-          "quotes": "201"
+          "quotes": "202"
         }
       },
       "sample_replies": [
@@ -1199,7 +1199,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7ppdtkml2i7gqxxh32x5qj7/bafkreib4qa56phbel3yy4cpwc7gnyh2lfx7bn5o2wfl2zzqzuqkks6i5t4@jpeg",
         "profile_url": "https://bsky.app/profile/becauseofnikki.blacksky.app"
       },
-      "ratio": "29:1",
+      "ratio": "30:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1213,12 +1213,12 @@
         "likes": 18,
         "replies": 7,
         "reposts": 1,
-        "quotes": 29,
+        "quotes": 30,
         "formatted": {
           "likes": "18",
           "replies": "7",
           "reposts": "1",
-          "quotes": "29"
+          "quotes": "30"
         }
       },
       "sample_replies": [
@@ -1266,13 +1266,13 @@
         "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
       },
       "engagement": {
-        "likes": 176,
-        "replies": 145,
+        "likes": 177,
+        "replies": 147,
         "reposts": 2,
         "quotes": 20,
         "formatted": {
-          "likes": "176",
-          "replies": "145",
+          "likes": "177",
+          "replies": "147",
           "reposts": "2",
           "quotes": "20"
         }
@@ -1589,7 +1589,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d77lpmzmfo4rho4gow2hrkdz/bafkreia6bvlmyvmfxq5bmmalposiwmcsdxbpesikm256kap3inrt4hhhs4@jpeg",
         "profile_url": "https://bsky.app/profile/naiijah.bsky.social"
       },
-      "ratio": "12:1",
+      "ratio": "13:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1603,12 +1603,12 @@
         "likes": 21,
         "replies": 9,
         "reposts": 1,
-        "quotes": 12,
+        "quotes": 13,
         "formatted": {
           "likes": "21",
           "replies": "9",
           "reposts": "1",
-          "quotes": "12"
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -1768,12 +1768,12 @@
         "url": "https://bsky.app/profile/jeffpasan.bsky.social/post/3lwx343a6v22m"
       },
       "engagement": {
-        "likes": 71,
+        "likes": 73,
         "replies": 8,
         "reposts": 6,
         "quotes": 39,
         "formatted": {
-          "likes": "71",
+          "likes": "73",
           "replies": "8",
           "reposts": "6",
           "quotes": "39"
@@ -2046,12 +2046,12 @@
         "url": "https://bsky.app/profile/pandapyaar.bsky.social/post/3lwxzpsd3ic2z"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "replies": 4,
         "reposts": 0,
         "quotes": 4,
         "formatted": {
-          "likes": "15",
+          "likes": "16",
           "replies": "4",
           "reposts": "0",
           "quotes": "4"
@@ -2214,12 +2214,12 @@
         "url": "https://bsky.app/profile/sickoscommittee.org/post/3lwxgl2ge6k2j"
       },
       "engagement": {
-        "likes": 41,
+        "likes": 42,
         "replies": 6,
         "reposts": 3,
         "quotes": 9,
         "formatted": {
-          "likes": "41",
+          "likes": "42",
           "replies": "6",
           "reposts": "3",
           "quotes": "9"
