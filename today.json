@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T03:17:36.562898+00:00",
-    "last_metrics_update": "2025-08-22T04:17:32.889553+00:00",
+    "last_metrics_update": "2025-08-22T04:32:34.836422+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 51,
@@ -24,7 +24,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ma4ud7ovt2cpuj6bncaf6gw/bafkreidofaolk6fpeooyim46twmtpw3rgq6swwqk4nawi3hpohafuighie@jpeg",
         "profile_url": "https://bsky.app/profile/jonathancohn.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "20:1",
       "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 200,
+        "likes": 202,
         "replies": 311,
         "reposts": 19,
-        "quotes": 365,
+        "quotes": 372,
         "formatted": {
-          "likes": "200",
+          "likes": "202",
           "replies": "311",
           "reposts": "19",
-          "quotes": "365"
+          "quotes": "372"
         }
       },
       "sample_replies": [
@@ -537,13 +537,13 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 528,
-        "replies": 316,
+        "likes": 530,
+        "replies": 317,
         "reposts": 105,
         "quotes": 755,
         "formatted": {
-          "likes": "528",
-          "replies": "316",
+          "likes": "530",
+          "replies": "317",
           "reposts": "105",
           "quotes": "755"
         }
@@ -593,8 +593,8 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1283,
-        "replies": 1518,
+        "likes": 1287,
+        "replies": 1523,
         "reposts": 269,
         "quotes": 1084,
         "formatted": {
@@ -875,12 +875,12 @@
         "likes": 121,
         "replies": 4,
         "reposts": 4,
-        "quotes": 175,
+        "quotes": 177,
         "formatted": {
           "likes": "121",
           "replies": "4",
           "reposts": "4",
-          "quotes": "175"
+          "quotes": "177"
         }
       },
       "sample_replies": [
@@ -927,12 +927,12 @@
       },
       "engagement": {
         "likes": 23,
-        "replies": 20,
+        "replies": 21,
         "reposts": 0,
         "quotes": 19,
         "formatted": {
           "likes": "23",
-          "replies": "20",
+          "replies": "21",
           "reposts": "0",
           "quotes": "19"
         }
@@ -1040,12 +1040,12 @@
         "likes": 137,
         "replies": 13,
         "reposts": 9,
-        "quotes": 152,
+        "quotes": 153,
         "formatted": {
           "likes": "137",
           "replies": "13",
           "reposts": "9",
-          "quotes": "152"
+          "quotes": "153"
         }
       },
       "sample_replies": [
@@ -1203,13 +1203,13 @@
         "url": "https://bsky.app/profile/proptermalone.bsky.social/post/3lwwxvynqbk2a"
       },
       "engagement": {
-        "likes": 174,
-        "replies": 143,
+        "likes": 175,
+        "replies": 144,
         "reposts": 2,
         "quotes": 20,
         "formatted": {
-          "likes": "174",
-          "replies": "143",
+          "likes": "175",
+          "replies": "144",
           "reposts": "2",
           "quotes": "20"
         }
@@ -1471,7 +1471,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/bafkreiegkrp7aglu36764u6432m2hcgotmplgq5y34vsf6y5sh5txmtghq@jpeg",
         "profile_url": "https://bsky.app/profile/reichlinmelnick.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1482,15 +1482,15 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 628,
+        "likes": 636,
         "replies": 217,
-        "reposts": 76,
-        "quotes": 272,
+        "reposts": 80,
+        "quotes": 273,
         "formatted": {
-          "likes": "628",
+          "likes": "636",
           "replies": "217",
-          "reposts": "76",
-          "quotes": "272"
+          "reposts": "80",
+          "quotes": "273"
         }
       },
       "sample_replies": [
@@ -2037,12 +2037,12 @@
         "url": "https://bsky.app/profile/jeffpasan.bsky.social/post/3lwx343a6v22m"
       },
       "engagement": {
-        "likes": 66,
+        "likes": 68,
         "replies": 7,
         "reposts": 6,
         "quotes": 38,
         "formatted": {
-          "likes": "66",
+          "likes": "68",
           "replies": "7",
           "reposts": "6",
           "quotes": "38"
@@ -2092,14 +2092,14 @@
       },
       "engagement": {
         "likes": 700,
-        "replies": 65,
+        "replies": 66,
         "reposts": 63,
-        "quotes": 312,
+        "quotes": 313,
         "formatted": {
           "likes": "700",
-          "replies": "65",
+          "replies": "66",
           "reposts": "63",
-          "quotes": "312"
+          "quotes": "313"
         }
       },
       "sample_replies": [
@@ -2259,12 +2259,12 @@
         "url": "https://bsky.app/profile/sickoscommittee.org/post/3lwxgl2ge6k2j"
       },
       "engagement": {
-        "likes": 37,
+        "likes": 39,
         "replies": 6,
         "reposts": 3,
         "quotes": 9,
         "formatted": {
-          "likes": "37",
+          "likes": "39",
           "replies": "6",
           "reposts": "3",
           "quotes": "9"
