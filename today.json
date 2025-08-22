@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T06:43:36.284561+00:00",
-    "last_metrics_update": "2025-08-22T08:47:36.512781+00:00",
+    "last_metrics_update": "2025-08-22T09:02:34.587716+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 49,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/jonathancohn.bsky.social/post/3lwvvxwt2ik2i"
       },
       "engagement": {
-        "likes": 211,
-        "replies": 321,
+        "likes": 212,
+        "replies": 322,
         "reposts": 21,
-        "quotes": 389,
+        "quotes": 390,
         "formatted": {
-          "likes": "211",
-          "replies": "321",
+          "likes": "212",
+          "replies": "322",
           "reposts": "21",
-          "quotes": "389"
+          "quotes": "390"
         }
       },
       "sample_replies": [
@@ -426,12 +426,12 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 123,
+        "likes": 125,
         "replies": 84,
         "reposts": 12,
         "quotes": 162,
         "formatted": {
-          "likes": "123",
+          "likes": "125",
           "replies": "84",
           "reposts": "12",
           "quotes": "162"
@@ -526,7 +526,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtzckelov7u3bxfxptrzd22u/bafkreia6zgrj64cst6uo5osqwthxrqutecfrezde47rhxczc7vkjgsujsu@jpeg",
         "profile_url": "https://bsky.app/profile/jsrailton.bsky.social"
       },
-      "ratio": "6:1",
+      "ratio": "7:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -537,15 +537,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 579,
-        "replies": 342,
+        "likes": 583,
+        "replies": 344,
         "reposts": 122,
-        "quotes": 792,
+        "quotes": 795,
         "formatted": {
-          "likes": "579",
-          "replies": "342",
+          "likes": "583",
+          "replies": "344",
           "reposts": "122",
-          "quotes": "792"
+          "quotes": "795"
         }
       },
       "sample_replies": [
@@ -593,14 +593,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1350,
-        "replies": 1578,
-        "reposts": 293,
-        "quotes": 1109,
+        "likes": 1353,
+        "replies": 1579,
+        "reposts": 294,
+        "quotes": 1110,
         "formatted": {
           "likes": "1.4K",
           "replies": "1.6K",
-          "reposts": "293",
+          "reposts": "294",
           "quotes": "1.1K"
         }
       },
@@ -750,7 +750,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lens7d52dmyc2hheuxa2onyd/bafkreignqoe76gwlm4mvzt4vudrjihexzwbtlwlkwjpjtrhasahxamenhq@jpeg",
         "profile_url": "https://bsky.app/profile/tryvns.writes.fyi"
       },
-      "ratio": "26:0",
+      "ratio": "25:0",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -764,12 +764,12 @@
         "likes": 14,
         "replies": 6,
         "reposts": 0,
-        "quotes": 26,
+        "quotes": 25,
         "formatted": {
           "likes": "14",
           "replies": "6",
           "reposts": "0",
-          "quotes": "26"
+          "quotes": "25"
         }
       },
       "sample_replies": [
@@ -817,12 +817,12 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 133,
+        "likes": 134,
         "replies": 4,
         "reposts": 5,
         "quotes": 200,
         "formatted": {
-          "likes": "133",
+          "likes": "134",
           "replies": "4",
           "reposts": "5",
           "quotes": "200"
@@ -1321,12 +1321,12 @@
         "likes": 137,
         "replies": 19,
         "reposts": 17,
-        "quotes": 118,
+        "quotes": 119,
         "formatted": {
           "likes": "137",
           "replies": "19",
           "reposts": "17",
-          "quotes": "118"
+          "quotes": "119"
         }
       },
       "sample_replies": [
@@ -1982,12 +1982,12 @@
       },
       "engagement": {
         "likes": 681,
-        "replies": 226,
+        "replies": 227,
         "reposts": 81,
         "quotes": 289,
         "formatted": {
           "likes": "681",
-          "replies": "226",
+          "replies": "227",
           "reposts": "81",
           "quotes": "289"
         }
@@ -2149,12 +2149,12 @@
         "url": "https://bsky.app/profile/apnews.com/post/3lwxmoxh5ac2k"
       },
       "engagement": {
-        "likes": 73,
+        "likes": 74,
         "replies": 21,
         "reposts": 5,
         "quotes": 13,
         "formatted": {
-          "likes": "73",
+          "likes": "74",
           "replies": "21",
           "reposts": "5",
           "quotes": "13"
