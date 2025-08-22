@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T18:49:41.862789+00:00",
-    "last_metrics_update": "2025-08-22T20:02:44.867653+00:00",
+    "last_metrics_update": "2025-08-22T20:17:40.388326+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 12,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 1133,
-        "replies": 397,
-        "reposts": 346,
-        "quotes": 136,
+        "likes": 1203,
+        "replies": 420,
+        "reposts": 366,
+        "quotes": 141,
         "formatted": {
-          "likes": "1.1K",
-          "replies": "397",
-          "reposts": "346",
-          "quotes": "136"
+          "likes": "1.2K",
+          "replies": "420",
+          "reposts": "366",
+          "quotes": "141"
         }
       },
       "sample_replies": [
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
       },
       "engagement": {
-        "likes": 55,
+        "likes": 56,
         "replies": 68,
-        "reposts": 37,
-        "quotes": 27,
+        "reposts": 38,
+        "quotes": 28,
         "formatted": {
-          "likes": "55",
+          "likes": "56",
           "replies": "68",
-          "reposts": "37",
-          "quotes": "27"
+          "reposts": "38",
+          "quotes": "28"
         }
       },
       "sample_replies": [
@@ -146,12 +146,12 @@
         "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
       },
       "engagement": {
-        "likes": 59,
+        "likes": 60,
         "replies": 34,
         "reposts": 7,
         "quotes": 11,
         "formatted": {
-          "likes": "59",
+          "likes": "60",
           "replies": "34",
           "reposts": "7",
           "quotes": "11"
@@ -203,13 +203,13 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lwz2e4p4i22k"
       },
       "engagement": {
-        "likes": 80,
-        "replies": 45,
+        "likes": 86,
+        "replies": 47,
         "reposts": 14,
         "quotes": 9,
         "formatted": {
-          "likes": "80",
-          "replies": "45",
+          "likes": "86",
+          "replies": "47",
           "reposts": "14",
           "quotes": "9"
         }
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 89,
+        "likes": 94,
         "replies": 43,
         "reposts": 15,
-        "quotes": 11,
+        "quotes": 12,
         "formatted": {
-          "likes": "89",
+          "likes": "94",
           "replies": "43",
           "reposts": "15",
-          "quotes": "11"
+          "quotes": "12"
         }
       },
       "sample_replies": [
@@ -427,14 +427,14 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 48,
+        "likes": 51,
         "replies": 5,
-        "reposts": 6,
+        "reposts": 7,
         "quotes": 7,
         "formatted": {
-          "likes": "48",
+          "likes": "51",
           "replies": "5",
-          "reposts": "6",
+          "reposts": "7",
           "quotes": "7"
         }
       },
