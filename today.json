@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T16:35:56.160485+00:00",
-    "last_metrics_update": "2025-08-22T18:02:26.070890+00:00",
+    "last_metrics_update": "2025-08-22T18:17:18.979167+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 50,
@@ -24,7 +24,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxpcdjq45e4e3izvobsuoyl4/bafkreibhtu76qygol6uokb7hftn736xmzcsawegv7h6ub6miktbomagaca@jpeg",
         "profile_url": "https://bsky.app/profile/gibiz.bsky.social"
       },
-      "ratio": "32:1",
+      "ratio": "35:1",
       "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/gibiz.bsky.social/post/3lwyo2umnqs2p"
       },
       "engagement": {
-        "likes": 22,
-        "replies": 59,
+        "likes": 25,
+        "replies": 67,
         "reposts": 4,
-        "quotes": 128,
+        "quotes": 141,
         "formatted": {
-          "likes": "22",
-          "replies": "59",
+          "likes": "25",
+          "replies": "67",
           "reposts": "4",
-          "quotes": "128"
+          "quotes": "141"
         }
       },
       "sample_replies": [
@@ -81,7 +81,7 @@
         "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
       },
       "ratio": "45:1",
-      "controversy": 2.2,
+      "controversy": 2.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -91,13 +91,13 @@
         "url": "https://bsky.app/profile/mewefree.bsky.social/post/3lwysq3rtes2n"
       },
       "engagement": {
-        "likes": 13,
-        "replies": 11,
+        "likes": 14,
+        "replies": 12,
         "reposts": 2,
         "quotes": 90,
         "formatted": {
-          "likes": "13",
-          "replies": "11",
+          "likes": "14",
+          "replies": "12",
           "reposts": "2",
           "quotes": "90"
         }
@@ -136,7 +136,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mzcmy6awgxir5s7jw5mj5ql/bafkreidtrmpnnimtkyxohfec6fvrrppid75y45caviswlkkzlce5izcafe@jpeg",
         "profile_url": "https://bsky.app/profile/seauxcocoa.bsky.social"
       },
-      "ratio": "71:0",
+      "ratio": "72:0",
       "controversy": 1.8,
       "change": "NEW",
       "change_type": "new",
@@ -150,12 +150,12 @@
         "likes": 14,
         "replies": 14,
         "reposts": 0,
-        "quotes": 71,
+        "quotes": 72,
         "formatted": {
           "likes": "14",
           "replies": "14",
           "reposts": "0",
-          "quotes": "71"
+          "quotes": "72"
         }
       },
       "sample_replies": [
@@ -651,8 +651,8 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1499,
-        "replies": 1740,
+        "likes": 1500,
+        "replies": 1744,
         "reposts": 323,
         "quotes": 1173,
         "formatted": {
@@ -707,15 +707,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 686,
-        "replies": 389,
+        "likes": 688,
+        "replies": 390,
         "reposts": 148,
-        "quotes": 913,
+        "quotes": 916,
         "formatted": {
-          "likes": "686",
-          "replies": "389",
+          "likes": "688",
+          "replies": "390",
           "reposts": "148",
-          "quotes": "913"
+          "quotes": "916"
         }
       },
       "sample_replies": [
@@ -744,62 +744,6 @@
     },
     {
       "rank": 14,
-      "user": {
-        "handle": "cerromerussell.bsky.social",
-        "display_name": "MonsterKing",
-        "initials": "MO",
-        "did": "did:plc:gea43dvjdqehvtuewqvlq3df",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gea43dvjdqehvtuewqvlq3df/bafkreicoixb4pv2vumbw56xqddv5vvc6arwznslanpnd5ps2cyglgmrxsu@jpeg",
-        "profile_url": "https://bsky.app/profile/cerromerussell.bsky.social"
-      },
-      "ratio": "7:0",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What is it about being a teenager that make you so determined to talk to your mama crazy?",
-        "uri": "at://did:plc:gea43dvjdqehvtuewqvlq3df/app.bsky.feed.post/3lwxdoa5frk2l",
-        "created_at": "2025-08-22T01:48:51.511Z",
-        "url": "https://bsky.app/profile/cerromerussell.bsky.social/post/3lwxdoa5frk2l"
-      },
-      "engagement": {
-        "likes": 6,
-        "replies": 10,
-        "reposts": 0,
-        "quotes": 7,
-        "formatted": {
-          "likes": "6",
-          "replies": "10",
-          "reposts": "0",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "Those hormones and big feelings without the knowledge or ability to pause and process before...",
-        "The hormones because it’s definitely not reason. 🥹🥹",
-        "Peachfuzz",
-        "A couple yrs ago my coworker was telling me about this “bird leaving the nest syndrome”or..."
-      ],
-      "metrics": {
-        "ratio_score": 15,
-        "confidence": 0.366,
-        "category": "Complete Ratio",
-        "post_age_minutes": 73.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T03:17:36.015430+00:00",
-      "last_updated": "2025-08-22T03:17:36.015430+00:00",
-      "analysis_windows": [
-        "2025-08-22T03:17:36.015430+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 15,
       "user": {
         "handle": "yatesyman.bsky.social",
         "display_name": "Steve Yates",
@@ -855,7 +799,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
@@ -911,7 +855,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "user": {
         "handle": "dessertnotdemure.bsky.social",
         "display_name": "Dee.",
@@ -967,7 +911,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1023,6 +967,62 @@
       ],
       "peak_controversy": 1.3,
       "trend": "rising"
+    },
+    {
+      "rank": 18,
+      "user": {
+        "handle": "cerromerussell.bsky.social",
+        "display_name": "MonsterKing",
+        "initials": "MO",
+        "did": "did:plc:gea43dvjdqehvtuewqvlq3df",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gea43dvjdqehvtuewqvlq3df/bafkreicoixb4pv2vumbw56xqddv5vvc6arwznslanpnd5ps2cyglgmrxsu@jpeg",
+        "profile_url": "https://bsky.app/profile/cerromerussell.bsky.social"
+      },
+      "ratio": "7:0",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What is it about being a teenager that make you so determined to talk to your mama crazy?",
+        "uri": "at://did:plc:gea43dvjdqehvtuewqvlq3df/app.bsky.feed.post/3lwxdoa5frk2l",
+        "created_at": "2025-08-22T01:48:51.511Z",
+        "url": "https://bsky.app/profile/cerromerussell.bsky.social/post/3lwxdoa5frk2l"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 10,
+        "reposts": 0,
+        "quotes": 7,
+        "formatted": {
+          "likes": "7",
+          "replies": "10",
+          "reposts": "0",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Those hormones and big feelings without the knowledge or ability to pause and process before...",
+        "The hormones because it’s definitely not reason. 🥹🥹",
+        "Peachfuzz",
+        "A couple yrs ago my coworker was telling me about this “bird leaving the nest syndrome”or..."
+      ],
+      "metrics": {
+        "ratio_score": 15,
+        "confidence": 0.366,
+        "category": "Complete Ratio",
+        "post_age_minutes": 73.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T03:17:36.015430+00:00",
+      "last_updated": "2025-08-22T03:17:36.015430+00:00",
+      "analysis_windows": [
+        "2025-08-22T03:17:36.015430+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
     },
     {
       "rank": 19,
@@ -1194,62 +1194,6 @@
     {
       "rank": 22,
       "user": {
-        "handle": "tryvns.writes.fyi",
-        "display_name": "Treywop. 🌬️🪼",
-        "initials": "T🌬",
-        "did": "did:plc:lens7d52dmyc2hheuxa2onyd",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lens7d52dmyc2hheuxa2onyd/bafkreignqoe76gwlm4mvzt4vudrjihexzwbtlwlkwjpjtrhasahxamenhq@jpeg",
-        "profile_url": "https://bsky.app/profile/tryvns.writes.fyi"
-      },
-      "ratio": "26:0",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "i remember i wished a woman a happy new year last year and this was the result.",
-        "uri": "at://did:plc:lens7d52dmyc2hheuxa2onyd/app.bsky.feed.post/3lwxc6pc4b223",
-        "created_at": "2025-08-22T01:22:16.771Z",
-        "url": "https://bsky.app/profile/tryvns.writes.fyi/post/3lwxc6pc4b223"
-      },
-      "engagement": {
-        "likes": 17,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 26,
-        "formatted": {
-          "likes": "17",
-          "replies": "6",
-          "reposts": "0",
-          "quotes": "26"
-        }
-      },
-      "sample_replies": [
-        "the crazy thing is, i agree with her. but i still wouldve asked 'is this a bot' lfenof;abwu;fbja;...",
-        "i was scared lowkey. the exclamation after everything was kinda threatening. lol",
-        "literally, 'sorry im not like others'... girl ok lmfaikfnoeasbf",
-        "So, it wasn’t 2024 for her yet? Bc you didn’t say happy new year— you marked a date change. \n\nOkay,..."
-      ],
-      "metrics": {
-        "ratio_score": 25,
-        "confidence": 0.399,
-        "category": "Complete Ratio",
-        "post_age_minutes": 100.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T03:17:35.877800+00:00",
-      "last_updated": "2025-08-22T03:17:35.877800+00:00",
-      "analysis_windows": [
-        "2025-08-22T03:17:35.877800+00:00"
-      ],
-      "peak_controversy": 3.9,
-      "trend": "new"
-    },
-    {
-      "rank": 23,
-      "user": {
         "handle": "dailyocs.bsky.social",
         "display_name": "Daily OC questions",
         "initials": "DO",
@@ -1304,6 +1248,62 @@
       "trend": "new"
     },
     {
+      "rank": 23,
+      "user": {
+        "handle": "tryvns.writes.fyi",
+        "display_name": "Treywop. 🌬️🪼",
+        "initials": "T🌬",
+        "did": "did:plc:lens7d52dmyc2hheuxa2onyd",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lens7d52dmyc2hheuxa2onyd/bafkreignqoe76gwlm4mvzt4vudrjihexzwbtlwlkwjpjtrhasahxamenhq@jpeg",
+        "profile_url": "https://bsky.app/profile/tryvns.writes.fyi"
+      },
+      "ratio": "25:0",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "i remember i wished a woman a happy new year last year and this was the result.",
+        "uri": "at://did:plc:lens7d52dmyc2hheuxa2onyd/app.bsky.feed.post/3lwxc6pc4b223",
+        "created_at": "2025-08-22T01:22:16.771Z",
+        "url": "https://bsky.app/profile/tryvns.writes.fyi/post/3lwxc6pc4b223"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 25,
+        "formatted": {
+          "likes": "17",
+          "replies": "6",
+          "reposts": "0",
+          "quotes": "25"
+        }
+      },
+      "sample_replies": [
+        "the crazy thing is, i agree with her. but i still wouldve asked 'is this a bot' lfenof;abwu;fbja;...",
+        "i was scared lowkey. the exclamation after everything was kinda threatening. lol",
+        "literally, 'sorry im not like others'... girl ok lmfaikfnoeasbf",
+        "So, it wasn’t 2024 for her yet? Bc you didn’t say happy new year— you marked a date change. \n\nOkay,..."
+      ],
+      "metrics": {
+        "ratio_score": 25,
+        "confidence": 0.399,
+        "category": "Complete Ratio",
+        "post_age_minutes": 100.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T03:17:35.877800+00:00",
+      "last_updated": "2025-08-22T03:17:35.877800+00:00",
+      "analysis_windows": [
+        "2025-08-22T03:17:35.877800+00:00"
+      ],
+      "peak_controversy": 3.9,
+      "trend": "new"
+    },
+    {
       "rank": 24,
       "user": {
         "handle": "hillarymonahan.bsky.social",
@@ -1313,7 +1313,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cetrjmezvk2esgi7g5albcek/bafkreie4oqu7zkemxwu3hbajtukcphgdnkjpnz7mumtyufnebhnnt6no2q@jpeg",
         "profile_url": "https://bsky.app/profile/hillarymonahan.bsky.social"
       },
-      "ratio": "31:1",
+      "ratio": "32:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1327,12 +1327,12 @@
         "likes": 43,
         "replies": 15,
         "reposts": 1,
-        "quotes": 31,
+        "quotes": 32,
         "formatted": {
           "likes": "43",
           "replies": "15",
           "reposts": "1",
-          "quotes": "31"
+          "quotes": "32"
         }
       },
       "sample_replies": [
@@ -1814,7 +1814,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hur5kz4omzpee5kh5i6qifdp/bafkreifi3xmfnwzg35onezx34enj3xzcunajpra6n4bt3bkhdjflbnjyru@jpeg",
         "profile_url": "https://bsky.app/profile/keeksreal.bsky.social"
       },
-      "ratio": "11:0",
+      "ratio": "12:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -1825,15 +1825,15 @@
         "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lwymfvezwc2w"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 19,
         "replies": 4,
-        "reposts": 0,
-        "quotes": 11,
+        "reposts": 1,
+        "quotes": 12,
         "formatted": {
-          "likes": "17",
+          "likes": "19",
           "replies": "4",
-          "reposts": "0",
-          "quotes": "11"
+          "reposts": "1",
+          "quotes": "12"
         }
       },
       "sample_replies": [
@@ -2327,12 +2327,12 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 740,
+        "likes": 741,
         "replies": 234,
         "reposts": 89,
         "quotes": 300,
         "formatted": {
-          "likes": "740",
+          "likes": "741",
           "replies": "234",
           "reposts": "89",
           "quotes": "300"
@@ -2439,12 +2439,12 @@
         "url": "https://bsky.app/profile/quantian.bsky.social/post/3lwyhnyqurc2q"
       },
       "engagement": {
-        "likes": 268,
+        "likes": 269,
         "replies": 33,
         "reposts": 13,
         "quotes": 45,
         "formatted": {
-          "likes": "268",
+          "likes": "269",
           "replies": "33",
           "reposts": "13",
           "quotes": "45"
@@ -2610,12 +2610,12 @@
         "likes": 90,
         "replies": 26,
         "reposts": 5,
-        "quotes": 14,
+        "quotes": 15,
         "formatted": {
           "likes": "90",
           "replies": "26",
           "reposts": "5",
-          "quotes": "14"
+          "quotes": "15"
         }
       },
       "sample_replies": [
