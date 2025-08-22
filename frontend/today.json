@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T18:49:41.862789+00:00",
-    "last_metrics_update": "2025-08-22T18:49:41.862789+00:00",
+    "last_metrics_update": "2025-08-22T19:02:26.476104+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 12,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 333,
-        "replies": 163,
-        "reposts": 92,
-        "quotes": 33,
+        "likes": 662,
+        "replies": 274,
+        "reposts": 204,
+        "quotes": 79,
         "formatted": {
-          "likes": "333",
-          "replies": "163",
-          "reposts": "92",
-          "quotes": "33"
+          "likes": "662",
+          "replies": "274",
+          "reposts": "204",
+          "quotes": "79"
         }
       },
       "sample_replies": [
@@ -73,6 +73,61 @@
     {
       "rank": 2,
       "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 4.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
+        "created_at": "2025-08-22T18:16:28.004085937Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
+      },
+      "engagement": {
+        "likes": 48,
+        "replies": 58,
+        "reposts": 32,
+        "quotes": 26,
+        "formatted": {
+          "likes": "48",
+          "replies": "58",
+          "reposts": "32",
+          "quotes": "26"
+        }
+      },
+      "sample_replies": [
+        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
+        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
+        "Keep sane washing, corporate buttholes."
+      ],
+      "metrics": {
+        "ratio_score": 2.36,
+        "time_bucket": 1,
+        "total_engagement": 118,
+        "post_age_minutes": 15.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.218980+00:00",
+      "last_updated": "2025-08-22T18:49:41.218980+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.218980+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 3,
+      "user": {
         "handle": "thebulwark.com",
         "display_name": "The Bulwark",
         "initials": "TB",
@@ -80,7 +135,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
         "profile_url": "https://bsky.app/profile/thebulwark.com"
       },
-      "ratio": "1:1",
+      "ratio": "2:1",
       "controversy": 3.8,
       "change": "NEW",
       "change_type": "new",
@@ -91,15 +146,15 @@
         "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
       },
       "engagement": {
-        "likes": 46,
+        "likes": 51,
         "replies": 33,
         "reposts": 7,
-        "quotes": 8,
+        "quotes": 11,
         "formatted": {
-          "likes": "46",
+          "likes": "51",
           "replies": "33",
           "reposts": "7",
-          "quotes": "8"
+          "quotes": "11"
         }
       },
       "sample_replies": [
@@ -128,61 +183,6 @@
       "trend": "rising"
     },
     {
-      "rank": 3,
-      "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
-      },
-      "ratio": "1:1",
-      "controversy": 4.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
-        "created_at": "2025-08-22T18:16:28.004085937Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
-      },
-      "engagement": {
-        "likes": 35,
-        "replies": 42,
-        "reposts": 24,
-        "quotes": 17,
-        "formatted": {
-          "likes": "35",
-          "replies": "42",
-          "reposts": "24",
-          "quotes": "17"
-        }
-      },
-      "sample_replies": [
-        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
-        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
-        "Keep sane washing, corporate buttholes."
-      ],
-      "metrics": {
-        "ratio_score": 2.36,
-        "time_bucket": 1,
-        "total_engagement": 118,
-        "post_age_minutes": 15.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T18:49:41.218980+00:00",
-      "last_updated": "2025-08-22T18:49:41.218980+00:00",
-      "analysis_windows": [
-        "2025-08-22T18:49:41.218980+00:00"
-      ],
-      "peak_controversy": 4.7,
-      "trend": "new"
-    },
-    {
       "rank": 4,
       "user": {
         "handle": "antongerashchenko.bsky.social",
@@ -203,15 +203,15 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lwz2e4p4i22k"
       },
       "engagement": {
-        "likes": 46,
-        "replies": 34,
-        "reposts": 11,
-        "quotes": 7,
+        "likes": 62,
+        "replies": 41,
+        "reposts": 14,
+        "quotes": 9,
         "formatted": {
-          "likes": "46",
-          "replies": "34",
-          "reposts": "11",
-          "quotes": "7"
+          "likes": "62",
+          "replies": "41",
+          "reposts": "14",
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -248,7 +248,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ifnpirhh7ihbsqyee5yjrlam/bafkreiggc2pmpqgurvgkn4fyfrbx7ijcr2wcetvbdpesdso4c7utldod5m@jpeg",
         "profile_url": "https://bsky.app/profile/fleerultra.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 3.3,
       "change": "NEW",
       "change_type": "new",
@@ -259,14 +259,14 @@
         "url": "https://bsky.app/profile/fleerultra.bsky.social/post/3lwxhvtjvvs2g"
       },
       "engagement": {
-        "likes": 93,
-        "replies": 65,
-        "reposts": 2,
+        "likes": 144,
+        "replies": 100,
+        "reposts": 4,
         "quotes": 5,
         "formatted": {
-          "likes": "93",
-          "replies": "65",
-          "reposts": "2",
+          "likes": "144",
+          "replies": "100",
+          "reposts": "4",
           "quotes": "5"
         }
       },
@@ -304,7 +304,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
         "profile_url": "https://bsky.app/profile/kyivindependent.com"
       },
-      "ratio": "5:1",
+      "ratio": "1:1",
       "controversy": 2.7,
       "change": "NEW",
       "change_type": "new",
@@ -315,15 +315,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 29,
-        "replies": 18,
-        "reposts": 1,
-        "quotes": 5,
+        "likes": 66,
+        "replies": 33,
+        "reposts": 7,
+        "quotes": 10,
         "formatted": {
-          "likes": "29",
-          "replies": "18",
-          "reposts": "1",
-          "quotes": "5"
+          "likes": "66",
+          "replies": "33",
+          "reposts": "7",
+          "quotes": "10"
         }
       },
       "sample_replies": [
@@ -360,7 +360,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
         "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
       },
-      "ratio": "3:1",
+      "ratio": "13:1",
       "controversy": 2.2,
       "change": "NEW",
       "change_type": "new",
@@ -371,15 +371,15 @@
         "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lwxhshexvs2c"
       },
       "engagement": {
-        "likes": 59,
-        "replies": 30,
-        "reposts": 5,
-        "quotes": 14,
+        "likes": 119,
+        "replies": 65,
+        "reposts": 12,
+        "quotes": 159,
         "formatted": {
-          "likes": "59",
-          "replies": "30",
-          "reposts": "5",
-          "quotes": "14"
+          "likes": "119",
+          "replies": "65",
+          "reposts": "12",
+          "quotes": "159"
         }
       },
       "sample_replies": [
@@ -416,7 +416,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7l75ck5g4b5k6gxqaq5rejit/bafkreia2gyds76c6uk5szzdxvsfcvnm4nh5nvudchuu3tqc6nlkwetcjai@jpeg",
         "profile_url": "https://bsky.app/profile/unusualwhales.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
@@ -427,14 +427,14 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 30,
-        "replies": 3,
-        "reposts": 4,
+        "likes": 39,
+        "replies": 4,
+        "reposts": 5,
         "quotes": 6,
         "formatted": {
-          "likes": "30",
-          "replies": "3",
-          "reposts": "4",
+          "likes": "39",
+          "replies": "4",
+          "reposts": "5",
           "quotes": "6"
         }
       },
@@ -484,15 +484,15 @@
         "url": "https://bsky.app/profile/financialtimes.com/post/3lwz2rc3asp2s"
       },
       "engagement": {
-        "likes": 15,
-        "replies": 9,
-        "reposts": 2,
-        "quotes": 5,
+        "likes": 21,
+        "replies": 12,
+        "reposts": 4,
+        "quotes": 6,
         "formatted": {
-          "likes": "15",
-          "replies": "9",
-          "reposts": "2",
-          "quotes": "5"
+          "likes": "21",
+          "replies": "12",
+          "reposts": "4",
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -540,12 +540,12 @@
         "url": "https://bsky.app/profile/reneedechert.com/post/3lwz2rzvo4s2r"
       },
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "replies": 3,
         "reposts": 1,
         "quotes": 6,
         "formatted": {
-          "likes": "15",
+          "likes": "16",
           "replies": "3",
           "reposts": "1",
           "quotes": "6"
@@ -596,12 +596,12 @@
         "url": "https://bsky.app/profile/mick-ee.bsky.social/post/3lwxicp5sv22v"
       },
       "engagement": {
-        "likes": 22,
+        "likes": 32,
         "replies": 5,
         "reposts": 2,
         "quotes": 5,
         "formatted": {
-          "likes": "22",
+          "likes": "32",
           "replies": "5",
           "reposts": "2",
           "quotes": "5"
@@ -641,7 +641,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d2jith367s6ybc3ldsusgdae/bafkreibkdhi4e5buhcoz2ejly3drrruynl6ojap5ave2ie4cxb7b6euluy@jpeg",
         "profile_url": "https://bsky.app/profile/latimes.com"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -652,14 +652,14 @@
         "url": "https://bsky.app/profile/latimes.com/post/3lwxhr6aulr22"
       },
       "engagement": {
-        "likes": 15,
-        "replies": 3,
-        "reposts": 3,
+        "likes": 24,
+        "replies": 4,
+        "reposts": 5,
         "quotes": 6,
         "formatted": {
-          "likes": "15",
-          "replies": "3",
-          "reposts": "3",
+          "likes": "24",
+          "replies": "4",
+          "reposts": "5",
           "quotes": "6"
         }
       },
