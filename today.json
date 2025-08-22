@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T16:35:56.160485+00:00",
-    "last_metrics_update": "2025-08-22T17:17:45.009075+00:00",
+    "last_metrics_update": "2025-08-22T17:32:21.408574+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 50,
@@ -17,62 +17,6 @@
     {
       "rank": 1,
       "user": {
-        "handle": "mewefree.bsky.social",
-        "display_name": "Yours in negritude, Ryan K. Smith",
-        "initials": "YI",
-        "did": "did:plc:7p6pezxyq3fr3fza4e4gdpst",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7p6pezxyq3fr3fza4e4gdpst/bafkreihjvbxd5ecj3uuhwb4fmfulziw3n6dwyebm7hnnex4kbd4kyhr6dm@jpeg",
-        "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
-      },
-      "ratio": "44:1",
-      "controversy": 2.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What is the oldest piece of clothing you own?",
-        "uri": "at://did:plc:7p6pezxyq3fr3fza4e4gdpst/app.bsky.feed.post/3lwysq3rtes2n",
-        "created_at": "2025-08-22T15:50:59.910Z",
-        "url": "https://bsky.app/profile/mewefree.bsky.social/post/3lwysq3rtes2n"
-      },
-      "engagement": {
-        "likes": 13,
-        "replies": 9,
-        "reposts": 2,
-        "quotes": 88,
-        "formatted": {
-          "likes": "13",
-          "replies": "9",
-          "reposts": "2",
-          "quotes": "88"
-        }
-      },
-      "sample_replies": [
-        "Two t-shirts from the 1970s that were from my moms theater company",
-        "College sweatshirt from 1997.",
-        "My grandmother's wedding dress from the 1930s\nMy wedding dress from  1900. \nA christening gown from...",
-        "A t-shirt from the Apple Rosetta Stone project - it’s holy and I love it!"
-      ],
-      "metrics": {
-        "ratio_score": 29.0,
-        "confidence": 0.694,
-        "category": "Complete Ratio",
-        "post_age_minutes": 27.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T16:35:55.532388+00:00",
-      "last_updated": "2025-08-22T16:35:55.532388+00:00",
-      "analysis_windows": [
-        "2025-08-22T16:35:55.532388+00:00"
-      ],
-      "peak_controversy": 6.8,
-      "trend": "new"
-    },
-    {
-      "rank": 2,
-      "user": {
         "handle": "gibiz.bsky.social",
         "display_name": "GamesIndustry.biz",
         "initials": "GA",
@@ -80,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxpcdjq45e4e3izvobsuoyl4/bafkreibhtu76qygol6uokb7hftn736xmzcsawegv7h6ub6miktbomagaca@jpeg",
         "profile_url": "https://bsky.app/profile/gibiz.bsky.social"
       },
-      "ratio": "33:1",
-      "controversy": 2.1,
+      "ratio": "36:1",
+      "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -92,14 +36,14 @@
       },
       "engagement": {
         "likes": 19,
-        "replies": 43,
+        "replies": 48,
         "reposts": 3,
-        "quotes": 99,
+        "quotes": 109,
         "formatted": {
           "likes": "19",
-          "replies": "43",
+          "replies": "48",
           "reposts": "3",
-          "quotes": "99"
+          "quotes": "109"
         }
       },
       "sample_replies": [
@@ -124,6 +68,62 @@
         "2025-08-22T16:35:55.618821+00:00"
       ],
       "peak_controversy": 5.3,
+      "trend": "new"
+    },
+    {
+      "rank": 2,
+      "user": {
+        "handle": "mewefree.bsky.social",
+        "display_name": "Yours in negritude, Ryan K. Smith",
+        "initials": "YI",
+        "did": "did:plc:7p6pezxyq3fr3fza4e4gdpst",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7p6pezxyq3fr3fza4e4gdpst/bafkreihjvbxd5ecj3uuhwb4fmfulziw3n6dwyebm7hnnex4kbd4kyhr6dm@jpeg",
+        "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
+      },
+      "ratio": "44:1",
+      "controversy": 2.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What is the oldest piece of clothing you own?",
+        "uri": "at://did:plc:7p6pezxyq3fr3fza4e4gdpst/app.bsky.feed.post/3lwysq3rtes2n",
+        "created_at": "2025-08-22T15:50:59.910Z",
+        "url": "https://bsky.app/profile/mewefree.bsky.social/post/3lwysq3rtes2n"
+      },
+      "engagement": {
+        "likes": 13,
+        "replies": 10,
+        "reposts": 2,
+        "quotes": 89,
+        "formatted": {
+          "likes": "13",
+          "replies": "10",
+          "reposts": "2",
+          "quotes": "89"
+        }
+      },
+      "sample_replies": [
+        "Two t-shirts from the 1970s that were from my moms theater company",
+        "College sweatshirt from 1997.",
+        "My grandmother's wedding dress from the 1930s\nMy wedding dress from  1900. \nA christening gown from...",
+        "A t-shirt from the Apple Rosetta Stone project - it’s holy and I love it!"
+      ],
+      "metrics": {
+        "ratio_score": 29.0,
+        "confidence": 0.694,
+        "category": "Complete Ratio",
+        "post_age_minutes": 27.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T16:35:55.532388+00:00",
+      "last_updated": "2025-08-22T16:35:55.532388+00:00",
+      "analysis_windows": [
+        "2025-08-22T16:35:55.532388+00:00"
+      ],
+      "peak_controversy": 6.8,
       "trend": "new"
     },
     {
@@ -541,14 +541,14 @@
       },
       "engagement": {
         "likes": 159,
-        "replies": 114,
+        "replies": 115,
         "reposts": 15,
-        "quotes": 177,
+        "quotes": 178,
         "formatted": {
           "likes": "159",
-          "replies": "114",
+          "replies": "115",
           "reposts": "15",
-          "quotes": "177"
+          "quotes": "178"
         }
       },
       "sample_replies": [
@@ -651,10 +651,10 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1496,
-        "replies": 1731,
+        "likes": 1497,
+        "replies": 1733,
         "reposts": 322,
-        "quotes": 1167,
+        "quotes": 1169,
         "formatted": {
           "likes": "1.5K",
           "replies": "1.7K",
@@ -707,15 +707,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 681,
-        "replies": 388,
-        "reposts": 146,
-        "quotes": 910,
+        "likes": 684,
+        "replies": 389,
+        "reposts": 148,
+        "quotes": 912,
         "formatted": {
-          "likes": "681",
-          "replies": "388",
-          "reposts": "146",
-          "quotes": "910"
+          "likes": "684",
+          "replies": "389",
+          "reposts": "148",
+          "quotes": "912"
         }
       },
       "sample_replies": [
@@ -822,12 +822,12 @@
         "likes": 38,
         "replies": 38,
         "reposts": 8,
-        "quotes": 58,
+        "quotes": 59,
         "formatted": {
           "likes": "38",
           "replies": "38",
           "reposts": "8",
-          "quotes": "58"
+          "quotes": "59"
         }
       },
       "sample_replies": [
@@ -913,6 +913,62 @@
     {
       "rank": 17,
       "user": {
+        "handle": "dessertnotdemure.bsky.social",
+        "display_name": "Dee.",
+        "initials": "DE",
+        "did": "did:plc:zq5aq75naxtspoeoyls4y5ip",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
+        "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
+      },
+      "ratio": "14:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Fellas if you had to choose a skyskimo brother to share custody of a skybae w, who would it be?",
+        "uri": "at://did:plc:zq5aq75naxtspoeoyls4y5ip/app.bsky.feed.post/3lwyf53ubgc25",
+        "created_at": "2025-08-22T11:47:43.813Z",
+        "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 28,
+        "formatted": {
+          "likes": "8",
+          "replies": "5",
+          "reposts": "2",
+          "quotes": "28"
+        }
+      },
+      "sample_replies": [
+        "Girl lmaooo what did we do?? 😂😂\n\n(Let’s do it again 😈)\n(Omg.. who said that?👀😇)",
+        "skyskimo",
+        "@infamousbrave.blacksky.app this brudda fr. Lmao",
+        "It’s me trying to see who that is & he has me blocked 😂 lmao"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "confidence": 0.344,
+        "category": "Quote Dunk",
+        "post_age_minutes": 75.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T13:15:41.446621+00:00",
+      "last_updated": "2025-08-22T13:15:41.446621+00:00",
+      "analysis_windows": [
+        "2025-08-22T13:15:41.446621+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
+      "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
         "initials": "TG",
@@ -969,7 +1025,7 @@
       "trend": "rising"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user": {
         "handle": "omarsueead.bsky.social",
         "display_name": ".💔 Soad 💔.",
@@ -989,14 +1045,14 @@
         "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
       },
       "engagement": {
-        "likes": 28,
+        "likes": 30,
         "replies": 3,
-        "reposts": 35,
+        "reposts": 39,
         "quotes": 122,
         "formatted": {
-          "likes": "28",
+          "likes": "30",
           "replies": "3",
-          "reposts": "35",
+          "reposts": "39",
           "quotes": "122"
         }
       },
@@ -1024,7 +1080,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user": {
         "handle": "migueldelaney.bsky.social",
         "display_name": "Miguel Delaney",
@@ -1080,7 +1136,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "patricklovellpresentsthecleannewdeal.com",
         "display_name": "Patrick Lovell The Producer  ",
@@ -1136,7 +1192,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user": {
         "handle": "tryvns.writes.fyi",
         "display_name": "Treywop. 🌬️🪼",
@@ -1192,7 +1248,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "user": {
         "handle": "dailyocs.bsky.social",
         "display_name": "Daily OC questions",
@@ -1245,62 +1301,6 @@
         "2025-08-21T16:50:31.413984+00:00"
       ],
       "peak_controversy": 3.7,
-      "trend": "new"
-    },
-    {
-      "rank": 23,
-      "user": {
-        "handle": "dessertnotdemure.bsky.social",
-        "display_name": "Dee.",
-        "initials": "DE",
-        "did": "did:plc:zq5aq75naxtspoeoyls4y5ip",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
-        "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
-      },
-      "ratio": "14:1",
-      "controversy": 0.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Fellas if you had to choose a skyskimo brother to share custody of a skybae w, who would it be?",
-        "uri": "at://did:plc:zq5aq75naxtspoeoyls4y5ip/app.bsky.feed.post/3lwyf53ubgc25",
-        "created_at": "2025-08-22T11:47:43.813Z",
-        "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
-      },
-      "engagement": {
-        "likes": 8,
-        "replies": 5,
-        "reposts": 2,
-        "quotes": 27,
-        "formatted": {
-          "likes": "8",
-          "replies": "5",
-          "reposts": "2",
-          "quotes": "27"
-        }
-      },
-      "sample_replies": [
-        "Girl lmaooo what did we do?? 😂😂\n\n(Let’s do it again 😈)\n(Omg.. who said that?👀😇)",
-        "skyskimo",
-        "@infamousbrave.blacksky.app this brudda fr. Lmao",
-        "It’s me trying to see who that is & he has me blocked 😂 lmao"
-      ],
-      "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.344,
-        "category": "Quote Dunk",
-        "post_age_minutes": 75.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T13:15:41.446621+00:00",
-      "last_updated": "2025-08-22T13:15:41.446621+00:00",
-      "analysis_windows": [
-        "2025-08-22T13:15:41.446621+00:00"
-      ],
-      "peak_controversy": 1.0,
       "trend": "new"
     },
     {
@@ -1438,12 +1438,12 @@
         "likes": 30,
         "replies": 10,
         "reposts": 2,
-        "quotes": 32,
+        "quotes": 33,
         "formatted": {
           "likes": "30",
           "replies": "10",
           "reposts": "2",
-          "quotes": "32"
+          "quotes": "33"
         }
       },
       "sample_replies": [
@@ -2049,13 +2049,13 @@
         "url": "https://bsky.app/profile/naiijah.bsky.social/post/3lwxpbywfic26"
       },
       "engagement": {
-        "likes": 38,
-        "replies": 15,
+        "likes": 39,
+        "replies": 16,
         "reposts": 3,
         "quotes": 35,
         "formatted": {
-          "likes": "38",
-          "replies": "15",
+          "likes": "39",
+          "replies": "16",
           "reposts": "3",
           "quotes": "35"
         }
@@ -2274,12 +2274,12 @@
         "likes": 30,
         "replies": 9,
         "reposts": 4,
-        "quotes": 28,
+        "quotes": 29,
         "formatted": {
           "likes": "30",
           "replies": "9",
           "reposts": "4",
-          "quotes": "28"
+          "quotes": "29"
         }
       },
       "sample_replies": [
@@ -2439,13 +2439,13 @@
         "url": "https://bsky.app/profile/quantian.bsky.social/post/3lwyhnyqurc2q"
       },
       "engagement": {
-        "likes": 261,
-        "replies": 32,
+        "likes": 262,
+        "replies": 33,
         "reposts": 13,
         "quotes": 45,
         "formatted": {
-          "likes": "261",
-          "replies": "32",
+          "likes": "262",
+          "replies": "33",
           "reposts": "13",
           "quotes": "45"
         }
@@ -2608,12 +2608,12 @@
       },
       "engagement": {
         "likes": 90,
-        "replies": 25,
+        "replies": 26,
         "reposts": 5,
         "quotes": 14,
         "formatted": {
           "likes": "90",
-          "replies": "25",
+          "replies": "26",
           "reposts": "5",
           "quotes": "14"
         }
