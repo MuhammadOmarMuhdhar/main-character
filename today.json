@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T06:43:36.284561+00:00",
-    "last_metrics_update": "2025-08-22T08:17:43.917704+00:00",
+    "last_metrics_update": "2025-08-22T08:32:20.654545+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 49,
@@ -38,12 +38,12 @@
         "likes": 211,
         "replies": 321,
         "reposts": 21,
-        "quotes": 387,
+        "quotes": 388,
         "formatted": {
           "likes": "211",
           "replies": "321",
           "reposts": "21",
-          "quotes": "387"
+          "quotes": "388"
         }
       },
       "sample_replies": [
@@ -372,12 +372,12 @@
         "likes": 82,
         "replies": 63,
         "reposts": 6,
-        "quotes": 129,
+        "quotes": 130,
         "formatted": {
           "likes": "82",
           "replies": "63",
           "reposts": "6",
-          "quotes": "129"
+          "quotes": "130"
         }
       },
       "sample_replies": [
@@ -415,7 +415,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvsnng7pexymcezhvr345xpk/bafkreihufznya74xog46wwk2o77ddxiqz6aalnetsnfhucelwk6jmc2ar4@jpeg",
         "profile_url": "https://bsky.app/profile/deerene.bsky.social"
       },
-      "ratio": "13:1",
+      "ratio": "14:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -426,15 +426,15 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 118,
-        "replies": 81,
+        "likes": 122,
+        "replies": 82,
         "reposts": 12,
-        "quotes": 156,
+        "quotes": 163,
         "formatted": {
-          "likes": "118",
-          "replies": "81",
+          "likes": "122",
+          "replies": "82",
           "reposts": "12",
-          "quotes": "156"
+          "quotes": "163"
         }
       },
       "sample_replies": [
@@ -537,15 +537,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 573,
-        "replies": 339,
+        "likes": 577,
+        "replies": 341,
         "reposts": 121,
-        "quotes": 783,
+        "quotes": 786,
         "formatted": {
-          "likes": "573",
-          "replies": "339",
+          "likes": "577",
+          "replies": "341",
           "reposts": "121",
-          "quotes": "783"
+          "quotes": "786"
         }
       },
       "sample_replies": [
@@ -593,14 +593,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1348,
-        "replies": 1575,
-        "reposts": 292,
+        "likes": 1349,
+        "replies": 1578,
+        "reposts": 293,
         "quotes": 1109,
         "formatted": {
           "likes": "1.3K",
           "replies": "1.6K",
-          "reposts": "292",
+          "reposts": "293",
           "quotes": "1.1K"
         }
       },
@@ -2082,7 +2082,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iozffsic2xf3m263j3l7i5vo/bafkreiflq4en23x6nyu7aomuvcjcnaswvyasxr4rju3ska62nhcff3pydq@jpeg",
         "profile_url": "https://bsky.app/profile/electionmaps.uk"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -2096,12 +2096,12 @@
         "likes": 35,
         "replies": 28,
         "reposts": 14,
-        "quotes": 35,
+        "quotes": 36,
         "formatted": {
           "likes": "35",
           "replies": "28",
           "reposts": "14",
-          "quotes": "35"
+          "quotes": "36"
         }
       },
       "sample_replies": [
@@ -2149,12 +2149,12 @@
         "url": "https://bsky.app/profile/apnews.com/post/3lwxmoxh5ac2k"
       },
       "engagement": {
-        "likes": 72,
+        "likes": 73,
         "replies": 21,
         "reposts": 5,
         "quotes": 13,
         "formatted": {
-          "likes": "72",
+          "likes": "73",
           "replies": "21",
           "reposts": "5",
           "quotes": "13"
