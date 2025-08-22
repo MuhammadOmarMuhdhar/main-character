@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T13:15:41.450578+00:00",
-    "last_metrics_update": "2025-08-22T13:32:20.393834+00:00",
+    "last_metrics_update": "2025-08-22T13:47:23.483650+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 47,
@@ -24,8 +24,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tvxyse3hlczyu2zg63auopwz/bafkreic3ggvt722tuo3nubdh2rtj3uyd7gm6rwejexpbgtvn4aqgrhpnue@jpeg",
         "profile_url": "https://bsky.app/profile/auntiebaecc.blacksky.app"
       },
-      "ratio": "51:0",
-      "controversy": 2.1,
+      "ratio": "61:0",
+      "controversy": 1.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/auntiebaecc.blacksky.app/post/3lwyamesm5s2z"
       },
       "engagement": {
-        "likes": 6,
-        "replies": 11,
+        "likes": 10,
+        "replies": 12,
         "reposts": 0,
-        "quotes": 51,
+        "quotes": 61,
         "formatted": {
-          "likes": "6",
-          "replies": "11",
+          "likes": "10",
+          "replies": "12",
           "reposts": "0",
-          "quotes": "51"
+          "quotes": "61"
         }
       },
       "sample_replies": [
@@ -73,61 +73,6 @@
     {
       "rank": 2,
       "user": {
-        "handle": "omarsueead.bsky.social",
-        "display_name": ".💔 Soad 💔.",
-        "initials": ".S",
-        "did": "did:plc:ywn47rynilubeo6722mkvcen",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
-        "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
-      },
-      "ratio": "11:1",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "🚨🚨Humanitarian appeal \n\nI'm talking to you With a broken heart\n\nBecause I am unable to help my child\n\nI don't know what to say, but I know that your kind hearts will not let this child suffer any more\n\nMy child Omar is asking for your help to get his right to food and treatment👇\ntinyurl.com/ycxdtddx",
-        "uri": "at://did:plc:ywn47rynilubeo6722mkvcen/app.bsky.feed.post/3lwy7xvmws22v",
-        "created_at": "2025-08-22T10:15:20.710Z",
-        "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 2,
-        "reposts": 8,
-        "quotes": 85,
-        "formatted": {
-          "likes": "9",
-          "replies": "2",
-          "reposts": "8",
-          "quotes": "85"
-        }
-      },
-      "sample_replies": [
-        "@indrapramitdas.bsky.social \n\nMy friend how are you I hope you are well please quote my post Tag...",
-        "@fairshare.help",
-        "Added\n\nPlease donate if you can and share the original.\n\nDirectly asking people you know is the..."
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.439,
-        "category": "Complete Ratio",
-        "post_age_minutes": 167.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T13:15:41.312092+00:00",
-      "last_updated": "2025-08-22T13:15:41.312092+00:00",
-      "analysis_windows": [
-        "2025-08-22T13:15:41.312092+00:00"
-      ],
-      "peak_controversy": 2.1,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
         "handle": "jonathancohn.bsky.social",
         "display_name": "Jonathan Cohn ",
         "initials": "JC",
@@ -147,14 +92,14 @@
       },
       "engagement": {
         "likes": 219,
-        "replies": 337,
+        "replies": 338,
         "reposts": 21,
-        "quotes": 395,
+        "quotes": 398,
         "formatted": {
           "likes": "219",
-          "replies": "337",
+          "replies": "338",
           "reposts": "21",
-          "quotes": "395"
+          "quotes": "398"
         }
       },
       "sample_replies": [
@@ -182,7 +127,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "user": {
         "handle": "kennedialy.bsky.social",
         "display_name": "jerk punani 🇯🇲",
@@ -235,6 +180,61 @@
         "2025-08-21T13:30:52.523155+00:00"
       ],
       "peak_controversy": 5.2,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
+      "user": {
+        "handle": "omarsueead.bsky.social",
+        "display_name": ".💔 Soad 💔.",
+        "initials": ".S",
+        "did": "did:plc:ywn47rynilubeo6722mkvcen",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
+        "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
+      },
+      "ratio": "10:1",
+      "controversy": 1.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "🚨🚨Humanitarian appeal \n\nI'm talking to you With a broken heart\n\nBecause I am unable to help my child\n\nI don't know what to say, but I know that your kind hearts will not let this child suffer any more\n\nMy child Omar is asking for your help to get his right to food and treatment👇\ntinyurl.com/ycxdtddx",
+        "uri": "at://did:plc:ywn47rynilubeo6722mkvcen/app.bsky.feed.post/3lwy7xvmws22v",
+        "created_at": "2025-08-22T10:15:20.710Z",
+        "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
+      },
+      "engagement": {
+        "likes": 12,
+        "replies": 3,
+        "reposts": 11,
+        "quotes": 111,
+        "formatted": {
+          "likes": "12",
+          "replies": "3",
+          "reposts": "11",
+          "quotes": "111"
+        }
+      },
+      "sample_replies": [
+        "@indrapramitdas.bsky.social \n\nMy friend how are you I hope you are well please quote my post Tag...",
+        "@fairshare.help",
+        "Added\n\nPlease donate if you can and share the original.\n\nDirectly asking people you know is the..."
+      ],
+      "metrics": {
+        "ratio_score": 10.0,
+        "confidence": 0.439,
+        "category": "Complete Ratio",
+        "post_age_minutes": 167.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T13:15:41.312092+00:00",
+      "last_updated": "2025-08-22T13:15:41.312092+00:00",
+      "analysis_windows": [
+        "2025-08-22T13:15:41.312092+00:00"
+      ],
+      "peak_controversy": 2.1,
       "trend": "new"
     },
     {
@@ -483,13 +483,13 @@
         "url": "https://bsky.app/profile/deerene.bsky.social/post/3lww5eeu5n22g"
       },
       "engagement": {
-        "likes": 153,
-        "replies": 105,
+        "likes": 155,
+        "replies": 107,
         "reposts": 15,
         "quotes": 173,
         "formatted": {
-          "likes": "153",
-          "replies": "105",
+          "likes": "155",
+          "replies": "107",
           "reposts": "15",
           "quotes": "173"
         }
@@ -539,15 +539,15 @@
         "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
       },
       "engagement": {
-        "likes": 642,
+        "likes": 643,
         "replies": 378,
         "reposts": 130,
-        "quotes": 865,
+        "quotes": 870,
         "formatted": {
-          "likes": "642",
+          "likes": "643",
           "replies": "378",
           "reposts": "130",
-          "quotes": "865"
+          "quotes": "870"
         }
       },
       "sample_replies": [
@@ -595,14 +595,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1430,
-        "replies": 1648,
-        "reposts": 308,
-        "quotes": 1136,
+        "likes": 1437,
+        "replies": 1654,
+        "reposts": 310,
+        "quotes": 1139,
         "formatted": {
           "likes": "1.4K",
-          "replies": "1.6K",
-          "reposts": "308",
+          "replies": "1.7K",
+          "reposts": "310",
           "quotes": "1.1K"
         }
       },
@@ -1199,7 +1199,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lnyzlctefy6ilbyswfi2bcea/bafkreifp6cj7ksk2ry6azntvewvuhu5h752dacs37olragang5xsbutkva@jpeg",
         "profile_url": "https://bsky.app/profile/naiyalove.bsky.social"
       },
-      "ratio": "24:0",
+      "ratio": "25:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1213,12 +1213,12 @@
         "likes": 24,
         "replies": 9,
         "reposts": 0,
-        "quotes": 24,
+        "quotes": 25,
         "formatted": {
           "likes": "24",
           "replies": "9",
           "reposts": "0",
-          "quotes": "24"
+          "quotes": "25"
         }
       },
       "sample_replies": [
@@ -1366,7 +1366,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7ppdtkml2i7gqxxh32x5qj7/bafkreib4qa56phbel3yy4cpwc7gnyh2lfx7bn5o2wfl2zzqzuqkks6i5t4@jpeg",
         "profile_url": "https://bsky.app/profile/becauseofnikki.blacksky.app"
       },
-      "ratio": "32:1",
+      "ratio": "33:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1380,12 +1380,12 @@
         "likes": 20,
         "replies": 7,
         "reposts": 1,
-        "quotes": 32,
+        "quotes": 33,
         "formatted": {
           "likes": "20",
           "replies": "7",
           "reposts": "1",
-          "quotes": "32"
+          "quotes": "33"
         }
       },
       "sample_replies": [
@@ -1644,8 +1644,8 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
         "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
       },
-      "ratio": "9:1",
-      "controversy": 0.2,
+      "ratio": "14:1",
+      "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
@@ -1658,12 +1658,12 @@
         "likes": 6,
         "replies": 2,
         "reposts": 1,
-        "quotes": 9,
+        "quotes": 14,
         "formatted": {
           "likes": "6",
           "replies": "2",
           "reposts": "1",
-          "quotes": "9"
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -1991,12 +1991,12 @@
         "url": "https://bsky.app/profile/jeffpasan.bsky.social/post/3lwx343a6v22m"
       },
       "engagement": {
-        "likes": 76,
+        "likes": 77,
         "replies": 8,
         "reposts": 6,
         "quotes": 39,
         "formatted": {
-          "likes": "76",
+          "likes": "77",
           "replies": "8",
           "reposts": "6",
           "quotes": "39"
@@ -2034,7 +2034,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pi6a5kro3sjj7x7j2gb7l2cq/bafkreiffo23z26c2v74nrtnkpd5sitfxibvtjhs3kco2ovt6lj3kzl23bq@jpeg",
         "profile_url": "https://bsky.app/profile/locgoody.bsky.social"
       },
-      "ratio": "9:1",
+      "ratio": "7:1",
       "controversy": 0.2,
       "change": "NEW",
       "change_type": "new",
@@ -2045,14 +2045,14 @@
         "url": "https://bsky.app/profile/locgoody.bsky.social/post/3lwwx5hucfc2q"
       },
       "engagement": {
-        "likes": 28,
+        "likes": 29,
         "replies": 9,
-        "reposts": 3,
+        "reposts": 4,
         "quotes": 27,
         "formatted": {
-          "likes": "28",
+          "likes": "29",
           "replies": "9",
-          "reposts": "3",
+          "reposts": "4",
           "quotes": "27"
         }
       },
@@ -2101,15 +2101,15 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 717,
-        "replies": 230,
+        "likes": 718,
+        "replies": 231,
         "reposts": 85,
-        "quotes": 296,
+        "quotes": 297,
         "formatted": {
-          "likes": "717",
-          "replies": "230",
+          "likes": "718",
+          "replies": "231",
           "reposts": "85",
-          "quotes": "296"
+          "quotes": "297"
         }
       },
       "sample_replies": [
@@ -2146,7 +2146,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gjqmj6z7sboffvvduvqd7oam/bafkreiaeznsxsvb6y3yodvsqdlcy5aptlk62vdpn6nbztugwepoamovvyq@jpeg",
         "profile_url": "https://bsky.app/profile/quantian.bsky.social"
       },
-      "ratio": "14:1",
+      "ratio": "8:1",
       "controversy": 0.1,
       "change": "NEW",
       "change_type": "new",
@@ -2157,15 +2157,15 @@
         "url": "https://bsky.app/profile/quantian.bsky.social/post/3lwyhnyqurc2q"
       },
       "engagement": {
-        "likes": 85,
-        "replies": 11,
-        "reposts": 1,
-        "quotes": 14,
+        "likes": 93,
+        "replies": 13,
+        "reposts": 2,
+        "quotes": 17,
         "formatted": {
-          "likes": "85",
-          "replies": "11",
-          "reposts": "1",
-          "quotes": "14"
+          "likes": "93",
+          "replies": "13",
+          "reposts": "2",
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -2493,12 +2493,12 @@
       },
       "engagement": {
         "likes": 89,
-        "replies": 24,
+        "replies": 25,
         "reposts": 5,
         "quotes": 14,
         "formatted": {
           "likes": "89",
-          "replies": "24",
+          "replies": "25",
           "reposts": "5",
           "quotes": "14"
         }
