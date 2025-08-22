@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-22T13:15:41.450578+00:00",
-    "last_metrics_update": "2025-08-22T14:32:27.097838+00:00",
+    "last_metrics_update": "2025-08-22T14:47:26.670088+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 47,
@@ -94,12 +94,12 @@
         "likes": 222,
         "replies": 343,
         "reposts": 21,
-        "quotes": 402,
+        "quotes": 403,
         "formatted": {
           "likes": "222",
           "replies": "343",
           "reposts": "21",
-          "quotes": "402"
+          "quotes": "403"
         }
       },
       "sample_replies": [
@@ -297,61 +297,6 @@
     {
       "rank": 6,
       "user": {
-        "handle": "omarsueead.bsky.social",
-        "display_name": ".💔 Soad 💔.",
-        "initials": ".S",
-        "did": "did:plc:ywn47rynilubeo6722mkvcen",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
-        "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
-      },
-      "ratio": "8:1",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "🚨🚨Humanitarian appeal \n\nI'm talking to you With a broken heart\n\nBecause I am unable to help my child\n\nI don't know what to say, but I know that your kind hearts will not let this child suffer any more\n\nMy child Omar is asking for your help to get his right to food and treatment👇\ntinyurl.com/ycxdtddx",
-        "uri": "at://did:plc:ywn47rynilubeo6722mkvcen/app.bsky.feed.post/3lwy7xvmws22v",
-        "created_at": "2025-08-22T10:15:20.710Z",
-        "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
-      },
-      "engagement": {
-        "likes": 16,
-        "replies": 3,
-        "reposts": 15,
-        "quotes": 113,
-        "formatted": {
-          "likes": "16",
-          "replies": "3",
-          "reposts": "15",
-          "quotes": "113"
-        }
-      },
-      "sample_replies": [
-        "@indrapramitdas.bsky.social \n\nMy friend how are you I hope you are well please quote my post Tag...",
-        "@fairshare.help",
-        "Added\n\nPlease donate if you can and share the original.\n\nDirectly asking people you know is the..."
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "confidence": 0.439,
-        "category": "Complete Ratio",
-        "post_age_minutes": 167.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T13:15:41.312092+00:00",
-      "last_updated": "2025-08-22T13:15:41.312092+00:00",
-      "analysis_windows": [
-        "2025-08-22T13:15:41.312092+00:00"
-      ],
-      "peak_controversy": 2.1,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
         "handle": "theigbobear.blacksky.app",
         "display_name": "The Connoisseur of Chaos 🇳🇬🇨🇩",
         "initials": "TC",
@@ -406,7 +351,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -429,12 +374,12 @@
         "likes": 83,
         "replies": 63,
         "reposts": 6,
-        "quotes": 134,
+        "quotes": 135,
         "formatted": {
           "likes": "83",
           "replies": "63",
           "reposts": "6",
-          "quotes": "134"
+          "quotes": "135"
         }
       },
       "sample_replies": [
@@ -461,6 +406,61 @@
       ],
       "peak_controversy": 4.8,
       "trend": "rising"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "omarsueead.bsky.social",
+        "display_name": ".💔 Soad 💔.",
+        "initials": ".S",
+        "did": "did:plc:ywn47rynilubeo6722mkvcen",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywn47rynilubeo6722mkvcen/bafkreihkwbxym2ynflwntpojksqc6g6a2xcnqwkcuselmikww47djcnccq@jpeg",
+        "profile_url": "https://bsky.app/profile/omarsueead.bsky.social"
+      },
+      "ratio": "7:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "🚨🚨Humanitarian appeal \n\nI'm talking to you With a broken heart\n\nBecause I am unable to help my child\n\nI don't know what to say, but I know that your kind hearts will not let this child suffer any more\n\nMy child Omar is asking for your help to get his right to food and treatment👇\ntinyurl.com/ycxdtddx",
+        "uri": "at://did:plc:ywn47rynilubeo6722mkvcen/app.bsky.feed.post/3lwy7xvmws22v",
+        "created_at": "2025-08-22T10:15:20.710Z",
+        "url": "https://bsky.app/profile/omarsueead.bsky.social/post/3lwy7xvmws22v"
+      },
+      "engagement": {
+        "likes": 18,
+        "replies": 3,
+        "reposts": 16,
+        "quotes": 115,
+        "formatted": {
+          "likes": "18",
+          "replies": "3",
+          "reposts": "16",
+          "quotes": "115"
+        }
+      },
+      "sample_replies": [
+        "@indrapramitdas.bsky.social \n\nMy friend how are you I hope you are well please quote my post Tag...",
+        "@fairshare.help",
+        "Added\n\nPlease donate if you can and share the original.\n\nDirectly asking people you know is the..."
+      ],
+      "metrics": {
+        "ratio_score": 10.0,
+        "confidence": 0.439,
+        "category": "Complete Ratio",
+        "post_age_minutes": 167.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T13:15:41.312092+00:00",
+      "last_updated": "2025-08-22T13:15:41.312092+00:00",
+      "analysis_windows": [
+        "2025-08-22T13:15:41.312092+00:00"
+      ],
+      "peak_controversy": 2.1,
+      "trend": "new"
     },
     {
       "rank": 9,
@@ -521,62 +521,6 @@
     {
       "rank": 10,
       "user": {
-        "handle": "jsrailton.bsky.social",
-        "display_name": "John Scott-Railton",
-        "initials": "JS",
-        "did": "did:plc:qtzckelov7u3bxfxptrzd22u",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtzckelov7u3bxfxptrzd22u/bafkreia6zgrj64cst6uo5osqwthxrqutecfrezde47rhxczc7vkjgsujsu@jpeg",
-        "profile_url": "https://bsky.app/profile/jsrailton.bsky.social"
-      },
-      "ratio": "6:1",
-      "controversy": 0.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "UK government asks everybody to stop using VPNs.\n\n\"everybody who's out there thinking of using VPNs...verifying your age keeps a child safe...So let's just not try and find a way around. Just prove your age.\"\n\n- UK government",
-        "uri": "at://did:plc:qtzckelov7u3bxfxptrzd22u/app.bsky.feed.post/3lww6k7ymo22q",
-        "created_at": "2025-08-21T14:44:28.689Z",
-        "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
-      },
-      "engagement": {
-        "likes": 654,
-        "replies": 379,
-        "reposts": 138,
-        "quotes": 883,
-        "formatted": {
-          "likes": "654",
-          "replies": "379",
-          "reposts": "138",
-          "quotes": "883"
-        }
-      },
-      "sample_replies": [
-        "\"Verifying your age keeps a child safe\"? I've just spent five minutes thinking on this and I'm...",
-        "Counter argument: I’m not handing over my private information to a whole bunch of websites because...",
-        "you are underestimating the odds of a 13 yr old entering your house via the cat flap and sneaking a...",
-        "\"We have implemented a solution, but it's broken, has huge security risks, has horrible potential..."
-      ],
-      "metrics": {
-        "ratio_score": 7.57,
-        "confidence": 0.867,
-        "category": "Quote Dunk",
-        "post_age_minutes": 108.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-21T16:50:31.687662+00:00",
-      "last_updated": "2025-08-21T16:50:31.687662+00:00",
-      "analysis_windows": [
-        "2025-08-21T16:50:31.687662+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
-      "user": {
         "handle": "atrupar.com",
         "display_name": "Aaron Rupar",
         "initials": "AR",
@@ -595,14 +539,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lwwlqjasv226"
       },
       "engagement": {
-        "likes": 1447,
-        "replies": 1675,
-        "reposts": 313,
-        "quotes": 1144,
+        "likes": 1452,
+        "replies": 1678,
+        "reposts": 314,
+        "quotes": 1145,
         "formatted": {
-          "likes": "1.4K",
+          "likes": "1.5K",
           "replies": "1.7K",
-          "reposts": "313",
+          "reposts": "314",
           "quotes": "1.1K"
         }
       },
@@ -631,7 +575,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -687,6 +631,62 @@
       ],
       "peak_controversy": 1.3,
       "trend": "rising"
+    },
+    {
+      "rank": 12,
+      "user": {
+        "handle": "jsrailton.bsky.social",
+        "display_name": "John Scott-Railton",
+        "initials": "JS",
+        "did": "did:plc:qtzckelov7u3bxfxptrzd22u",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtzckelov7u3bxfxptrzd22u/bafkreia6zgrj64cst6uo5osqwthxrqutecfrezde47rhxczc7vkjgsujsu@jpeg",
+        "profile_url": "https://bsky.app/profile/jsrailton.bsky.social"
+      },
+      "ratio": "6:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "UK government asks everybody to stop using VPNs.\n\n\"everybody who's out there thinking of using VPNs...verifying your age keeps a child safe...So let's just not try and find a way around. Just prove your age.\"\n\n- UK government",
+        "uri": "at://did:plc:qtzckelov7u3bxfxptrzd22u/app.bsky.feed.post/3lww6k7ymo22q",
+        "created_at": "2025-08-21T14:44:28.689Z",
+        "url": "https://bsky.app/profile/jsrailton.bsky.social/post/3lww6k7ymo22q"
+      },
+      "engagement": {
+        "likes": 662,
+        "replies": 379,
+        "reposts": 143,
+        "quotes": 885,
+        "formatted": {
+          "likes": "662",
+          "replies": "379",
+          "reposts": "143",
+          "quotes": "885"
+        }
+      },
+      "sample_replies": [
+        "\"Verifying your age keeps a child safe\"? I've just spent five minutes thinking on this and I'm...",
+        "Counter argument: I’m not handing over my private information to a whole bunch of websites because...",
+        "you are underestimating the odds of a 13 yr old entering your house via the cat flap and sneaking a...",
+        "\"We have implemented a solution, but it's broken, has huge security risks, has horrible potential..."
+      ],
+      "metrics": {
+        "ratio_score": 7.57,
+        "confidence": 0.867,
+        "category": "Quote Dunk",
+        "post_age_minutes": 108.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-21T16:50:31.687662+00:00",
+      "last_updated": "2025-08-21T16:50:31.687662+00:00",
+      "analysis_windows": [
+        "2025-08-21T16:50:31.687662+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
     },
     {
       "rank": 13,
@@ -921,7 +921,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h42x4rpimgeoqgwzgft3pvzs/bafkreigbe2p6rkzpnejlvzamd22xw4ecoimtw62xvfwt2h6d6or3qkkhta@jpeg",
         "profile_url": "https://bsky.app/profile/cloud-ra.bsky.social"
       },
-      "ratio": "43:1",
+      "ratio": "36:1",
       "controversy": 0.4,
       "change": "NEW",
       "change_type": "new",
@@ -932,15 +932,15 @@
         "url": "https://bsky.app/profile/cloud-ra.bsky.social/post/3lwvwpihtsc2k"
       },
       "engagement": {
-        "likes": 142,
+        "likes": 148,
         "replies": 4,
-        "reposts": 5,
-        "quotes": 213,
+        "reposts": 6,
+        "quotes": 214,
         "formatted": {
-          "likes": "142",
+          "likes": "148",
           "replies": "4",
-          "reposts": "5",
-          "quotes": "213"
+          "reposts": "6",
+          "quotes": "214"
         }
       },
       "sample_replies": [
@@ -1192,6 +1192,62 @@
     {
       "rank": 22,
       "user": {
+        "handle": "dessertnotdemure.bsky.social",
+        "display_name": "Dee.",
+        "initials": "DE",
+        "did": "did:plc:zq5aq75naxtspoeoyls4y5ip",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
+        "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
+      },
+      "ratio": "17:1",
+      "controversy": 0.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Fellas if you had to choose a skyskimo brother to share custody of a skybae w, who would it be?",
+        "uri": "at://did:plc:zq5aq75naxtspoeoyls4y5ip/app.bsky.feed.post/3lwyf53ubgc25",
+        "created_at": "2025-08-22T11:47:43.813Z",
+        "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 17,
+        "formatted": {
+          "likes": "7",
+          "replies": "4",
+          "reposts": "1",
+          "quotes": "17"
+        }
+      },
+      "sample_replies": [
+        "Girl lmaooo what did we do?? 😂😂\n\n(Let’s do it again 😈)\n(Omg.. who said that?👀😇)",
+        "skyskimo",
+        "@infamousbrave.blacksky.app this brudda fr. Lmao",
+        "It’s me trying to see who that is & he has me blocked 😂 lmao"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "confidence": 0.344,
+        "category": "Quote Dunk",
+        "post_age_minutes": 75.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T13:15:41.446621+00:00",
+      "last_updated": "2025-08-22T13:15:41.446621+00:00",
+      "analysis_windows": [
+        "2025-08-22T13:15:41.446621+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 23,
+      "user": {
         "handle": "naiyalove.bsky.social",
         "display_name": "👩🏽‍⚕️🏥Your Skeetiatrician 🏥👩🏽‍⚕️",
         "initials": "👩S",
@@ -1199,7 +1255,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lnyzlctefy6ilbyswfi2bcea/bafkreifp6cj7ksk2ry6azntvewvuhu5h752dacs37olragang5xsbutkva@jpeg",
         "profile_url": "https://bsky.app/profile/naiyalove.bsky.social"
       },
-      "ratio": "15:1",
+      "ratio": "16:1",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1213,12 +1269,12 @@
         "likes": 28,
         "replies": 9,
         "reposts": 2,
-        "quotes": 30,
+        "quotes": 31,
         "formatted": {
           "likes": "28",
           "replies": "9",
           "reposts": "2",
-          "quotes": "30"
+          "quotes": "31"
         }
       },
       "sample_replies": [
@@ -1246,7 +1302,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "user": {
         "handle": "bamaslymm.blacksky.app",
         "display_name": "Kyle Barker Jr.",
@@ -1301,7 +1357,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "user": {
         "handle": "bizzybaby.bsky.social",
         "display_name": "Bizzy",
@@ -1357,7 +1413,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "user": {
         "handle": "becauseofnikki.blacksky.app",
         "display_name": "NIKKI Baby 🍫♊️💜",
@@ -1413,7 +1469,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "user": {
         "handle": "proptermalone.bsky.social",
         "display_name": "post malone ergo propter malone",
@@ -1469,7 +1525,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1525,7 +1581,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "user": {
         "handle": "libdems.org.uk",
         "display_name": "Liberal Democrats",
@@ -1581,7 +1637,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "user": {
         "handle": "missxbri.bsky.social",
         "display_name": "B.",
@@ -1632,62 +1688,6 @@
         "2025-08-22T03:17:36.562724+00:00"
       ],
       "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
-      "user": {
-        "handle": "dessertnotdemure.bsky.social",
-        "display_name": "Dee.",
-        "initials": "DE",
-        "did": "did:plc:zq5aq75naxtspoeoyls4y5ip",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zq5aq75naxtspoeoyls4y5ip/bafkreicvmtgrddap4weaxitkj3gtc4ud44dogx5pszdp36kdt23t3t43u4@jpeg",
-        "profile_url": "https://bsky.app/profile/dessertnotdemure.bsky.social"
-      },
-      "ratio": "16:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Fellas if you had to choose a skyskimo brother to share custody of a skybae w, who would it be?",
-        "uri": "at://did:plc:zq5aq75naxtspoeoyls4y5ip/app.bsky.feed.post/3lwyf53ubgc25",
-        "created_at": "2025-08-22T11:47:43.813Z",
-        "url": "https://bsky.app/profile/dessertnotdemure.bsky.social/post/3lwyf53ubgc25"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 4,
-        "reposts": 1,
-        "quotes": 16,
-        "formatted": {
-          "likes": "7",
-          "replies": "4",
-          "reposts": "1",
-          "quotes": "16"
-        }
-      },
-      "sample_replies": [
-        "Girl lmaooo what did we do?? 😂😂\n\n(Let’s do it again 😈)\n(Omg.. who said that?👀😇)",
-        "skyskimo",
-        "@infamousbrave.blacksky.app this brudda fr. Lmao",
-        "It’s me trying to see who that is & he has me blocked 😂 lmao"
-      ],
-      "metrics": {
-        "ratio_score": 7.0,
-        "confidence": 0.344,
-        "category": "Quote Dunk",
-        "post_age_minutes": 75.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T13:15:41.446621+00:00",
-      "last_updated": "2025-08-22T13:15:41.446621+00:00",
-      "analysis_windows": [
-        "2025-08-22T13:15:41.446621+00:00"
-      ],
-      "peak_controversy": 1.0,
       "trend": "new"
     },
     {
@@ -2101,12 +2101,12 @@
         "url": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lwx25hbv2s2t"
       },
       "engagement": {
-        "likes": 722,
+        "likes": 724,
         "replies": 232,
         "reposts": 85,
         "quotes": 297,
         "formatted": {
-          "likes": "722",
+          "likes": "724",
           "replies": "232",
           "reposts": "85",
           "quotes": "297"
@@ -2157,15 +2157,15 @@
         "url": "https://bsky.app/profile/quantian.bsky.social/post/3lwyhnyqurc2q"
       },
       "engagement": {
-        "likes": 171,
-        "replies": 21,
+        "likes": 203,
+        "replies": 26,
         "reposts": 9,
-        "quotes": 37,
+        "quotes": 39,
         "formatted": {
-          "likes": "171",
-          "replies": "21",
+          "likes": "203",
+          "replies": "26",
           "reposts": "9",
-          "quotes": "37"
+          "quotes": "39"
         }
       },
       "sample_replies": [
