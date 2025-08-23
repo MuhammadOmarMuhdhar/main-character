@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T01:48:08.712960+00:00",
-    "last_metrics_update": "2025-08-23T01:48:08.712960+00:00",
+    "last_metrics_update": "2025-08-23T02:02:20.523716+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 25,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 1834,
-        "replies": 600,
-        "reposts": 546,
-        "quotes": 189,
+        "likes": 1881,
+        "replies": 606,
+        "reposts": 551,
+        "quotes": 191,
         "formatted": {
-          "likes": "1.8K",
-          "replies": "600",
-          "reposts": "546",
-          "quotes": "189"
+          "likes": "1.9K",
+          "replies": "606",
+          "reposts": "551",
+          "quotes": "191"
         }
       },
       "sample_replies": [
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/internethippo.bsky.social/post/3lwzh3pf6ds23"
       },
       "engagement": {
-        "likes": 954,
-        "replies": 202,
-        "reposts": 67,
-        "quotes": 52,
+        "likes": 1026,
+        "replies": 213,
+        "reposts": 73,
+        "quotes": 54,
         "formatted": {
-          "likes": "954",
-          "replies": "202",
-          "reposts": "67",
-          "quotes": "52"
+          "likes": "1.0K",
+          "replies": "213",
+          "reposts": "73",
+          "quotes": "54"
         }
       },
       "sample_replies": [
@@ -136,7 +136,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cnpe7qvcyjrhm6w7w7e4atur/bafkreid7tqojotcpkaoljdayyrm3ngygep5mkkolxakjaagwx3lolvycv4@jpeg",
         "profile_url": "https://bsky.app/profile/kevinmkruse.bsky.social"
       },
-      "ratio": "1:4",
+      "ratio": "1:5",
       "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
@@ -147,14 +147,14 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lwzfa6cufk24"
       },
       "engagement": {
-        "likes": 474,
-        "replies": 130,
-        "reposts": 90,
+        "likes": 493,
+        "replies": 134,
+        "reposts": 92,
         "quotes": 20,
         "formatted": {
-          "likes": "474",
-          "replies": "130",
-          "reposts": "90",
+          "likes": "493",
+          "replies": "134",
+          "reposts": "92",
           "quotes": "20"
         }
       },
@@ -185,63 +185,6 @@
     {
       "rank": 4,
       "user": {
-        "handle": "thebulwark.com",
-        "display_name": "The Bulwark",
-        "initials": "TB",
-        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
-        "profile_url": "https://bsky.app/profile/thebulwark.com"
-      },
-      "ratio": "2:1",
-      "controversy": 3.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
-        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
-        "created_at": "2025-08-22T18:02:18.976Z",
-        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
-      },
-      "engagement": {
-        "likes": 70,
-        "replies": 36,
-        "reposts": 7,
-        "quotes": 11,
-        "formatted": {
-          "likes": "70",
-          "replies": "36",
-          "reposts": "7",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "Again with the fucking \"two weeks\".",
-        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
-        "Dude puts an alarm for two weeks and snoozes it for four years...",
-        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
-      ],
-      "metrics": {
-        "ratio_score": 5.12,
-        "time_bucket": 1,
-        "total_engagement": 94,
-        "post_age_minutes": 29.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T18:49:41.095162+00:00",
-      "last_updated": "2025-08-22T18:49:41.862738+00:00",
-      "analysis_windows": [
-        "2025-08-22T18:49:41.095162+00:00",
-        "2025-08-22T18:49:41.862738+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
-    },
-    {
-      "rank": 5,
-      "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
         "initials": "CC",
@@ -260,15 +203,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwzrpk3tjc2k"
       },
       "engagement": {
-        "likes": 106,
-        "replies": 7,
-        "reposts": 10,
-        "quotes": 10,
+        "likes": 145,
+        "replies": 9,
+        "reposts": 14,
+        "quotes": 16,
         "formatted": {
-          "likes": "106",
-          "replies": "7",
-          "reposts": "10",
-          "quotes": "10"
+          "likes": "145",
+          "replies": "9",
+          "reposts": "14",
+          "quotes": "16"
         }
       },
       "sample_replies": [
@@ -297,7 +240,7 @@
       "trend": "rising"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
@@ -352,7 +295,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -372,15 +315,15 @@
         "url": "https://bsky.app/profile/washingtonpost.com/post/3lwzfokho4u25"
       },
       "engagement": {
-        "likes": 73,
-        "replies": 104,
-        "reposts": 24,
-        "quotes": 28,
+        "likes": 75,
+        "replies": 105,
+        "reposts": 25,
+        "quotes": 29,
         "formatted": {
-          "likes": "73",
-          "replies": "104",
-          "reposts": "24",
-          "quotes": "28"
+          "likes": "75",
+          "replies": "105",
+          "reposts": "25",
+          "quotes": "29"
         }
       },
       "sample_replies": [
@@ -408,7 +351,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "allinwithchris.bsky.social",
         "display_name": "All In with Chris Hayes",
@@ -417,7 +360,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqjob47oyafvppnbcl32y22p/bafkreiaj47hvoowp7ihg2enkbgxnr2mvweal63iedvj3r7en6foxl72oiq@jpeg",
         "profile_url": "https://bsky.app/profile/allinwithchris.bsky.social"
       },
-      "ratio": "1:3",
+      "ratio": "1:2",
       "controversy": 4.4,
       "change": "NEW",
       "change_type": "new",
@@ -428,15 +371,15 @@
         "url": "https://bsky.app/profile/allinwithchris.bsky.social/post/3lwzrmneqas2u"
       },
       "engagement": {
-        "likes": 59,
-        "replies": 27,
-        "reposts": 17,
-        "quotes": 6,
+        "likes": 66,
+        "replies": 32,
+        "reposts": 22,
+        "quotes": 9,
         "formatted": {
-          "likes": "59",
-          "replies": "27",
-          "reposts": "17",
-          "quotes": "6"
+          "likes": "66",
+          "replies": "32",
+          "reposts": "22",
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -461,6 +404,63 @@
       ],
       "peak_controversy": 4.4,
       "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "thebulwark.com",
+        "display_name": "The Bulwark",
+        "initials": "TB",
+        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
+        "profile_url": "https://bsky.app/profile/thebulwark.com"
+      },
+      "ratio": "2:1",
+      "controversy": 3.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
+        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
+        "created_at": "2025-08-22T18:02:18.976Z",
+        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
+      },
+      "engagement": {
+        "likes": 70,
+        "replies": 36,
+        "reposts": 7,
+        "quotes": 11,
+        "formatted": {
+          "likes": "70",
+          "replies": "36",
+          "reposts": "7",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "Again with the fucking \"two weeks\".",
+        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
+        "Dude puts an alarm for two weeks and snoozes it for four years...",
+        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
+      ],
+      "metrics": {
+        "ratio_score": 5.12,
+        "time_bucket": 1,
+        "total_engagement": 94,
+        "post_age_minutes": 29.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.095162+00:00",
+      "last_updated": "2025-08-22T18:49:41.862738+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.095162+00:00",
+        "2025-08-22T18:49:41.862738+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
     },
     {
       "rank": 9,
@@ -528,7 +528,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exxdcplb2ozev5lvw5ohnejq/bafkreiam6dm3rbiz6kggmhxibp6jjqn5oxjnf2hxxuhzwho4tbgnivnbwa@jpeg",
         "profile_url": "https://bsky.app/profile/discussingfilm.net"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 3.4,
       "change": "NEW",
       "change_type": "new",
@@ -539,15 +539,15 @@
         "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
       },
       "engagement": {
-        "likes": 38,
-        "replies": 4,
-        "reposts": 10,
-        "quotes": 15,
+        "likes": 67,
+        "replies": 6,
+        "reposts": 14,
+        "quotes": 16,
         "formatted": {
-          "likes": "38",
-          "replies": "4",
-          "reposts": "10",
-          "quotes": "15"
+          "likes": "67",
+          "replies": "6",
+          "reposts": "14",
+          "quotes": "16"
         }
       },
       "sample_replies": [
@@ -705,12 +705,12 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 149,
+        "likes": 150,
         "replies": 56,
         "reposts": 21,
         "quotes": 17,
         "formatted": {
-          "likes": "149",
+          "likes": "150",
           "replies": "56",
           "reposts": "21",
           "quotes": "17"
@@ -762,14 +762,14 @@
       },
       "engagement": {
         "likes": 132,
-        "replies": 64,
+        "replies": 65,
         "reposts": 12,
-        "quotes": 167,
+        "quotes": 169,
         "formatted": {
           "likes": "132",
-          "replies": "64",
+          "replies": "65",
           "reposts": "12",
-          "quotes": "167"
+          "quotes": "169"
         }
       },
       "sample_replies": [
@@ -817,12 +817,12 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 72,
+        "likes": 73,
         "replies": 7,
         "reposts": 11,
         "quotes": 8,
         "formatted": {
-          "likes": "72",
+          "likes": "73",
           "replies": "7",
           "reposts": "11",
           "quotes": "8"
@@ -874,13 +874,13 @@
         "url": "https://bsky.app/profile/reuters.com/post/3lwzgatxnc62w"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 19,
+        "likes": 21,
+        "replies": 20,
         "reposts": 10,
         "quotes": 8,
         "formatted": {
-          "likes": "20",
-          "replies": "19",
+          "likes": "21",
+          "replies": "20",
           "reposts": "10",
           "quotes": "8"
         }
@@ -919,7 +919,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pcl72lxq7w2nrr7jkiks4qkc/bafkreideg4k3uvhlcy4xjxkg4ycm4oknff2bdwzft4uwbao43kj4zuqdry@jpeg",
         "profile_url": "https://bsky.app/profile/popcrave.com"
       },
-      "ratio": "4:1",
+      "ratio": "5:1",
       "controversy": 1.6,
       "change": "NEW",
       "change_type": "new",
@@ -933,12 +933,12 @@
         "likes": 35,
         "replies": 4,
         "reposts": 4,
-        "quotes": 17,
+        "quotes": 19,
         "formatted": {
           "likes": "35",
           "replies": "4",
           "reposts": "4",
-          "quotes": "17"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -986,15 +986,15 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwzqbkvjns2h"
       },
       "engagement": {
-        "likes": 62,
-        "replies": 8,
+        "likes": 64,
+        "replies": 9,
         "reposts": 7,
-        "quotes": 5,
+        "quotes": 6,
         "formatted": {
-          "likes": "62",
-          "replies": "8",
+          "likes": "64",
+          "replies": "9",
           "reposts": "7",
-          "quotes": "5"
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -1143,7 +1143,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d2jith367s6ybc3ldsusgdae/bafkreibkdhi4e5buhcoz2ejly3drrruynl6ojap5ave2ie4cxb7b6euluy@jpeg",
         "profile_url": "https://bsky.app/profile/latimes.com"
       },
-      "ratio": "3:1",
+      "ratio": "4:1",
       "controversy": 1.1,
       "change": "+0.6",
       "change_type": "positive",
@@ -1154,15 +1154,15 @@
         "url": "https://bsky.app/profile/latimes.com/post/3lwzqzfor7426"
       },
       "engagement": {
-        "likes": 16,
-        "replies": 7,
+        "likes": 17,
+        "replies": 10,
         "reposts": 4,
-        "quotes": 11,
+        "quotes": 14,
         "formatted": {
-          "likes": "16",
-          "replies": "7",
+          "likes": "17",
+          "replies": "10",
           "reposts": "4",
-          "quotes": "11"
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -1312,7 +1312,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qnwrertmdznkkexzktkweuvb/bafkreia7ilzf23chfpnmwywzjggvxvqjrmssvwddcojn2upea5pv37iipq@jpeg",
         "profile_url": "https://bsky.app/profile/edithcharles.bsky.social"
       },
-      "ratio": "5:0",
+      "ratio": "6:0",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -1323,15 +1323,15 @@
         "url": "https://bsky.app/profile/edithcharles.bsky.social/post/3lwzq7cq6ak2t"
       },
       "engagement": {
-        "likes": 17,
-        "replies": 12,
+        "likes": 18,
+        "replies": 14,
         "reposts": 0,
-        "quotes": 5,
+        "quotes": 6,
         "formatted": {
-          "likes": "17",
-          "replies": "12",
+          "likes": "18",
+          "replies": "14",
           "reposts": "0",
-          "quotes": "5"
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -1368,7 +1368,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreig32yjhwzcziwutr3ve4ptq6vuycbsl4apd3rcaf7ljiu73pevb5q@jpeg",
         "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
       },
-      "ratio": "19:0",
+      "ratio": "27:0",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -1379,15 +1379,15 @@
         "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lwzpvst62c2i"
       },
       "engagement": {
-        "likes": 5,
+        "likes": 6,
         "replies": 2,
         "reposts": 0,
-        "quotes": 19,
+        "quotes": 27,
         "formatted": {
-          "likes": "5",
+          "likes": "6",
           "replies": "2",
           "reposts": "0",
-          "quotes": "19"
+          "quotes": "27"
         }
       },
       "sample_replies": [
