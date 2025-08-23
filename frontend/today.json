@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T19:03:43.207658+00:00",
-    "last_metrics_update": "2025-08-23T20:17:30.026066+00:00",
+    "last_metrics_update": "2025-08-23T20:32:16.587267+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 33,
@@ -147,12 +147,12 @@
         "url": "https://bsky.app/profile/npr.org/post/3lx36xaz2hp2e"
       },
       "engagement": {
-        "likes": 304,
+        "likes": 305,
         "replies": 171,
         "reposts": 87,
         "quotes": 56,
         "formatted": {
-          "likes": "304",
+          "likes": "305",
           "replies": "171",
           "reposts": "87",
           "quotes": "56"
@@ -203,15 +203,15 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 1305,
-        "replies": 687,
-        "reposts": 396,
-        "quotes": 140,
+        "likes": 1408,
+        "replies": 750,
+        "reposts": 419,
+        "quotes": 152,
         "formatted": {
-          "likes": "1.3K",
-          "replies": "687",
-          "reposts": "396",
-          "quotes": "140"
+          "likes": "1.4K",
+          "replies": "750",
+          "reposts": "419",
+          "quotes": "152"
         }
       },
       "sample_replies": [
@@ -259,12 +259,12 @@
         "url": "https://bsky.app/profile/thelouvreof.bsky.social/post/3lx35eo6sgk2o"
       },
       "engagement": {
-        "likes": 494,
+        "likes": 496,
         "replies": 25,
         "reposts": 34,
         "quotes": 10,
         "formatted": {
-          "likes": "494",
+          "likes": "496",
           "replies": "25",
           "reposts": "34",
           "quotes": "10"
@@ -426,14 +426,14 @@
         "url": "https://bsky.app/profile/rikergoogling.bsky.social/post/3lx3m65lbue24"
       },
       "engagement": {
-        "likes": 131,
+        "likes": 132,
         "replies": 17,
-        "reposts": 20,
+        "reposts": 21,
         "quotes": 15,
         "formatted": {
-          "likes": "131",
+          "likes": "132",
           "replies": "17",
-          "reposts": "20",
+          "reposts": "21",
           "quotes": "15"
         }
       },
@@ -482,14 +482,14 @@
         "url": "https://bsky.app/profile/washingtonpost.com/post/3lx3m3icd4t2n"
       },
       "engagement": {
-        "likes": 44,
-        "replies": 78,
-        "reposts": 19,
+        "likes": 45,
+        "replies": 79,
+        "reposts": 20,
         "quotes": 15,
         "formatted": {
-          "likes": "44",
-          "replies": "78",
-          "reposts": "19",
+          "likes": "45",
+          "replies": "79",
+          "reposts": "20",
           "quotes": "15"
         }
       },
@@ -649,14 +649,14 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lx2iwfmsfc2u"
       },
       "engagement": {
-        "likes": 501,
+        "likes": 505,
         "replies": 44,
-        "reposts": 36,
+        "reposts": 37,
         "quotes": 53,
         "formatted": {
-          "likes": "501",
+          "likes": "505",
           "replies": "44",
-          "reposts": "36",
+          "reposts": "37",
           "quotes": "53"
         }
       },
@@ -707,13 +707,13 @@
         "url": "https://bsky.app/profile/drfrancisyoung.bsky.social/post/3lx3m64uhfk2u"
       },
       "engagement": {
-        "likes": 101,
-        "replies": 26,
+        "likes": 104,
+        "replies": 27,
         "reposts": 8,
         "quotes": 7,
         "formatted": {
-          "likes": "101",
-          "replies": "26",
+          "likes": "104",
+          "replies": "27",
           "reposts": "8",
           "quotes": "7"
         }
@@ -763,12 +763,12 @@
         "url": "https://bsky.app/profile/earthbound420.bsky.social/post/3lx3ks6qefk2q"
       },
       "engagement": {
-        "likes": 51,
+        "likes": 54,
         "replies": 21,
         "reposts": 14,
         "quotes": 10,
         "formatted": {
-          "likes": "51",
+          "likes": "54",
           "replies": "21",
           "reposts": "14",
           "quotes": "10"
@@ -819,13 +819,13 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lx3kg726ce2v"
       },
       "engagement": {
-        "likes": 64,
-        "replies": 61,
+        "likes": 66,
+        "replies": 63,
         "reposts": 19,
         "quotes": 12,
         "formatted": {
-          "likes": "64",
-          "replies": "61",
+          "likes": "66",
+          "replies": "63",
           "reposts": "19",
           "quotes": "12"
         }
@@ -932,12 +932,12 @@
       },
       "engagement": {
         "likes": 39,
-        "replies": 36,
+        "replies": 37,
         "reposts": 19,
         "quotes": 16,
         "formatted": {
           "likes": "39",
-          "replies": "36",
+          "replies": "37",
           "reposts": "19",
           "quotes": "16"
         }
@@ -976,7 +976,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7p6pezxyq3fr3fza4e4gdpst/bafkreihjvbxd5ecj3uuhwb4fmfulziw3n6dwyebm7hnnex4kbd4kyhr6dm@jpeg",
         "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
       },
-      "ratio": "143:0",
+      "ratio": "145:0",
       "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
@@ -990,12 +990,12 @@
         "likes": 20,
         "replies": 22,
         "reposts": 0,
-        "quotes": 143,
+        "quotes": 145,
         "formatted": {
           "likes": "20",
           "replies": "22",
           "reposts": "0",
-          "quotes": "143"
+          "quotes": "145"
         }
       },
       "sample_replies": [
@@ -1156,12 +1156,12 @@
       },
       "engagement": {
         "likes": 46,
-        "replies": 18,
+        "replies": 19,
         "reposts": 2,
         "quotes": 13,
         "formatted": {
           "likes": "46",
-          "replies": "18",
+          "replies": "19",
           "reposts": "2",
           "quotes": "13"
         }
@@ -1266,14 +1266,14 @@
       },
       "engagement": {
         "likes": 11,
-        "replies": 43,
+        "replies": 44,
         "reposts": 3,
-        "quotes": 17,
+        "quotes": 19,
         "formatted": {
           "likes": "11",
-          "replies": "43",
+          "replies": "44",
           "reposts": "3",
-          "quotes": "17"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -1478,7 +1478,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tshrll7hb5scyeg4m6nitxtr/bafkreid3kczgnzorle6lfzh66pbomgq4rkvnhleoppb62tx7tpck7ehllq@jpeg",
         "profile_url": "https://bsky.app/profile/news.sky.com"
       },
-      "ratio": "23:0",
+      "ratio": "24:0",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -1492,12 +1492,12 @@
         "likes": 10,
         "replies": 45,
         "reposts": 0,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
           "likes": "10",
           "replies": "45",
           "reposts": "0",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -1589,7 +1589,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qnwrertmdznkkexzktkweuvb/bafkreia7ilzf23chfpnmwywzjggvxvqjrmssvwddcojn2upea5pv37iipq@jpeg",
         "profile_url": "https://bsky.app/profile/edithcharles.bsky.social"
       },
-      "ratio": "25:1",
+      "ratio": "26:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -1600,15 +1600,15 @@
         "url": "https://bsky.app/profile/edithcharles.bsky.social/post/3lwzq7cq6ak2t"
       },
       "engagement": {
-        "likes": 57,
-        "replies": 42,
+        "likes": 60,
+        "replies": 43,
         "reposts": 5,
-        "quotes": 126,
+        "quotes": 130,
         "formatted": {
-          "likes": "57",
-          "replies": "42",
+          "likes": "60",
+          "replies": "43",
           "reposts": "5",
-          "quotes": "126"
+          "quotes": "130"
         }
       },
       "sample_replies": [
