@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-23T01:48:08.712960+00:00",
-    "last_metrics_update": "2025-08-23T04:47:51.450359+00:00",
+    "last_full_analysis": "2025-08-23T05:29:02.289616+00:00",
+    "last_metrics_update": "2025-08-23T05:29:02.289616+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 25,
+    "main_characters_count": 22,
     "rolling_window": {
-      "last_update": "2025-08-23T01:48:08.712960+00:00",
-      "new_entries_added": 7,
-      "total_in_window": 25,
+      "last_update": "2025-08-23T05:29:02.289616+00:00",
+      "new_entries_added": 1,
+      "total_in_window": 22,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -185,6 +185,63 @@
     {
       "rank": 4,
       "user": {
+        "handle": "thebulwark.com",
+        "display_name": "The Bulwark",
+        "initials": "TB",
+        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
+        "profile_url": "https://bsky.app/profile/thebulwark.com"
+      },
+      "ratio": "1:1",
+      "controversy": 3.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
+        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
+        "created_at": "2025-08-22T18:02:18.976Z",
+        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
+      },
+      "engagement": {
+        "likes": 70,
+        "replies": 36,
+        "reposts": 8,
+        "quotes": 11,
+        "formatted": {
+          "likes": "70",
+          "replies": "36",
+          "reposts": "8",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "Again with the fucking \"two weeks\".",
+        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
+        "Dude puts an alarm for two weeks and snoozes it for four years...",
+        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
+      ],
+      "metrics": {
+        "ratio_score": 5.12,
+        "time_bucket": 1,
+        "total_engagement": 94,
+        "post_age_minutes": 29.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.095162+00:00",
+      "last_updated": "2025-08-22T18:49:41.862738+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.095162+00:00",
+        "2025-08-22T18:49:41.862738+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 5,
+      "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
         "initials": "CC",
@@ -240,7 +297,7 @@
       "trend": "rising"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
@@ -295,7 +352,7 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -351,7 +408,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user": {
         "handle": "allinwithchris.bsky.social",
         "display_name": "All In with Chris Hayes",
@@ -404,63 +461,6 @@
       ],
       "peak_controversy": 4.4,
       "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
-        "handle": "thebulwark.com",
-        "display_name": "The Bulwark",
-        "initials": "TB",
-        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
-        "profile_url": "https://bsky.app/profile/thebulwark.com"
-      },
-      "ratio": "1:1",
-      "controversy": 3.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
-        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
-        "created_at": "2025-08-22T18:02:18.976Z",
-        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
-      },
-      "engagement": {
-        "likes": 70,
-        "replies": 36,
-        "reposts": 8,
-        "quotes": 11,
-        "formatted": {
-          "likes": "70",
-          "replies": "36",
-          "reposts": "8",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "Again with the fucking \"two weeks\".",
-        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
-        "Dude puts an alarm for two weeks and snoozes it for four years...",
-        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
-      ],
-      "metrics": {
-        "ratio_score": 5.12,
-        "time_bucket": 1,
-        "total_engagement": 94,
-        "post_age_minutes": 29.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T18:49:41.095162+00:00",
-      "last_updated": "2025-08-22T18:49:41.862738+00:00",
-      "analysis_windows": [
-        "2025-08-22T18:49:41.095162+00:00",
-        "2025-08-22T18:49:41.862738+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
     },
     {
       "rank": 9,
@@ -576,62 +576,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "fleerultra.bsky.social",
-        "display_name": "Michael",
-        "initials": "MI",
-        "did": "did:plc:ifnpirhh7ihbsqyee5yjrlam",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ifnpirhh7ihbsqyee5yjrlam/bafkreiggc2pmpqgurvgkn4fyfrbx7ijcr2wcetvbdpesdso4c7utldod5m@jpeg",
-        "profile_url": "https://bsky.app/profile/fleerultra.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "okay new movie prompt, what are some great paranoid thrillers? just watched klute and really enjoyed it. the first modern one that comes to mind is martha marcy may marlene, which was stunning",
-        "uri": "at://did:plc:ifnpirhh7ihbsqyee5yjrlam/app.bsky.feed.post/3lwxhvtjvvs2g",
-        "created_at": "2025-08-22T03:04:41.691Z",
-        "url": "https://bsky.app/profile/fleerultra.bsky.social/post/3lwxhvtjvvs2g"
-      },
-      "engagement": {
-        "likes": 145,
-        "replies": 99,
-        "reposts": 4,
-        "quotes": 5,
-        "formatted": {
-          "likes": "145",
-          "replies": "99",
-          "reposts": "4",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "gimme your favorite movies where neither the protagonist nor the audience know who to trust or what...",
-        "It's a gimme, but The Conversation",
-        "villeneuve's under appreciated ENEMY deserves to be listed here too",
-        "persona and all its modern iterations fit the bill: black swan, the lighthouse, etc"
-      ],
-      "metrics": {
-        "ratio_score": 23.33,
-        "time_bucket": 3,
-        "total_engagement": 165,
-        "post_age_minutes": 56.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T04:30:34.286665+00:00",
-      "last_updated": "2025-08-22T04:30:34.286665+00:00",
-      "analysis_windows": [
-        "2025-08-22T04:30:34.286665+00:00"
-      ],
-      "peak_controversy": 3.3,
-      "trend": "new"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "hamsterwatch.com",
         "display_name": "hamsterwatch #bb27",
         "initials": "H#",
@@ -685,7 +629,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -741,63 +685,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
-      "user": {
-        "handle": "radiofreetom.bsky.social",
-        "display_name": "Tom Nichols",
-        "initials": "TN",
-        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
-        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
-      },
-      "ratio": "14:1",
-      "controversy": 2.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I was asked \"what would be different if this really were an intentional genocide against the Palestinians,\" and no one wants to hear the reality that it would be over by now. Genocide is not \"a brutal and indiscriminate war that goes on for a long time.\" War crimes are not genocide.",
-        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lwxhshexvs2c",
-        "created_at": "2025-08-22T03:02:48.284Z",
-        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lwxhshexvs2c"
-      },
-      "engagement": {
-        "likes": 132,
-        "replies": 66,
-        "reposts": 12,
-        "quotes": 170,
-        "formatted": {
-          "likes": "132",
-          "replies": "66",
-          "reposts": "12",
-          "quotes": "170"
-        }
-      },
-      "sample_replies": [
-        "It’s ok to be wrong but they called them parasites and wanted to kill them all.",
-        "But manifest destiny WAS genocide",
-        "Concerted campaigns of ethnic cleansing, including concentration camps and forced marches. Programs...",
-        "We were"
-      ],
-      "metrics": {
-        "ratio_score": 7.33,
-        "time_bucket": 3,
-        "total_engagement": 108,
-        "post_age_minutes": 57.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T04:30:34.384707+00:00",
-      "last_updated": "2025-08-22T04:30:34.384707+00:00",
-      "analysis_windows": [
-        "2025-08-22T04:30:34.384707+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
@@ -854,7 +742,7 @@
       "trend": "rising"
     },
     {
-      "rank": 16,
+      "rank": 14,
       "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
@@ -910,7 +798,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "user": {
         "handle": "popcrave.com",
         "display_name": "Pop Crave",
@@ -966,7 +854,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
@@ -1022,7 +910,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "user": {
         "handle": "financialtimes.com",
         "display_name": "Financial Times",
@@ -1078,7 +966,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "user": {
         "handle": "justinbaragona.bsky.social",
         "display_name": "Justin Baragona",
@@ -1134,64 +1022,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
-      "user": {
-        "handle": "latimes.com",
-        "display_name": "Los Angeles Times",
-        "initials": "LA",
-        "did": "did:plc:d2jith367s6ybc3ldsusgdae",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d2jith367s6ybc3ldsusgdae/bafkreibkdhi4e5buhcoz2ejly3drrruynl6ojap5ave2ie4cxb7b6euluy@jpeg",
-        "profile_url": "https://bsky.app/profile/latimes.com"
-      },
-      "ratio": "4:1",
-      "controversy": 1.1,
-      "change": "+0.6",
-      "change_type": "positive",
-      "post": {
-        "text": "Overnight lines and hours-long wait time at Washington state's first In-N-Out",
-        "uri": "at://did:plc:d2jith367s6ybc3ldsusgdae/app.bsky.feed.post/3lwzqzfor7426",
-        "created_at": "2025-08-23T00:53:04.520Z",
-        "url": "https://bsky.app/profile/latimes.com/post/3lwzqzfor7426"
-      },
-      "engagement": {
-        "likes": 19,
-        "replies": 10,
-        "reposts": 5,
-        "quotes": 18,
-        "formatted": {
-          "likes": "19",
-          "replies": "10",
-          "reposts": "5",
-          "quotes": "18"
-        }
-      },
-      "sample_replies": [
-        "I want to see the disappointment in the eyes of the people who waited an hour in line to eat awful...",
-        "Really?  Ever think of cooking a burger at home?",
-        "This is ridiculous.",
-        "Ah yes, in California in the mid 1980s with my \"In-N-Out urge\" bumper sticker next to my upside..."
-      ],
-      "metrics": {
-        "ratio_score": 3.6,
-        "time_bucket": 2,
-        "total_engagement": 38,
-        "post_age_minutes": 40.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T04:30:34.602317+00:00",
-      "last_updated": "2025-08-23T01:48:08.712904+00:00",
-      "analysis_windows": [
-        "2025-08-22T04:30:34.602317+00:00",
-        "2025-08-23T01:48:08.712904+00:00"
-      ],
-      "peak_controversy": 1.1,
-      "trend": "rising"
-    },
-    {
-      "rank": 22,
+      "rank": 19,
       "user": {
         "handle": "reneedechert.com",
         "display_name": "Renee Dechert",
@@ -1247,63 +1078,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
-      "user": {
-        "handle": "mick-ee.bsky.social",
-        "display_name": "🎀 mickee 🎀",
-        "initials": "🎀M",
-        "did": "did:plc:jcv4vlqmnipn2vbw4xdtshw5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jcv4vlqmnipn2vbw4xdtshw5/bafkreienkhhebgw6tg2kskvgbeqm6rs75rxnswo63npadualbqzrmqf2ym@jpeg",
-        "profile_url": "https://bsky.app/profile/mick-ee.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I’m in a MEWDDDD",
-        "uri": "at://did:plc:jcv4vlqmnipn2vbw4xdtshw5/app.bsky.feed.post/3lwxicp5sv22v",
-        "created_at": "2025-08-22T03:11:53.294Z",
-        "url": "https://bsky.app/profile/mick-ee.bsky.social/post/3lwxicp5sv22v"
-      },
-      "engagement": {
-        "likes": 33,
-        "replies": 5,
-        "reposts": 2,
-        "quotes": 5,
-        "formatted": {
-          "likes": "33",
-          "replies": "5",
-          "reposts": "2",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "Eaters gotta eat lol",
-        "Are you invalidating my feelings?",
-        "Just making sure",
-        "Lmao I’m in the same mood except I’m trying to get my soul taken care of"
-      ],
-      "metrics": {
-        "ratio_score": 3.33,
-        "time_bucket": 3,
-        "total_engagement": 34,
-        "post_age_minutes": 48.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T04:30:34.496971+00:00",
-      "last_updated": "2025-08-22T04:30:34.496971+00:00",
-      "analysis_windows": [
-        "2025-08-22T04:30:34.496971+00:00"
-      ],
-      "peak_controversy": 0.7,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
+      "rank": 20,
       "user": {
         "handle": "edithcharles.bsky.social",
         "display_name": "Edith",
@@ -1359,7 +1134,62 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 21,
+      "user": {
+        "handle": "mondycarrington.bsky.social",
+        "display_name": "Mondy Carrington",
+        "initials": "MC",
+        "did": "did:plc:ytuk6h6gga2v2zte7xn7ti2u",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ytuk6h6gga2v2zte7xn7ti2u/bafkreig2nyvnupcmd4l3ommic6eqhgkrqpnsdu2ajwnm45dgd7fy5d6rny@jpeg",
+        "profile_url": "https://bsky.app/profile/mondycarrington.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "A man will slide in your DMs and give you nothing. The conversation be drier than the Sahara. Just a bunch of “lol” and “good morning.” Please, miss me with the bullshit.",
+        "uri": "at://did:plc:ytuk6h6gga2v2zte7xn7ti2u/app.bsky.feed.post/3lx263y34wc2z",
+        "created_at": "2025-08-23T04:47:09.573Z",
+        "url": "https://bsky.app/profile/mondycarrington.bsky.social/post/3lx263y34wc2z"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 6,
+        "formatted": {
+          "likes": "10",
+          "replies": "2",
+          "reposts": "3",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Smh",
+        "Lmao damn (unintentionally, this too)",
+        "A bunch of time wasters."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 2,
+        "total_engagement": 21,
+        "post_age_minutes": 30.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T05:29:02.289490+00:00",
+      "last_updated": "2025-08-23T05:29:02.289490+00:00",
+      "analysis_windows": [
+        "2025-08-23T05:29:02.289490+00:00"
+      ],
+      "peak_controversy": 0.6,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
       "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
