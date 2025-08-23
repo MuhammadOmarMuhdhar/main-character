@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-23T11:57:04.405151+00:00",
-    "last_metrics_update": "2025-08-23T14:47:20.390669+00:00",
+    "last_full_analysis": "2025-08-23T15:17:28.415465+00:00",
+    "last_metrics_update": "2025-08-23T15:17:28.415465+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 23,
+    "main_characters_count": 32,
     "rolling_window": {
-      "last_update": "2025-08-23T11:57:04.405151+00:00",
-      "new_entries_added": 1,
-      "total_in_window": 23,
+      "last_update": "2025-08-23T15:17:28.415465+00:00",
+      "new_entries_added": 9,
+      "total_in_window": 32,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -185,171 +185,117 @@
     {
       "rank": 4,
       "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
+        "handle": "npr.org",
+        "display_name": "NPR",
+        "initials": "NP",
+        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln72v57ivz2g46uqf4xxqiuh/bafkreibuignib3md64nrejizb45lynj2rf2pfahys46dz3oztgtrmpeizu@jpeg",
+        "profile_url": "https://bsky.app/profile/npr.org"
       },
       "ratio": "1:1",
-      "controversy": 4.7,
+      "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
-        "created_at": "2025-08-22T18:16:28.004085937Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
+        "text": "Trump has swapped out the grass in the Rose Garden with stone, turning what had been a lawn into a patio that bears a striking resemblance to one at his Mar-a-Lago resort in Palm Beach, Fla.",
+        "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3lx36xaz2hp2e",
+        "created_at": "2025-08-23T14:35:04.607883Z",
+        "url": "https://bsky.app/profile/npr.org/post/3lx36xaz2hp2e"
       },
       "engagement": {
-        "likes": 67,
-        "replies": 77,
-        "reposts": 44,
+        "likes": 160,
+        "replies": 107,
+        "reposts": 43,
         "quotes": 32,
         "formatted": {
-          "likes": "67",
-          "replies": "77",
-          "reposts": "44",
+          "likes": "160",
+          "replies": "107",
+          "reposts": "43",
           "quotes": "32"
         }
       },
       "sample_replies": [
-        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
-        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
-        "Keep sane washing, corporate buttholes."
+        "Replacing green life with cold stone is so on brand.",
+        "Trash.",
+        "motherfucker needs to remember it isn't his house",
+        "This is what they do with dementia patients so they don’t get lost- recreate their “home” so things..."
       ],
       "metrics": {
-        "ratio_score": 2.36,
+        "ratio_score": 3.16,
         "time_bucket": 1,
-        "total_engagement": 118,
-        "post_age_minutes": 15.2
+        "total_engagement": 342,
+        "post_age_minutes": 27.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-22T18:49:41.218980+00:00",
-      "last_updated": "2025-08-22T18:49:41.218980+00:00",
+      "first_detected": "2025-08-23T15:17:27.583369+00:00",
+      "last_updated": "2025-08-23T15:17:27.583369+00:00",
       "analysis_windows": [
-        "2025-08-22T18:49:41.218980+00:00"
+        "2025-08-23T15:17:27.583369+00:00"
       ],
-      "peak_controversy": 4.7,
+      "peak_controversy": 10.0,
       "trend": "new"
     },
     {
       "rank": 5,
       "user": {
-        "handle": "washingtonpost.com",
-        "display_name": "The Washington Post",
-        "initials": "TW",
-        "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
-        "profile_url": "https://bsky.app/profile/washingtonpost.com"
+        "handle": "thelouvreof.bsky.social",
+        "display_name": "The Louvre of Bluesky",
+        "initials": "TL",
+        "did": "did:plc:g2p3bnbzcvcbohfpvjxfazqv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:g2p3bnbzcvcbohfpvjxfazqv/bafkreifyqcyh2i3yj3wtqv2ohiq77lg7edb6yybqhpy2g26dt73zazubdi@jpeg",
+        "profile_url": "https://bsky.app/profile/thelouvreof.bsky.social"
       },
-      "ratio": "1:1",
-      "controversy": 4.7,
+      "ratio": "1:2",
+      "controversy": 6.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Imprisoned Epstein associate Ghislaine Maxwell told the Justice Department last month that she admired President Trump and never observed him receiving massages or acting inappropriately.\n\nShe also denied the existence of a \"client list.\"",
-        "uri": "at://did:plc:k5nskatzhyxersjilvtnz4lh/app.bsky.feed.post/3lwzfokho4u25",
-        "created_at": "2025-08-22T21:30:09.220279085Z",
-        "url": "https://bsky.app/profile/washingtonpost.com/post/3lwzfokho4u25"
+        "text": "",
+        "uri": "at://did:plc:g2p3bnbzcvcbohfpvjxfazqv/app.bsky.feed.post/3lx35eo6sgk2o",
+        "created_at": "2025-08-23T14:06:47.184Z",
+        "url": "https://bsky.app/profile/thelouvreof.bsky.social/post/3lx35eo6sgk2o"
       },
       "engagement": {
-        "likes": 83,
-        "replies": 114,
-        "reposts": 27,
-        "quotes": 30,
+        "likes": 291,
+        "replies": 19,
+        "reposts": 11,
+        "quotes": 5,
         "formatted": {
-          "likes": "83",
-          "replies": "114",
-          "reposts": "27",
-          "quotes": "30"
+          "likes": "291",
+          "replies": "19",
+          "reposts": "11",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "Her definition of “inappropriate” could be a bit different from a decent person’s definition given...",
-        "My decision to cancel my WaPo subscription just keeps getting better.",
-        "Pedophile says that she didn't see another Pedophile do inappropriate Pedophile things...",
-        "Ok, release the files then."
+        "“I’m indigenous”\n\n“Ah so your government has no history of hating you”",
+        "Begging some of y’all to read a book. Any book at this point.",
+        "just gonna drop this here",
+        "Honestly a good number of Bluesky users need to read some Richard Scarry Busytown books"
       ],
       "metrics": {
-        "ratio_score": 7.15,
-        "time_bucket": 2,
-        "total_engagement": 157,
-        "post_age_minutes": 33.1
+        "ratio_score": 2.0,
+        "time_bucket": 3,
+        "total_engagement": 326,
+        "post_age_minutes": 55.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-22T22:21:06.161085+00:00",
-      "last_updated": "2025-08-22T22:21:06.161085+00:00",
+      "first_detected": "2025-08-23T15:17:28.138781+00:00",
+      "last_updated": "2025-08-23T15:17:28.138781+00:00",
       "analysis_windows": [
-        "2025-08-22T22:21:06.161085+00:00"
+        "2025-08-23T15:17:28.138781+00:00"
       ],
-      "peak_controversy": 4.7,
+      "peak_controversy": 6.5,
       "trend": "new"
     },
     {
       "rank": 6,
-      "user": {
-        "handle": "allinwithchris.bsky.social",
-        "display_name": "All In with Chris Hayes",
-        "initials": "AI",
-        "did": "did:plc:bqjob47oyafvppnbcl32y22p",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqjob47oyafvppnbcl32y22p/bafkreiaj47hvoowp7ihg2enkbgxnr2mvweal63iedvj3r7en6foxl72oiq@jpeg",
-        "profile_url": "https://bsky.app/profile/allinwithchris.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 4.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "According to the interview transcripts and audio released by the Trump DOJ, Ghislaine Maxwell says Trump was \"never inappropriate with anybody in the times I was with him.\" In the same interview, she says she never saw Jeffrey Epstein engage in \"unconsensual\" behavior.",
-        "uri": "at://did:plc:bqjob47oyafvppnbcl32y22p/app.bsky.feed.post/3lwzrmneqas2u",
-        "created_at": "2025-08-23T01:03:50.136Z",
-        "url": "https://bsky.app/profile/allinwithchris.bsky.social/post/3lwzrmneqas2u"
-      },
-      "engagement": {
-        "likes": 88,
-        "replies": 35,
-        "reposts": 27,
-        "quotes": 11,
-        "formatted": {
-          "likes": "88",
-          "replies": "35",
-          "reposts": "27",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "🤣🤣🤣 right, was this before or after she returned from “work release”?",
-        "When’s her pardon?",
-        "Golly, why ever should she lie?"
-      ],
-      "metrics": {
-        "ratio_score": 1.83,
-        "time_bucket": 1,
-        "total_engagement": 109,
-        "post_age_minutes": 29.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T01:48:08.084252+00:00",
-      "last_updated": "2025-08-23T01:48:08.084252+00:00",
-      "analysis_windows": [
-        "2025-08-23T01:48:08.084252+00:00"
-      ],
-      "peak_controversy": 4.4,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
       "user": {
         "handle": "thebulwark.com",
         "display_name": "The Bulwark",
@@ -406,7 +352,173 @@
       "trend": "rising"
     },
     {
+      "rank": 7,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 4.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
+        "created_at": "2025-08-22T18:16:28.004085937Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
+      },
+      "engagement": {
+        "likes": 67,
+        "replies": 77,
+        "reposts": 44,
+        "quotes": 32,
+        "formatted": {
+          "likes": "67",
+          "replies": "77",
+          "reposts": "44",
+          "quotes": "32"
+        }
+      },
+      "sample_replies": [
+        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
+        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
+        "Keep sane washing, corporate buttholes."
+      ],
+      "metrics": {
+        "ratio_score": 2.36,
+        "time_bucket": 1,
+        "total_engagement": 118,
+        "post_age_minutes": 15.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.218980+00:00",
+      "last_updated": "2025-08-22T18:49:41.218980+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.218980+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
       "rank": 8,
+      "user": {
+        "handle": "washingtonpost.com",
+        "display_name": "The Washington Post",
+        "initials": "TW",
+        "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
+        "profile_url": "https://bsky.app/profile/washingtonpost.com"
+      },
+      "ratio": "1:1",
+      "controversy": 4.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Imprisoned Epstein associate Ghislaine Maxwell told the Justice Department last month that she admired President Trump and never observed him receiving massages or acting inappropriately.\n\nShe also denied the existence of a \"client list.\"",
+        "uri": "at://did:plc:k5nskatzhyxersjilvtnz4lh/app.bsky.feed.post/3lwzfokho4u25",
+        "created_at": "2025-08-22T21:30:09.220279085Z",
+        "url": "https://bsky.app/profile/washingtonpost.com/post/3lwzfokho4u25"
+      },
+      "engagement": {
+        "likes": 83,
+        "replies": 114,
+        "reposts": 27,
+        "quotes": 30,
+        "formatted": {
+          "likes": "83",
+          "replies": "114",
+          "reposts": "27",
+          "quotes": "30"
+        }
+      },
+      "sample_replies": [
+        "Her definition of “inappropriate” could be a bit different from a decent person’s definition given...",
+        "My decision to cancel my WaPo subscription just keeps getting better.",
+        "Pedophile says that she didn't see another Pedophile do inappropriate Pedophile things...",
+        "Ok, release the files then."
+      ],
+      "metrics": {
+        "ratio_score": 7.15,
+        "time_bucket": 2,
+        "total_engagement": 157,
+        "post_age_minutes": 33.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T22:21:06.161085+00:00",
+      "last_updated": "2025-08-22T22:21:06.161085+00:00",
+      "analysis_windows": [
+        "2025-08-22T22:21:06.161085+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
+      "user": {
+        "handle": "allinwithchris.bsky.social",
+        "display_name": "All In with Chris Hayes",
+        "initials": "AI",
+        "did": "did:plc:bqjob47oyafvppnbcl32y22p",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqjob47oyafvppnbcl32y22p/bafkreiaj47hvoowp7ihg2enkbgxnr2mvweal63iedvj3r7en6foxl72oiq@jpeg",
+        "profile_url": "https://bsky.app/profile/allinwithchris.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 4.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "According to the interview transcripts and audio released by the Trump DOJ, Ghislaine Maxwell says Trump was \"never inappropriate with anybody in the times I was with him.\" In the same interview, she says she never saw Jeffrey Epstein engage in \"unconsensual\" behavior.",
+        "uri": "at://did:plc:bqjob47oyafvppnbcl32y22p/app.bsky.feed.post/3lwzrmneqas2u",
+        "created_at": "2025-08-23T01:03:50.136Z",
+        "url": "https://bsky.app/profile/allinwithchris.bsky.social/post/3lwzrmneqas2u"
+      },
+      "engagement": {
+        "likes": 88,
+        "replies": 35,
+        "reposts": 27,
+        "quotes": 11,
+        "formatted": {
+          "likes": "88",
+          "replies": "35",
+          "reposts": "27",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "🤣🤣🤣 right, was this before or after she returned from “work release”?",
+        "When’s her pardon?",
+        "Golly, why ever should she lie?"
+      ],
+      "metrics": {
+        "ratio_score": 1.83,
+        "time_bucket": 1,
+        "total_engagement": 109,
+        "post_age_minutes": 29.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T01:48:08.084252+00:00",
+      "last_updated": "2025-08-23T01:48:08.084252+00:00",
+      "analysis_windows": [
+        "2025-08-23T01:48:08.084252+00:00"
+      ],
+      "peak_controversy": 4.4,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
       "user": {
         "handle": "antongerashchenko.bsky.social",
         "display_name": "Anton Gerashchenko",
@@ -459,116 +571,6 @@
         "2025-08-22T18:49:41.374288+00:00"
       ],
       "peak_controversy": 3.9,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "discussingfilm.net",
-        "display_name": "DiscussingFilm",
-        "initials": "DI",
-        "did": "did:plc:exxdcplb2ozev5lvw5ohnejq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exxdcplb2ozev5lvw5ohnejq/bafkreiam6dm3rbiz6kggmhxibp6jjqn5oxjnf2hxxuhzwho4tbgnivnbwa@jpeg",
-        "profile_url": "https://bsky.app/profile/discussingfilm.net"
-      },
-      "ratio": "1:1",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "A Kobe Bryant biopic is in the works at Warner Bros.\n\n(Source: Deadline)",
-        "uri": "at://did:plc:exxdcplb2ozev5lvw5ohnejq/app.bsky.feed.post/3lwzsks2xvs2d",
-        "created_at": "2025-08-23T01:20:41.677Z",
-        "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
-      },
-      "engagement": {
-        "likes": 144,
-        "replies": 12,
-        "reposts": 27,
-        "quotes": 27,
-        "formatted": {
-          "likes": "144",
-          "replies": "12",
-          "reposts": "27",
-          "quotes": "27"
-        }
-      },
-      "sample_replies": [
-        "I’m going to guess it won’t include the things he did in Denver .",
-        "They need to do something like The Last Dance. \n\nI need like 8, 1-hour long episodes chronicling...",
-        "Ew"
-      ],
-      "metrics": {
-        "ratio_score": 1.73,
-        "time_bucket": 0,
-        "total_engagement": 67,
-        "post_age_minutes": 12.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T01:48:07.827052+00:00",
-      "last_updated": "2025-08-23T01:48:07.827052+00:00",
-      "analysis_windows": [
-        "2025-08-23T01:48:07.827052+00:00"
-      ],
-      "peak_controversy": 3.4,
-      "trend": "new"
-    },
-    {
-      "rank": 10,
-      "user": {
-        "handle": "hamsterwatch.com",
-        "display_name": "hamsterwatch #bb27",
-        "initials": "H#",
-        "did": "did:plc:2nh2yfgyvadt6njeblfll5eq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nh2yfgyvadt6njeblfll5eq/bafkreieeaxw6d7dvcxjnyazlg3pybokyc7esuxbak2tyxtvxuzvs5rygpm@jpeg",
-        "profile_url": "https://bsky.app/profile/hamsterwatch.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Mickey to Vince: \"you've come this far, but don't put me up, if you put me up I will haunt you in your dreams\"",
-        "uri": "at://did:plc:2nh2yfgyvadt6njeblfll5eq/app.bsky.feed.post/3lwzg3kr5ts2l",
-        "created_at": "2025-08-22T21:37:25.812Z",
-        "url": "https://bsky.app/profile/hamsterwatch.com/post/3lwzg3kr5ts2l"
-      },
-      "engagement": {
-        "likes": 120,
-        "replies": 8,
-        "reposts": 9,
-        "quotes": 6,
-        "formatted": {
-          "likes": "120",
-          "replies": "8",
-          "reposts": "9",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "lmaoooooooo lowkey the funniest thing she’s said",
-        "lol welp... she's going up for sure now",
-        "What is she, the etsy witch demon"
-      ],
-      "metrics": {
-        "ratio_score": 1.86,
-        "time_bucket": 1,
-        "total_engagement": 78,
-        "post_age_minutes": 26.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T22:21:05.706722+00:00",
-      "last_updated": "2025-08-22T22:21:05.706722+00:00",
-      "analysis_windows": [
-        "2025-08-22T22:21:05.706722+00:00"
-      ],
-      "peak_controversy": 3.1,
       "trend": "new"
     },
     {
@@ -632,6 +634,116 @@
     {
       "rank": 12,
       "user": {
+        "handle": "discussingfilm.net",
+        "display_name": "DiscussingFilm",
+        "initials": "DI",
+        "did": "did:plc:exxdcplb2ozev5lvw5ohnejq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exxdcplb2ozev5lvw5ohnejq/bafkreiam6dm3rbiz6kggmhxibp6jjqn5oxjnf2hxxuhzwho4tbgnivnbwa@jpeg",
+        "profile_url": "https://bsky.app/profile/discussingfilm.net"
+      },
+      "ratio": "1:1",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "A Kobe Bryant biopic is in the works at Warner Bros.\n\n(Source: Deadline)",
+        "uri": "at://did:plc:exxdcplb2ozev5lvw5ohnejq/app.bsky.feed.post/3lwzsks2xvs2d",
+        "created_at": "2025-08-23T01:20:41.677Z",
+        "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
+      },
+      "engagement": {
+        "likes": 144,
+        "replies": 12,
+        "reposts": 27,
+        "quotes": 27,
+        "formatted": {
+          "likes": "144",
+          "replies": "12",
+          "reposts": "27",
+          "quotes": "27"
+        }
+      },
+      "sample_replies": [
+        "I’m going to guess it won’t include the things he did in Denver .",
+        "They need to do something like The Last Dance. \n\nI need like 8, 1-hour long episodes chronicling...",
+        "Ew"
+      ],
+      "metrics": {
+        "ratio_score": 1.73,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 12.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T01:48:07.827052+00:00",
+      "last_updated": "2025-08-23T01:48:07.827052+00:00",
+      "analysis_windows": [
+        "2025-08-23T01:48:07.827052+00:00"
+      ],
+      "peak_controversy": 3.4,
+      "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "hamsterwatch.com",
+        "display_name": "hamsterwatch #bb27",
+        "initials": "H#",
+        "did": "did:plc:2nh2yfgyvadt6njeblfll5eq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nh2yfgyvadt6njeblfll5eq/bafkreieeaxw6d7dvcxjnyazlg3pybokyc7esuxbak2tyxtvxuzvs5rygpm@jpeg",
+        "profile_url": "https://bsky.app/profile/hamsterwatch.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Mickey to Vince: \"you've come this far, but don't put me up, if you put me up I will haunt you in your dreams\"",
+        "uri": "at://did:plc:2nh2yfgyvadt6njeblfll5eq/app.bsky.feed.post/3lwzg3kr5ts2l",
+        "created_at": "2025-08-22T21:37:25.812Z",
+        "url": "https://bsky.app/profile/hamsterwatch.com/post/3lwzg3kr5ts2l"
+      },
+      "engagement": {
+        "likes": 120,
+        "replies": 8,
+        "reposts": 9,
+        "quotes": 6,
+        "formatted": {
+          "likes": "120",
+          "replies": "8",
+          "reposts": "9",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "lmaoooooooo lowkey the funniest thing she’s said",
+        "lol welp... she's going up for sure now",
+        "What is she, the etsy witch demon"
+      ],
+      "metrics": {
+        "ratio_score": 1.86,
+        "time_bucket": 1,
+        "total_engagement": 78,
+        "post_age_minutes": 26.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T22:21:05.706722+00:00",
+      "last_updated": "2025-08-22T22:21:05.706722+00:00",
+      "analysis_windows": [
+        "2025-08-22T22:21:05.706722+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
+      "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
         "initials": "TK",
@@ -686,7 +798,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
@@ -743,7 +855,7 @@
       "trend": "rising"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
@@ -799,7 +911,63 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 17,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:1",
+      "controversy": 1.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The Texas Legislature gave final approval on Saturday to an aggressively redrawn congressional map — a major victory in President Trump’s push to get Republican state leaders to help his party keep control of the U.S. House. nyti.ms/4fTVw9K",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx3a2zaohj2k",
+        "created_at": "2025-08-23T14:55:04.424189Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lx3a2zaohj2k"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 13,
+        "reposts": 5,
+        "quotes": 6,
+        "formatted": {
+          "likes": "10",
+          "replies": "13",
+          "reposts": "5",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Yall need to take a serious F’ng look at the tone of your headlines. You know damn well MAGA are...",
+        "They didn't even ask their citizens like California is doing. youtu.be/6Qp5AZZ-N2A",
+        "NYTimes: \"How dare Gavin Newson and the Democrats fight back by doing the same thing\"",
+        "Yes. They intend to keep control by any means other than winnng a majority of votes in free and..."
+      ],
+      "metrics": {
+        "ratio_score": 3.17,
+        "time_bucket": 0,
+        "total_engagement": 34,
+        "post_age_minutes": 7.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:27.299117+00:00",
+      "last_updated": "2025-08-23T15:17:27.299117+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:27.299117+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
       "user": {
         "handle": "popcrave.com",
         "display_name": "Pop Crave",
@@ -855,7 +1023,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
@@ -911,7 +1079,117 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 20,
+      "user": {
+        "handle": "letterboxd.social",
+        "display_name": "Letterboxd",
+        "initials": "LE",
+        "did": "did:plc:ebczxy5kirxbwzoippkbb2jf",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ebczxy5kirxbwzoippkbb2jf/bafkreia7sxknyfltiaawlmg6e5ickzpkic4lujmkaebx2gbzlryvls64n4@jpeg",
+        "profile_url": "https://bsky.app/profile/letterboxd.social"
+      },
+      "ratio": "6:1",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Guess the connection between these two movies 👀",
+        "uri": "at://did:plc:ebczxy5kirxbwzoippkbb2jf/app.bsky.feed.post/3lx36wnkt6c24",
+        "created_at": "2025-08-23T14:34:44.204Z",
+        "url": "https://bsky.app/profile/letterboxd.social/post/3lx36wnkt6c24"
+      },
+      "engagement": {
+        "likes": 24,
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 6,
+        "formatted": {
+          "likes": "24",
+          "replies": "7",
+          "reposts": "1",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "One had to be changed because of 9/11 and the other is about 9/11",
+        "Gilbert Gottfried is in neither of them."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "time_bucket": 1,
+        "total_engagement": 38,
+        "post_age_minutes": 27.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:27.721616+00:00",
+      "last_updated": "2025-08-23T15:17:27.721616+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:27.721616+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 21,
+      "user": {
+        "handle": "guynemer.bsky.social",
+        "display_name": "Guynemer",
+        "initials": "GU",
+        "did": "did:plc:bacymjtv5jc2ehhd5hlzfzp5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bacymjtv5jc2ehhd5hlzfzp5/bafkreifvafwrwaci73fowr6elr5ioxe3tswnllpob34hg6ifrcxam7wgdm@jpeg",
+        "profile_url": "https://bsky.app/profile/guynemer.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I have a Week Zero tradition that I'd love for you all to join me in.\n\nEnjoy listening to a grown-ass man lose his absolute fucking marbles over a college football game:\n\nwww.youtube.com/watch?v=xPvf...",
+        "uri": "at://did:plc:bacymjtv5jc2ehhd5hlzfzp5/app.bsky.feed.post/3lx35g3yrks2u",
+        "created_at": "2025-08-23T14:07:35.228Z",
+        "url": "https://bsky.app/profile/guynemer.bsky.social/post/3lx35g3yrks2u"
+      },
+      "engagement": {
+        "likes": 38,
+        "replies": 7,
+        "reposts": 8,
+        "quotes": 20,
+        "formatted": {
+          "likes": "38",
+          "replies": "7",
+          "reposts": "8",
+          "quotes": "20"
+        }
+      },
+      "sample_replies": [
+        "THEY MISMANAGED THE CLOCK\n\nAGAIN",
+        "bsky.app/profile/kbut...",
+        "doc, this is what i talked to you about, i'm not screwin' around, shut up \n\nnow let met get to the...",
+        "have some of that water"
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "time_bucket": 3,
+        "total_engagement": 73,
+        "post_age_minutes": 55.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:28.276851+00:00",
+      "last_updated": "2025-08-23T15:17:28.276851+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:28.276851+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
       "user": {
         "handle": "financialtimes.com",
         "display_name": "Financial Times",
@@ -967,7 +1245,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 23,
       "user": {
         "handle": "justinbaragona.bsky.social",
         "display_name": "Justin Baragona",
@@ -1023,7 +1301,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 24,
       "user": {
         "handle": "iwillnotbesilenced.bsky.social",
         "display_name": "Raider",
@@ -1079,7 +1357,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 25,
       "user": {
         "handle": "reneedechert.com",
         "display_name": "Renee Dechert",
@@ -1135,7 +1413,119 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 26,
+      "user": {
+        "handle": "newsguy.bsky.social",
+        "display_name": "Steve Herman",
+        "initials": "SH",
+        "did": "did:plc:v63y3emmbz5dlvzkejca2mcc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v63y3emmbz5dlvzkejca2mcc/bafkreiggos46cd44z2mz5zxi4sxuhgkvhnp2g22xemb7gnkfyxgxayuekm@jpeg",
+        "profile_url": "https://bsky.app/profile/newsguy.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Galileo Project founder, Harvard Univ. astrophysicist Avi Loeb, continues to asserts the 3I/ATLAS interstellar interloper in our solar system (and heading closer to us) seems to be generating \"its own light\" and could be a nuclear-powered alien probe.",
+        "uri": "at://did:plc:v63y3emmbz5dlvzkejca2mcc/app.bsky.feed.post/3lx37tg45q725",
+        "created_at": "2025-08-23T14:50:48.201Z",
+        "url": "https://bsky.app/profile/newsguy.bsky.social/post/3lx37tg45q725"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 5,
+        "reposts": 2,
+        "quotes": 5,
+        "formatted": {
+          "likes": "8",
+          "replies": "5",
+          "reposts": "2",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "That sounds wonderful!",
+        "Ya, nuclear-powered alien probe sounds like the most likely explanation.",
+        "It’s coming to take Donald Trump to heaven.\n\nOr at least that is an explanation with a similar...",
+        "i'll delay worrying until it decelerates and goes into aparking orbit"
+      ],
+      "metrics": {
+        "ratio_score": 3.33,
+        "time_bucket": 0,
+        "total_engagement": 20,
+        "post_age_minutes": 11.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:27.443575+00:00",
+      "last_updated": "2025-08-23T15:17:27.443575+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:27.443575+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 27,
+      "user": {
+        "handle": "news.sky.com",
+        "display_name": "Sky News",
+        "initials": "SN",
+        "did": "did:plc:tshrll7hb5scyeg4m6nitxtr",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tshrll7hb5scyeg4m6nitxtr/bafkreid3kczgnzorle6lfzh66pbomgq4rkvnhleoppb62tx7tpck7ehllq@jpeg",
+        "profile_url": "https://bsky.app/profile/news.sky.com"
+      },
+      "ratio": "9:1",
+      "controversy": 0.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Reform UK's new immigration plans would've been extreme just a few years ago",
+        "uri": "at://did:plc:tshrll7hb5scyeg4m6nitxtr/app.bsky.feed.post/3lx36c2ecgw2v",
+        "created_at": "2025-08-23T14:23:12.795Z",
+        "url": "https://bsky.app/profile/news.sky.com/post/3lx36c2ecgw2v"
+      },
+      "engagement": {
+        "likes": 5,
+        "replies": 14,
+        "reposts": 1,
+        "quotes": 9,
+        "formatted": {
+          "likes": "5",
+          "replies": "14",
+          "reposts": "1",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "Note: they're still extreme today",
+        "Still extreme. Feel like you are doing some normalising here sky news.",
+        "The UK well on its way to following the US into Banana Republicanism.",
+        "Thanks in a large part to a Murdoch infested media, this kind of rhetoric has become..."
+      ],
+      "metrics": {
+        "ratio_score": 11.5,
+        "time_bucket": 2,
+        "total_engagement": 29,
+        "post_age_minutes": 39.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:27.861911+00:00",
+      "last_updated": "2025-08-23T15:17:27.861911+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:27.861911+00:00"
+      ],
+      "peak_controversy": 0.9,
+      "trend": "new"
+    },
+    {
+      "rank": 28,
       "user": {
         "handle": "edithcharles.bsky.social",
         "display_name": "Edith",
@@ -1191,7 +1581,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 29,
       "user": {
         "handle": "mondycarrington.bsky.social",
         "display_name": "Mondy Carrington",
@@ -1246,7 +1636,63 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 30,
+      "user": {
+        "handle": "nmjmredux.blacksky.app",
+        "display_name": "Henny Gesserit",
+        "initials": "HG",
+        "did": "did:plc:gsfcatjdodevhzfveiaacqht",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsfcatjdodevhzfveiaacqht/bafkreihw4vrhig2vm5p57jofgzwnpgetxpd2y7cwqrns7nnvry5oyjfw3q@jpeg",
+        "profile_url": "https://bsky.app/profile/nmjmredux.blacksky.app"
+      },
+      "ratio": "5:0",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Remember when schools used to threaten you with your \"permanent record\"",
+        "uri": "at://did:plc:gsfcatjdodevhzfveiaacqht/app.bsky.feed.post/3lx366wi7ek2s",
+        "created_at": "2025-08-23T14:21:28.306Z",
+        "url": "https://bsky.app/profile/nmjmredux.blacksky.app/post/3lx366wi7ek2s"
+      },
+      "engagement": {
+        "likes": 14,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 5,
+        "formatted": {
+          "likes": "14",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "\"I'll never get into college!!!\"",
+        "absolutely nothing, I was disturbingly good",
+        "Control",
+        "Had me scared for nothing b/c 2 of ISS stints. 😄"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "time_bucket": 2,
+        "total_engagement": 21,
+        "post_age_minutes": 41.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:28.002187+00:00",
+      "last_updated": "2025-08-23T15:17:28.002187+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:28.002187+00:00"
+      ],
+      "peak_controversy": 0.6,
+      "trend": "new"
+    },
+    {
+      "rank": 31,
       "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
@@ -1295,6 +1741,62 @@
       "last_updated": "2025-08-23T01:48:08.712835+00:00",
       "analysis_windows": [
         "2025-08-23T01:48:08.712835+00:00"
+      ],
+      "peak_controversy": 0.5,
+      "trend": "new"
+    },
+    {
+      "rank": 32,
+      "user": {
+        "handle": "coloradosun.com",
+        "display_name": "The Colorado Sun ☀️",
+        "initials": "TC",
+        "did": "did:plc:iwlynwlkj7eiiy25mpxuqyrj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwlynwlkj7eiiy25mpxuqyrj/bafkreibhz5o7ukodhfzauruqi5i2dtjfnilseliyztukt4mibw3tkka3bi@jpeg",
+        "profile_url": "https://bsky.app/profile/coloradosun.com"
+      },
+      "ratio": "1:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Amazon and Starlink awarded 50% of Colorado’s underserved broadband locations",
+        "uri": "at://did:plc:iwlynwlkj7eiiy25mpxuqyrj/app.bsky.feed.post/3lx35gwqqgo2p",
+        "created_at": "2025-08-23T14:08:01.023Z",
+        "url": "https://bsky.app/profile/coloradosun.com/post/3lx35gwqqgo2p"
+      },
+      "engagement": {
+        "likes": 12,
+        "replies": 4,
+        "reposts": 5,
+        "quotes": 5,
+        "formatted": {
+          "likes": "12",
+          "replies": "4",
+          "reposts": "5",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Disappointing. First, because Bezos and Musk are greedy bastards that already have billions of...",
+        "Boo!",
+        "Starlink = Skynet !",
+        "WITAF?! 🤬"
+      ],
+      "metrics": {
+        "ratio_score": 1.5,
+        "time_bucket": 3,
+        "total_engagement": 26,
+        "post_age_minutes": 54.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T15:17:28.415314+00:00",
+      "last_updated": "2025-08-23T15:17:28.415314+00:00",
+      "analysis_windows": [
+        "2025-08-23T15:17:28.415314+00:00"
       ],
       "peak_controversy": 0.5,
       "trend": "new"
