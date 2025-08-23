@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T19:03:43.207658+00:00",
-    "last_metrics_update": "2025-08-23T19:03:43.207658+00:00",
+    "last_metrics_update": "2025-08-23T19:17:28.598935+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 33,
@@ -91,15 +91,15 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lwzfa6cufk24"
       },
       "engagement": {
-        "likes": 641,
-        "replies": 161,
-        "reposts": 127,
-        "quotes": 21,
+        "likes": 646,
+        "replies": 164,
+        "reposts": 128,
+        "quotes": 22,
         "formatted": {
-          "likes": "641",
-          "replies": "161",
-          "reposts": "127",
-          "quotes": "21"
+          "likes": "646",
+          "replies": "164",
+          "reposts": "128",
+          "quotes": "22"
         }
       },
       "sample_replies": [
@@ -136,7 +136,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln72v57ivz2g46uqf4xxqiuh/bafkreibuignib3md64nrejizb45lynj2rf2pfahys46dz3oztgtrmpeizu@jpeg",
         "profile_url": "https://bsky.app/profile/npr.org"
       },
-      "ratio": "1:1",
+      "ratio": "1:2",
       "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
@@ -147,14 +147,14 @@
         "url": "https://bsky.app/profile/npr.org/post/3lx36xaz2hp2e"
       },
       "engagement": {
-        "likes": 286,
-        "replies": 164,
-        "reposts": 82,
+        "likes": 296,
+        "replies": 167,
+        "reposts": 84,
         "quotes": 56,
         "formatted": {
-          "likes": "286",
-          "replies": "164",
-          "reposts": "82",
+          "likes": "296",
+          "replies": "167",
+          "reposts": "84",
           "quotes": "56"
         }
       },
@@ -203,15 +203,15 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 265,
-        "replies": 151,
-        "reposts": 67,
-        "quotes": 27,
+        "likes": 651,
+        "replies": 359,
+        "reposts": 189,
+        "quotes": 78,
         "formatted": {
-          "likes": "265",
-          "replies": "151",
-          "reposts": "67",
-          "quotes": "27"
+          "likes": "651",
+          "replies": "359",
+          "reposts": "189",
+          "quotes": "78"
         }
       },
       "sample_replies": [
@@ -248,7 +248,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:g2p3bnbzcvcbohfpvjxfazqv/bafkreifyqcyh2i3yj3wtqv2ohiq77lg7edb6yybqhpy2g26dt73zazubdi@jpeg",
         "profile_url": "https://bsky.app/profile/thelouvreof.bsky.social"
       },
-      "ratio": "1:3",
+      "ratio": "1:4",
       "controversy": 6.5,
       "change": "NEW",
       "change_type": "new",
@@ -259,14 +259,14 @@
         "url": "https://bsky.app/profile/thelouvreof.bsky.social/post/3lx35eo6sgk2o"
       },
       "engagement": {
-        "likes": 458,
-        "replies": 22,
-        "reposts": 28,
+        "likes": 481,
+        "replies": 24,
+        "reposts": 32,
         "quotes": 9,
         "formatted": {
-          "likes": "458",
-          "replies": "22",
-          "reposts": "28",
+          "likes": "481",
+          "replies": "24",
+          "reposts": "32",
           "quotes": "9"
         }
       },
@@ -315,12 +315,12 @@
         "url": "https://bsky.app/profile/allinwithchris.bsky.social/post/3lwzrmneqas2u"
       },
       "engagement": {
-        "likes": 91,
+        "likes": 92,
         "replies": 36,
         "reposts": 28,
         "quotes": 11,
         "formatted": {
-          "likes": "91",
+          "likes": "92",
           "replies": "36",
           "reposts": "28",
           "quotes": "11"
@@ -370,15 +370,15 @@
         "url": "https://bsky.app/profile/hollyanderson.bsky.social/post/3lx3kst4wac2l"
       },
       "engagement": {
-        "likes": 123,
-        "replies": 6,
-        "reposts": 4,
-        "quotes": 8,
+        "likes": 148,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 9,
         "formatted": {
-          "likes": "123",
-          "replies": "6",
-          "reposts": "4",
-          "quotes": "8"
+          "likes": "148",
+          "replies": "9",
+          "reposts": "5",
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -408,6 +408,62 @@
     {
       "rank": 8,
       "user": {
+        "handle": "rikergoogling.bsky.social",
+        "display_name": "Riker Googling",
+        "initials": "RG",
+        "did": "did:plc:snhe2oxrn74k3m24ffw2mfie",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:snhe2oxrn74k3m24ffw2mfie/bafkreigsdzpkthhkvkewhbg2edcowkhuym6hcdvjl7hp2neln4axnm5r2q@jpeg",
+        "profile_url": "https://bsky.app/profile/rikergoogling.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "can borg cum",
+        "uri": "at://did:plc:snhe2oxrn74k3m24ffw2mfie/app.bsky.feed.post/3lx3m65lbue24",
+        "created_at": "2025-08-23T18:31:34.521Z",
+        "url": "https://bsky.app/profile/rikergoogling.bsky.social/post/3lx3m65lbue24"
+      },
+      "engagement": {
+        "likes": 98,
+        "replies": 15,
+        "reposts": 18,
+        "quotes": 13,
+        "formatted": {
+          "likes": "98",
+          "replies": "15",
+          "reposts": "18",
+          "quotes": "13"
+        }
+      },
+      "sample_replies": [
+        "Riker After Dark",
+        "How do you delete someone else’s bsky post?",
+        "Borgasm.",
+        "Only as a collective."
+      ],
+      "metrics": {
+        "ratio_score": 1.82,
+        "time_bucket": 1,
+        "total_engagement": 93,
+        "post_age_minutes": 15.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T19:03:42.083766+00:00",
+      "last_updated": "2025-08-23T19:03:42.083766+00:00",
+      "analysis_windows": [
+        "2025-08-23T19:03:42.083766+00:00"
+      ],
+      "peak_controversy": 3.7,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
+      "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
         "initials": "TW",
@@ -415,7 +471,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
         "profile_url": "https://bsky.app/profile/washingtonpost.com"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 3.3,
       "change": "-1.4",
       "change_type": "negative",
@@ -426,15 +482,15 @@
         "url": "https://bsky.app/profile/washingtonpost.com/post/3lx3m3icd4t2n"
       },
       "engagement": {
-        "likes": 21,
-        "replies": 46,
-        "reposts": 5,
-        "quotes": 10,
+        "likes": 30,
+        "replies": 64,
+        "reposts": 11,
+        "quotes": 13,
         "formatted": {
-          "likes": "21",
-          "replies": "46",
-          "reposts": "5",
-          "quotes": "10"
+          "likes": "30",
+          "replies": "64",
+          "reposts": "11",
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -463,121 +519,7 @@
       "trend": "rising"
     },
     {
-      "rank": 9,
-      "user": {
-        "handle": "culturecrave.co",
-        "display_name": "Culture Crave 🍿",
-        "initials": "CC",
-        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
-        "profile_url": "https://bsky.app/profile/culturecrave.co"
-      },
-      "ratio": "1:1",
-      "controversy": 2.9,
-      "change": "-2.4",
-      "change_type": "negative",
-      "post": {
-        "text": "2025 is the first time since 2011 that a comic book movie hasn’t reached $700M globally",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lx2iwfmsfc2u",
-        "created_at": "2025-08-23T08:00:53.596Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lx2iwfmsfc2u"
-      },
-      "engagement": {
-        "likes": 477,
-        "replies": 42,
-        "reposts": 33,
-        "quotes": 49,
-        "formatted": {
-          "likes": "477",
-          "replies": "42",
-          "reposts": "33",
-          "quotes": "49"
-        }
-      },
-      "sample_replies": [
-        "This excludes the Covid year (2020)",
-        "No wonder you like your own comment",
-        "Good. The slop is dying",
-        "My dude, have you even seen the Superman film? It's the best one we've gotten since the 70s."
-      ],
-      "metrics": {
-        "ratio_score": 2.8,
-        "time_bucket": 2,
-        "total_engagement": 97,
-        "post_age_minutes": 32.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T22:21:06.254292+00:00",
-      "last_updated": "2025-08-23T08:42:17.761008+00:00",
-      "analysis_windows": [
-        "2025-08-22T22:21:06.254292+00:00",
-        "2025-08-23T01:48:08.712904+00:00",
-        "2025-08-23T08:42:17.761008+00:00"
-      ],
-      "peak_controversy": 5.3,
-      "trend": "rising"
-    },
-    {
       "rank": 10,
-      "user": {
-        "handle": "rikergoogling.bsky.social",
-        "display_name": "Riker Googling",
-        "initials": "RG",
-        "did": "did:plc:snhe2oxrn74k3m24ffw2mfie",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:snhe2oxrn74k3m24ffw2mfie/bafkreigsdzpkthhkvkewhbg2edcowkhuym6hcdvjl7hp2neln4axnm5r2q@jpeg",
-        "profile_url": "https://bsky.app/profile/rikergoogling.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 3.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "can borg cum",
-        "uri": "at://did:plc:snhe2oxrn74k3m24ffw2mfie/app.bsky.feed.post/3lx3m65lbue24",
-        "created_at": "2025-08-23T18:31:34.521Z",
-        "url": "https://bsky.app/profile/rikergoogling.bsky.social/post/3lx3m65lbue24"
-      },
-      "engagement": {
-        "likes": 63,
-        "replies": 14,
-        "reposts": 10,
-        "quotes": 6,
-        "formatted": {
-          "likes": "63",
-          "replies": "14",
-          "reposts": "10",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "Riker After Dark",
-        "How do you delete someone else’s bsky post?",
-        "Borgasm.",
-        "Only as a collective."
-      ],
-      "metrics": {
-        "ratio_score": 1.82,
-        "time_bucket": 1,
-        "total_engagement": 93,
-        "post_age_minutes": 15.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T19:03:42.083766+00:00",
-      "last_updated": "2025-08-23T19:03:42.083766+00:00",
-      "analysis_windows": [
-        "2025-08-23T19:03:42.083766+00:00"
-      ],
-      "peak_controversy": 3.7,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
       "user": {
         "handle": "discussingfilm.net",
         "display_name": "DiscussingFilm",
@@ -597,12 +539,12 @@
         "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
       },
       "engagement": {
-        "likes": 150,
+        "likes": 152,
         "replies": 12,
         "reposts": 30,
         "quotes": 27,
         "formatted": {
-          "likes": "150",
+          "likes": "152",
           "replies": "12",
           "reposts": "30",
           "quotes": "27"
@@ -632,7 +574,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "hamsterwatch.com",
         "display_name": "hamsterwatch #bb27",
@@ -687,6 +629,64 @@
       "trend": "new"
     },
     {
+      "rank": 12,
+      "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "1:1",
+      "controversy": 2.9,
+      "change": "-2.4",
+      "change_type": "negative",
+      "post": {
+        "text": "2025 is the first time since 2011 that a comic book movie hasn’t reached $700M globally",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lx2iwfmsfc2u",
+        "created_at": "2025-08-23T08:00:53.596Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lx2iwfmsfc2u"
+      },
+      "engagement": {
+        "likes": 488,
+        "replies": 42,
+        "reposts": 36,
+        "quotes": 51,
+        "formatted": {
+          "likes": "488",
+          "replies": "42",
+          "reposts": "36",
+          "quotes": "51"
+        }
+      },
+      "sample_replies": [
+        "This excludes the Covid year (2020)",
+        "No wonder you like your own comment",
+        "Good. The slop is dying",
+        "My dude, have you even seen the Superman film? It's the best one we've gotten since the 70s."
+      ],
+      "metrics": {
+        "ratio_score": 2.8,
+        "time_bucket": 2,
+        "total_engagement": 97,
+        "post_age_minutes": 32.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T22:21:06.254292+00:00",
+      "last_updated": "2025-08-23T08:42:17.761008+00:00",
+      "analysis_windows": [
+        "2025-08-22T22:21:06.254292+00:00",
+        "2025-08-23T01:48:08.712904+00:00",
+        "2025-08-23T08:42:17.761008+00:00"
+      ],
+      "peak_controversy": 5.3,
+      "trend": "rising"
+    },
+    {
       "rank": 13,
       "user": {
         "handle": "drfrancisyoung.bsky.social",
@@ -707,15 +707,15 @@
         "url": "https://bsky.app/profile/drfrancisyoung.bsky.social/post/3lx3m64uhfk2u"
       },
       "engagement": {
-        "likes": 44,
-        "replies": 12,
-        "reposts": 5,
-        "quotes": 5,
+        "likes": 75,
+        "replies": 23,
+        "reposts": 6,
+        "quotes": 6,
         "formatted": {
-          "likes": "44",
-          "replies": "12",
-          "reposts": "5",
-          "quotes": "5"
+          "likes": "75",
+          "replies": "23",
+          "reposts": "6",
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -764,14 +764,14 @@
       },
       "engagement": {
         "likes": 46,
-        "replies": 16,
-        "reposts": 10,
-        "quotes": 8,
+        "replies": 20,
+        "reposts": 12,
+        "quotes": 9,
         "formatted": {
           "likes": "46",
-          "replies": "16",
-          "reposts": "10",
-          "quotes": "8"
+          "replies": "20",
+          "reposts": "12",
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -819,15 +819,15 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lx3kg726ce2v"
       },
       "engagement": {
-        "likes": 40,
-        "replies": 46,
-        "reposts": 14,
-        "quotes": 8,
+        "likes": 50,
+        "replies": 51,
+        "reposts": 17,
+        "quotes": 11,
         "formatted": {
-          "likes": "40",
-          "replies": "46",
-          "reposts": "14",
-          "quotes": "8"
+          "likes": "50",
+          "replies": "51",
+          "reposts": "17",
+          "quotes": "11"
         }
       },
       "sample_replies": [
@@ -931,14 +931,14 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lx3a2zaohj2k"
       },
       "engagement": {
-        "likes": 36,
+        "likes": 37,
         "replies": 36,
-        "reposts": 17,
+        "reposts": 18,
         "quotes": 16,
         "formatted": {
-          "likes": "36",
+          "likes": "37",
           "replies": "36",
-          "reposts": "17",
+          "reposts": "18",
           "quotes": "16"
         }
       },
@@ -976,7 +976,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7p6pezxyq3fr3fza4e4gdpst/bafkreihjvbxd5ecj3uuhwb4fmfulziw3n6dwyebm7hnnex4kbd4kyhr6dm@jpeg",
         "profile_url": "https://bsky.app/profile/mewefree.bsky.social"
       },
-      "ratio": "67:0",
+      "ratio": "124:0",
       "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
@@ -987,15 +987,15 @@
         "url": "https://bsky.app/profile/mewefree.bsky.social/post/3lx3kcf5qlc2a"
       },
       "engagement": {
-        "likes": 13,
-        "replies": 6,
+        "likes": 18,
+        "replies": 11,
         "reposts": 0,
-        "quotes": 67,
+        "quotes": 124,
         "formatted": {
-          "likes": "13",
-          "replies": "6",
+          "likes": "18",
+          "replies": "11",
           "reposts": "0",
-          "quotes": "67"
+          "quotes": "124"
         }
       },
       "sample_replies": [
@@ -1043,12 +1043,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwzfwbeivs22"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 55,
         "replies": 4,
         "reposts": 5,
         "quotes": 22,
         "formatted": {
-          "likes": "53",
+          "likes": "55",
           "replies": "4",
           "reposts": "5",
           "quotes": "22"
@@ -1155,13 +1155,13 @@
         "url": "https://bsky.app/profile/letterboxd.social/post/3lx36wnkt6c24"
       },
       "engagement": {
-        "likes": 42,
-        "replies": 15,
+        "likes": 45,
+        "replies": 17,
         "reposts": 2,
         "quotes": 13,
         "formatted": {
-          "likes": "42",
-          "replies": "15",
+          "likes": "45",
+          "replies": "17",
           "reposts": "2",
           "quotes": "13"
         }
@@ -1209,15 +1209,15 @@
         "url": "https://bsky.app/profile/guynemer.bsky.social/post/3lx35g3yrks2u"
       },
       "engagement": {
-        "likes": 72,
+        "likes": 75,
         "replies": 15,
         "reposts": 9,
-        "quotes": 29,
+        "quotes": 30,
         "formatted": {
-          "likes": "72",
+          "likes": "75",
           "replies": "15",
           "reposts": "9",
-          "quotes": "29"
+          "quotes": "30"
         }
       },
       "sample_replies": [
@@ -1254,7 +1254,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:572hutetu6rfcrof4jyzm6xi/bafkreifwejbqdidr6giih57bhtmhjfzmcjammht6ipqk4jg3jwtp7dbyaq@jpeg",
         "profile_url": "https://bsky.app/profile/channel4news.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "8:1",
       "controversy": 1.3,
       "change": "NEW",
       "change_type": "new",
@@ -1265,15 +1265,15 @@
         "url": "https://bsky.app/profile/channel4news.bsky.social/post/3lx3lan74x22c"
       },
       "engagement": {
-        "likes": 8,
-        "replies": 25,
+        "likes": 7,
+        "replies": 35,
         "reposts": 2,
-        "quotes": 7,
+        "quotes": 15,
         "formatted": {
-          "likes": "8",
-          "replies": "25",
+          "likes": "7",
+          "replies": "35",
           "reposts": "2",
-          "quotes": "7"
+          "quotes": "15"
         }
       },
       "sample_replies": [
@@ -1422,7 +1422,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v63y3emmbz5dlvzkejca2mcc/bafkreiggos46cd44z2mz5zxi4sxuhgkvhnp2g22xemb7gnkfyxgxayuekm@jpeg",
         "profile_url": "https://bsky.app/profile/newsguy.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -1433,15 +1433,15 @@
         "url": "https://bsky.app/profile/newsguy.bsky.social/post/3lx37tg45q725"
       },
       "engagement": {
-        "likes": 9,
+        "likes": 10,
         "replies": 5,
-        "reposts": 2,
-        "quotes": 7,
+        "reposts": 3,
+        "quotes": 8,
         "formatted": {
-          "likes": "9",
+          "likes": "10",
           "replies": "5",
-          "reposts": "2",
-          "quotes": "7"
+          "reposts": "3",
+          "quotes": "8"
         }
       },
       "sample_replies": [
@@ -1478,7 +1478,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tshrll7hb5scyeg4m6nitxtr/bafkreid3kczgnzorle6lfzh66pbomgq4rkvnhleoppb62tx7tpck7ehllq@jpeg",
         "profile_url": "https://bsky.app/profile/news.sky.com"
       },
-      "ratio": "17:0",
+      "ratio": "23:0",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -1490,14 +1490,14 @@
       },
       "engagement": {
         "likes": 10,
-        "replies": 28,
+        "replies": 44,
         "reposts": 0,
-        "quotes": 17,
+        "quotes": 23,
         "formatted": {
           "likes": "10",
-          "replies": "28",
+          "replies": "44",
           "reposts": "0",
-          "quotes": "17"
+          "quotes": "23"
         }
       },
       "sample_replies": [
@@ -1534,7 +1534,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
         "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "1:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -1545,15 +1545,15 @@
         "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
       },
       "engagement": {
-        "likes": 5,
-        "replies": 4,
-        "reposts": 4,
-        "quotes": 6,
+        "likes": 11,
+        "replies": 6,
+        "reposts": 16,
+        "quotes": 13,
         "formatted": {
-          "likes": "5",
-          "replies": "4",
-          "reposts": "4",
-          "quotes": "6"
+          "likes": "11",
+          "replies": "6",
+          "reposts": "16",
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -1589,7 +1589,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qnwrertmdznkkexzktkweuvb/bafkreia7ilzf23chfpnmwywzjggvxvqjrmssvwddcojn2upea5pv37iipq@jpeg",
         "profile_url": "https://bsky.app/profile/edithcharles.bsky.social"
       },
-      "ratio": "21:1",
+      "ratio": "23:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -1600,15 +1600,15 @@
         "url": "https://bsky.app/profile/edithcharles.bsky.social/post/3lwzq7cq6ak2t"
       },
       "engagement": {
-        "likes": 52,
-        "replies": 41,
+        "likes": 56,
+        "replies": 42,
         "reposts": 5,
-        "quotes": 106,
+        "quotes": 115,
         "formatted": {
-          "likes": "52",
-          "replies": "41",
+          "likes": "56",
+          "replies": "42",
           "reposts": "5",
-          "quotes": "106"
+          "quotes": "115"
         }
       },
       "sample_replies": [
@@ -1823,12 +1823,12 @@
       "engagement": {
         "likes": 16,
         "replies": 5,
-        "reposts": 6,
+        "reposts": 7,
         "quotes": 4,
         "formatted": {
           "likes": "16",
           "replies": "5",
-          "reposts": "6",
+          "reposts": "7",
           "quotes": "4"
         }
       },
