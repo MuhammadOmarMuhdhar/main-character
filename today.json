@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T05:29:02.289616+00:00",
-    "last_metrics_update": "2025-08-23T07:17:47.078970+00:00",
+    "last_metrics_update": "2025-08-23T07:32:18.851941+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 2064,
-        "replies": 638,
-        "reposts": 601,
-        "quotes": 207,
+        "likes": 2074,
+        "replies": 639,
+        "reposts": 604,
+        "quotes": 208,
         "formatted": {
           "likes": "2.1K",
-          "replies": "638",
-          "reposts": "601",
-          "quotes": "207"
+          "replies": "639",
+          "reposts": "604",
+          "quotes": "208"
         }
       },
       "sample_replies": [
@@ -91,7 +91,7 @@
         "url": "https://bsky.app/profile/internethippo.bsky.social/post/3lwzh3pf6ds23"
       },
       "engagement": {
-        "likes": 1247,
+        "likes": 1250,
         "replies": 248,
         "reposts": 96,
         "quotes": 57,
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwzrpk3tjc2k"
       },
       "engagement": {
-        "likes": 248,
+        "likes": 249,
         "replies": 10,
         "reposts": 23,
         "quotes": 23,
         "formatted": {
-          "likes": "248",
+          "likes": "249",
           "replies": "10",
           "reposts": "23",
           "quotes": "23"
@@ -539,12 +539,12 @@
         "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
       },
       "engagement": {
-        "likes": 127,
+        "likes": 129,
         "replies": 11,
         "reposts": 25,
         "quotes": 25,
         "formatted": {
-          "likes": "127",
+          "likes": "129",
           "replies": "11",
           "reposts": "25",
           "quotes": "25"
@@ -594,12 +594,12 @@
         "url": "https://bsky.app/profile/hamsterwatch.com/post/3lwzg3kr5ts2l"
       },
       "engagement": {
-        "likes": 117,
+        "likes": 118,
         "replies": 8,
         "reposts": 9,
         "quotes": 6,
         "formatted": {
-          "likes": "117",
+          "likes": "118",
           "replies": "8",
           "reposts": "9",
           "quotes": "6"
@@ -650,12 +650,12 @@
       },
       "engagement": {
         "likes": 171,
-        "replies": 61,
+        "replies": 62,
         "reposts": 26,
         "quotes": 17,
         "formatted": {
           "likes": "171",
-          "replies": "61",
+          "replies": "62",
           "reposts": "26",
           "quotes": "17"
         }
@@ -765,12 +765,12 @@
         "likes": 22,
         "replies": 21,
         "reposts": 10,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
           "likes": "22",
           "replies": "21",
           "reposts": "10",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -1099,12 +1099,12 @@
       },
       "engagement": {
         "likes": 22,
-        "replies": 19,
+        "replies": 20,
         "reposts": 0,
         "quotes": 16,
         "formatted": {
           "likes": "22",
-          "replies": "19",
+          "replies": "20",
           "reposts": "0",
           "quotes": "16"
         }
@@ -1154,12 +1154,12 @@
         "url": "https://bsky.app/profile/mondycarrington.bsky.social/post/3lx263y34wc2z"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 18,
         "replies": 2,
         "reposts": 5,
         "quotes": 7,
         "formatted": {
-          "likes": "17",
+          "likes": "18",
           "replies": "2",
           "reposts": "5",
           "quotes": "7"
