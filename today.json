@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T08:42:17.761059+00:00",
-    "last_metrics_update": "2025-08-23T10:17:59.684550+00:00",
+    "last_metrics_update": "2025-08-23T10:32:46.221331+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 2129,
+        "likes": 2134,
         "replies": 646,
-        "reposts": 620,
-        "quotes": 209,
+        "reposts": 621,
+        "quotes": 211,
         "formatted": {
           "likes": "2.1K",
           "replies": "646",
-          "reposts": "620",
-          "quotes": "209"
+          "reposts": "621",
+          "quotes": "211"
         }
       },
       "sample_replies": [
@@ -91,13 +91,13 @@
         "url": "https://bsky.app/profile/internethippo.bsky.social/post/3lwzh3pf6ds23"
       },
       "engagement": {
-        "likes": 1293,
-        "replies": 252,
+        "likes": 1297,
+        "replies": 254,
         "reposts": 102,
         "quotes": 59,
         "formatted": {
           "likes": "1.3K",
-          "replies": "252",
+          "replies": "254",
           "reposts": "102",
           "quotes": "59"
         }
@@ -147,12 +147,12 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lwzfa6cufk24"
       },
       "engagement": {
-        "likes": 573,
+        "likes": 574,
         "replies": 148,
         "reposts": 109,
         "quotes": 21,
         "formatted": {
-          "likes": "573",
+          "likes": "574",
           "replies": "148",
           "reposts": "109",
           "quotes": "21"
@@ -592,14 +592,14 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lx2iwfmsfc2u"
       },
       "engagement": {
-        "likes": 174,
+        "likes": 181,
         "replies": 21,
-        "reposts": 9,
+        "reposts": 10,
         "quotes": 13,
         "formatted": {
-          "likes": "174",
+          "likes": "181",
           "replies": "21",
-          "reposts": "9",
+          "reposts": "10",
           "quotes": "13"
         }
       },
@@ -706,12 +706,12 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 85,
+        "likes": 86,
         "replies": 7,
         "reposts": 13,
         "quotes": 8,
         "formatted": {
-          "likes": "85",
+          "likes": "86",
           "replies": "7",
           "reposts": "13",
           "quotes": "8"
