@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T01:48:08.712960+00:00",
-    "last_metrics_update": "2025-08-23T04:17:20.899658+00:00",
+    "last_metrics_update": "2025-08-23T04:32:32.369683+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 25,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 1976,
-        "replies": 624,
-        "reposts": 576,
-        "quotes": 196,
+        "likes": 1987,
+        "replies": 626,
+        "reposts": 584,
+        "quotes": 198,
         "formatted": {
           "likes": "2.0K",
-          "replies": "624",
-          "reposts": "576",
-          "quotes": "196"
+          "replies": "626",
+          "reposts": "584",
+          "quotes": "198"
         }
       },
       "sample_replies": [
@@ -91,14 +91,14 @@
         "url": "https://bsky.app/profile/internethippo.bsky.social/post/3lwzh3pf6ds23"
       },
       "engagement": {
-        "likes": 1148,
-        "replies": 232,
-        "reposts": 86,
+        "likes": 1157,
+        "replies": 234,
+        "reposts": 89,
         "quotes": 55,
         "formatted": {
-          "likes": "1.1K",
-          "replies": "232",
-          "reposts": "86",
+          "likes": "1.2K",
+          "replies": "234",
+          "reposts": "89",
           "quotes": "55"
         }
       },
@@ -148,13 +148,13 @@
       },
       "engagement": {
         "likes": 536,
-        "replies": 139,
-        "reposts": 100,
+        "replies": 140,
+        "reposts": 101,
         "quotes": 21,
         "formatted": {
           "likes": "536",
-          "replies": "139",
-          "reposts": "100",
+          "replies": "140",
+          "reposts": "101",
           "quotes": "21"
         }
       },
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lwzrpk3tjc2k"
       },
       "engagement": {
-        "likes": 202,
+        "likes": 207,
         "replies": 10,
         "reposts": 18,
         "quotes": 22,
         "formatted": {
-          "likes": "202",
+          "likes": "207",
           "replies": "10",
           "reposts": "18",
           "quotes": "22"
@@ -539,15 +539,15 @@
         "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
       },
       "engagement": {
-        "likes": 112,
+        "likes": 113,
         "replies": 11,
         "reposts": 23,
-        "quotes": 24,
+        "quotes": 25,
         "formatted": {
-          "likes": "112",
+          "likes": "113",
           "replies": "11",
           "reposts": "23",
-          "quotes": "24"
+          "quotes": "25"
         }
       },
       "sample_replies": [
@@ -986,12 +986,12 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lwzqbkvjns2h"
       },
       "engagement": {
-        "likes": 68,
+        "likes": 71,
         "replies": 9,
         "reposts": 7,
         "quotes": 6,
         "formatted": {
-          "likes": "68",
+          "likes": "71",
           "replies": "9",
           "reposts": "7",
           "quotes": "6"
