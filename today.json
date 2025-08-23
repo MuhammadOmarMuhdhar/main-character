@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T15:17:28.415465+00:00",
-    "last_metrics_update": "2025-08-23T15:17:28.415465+00:00",
+    "last_metrics_update": "2025-08-23T15:32:28.787927+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 32,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/acyn.bsky.social/post/3lwz2yoa5dt2k"
       },
       "engagement": {
-        "likes": 2269,
-        "replies": 673,
-        "reposts": 659,
-        "quotes": 216,
+        "likes": 2284,
+        "replies": 677,
+        "reposts": 664,
+        "quotes": 220,
         "formatted": {
           "likes": "2.3K",
-          "replies": "673",
-          "reposts": "659",
-          "quotes": "216"
+          "replies": "677",
+          "reposts": "664",
+          "quotes": "220"
         }
       },
       "sample_replies": [
@@ -147,14 +147,14 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lwzfa6cufk24"
       },
       "engagement": {
-        "likes": 601,
-        "replies": 155,
-        "reposts": 117,
+        "likes": 614,
+        "replies": 156,
+        "reposts": 122,
         "quotes": 21,
         "formatted": {
-          "likes": "601",
-          "replies": "155",
-          "reposts": "117",
+          "likes": "614",
+          "replies": "156",
+          "reposts": "122",
           "quotes": "21"
         }
       },
@@ -203,15 +203,15 @@
         "url": "https://bsky.app/profile/npr.org/post/3lx36xaz2hp2e"
       },
       "engagement": {
-        "likes": 160,
-        "replies": 107,
-        "reposts": 43,
-        "quotes": 32,
+        "likes": 212,
+        "replies": 136,
+        "reposts": 62,
+        "quotes": 42,
         "formatted": {
-          "likes": "160",
-          "replies": "107",
-          "reposts": "43",
-          "quotes": "32"
+          "likes": "212",
+          "replies": "136",
+          "reposts": "62",
+          "quotes": "42"
         }
       },
       "sample_replies": [
@@ -259,15 +259,15 @@
         "url": "https://bsky.app/profile/thelouvreof.bsky.social/post/3lx35eo6sgk2o"
       },
       "engagement": {
-        "likes": 291,
+        "likes": 341,
         "replies": 19,
-        "reposts": 11,
-        "quotes": 5,
+        "reposts": 19,
+        "quotes": 8,
         "formatted": {
-          "likes": "291",
+          "likes": "341",
           "replies": "19",
-          "reposts": "11",
-          "quotes": "5"
+          "reposts": "19",
+          "quotes": "8"
         }
       },
       "sample_replies": [
@@ -296,6 +296,172 @@
     },
     {
       "rank": 6,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 4.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
+        "created_at": "2025-08-22T18:16:28.004085937Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
+      },
+      "engagement": {
+        "likes": 67,
+        "replies": 78,
+        "reposts": 44,
+        "quotes": 32,
+        "formatted": {
+          "likes": "67",
+          "replies": "78",
+          "reposts": "44",
+          "quotes": "32"
+        }
+      },
+      "sample_replies": [
+        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
+        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
+        "Keep sane washing, corporate buttholes."
+      ],
+      "metrics": {
+        "ratio_score": 2.36,
+        "time_bucket": 1,
+        "total_engagement": 118,
+        "post_age_minutes": 15.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.218980+00:00",
+      "last_updated": "2025-08-22T18:49:41.218980+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.218980+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "washingtonpost.com",
+        "display_name": "The Washington Post",
+        "initials": "TW",
+        "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
+        "profile_url": "https://bsky.app/profile/washingtonpost.com"
+      },
+      "ratio": "1:1",
+      "controversy": 4.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Imprisoned Epstein associate Ghislaine Maxwell told the Justice Department last month that she admired President Trump and never observed him receiving massages or acting inappropriately.\n\nShe also denied the existence of a \"client list.\"",
+        "uri": "at://did:plc:k5nskatzhyxersjilvtnz4lh/app.bsky.feed.post/3lwzfokho4u25",
+        "created_at": "2025-08-22T21:30:09.220279085Z",
+        "url": "https://bsky.app/profile/washingtonpost.com/post/3lwzfokho4u25"
+      },
+      "engagement": {
+        "likes": 83,
+        "replies": 115,
+        "reposts": 27,
+        "quotes": 30,
+        "formatted": {
+          "likes": "83",
+          "replies": "115",
+          "reposts": "27",
+          "quotes": "30"
+        }
+      },
+      "sample_replies": [
+        "Her definition of “inappropriate” could be a bit different from a decent person’s definition given...",
+        "My decision to cancel my WaPo subscription just keeps getting better.",
+        "Pedophile says that she didn't see another Pedophile do inappropriate Pedophile things...",
+        "Ok, release the files then."
+      ],
+      "metrics": {
+        "ratio_score": 7.15,
+        "time_bucket": 2,
+        "total_engagement": 157,
+        "post_age_minutes": 33.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T22:21:06.161085+00:00",
+      "last_updated": "2025-08-22T22:21:06.161085+00:00",
+      "analysis_windows": [
+        "2025-08-22T22:21:06.161085+00:00"
+      ],
+      "peak_controversy": 4.7,
+      "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "allinwithchris.bsky.social",
+        "display_name": "All In with Chris Hayes",
+        "initials": "AI",
+        "did": "did:plc:bqjob47oyafvppnbcl32y22p",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqjob47oyafvppnbcl32y22p/bafkreiaj47hvoowp7ihg2enkbgxnr2mvweal63iedvj3r7en6foxl72oiq@jpeg",
+        "profile_url": "https://bsky.app/profile/allinwithchris.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 4.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "According to the interview transcripts and audio released by the Trump DOJ, Ghislaine Maxwell says Trump was \"never inappropriate with anybody in the times I was with him.\" In the same interview, she says she never saw Jeffrey Epstein engage in \"unconsensual\" behavior.",
+        "uri": "at://did:plc:bqjob47oyafvppnbcl32y22p/app.bsky.feed.post/3lwzrmneqas2u",
+        "created_at": "2025-08-23T01:03:50.136Z",
+        "url": "https://bsky.app/profile/allinwithchris.bsky.social/post/3lwzrmneqas2u"
+      },
+      "engagement": {
+        "likes": 89,
+        "replies": 35,
+        "reposts": 27,
+        "quotes": 11,
+        "formatted": {
+          "likes": "89",
+          "replies": "35",
+          "reposts": "27",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "🤣🤣🤣 right, was this before or after she returned from “work release”?",
+        "When’s her pardon?",
+        "Golly, why ever should she lie?"
+      ],
+      "metrics": {
+        "ratio_score": 1.83,
+        "time_bucket": 1,
+        "total_engagement": 109,
+        "post_age_minutes": 29.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T01:48:08.084252+00:00",
+      "last_updated": "2025-08-23T01:48:08.084252+00:00",
+      "analysis_windows": [
+        "2025-08-23T01:48:08.084252+00:00"
+      ],
+      "peak_controversy": 4.4,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
       "user": {
         "handle": "thebulwark.com",
         "display_name": "The Bulwark",
@@ -350,172 +516,6 @@
       ],
       "peak_controversy": 10.0,
       "trend": "rising"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
-      },
-      "ratio": "1:1",
-      "controversy": 4.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "President Donald Trump said Chicago will be the next city that his administration targets for a federal crackdown on crime. https://cnn.it/3HPfB4r",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lwz2u7ne7w2h",
-        "created_at": "2025-08-22T18:16:28.004085937Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lwz2u7ne7w2h"
-      },
-      "engagement": {
-        "likes": 67,
-        "replies": 77,
-        "reposts": 44,
-        "quotes": 32,
-        "formatted": {
-          "likes": "67",
-          "replies": "77",
-          "reposts": "44",
-          "quotes": "32"
-        }
-      },
-      "sample_replies": [
-        "It’s not a “federal crackdown on crime”. It’s a military occupation. Stop enabling the fascist. I...",
-        "A federal crackdown on crime?! OMFG I'm so embarrassed for you. Keep on washing his fascist...",
-        "Keep sane washing, corporate buttholes."
-      ],
-      "metrics": {
-        "ratio_score": 2.36,
-        "time_bucket": 1,
-        "total_engagement": 118,
-        "post_age_minutes": 15.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T18:49:41.218980+00:00",
-      "last_updated": "2025-08-22T18:49:41.218980+00:00",
-      "analysis_windows": [
-        "2025-08-22T18:49:41.218980+00:00"
-      ],
-      "peak_controversy": 4.7,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
-        "handle": "washingtonpost.com",
-        "display_name": "The Washington Post",
-        "initials": "TW",
-        "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
-        "profile_url": "https://bsky.app/profile/washingtonpost.com"
-      },
-      "ratio": "1:1",
-      "controversy": 4.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Imprisoned Epstein associate Ghislaine Maxwell told the Justice Department last month that she admired President Trump and never observed him receiving massages or acting inappropriately.\n\nShe also denied the existence of a \"client list.\"",
-        "uri": "at://did:plc:k5nskatzhyxersjilvtnz4lh/app.bsky.feed.post/3lwzfokho4u25",
-        "created_at": "2025-08-22T21:30:09.220279085Z",
-        "url": "https://bsky.app/profile/washingtonpost.com/post/3lwzfokho4u25"
-      },
-      "engagement": {
-        "likes": 83,
-        "replies": 114,
-        "reposts": 27,
-        "quotes": 30,
-        "formatted": {
-          "likes": "83",
-          "replies": "114",
-          "reposts": "27",
-          "quotes": "30"
-        }
-      },
-      "sample_replies": [
-        "Her definition of “inappropriate” could be a bit different from a decent person’s definition given...",
-        "My decision to cancel my WaPo subscription just keeps getting better.",
-        "Pedophile says that she didn't see another Pedophile do inappropriate Pedophile things...",
-        "Ok, release the files then."
-      ],
-      "metrics": {
-        "ratio_score": 7.15,
-        "time_bucket": 2,
-        "total_engagement": 157,
-        "post_age_minutes": 33.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T22:21:06.161085+00:00",
-      "last_updated": "2025-08-22T22:21:06.161085+00:00",
-      "analysis_windows": [
-        "2025-08-22T22:21:06.161085+00:00"
-      ],
-      "peak_controversy": 4.7,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "allinwithchris.bsky.social",
-        "display_name": "All In with Chris Hayes",
-        "initials": "AI",
-        "did": "did:plc:bqjob47oyafvppnbcl32y22p",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqjob47oyafvppnbcl32y22p/bafkreiaj47hvoowp7ihg2enkbgxnr2mvweal63iedvj3r7en6foxl72oiq@jpeg",
-        "profile_url": "https://bsky.app/profile/allinwithchris.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 4.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "According to the interview transcripts and audio released by the Trump DOJ, Ghislaine Maxwell says Trump was \"never inappropriate with anybody in the times I was with him.\" In the same interview, she says she never saw Jeffrey Epstein engage in \"unconsensual\" behavior.",
-        "uri": "at://did:plc:bqjob47oyafvppnbcl32y22p/app.bsky.feed.post/3lwzrmneqas2u",
-        "created_at": "2025-08-23T01:03:50.136Z",
-        "url": "https://bsky.app/profile/allinwithchris.bsky.social/post/3lwzrmneqas2u"
-      },
-      "engagement": {
-        "likes": 88,
-        "replies": 35,
-        "reposts": 27,
-        "quotes": 11,
-        "formatted": {
-          "likes": "88",
-          "replies": "35",
-          "reposts": "27",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "🤣🤣🤣 right, was this before or after she returned from “work release”?",
-        "When’s her pardon?",
-        "Golly, why ever should she lie?"
-      ],
-      "metrics": {
-        "ratio_score": 1.83,
-        "time_bucket": 1,
-        "total_engagement": 109,
-        "post_age_minutes": 29.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T01:48:08.084252+00:00",
-      "last_updated": "2025-08-23T01:48:08.084252+00:00",
-      "analysis_windows": [
-        "2025-08-23T01:48:08.084252+00:00"
-      ],
-      "peak_controversy": 4.4,
-      "trend": "new"
     },
     {
       "rank": 10,
@@ -576,64 +576,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "culturecrave.co",
-        "display_name": "Culture Crave 🍿",
-        "initials": "CC",
-        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
-        "profile_url": "https://bsky.app/profile/culturecrave.co"
-      },
-      "ratio": "1:1",
-      "controversy": 2.9,
-      "change": "-2.4",
-      "change_type": "negative",
-      "post": {
-        "text": "2025 is the first time since 2011 that a comic book movie hasn’t reached $700M globally",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lx2iwfmsfc2u",
-        "created_at": "2025-08-23T08:00:53.596Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lx2iwfmsfc2u"
-      },
-      "engagement": {
-        "likes": 362,
-        "replies": 33,
-        "reposts": 23,
-        "quotes": 34,
-        "formatted": {
-          "likes": "362",
-          "replies": "33",
-          "reposts": "23",
-          "quotes": "34"
-        }
-      },
-      "sample_replies": [
-        "This excludes the Covid year (2020)",
-        "No wonder you like your own comment",
-        "Good. The slop is dying",
-        "My dude, have you even seen the Superman film? It's the best one we've gotten since the 70s."
-      ],
-      "metrics": {
-        "ratio_score": 2.8,
-        "time_bucket": 2,
-        "total_engagement": 97,
-        "post_age_minutes": 32.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T22:21:06.254292+00:00",
-      "last_updated": "2025-08-23T08:42:17.761008+00:00",
-      "analysis_windows": [
-        "2025-08-22T22:21:06.254292+00:00",
-        "2025-08-23T01:48:08.712904+00:00",
-        "2025-08-23T08:42:17.761008+00:00"
-      ],
-      "peak_controversy": 5.3,
-      "trend": "rising"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "discussingfilm.net",
         "display_name": "DiscussingFilm",
         "initials": "DI",
@@ -654,12 +596,12 @@
       "engagement": {
         "likes": 144,
         "replies": 12,
-        "reposts": 27,
+        "reposts": 28,
         "quotes": 27,
         "formatted": {
           "likes": "144",
           "replies": "12",
-          "reposts": "27",
+          "reposts": "28",
           "quotes": "27"
         }
       },
@@ -687,7 +629,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "hamsterwatch.com",
         "display_name": "hamsterwatch #bb27",
@@ -742,6 +684,64 @@
       "trend": "new"
     },
     {
+      "rank": 13,
+      "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "2:1",
+      "controversy": 2.9,
+      "change": "-2.4",
+      "change_type": "negative",
+      "post": {
+        "text": "2025 is the first time since 2011 that a comic book movie hasn’t reached $700M globally",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lx2iwfmsfc2u",
+        "created_at": "2025-08-23T08:00:53.596Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lx2iwfmsfc2u"
+      },
+      "engagement": {
+        "likes": 398,
+        "replies": 34,
+        "reposts": 26,
+        "quotes": 40,
+        "formatted": {
+          "likes": "398",
+          "replies": "34",
+          "reposts": "26",
+          "quotes": "40"
+        }
+      },
+      "sample_replies": [
+        "This excludes the Covid year (2020)",
+        "No wonder you like your own comment",
+        "Good. The slop is dying",
+        "My dude, have you even seen the Superman film? It's the best one we've gotten since the 70s."
+      ],
+      "metrics": {
+        "ratio_score": 2.8,
+        "time_bucket": 2,
+        "total_engagement": 97,
+        "post_age_minutes": 32.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T22:21:06.254292+00:00",
+      "last_updated": "2025-08-23T08:42:17.761008+00:00",
+      "analysis_windows": [
+        "2025-08-22T22:21:06.254292+00:00",
+        "2025-08-23T01:48:08.712904+00:00",
+        "2025-08-23T08:42:17.761008+00:00"
+      ],
+      "peak_controversy": 5.3,
+      "trend": "rising"
+    },
+    {
       "rank": 14,
       "user": {
         "handle": "kyivindependent.com",
@@ -762,13 +762,13 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lwz35thvxk2d"
       },
       "engagement": {
-        "likes": 180,
-        "replies": 69,
+        "likes": 182,
+        "replies": 70,
         "reposts": 32,
         "quotes": 18,
         "formatted": {
-          "likes": "180",
-          "replies": "69",
+          "likes": "182",
+          "replies": "70",
           "reposts": "32",
           "quotes": "18"
         }
@@ -818,12 +818,12 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lwz2gyw6322d"
       },
       "engagement": {
-        "likes": 87,
+        "likes": 88,
         "replies": 7,
         "reposts": 14,
         "quotes": 8,
         "formatted": {
-          "likes": "87",
+          "likes": "88",
           "replies": "7",
           "reposts": "14",
           "quotes": "8"
@@ -920,7 +920,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
         "profile_url": "https://bsky.app/profile/nytimes.com"
       },
-      "ratio": "1:1",
+      "ratio": "2:1",
       "controversy": 1.7,
       "change": "NEW",
       "change_type": "new",
@@ -931,15 +931,15 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lx3a2zaohj2k"
       },
       "engagement": {
-        "likes": 10,
-        "replies": 13,
-        "reposts": 5,
-        "quotes": 6,
+        "likes": 25,
+        "replies": 28,
+        "reposts": 9,
+        "quotes": 14,
         "formatted": {
-          "likes": "10",
-          "replies": "13",
-          "reposts": "5",
-          "quotes": "6"
+          "likes": "25",
+          "replies": "28",
+          "reposts": "9",
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -987,12 +987,12 @@
         "url": "https://bsky.app/profile/popcrave.com/post/3lwzfwbeivs22"
       },
       "engagement": {
-        "likes": 52,
+        "likes": 53,
         "replies": 4,
         "reposts": 5,
         "quotes": 22,
         "formatted": {
-          "likes": "52",
+          "likes": "53",
           "replies": "4",
           "reposts": "5",
           "quotes": "22"
@@ -1088,7 +1088,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ebczxy5kirxbwzoippkbb2jf/bafkreia7sxknyfltiaawlmg6e5ickzpkic4lujmkaebx2gbzlryvls64n4@jpeg",
         "profile_url": "https://bsky.app/profile/letterboxd.social"
       },
-      "ratio": "6:1",
+      "ratio": "11:1",
       "controversy": 1.5,
       "change": "NEW",
       "change_type": "new",
@@ -1099,15 +1099,15 @@
         "url": "https://bsky.app/profile/letterboxd.social/post/3lx36wnkt6c24"
       },
       "engagement": {
-        "likes": 24,
-        "replies": 7,
+        "likes": 32,
+        "replies": 11,
         "reposts": 1,
-        "quotes": 6,
+        "quotes": 11,
         "formatted": {
-          "likes": "24",
-          "replies": "7",
+          "likes": "32",
+          "replies": "11",
           "reposts": "1",
-          "quotes": "6"
+          "quotes": "11"
         }
       },
       "sample_replies": [
@@ -1142,7 +1142,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bacymjtv5jc2ehhd5hlzfzp5/bafkreifvafwrwaci73fowr6elr5ioxe3tswnllpob34hg6ifrcxam7wgdm@jpeg",
         "profile_url": "https://bsky.app/profile/guynemer.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 1.5,
       "change": "NEW",
       "change_type": "new",
@@ -1153,15 +1153,15 @@
         "url": "https://bsky.app/profile/guynemer.bsky.social/post/3lx35g3yrks2u"
       },
       "engagement": {
-        "likes": 38,
-        "replies": 7,
+        "likes": 57,
+        "replies": 13,
         "reposts": 8,
-        "quotes": 20,
+        "quotes": 27,
         "formatted": {
-          "likes": "38",
-          "replies": "7",
+          "likes": "57",
+          "replies": "13",
           "reposts": "8",
-          "quotes": "20"
+          "quotes": "27"
         }
       },
       "sample_replies": [
@@ -1321,14 +1321,14 @@
         "url": "https://bsky.app/profile/iwillnotbesilenced.bsky.social/post/3lx2tfj2hhc2h"
       },
       "engagement": {
-        "likes": 30,
-        "replies": 15,
-        "reposts": 16,
+        "likes": 35,
+        "replies": 16,
+        "reposts": 17,
         "quotes": 9,
         "formatted": {
-          "likes": "30",
-          "replies": "15",
-          "reposts": "16",
+          "likes": "35",
+          "replies": "16",
+          "reposts": "17",
           "quotes": "9"
         }
       },
@@ -1422,7 +1422,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v63y3emmbz5dlvzkejca2mcc/bafkreiggos46cd44z2mz5zxi4sxuhgkvhnp2g22xemb7gnkfyxgxayuekm@jpeg",
         "profile_url": "https://bsky.app/profile/newsguy.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "4:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -1433,15 +1433,15 @@
         "url": "https://bsky.app/profile/newsguy.bsky.social/post/3lx37tg45q725"
       },
       "engagement": {
-        "likes": 8,
+        "likes": 9,
         "replies": 5,
         "reposts": 2,
-        "quotes": 5,
+        "quotes": 7,
         "formatted": {
-          "likes": "8",
+          "likes": "9",
           "replies": "5",
           "reposts": "2",
-          "quotes": "5"
+          "quotes": "7"
         }
       },
       "sample_replies": [
@@ -1478,7 +1478,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tshrll7hb5scyeg4m6nitxtr/bafkreid3kczgnzorle6lfzh66pbomgq4rkvnhleoppb62tx7tpck7ehllq@jpeg",
         "profile_url": "https://bsky.app/profile/news.sky.com"
       },
-      "ratio": "9:1",
+      "ratio": "14:0",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -1489,15 +1489,15 @@
         "url": "https://bsky.app/profile/news.sky.com/post/3lx36c2ecgw2v"
       },
       "engagement": {
-        "likes": 5,
-        "replies": 14,
-        "reposts": 1,
-        "quotes": 9,
+        "likes": 6,
+        "replies": 18,
+        "reposts": 0,
+        "quotes": 14,
         "formatted": {
-          "likes": "5",
-          "replies": "14",
-          "reposts": "1",
-          "quotes": "9"
+          "likes": "6",
+          "replies": "18",
+          "reposts": "0",
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -1534,7 +1534,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qnwrertmdznkkexzktkweuvb/bafkreia7ilzf23chfpnmwywzjggvxvqjrmssvwddcojn2upea5pv37iipq@jpeg",
         "profile_url": "https://bsky.app/profile/edithcharles.bsky.social"
       },
-      "ratio": "67:1",
+      "ratio": "36:1",
       "controversy": 0.7,
       "change": "NEW",
       "change_type": "new",
@@ -1545,15 +1545,15 @@
         "url": "https://bsky.app/profile/edithcharles.bsky.social/post/3lwzq7cq6ak2t"
       },
       "engagement": {
-        "likes": 37,
-        "replies": 35,
-        "reposts": 1,
-        "quotes": 67,
+        "likes": 39,
+        "replies": 37,
+        "reposts": 2,
+        "quotes": 72,
         "formatted": {
-          "likes": "37",
-          "replies": "35",
-          "reposts": "1",
-          "quotes": "67"
+          "likes": "39",
+          "replies": "37",
+          "reposts": "2",
+          "quotes": "72"
         }
       },
       "sample_replies": [
@@ -1645,7 +1645,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsfcatjdodevhzfveiaacqht/bafkreihw4vrhig2vm5p57jofgzwnpgetxpd2y7cwqrns7nnvry5oyjfw3q@jpeg",
         "profile_url": "https://bsky.app/profile/nmjmredux.blacksky.app"
       },
-      "ratio": "5:0",
+      "ratio": "8:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -1656,15 +1656,15 @@
         "url": "https://bsky.app/profile/nmjmredux.blacksky.app/post/3lx366wi7ek2s"
       },
       "engagement": {
-        "likes": 14,
+        "likes": 16,
         "replies": 2,
-        "reposts": 0,
-        "quotes": 5,
+        "reposts": 1,
+        "quotes": 8,
         "formatted": {
-          "likes": "14",
+          "likes": "16",
           "replies": "2",
-          "reposts": "0",
-          "quotes": "5"
+          "reposts": "1",
+          "quotes": "8"
         }
       },
       "sample_replies": [
@@ -1767,14 +1767,14 @@
       },
       "engagement": {
         "likes": 12,
-        "replies": 4,
+        "replies": 5,
         "reposts": 5,
-        "quotes": 5,
+        "quotes": 4,
         "formatted": {
           "likes": "12",
-          "replies": "4",
+          "replies": "5",
           "reposts": "5",
-          "quotes": "5"
+          "quotes": "4"
         }
       },
       "sample_replies": [
