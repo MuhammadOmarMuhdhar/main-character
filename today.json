@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-23T08:42:17.761059+00:00",
-    "last_metrics_update": "2025-08-23T11:32:34.968979+00:00",
+    "last_full_analysis": "2025-08-23T11:57:04.405151+00:00",
+    "last_metrics_update": "2025-08-23T11:57:04.405151+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 22,
+    "main_characters_count": 23,
     "rolling_window": {
-      "last_update": "2025-08-23T08:42:17.761059+00:00",
+      "last_update": "2025-08-23T11:57:04.405151+00:00",
       "new_entries_added": 1,
-      "total_in_window": 22,
+      "total_in_window": 23,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -185,6 +185,63 @@
     {
       "rank": 4,
       "user": {
+        "handle": "thebulwark.com",
+        "display_name": "The Bulwark",
+        "initials": "TB",
+        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
+        "profile_url": "https://bsky.app/profile/thebulwark.com"
+      },
+      "ratio": "1:1",
+      "controversy": 3.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
+        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
+        "created_at": "2025-08-22T18:02:18.976Z",
+        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
+      },
+      "engagement": {
+        "likes": 70,
+        "replies": 36,
+        "reposts": 9,
+        "quotes": 11,
+        "formatted": {
+          "likes": "70",
+          "replies": "36",
+          "reposts": "9",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "Again with the fucking \"two weeks\".",
+        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
+        "Dude puts an alarm for two weeks and snoozes it for four years...",
+        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
+      ],
+      "metrics": {
+        "ratio_score": 5.12,
+        "time_bucket": 1,
+        "total_engagement": 94,
+        "post_age_minutes": 29.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T18:49:41.095162+00:00",
+      "last_updated": "2025-08-22T18:49:41.862738+00:00",
+      "analysis_windows": [
+        "2025-08-22T18:49:41.095162+00:00",
+        "2025-08-22T18:49:41.862738+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 5,
+      "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
         "initials": "CN",
@@ -238,7 +295,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -294,7 +351,7 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user": {
         "handle": "allinwithchris.bsky.social",
         "display_name": "All In with Chris Hayes",
@@ -347,63 +404,6 @@
       ],
       "peak_controversy": 4.4,
       "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "thebulwark.com",
-        "display_name": "The Bulwark",
-        "initials": "TB",
-        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
-        "profile_url": "https://bsky.app/profile/thebulwark.com"
-      },
-      "ratio": "1:1",
-      "controversy": 3.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Q: \"How long will you give Putin?\"\n\nTrump: \"A couple of weeks...It takes two to tango. I wanted to have a meeting with those two, but a lot of people think that nothing's going to come out of that meeting...In the meantime, people continue to die.\"",
-        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lwz22w75jh2n",
-        "created_at": "2025-08-22T18:02:18.976Z",
-        "url": "https://bsky.app/profile/thebulwark.com/post/3lwz22w75jh2n"
-      },
-      "engagement": {
-        "likes": 70,
-        "replies": 36,
-        "reposts": 9,
-        "quotes": 11,
-        "formatted": {
-          "likes": "70",
-          "replies": "36",
-          "reposts": "9",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "Again with the fucking \"two weeks\".",
-        "Trump is decaying right in front of our eyes- I mean, the weight loss, swollen eyes, those cankles,...",
-        "Dude puts an alarm for two weeks and snoozes it for four years...",
-        "Is the same \"two weeks\" as his healthcare plan, infrastructure week, tarrif announcements and just..."
-      ],
-      "metrics": {
-        "ratio_score": 5.12,
-        "time_bucket": 1,
-        "total_engagement": 94,
-        "post_age_minutes": 29.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T18:49:41.095162+00:00",
-      "last_updated": "2025-08-22T18:49:41.862738+00:00",
-      "analysis_windows": [
-        "2025-08-22T18:49:41.095162+00:00",
-        "2025-08-22T18:49:41.862738+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
     },
     {
       "rank": 8,
@@ -464,116 +464,6 @@
     {
       "rank": 9,
       "user": {
-        "handle": "discussingfilm.net",
-        "display_name": "DiscussingFilm",
-        "initials": "DI",
-        "did": "did:plc:exxdcplb2ozev5lvw5ohnejq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exxdcplb2ozev5lvw5ohnejq/bafkreiam6dm3rbiz6kggmhxibp6jjqn5oxjnf2hxxuhzwho4tbgnivnbwa@jpeg",
-        "profile_url": "https://bsky.app/profile/discussingfilm.net"
-      },
-      "ratio": "1:1",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "A Kobe Bryant biopic is in the works at Warner Bros.\n\n(Source: Deadline)",
-        "uri": "at://did:plc:exxdcplb2ozev5lvw5ohnejq/app.bsky.feed.post/3lwzsks2xvs2d",
-        "created_at": "2025-08-23T01:20:41.677Z",
-        "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
-      },
-      "engagement": {
-        "likes": 137,
-        "replies": 11,
-        "reposts": 26,
-        "quotes": 25,
-        "formatted": {
-          "likes": "137",
-          "replies": "11",
-          "reposts": "26",
-          "quotes": "25"
-        }
-      },
-      "sample_replies": [
-        "I’m going to guess it won’t include the things he did in Denver .",
-        "They need to do something like The Last Dance. \n\nI need like 8, 1-hour long episodes chronicling...",
-        "Ew"
-      ],
-      "metrics": {
-        "ratio_score": 1.73,
-        "time_bucket": 0,
-        "total_engagement": 67,
-        "post_age_minutes": 12.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T01:48:07.827052+00:00",
-      "last_updated": "2025-08-23T01:48:07.827052+00:00",
-      "analysis_windows": [
-        "2025-08-23T01:48:07.827052+00:00"
-      ],
-      "peak_controversy": 3.4,
-      "trend": "new"
-    },
-    {
-      "rank": 10,
-      "user": {
-        "handle": "hamsterwatch.com",
-        "display_name": "hamsterwatch #bb27",
-        "initials": "H#",
-        "did": "did:plc:2nh2yfgyvadt6njeblfll5eq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nh2yfgyvadt6njeblfll5eq/bafkreieeaxw6d7dvcxjnyazlg3pybokyc7esuxbak2tyxtvxuzvs5rygpm@jpeg",
-        "profile_url": "https://bsky.app/profile/hamsterwatch.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Mickey to Vince: \"you've come this far, but don't put me up, if you put me up I will haunt you in your dreams\"",
-        "uri": "at://did:plc:2nh2yfgyvadt6njeblfll5eq/app.bsky.feed.post/3lwzg3kr5ts2l",
-        "created_at": "2025-08-22T21:37:25.812Z",
-        "url": "https://bsky.app/profile/hamsterwatch.com/post/3lwzg3kr5ts2l"
-      },
-      "engagement": {
-        "likes": 119,
-        "replies": 8,
-        "reposts": 9,
-        "quotes": 6,
-        "formatted": {
-          "likes": "119",
-          "replies": "8",
-          "reposts": "9",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "lmaoooooooo lowkey the funniest thing she’s said",
-        "lol welp... she's going up for sure now",
-        "What is she, the etsy witch demon"
-      ],
-      "metrics": {
-        "ratio_score": 1.86,
-        "time_bucket": 1,
-        "total_engagement": 78,
-        "post_age_minutes": 26.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-22T22:21:05.706722+00:00",
-      "last_updated": "2025-08-22T22:21:05.706722+00:00",
-      "analysis_windows": [
-        "2025-08-22T22:21:05.706722+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
-      "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
         "initials": "CC",
@@ -628,6 +518,116 @@
       ],
       "peak_controversy": 5.3,
       "trend": "rising"
+    },
+    {
+      "rank": 10,
+      "user": {
+        "handle": "discussingfilm.net",
+        "display_name": "DiscussingFilm",
+        "initials": "DI",
+        "did": "did:plc:exxdcplb2ozev5lvw5ohnejq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exxdcplb2ozev5lvw5ohnejq/bafkreiam6dm3rbiz6kggmhxibp6jjqn5oxjnf2hxxuhzwho4tbgnivnbwa@jpeg",
+        "profile_url": "https://bsky.app/profile/discussingfilm.net"
+      },
+      "ratio": "1:1",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "A Kobe Bryant biopic is in the works at Warner Bros.\n\n(Source: Deadline)",
+        "uri": "at://did:plc:exxdcplb2ozev5lvw5ohnejq/app.bsky.feed.post/3lwzsks2xvs2d",
+        "created_at": "2025-08-23T01:20:41.677Z",
+        "url": "https://bsky.app/profile/discussingfilm.net/post/3lwzsks2xvs2d"
+      },
+      "engagement": {
+        "likes": 137,
+        "replies": 11,
+        "reposts": 26,
+        "quotes": 25,
+        "formatted": {
+          "likes": "137",
+          "replies": "11",
+          "reposts": "26",
+          "quotes": "25"
+        }
+      },
+      "sample_replies": [
+        "I’m going to guess it won’t include the things he did in Denver .",
+        "They need to do something like The Last Dance. \n\nI need like 8, 1-hour long episodes chronicling...",
+        "Ew"
+      ],
+      "metrics": {
+        "ratio_score": 1.73,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 12.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T01:48:07.827052+00:00",
+      "last_updated": "2025-08-23T01:48:07.827052+00:00",
+      "analysis_windows": [
+        "2025-08-23T01:48:07.827052+00:00"
+      ],
+      "peak_controversy": 3.4,
+      "trend": "new"
+    },
+    {
+      "rank": 11,
+      "user": {
+        "handle": "hamsterwatch.com",
+        "display_name": "hamsterwatch #bb27",
+        "initials": "H#",
+        "did": "did:plc:2nh2yfgyvadt6njeblfll5eq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nh2yfgyvadt6njeblfll5eq/bafkreieeaxw6d7dvcxjnyazlg3pybokyc7esuxbak2tyxtvxuzvs5rygpm@jpeg",
+        "profile_url": "https://bsky.app/profile/hamsterwatch.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Mickey to Vince: \"you've come this far, but don't put me up, if you put me up I will haunt you in your dreams\"",
+        "uri": "at://did:plc:2nh2yfgyvadt6njeblfll5eq/app.bsky.feed.post/3lwzg3kr5ts2l",
+        "created_at": "2025-08-22T21:37:25.812Z",
+        "url": "https://bsky.app/profile/hamsterwatch.com/post/3lwzg3kr5ts2l"
+      },
+      "engagement": {
+        "likes": 119,
+        "replies": 8,
+        "reposts": 9,
+        "quotes": 6,
+        "formatted": {
+          "likes": "119",
+          "replies": "8",
+          "reposts": "9",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "lmaoooooooo lowkey the funniest thing she’s said",
+        "lol welp... she's going up for sure now",
+        "What is she, the etsy witch demon"
+      ],
+      "metrics": {
+        "ratio_score": 1.86,
+        "time_bucket": 1,
+        "total_engagement": 78,
+        "post_age_minutes": 26.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-22T22:21:05.706722+00:00",
+      "last_updated": "2025-08-22T22:21:05.706722+00:00",
+      "analysis_windows": [
+        "2025-08-22T22:21:05.706722+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
     },
     {
       "rank": 12,
@@ -1025,6 +1025,62 @@
     {
       "rank": 19,
       "user": {
+        "handle": "iwillnotbesilenced.bsky.social",
+        "display_name": "Raider",
+        "initials": "RA",
+        "did": "did:plc:udnac33pmf2iwcblpeai5a5p",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:udnac33pmf2iwcblpeai5a5p/bafkreibo44jy3wcnq3tpzkfaaerqyyc3raw42i2kloersuxza4zurxsble@jpeg",
+        "profile_url": "https://bsky.app/profile/iwillnotbesilenced.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trump mobilizing up to 1,700 National Guardsmen in 19 states to widen crime and immigration crackdown",
+        "uri": "at://did:plc:udnac33pmf2iwcblpeai5a5p/app.bsky.feed.post/3lx2tfj2hhc2h",
+        "created_at": "2025-08-23T11:08:17.945Z",
+        "url": "https://bsky.app/profile/iwillnotbesilenced.bsky.social/post/3lx2tfj2hhc2h"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 10,
+        "reposts": 7,
+        "quotes": 5,
+        "formatted": {
+          "likes": "17",
+          "replies": "10",
+          "reposts": "7",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "It's not a crime crackdown.   Stop calling, it that.",
+        "Lol the most underwhelming show of force. Less than 100 troops per state. Good luck sir, I'm sure...",
+        "\"to widen crime\"",
+        "Dear title of the article: Not a crime crackdown... but okay."
+      ],
+      "metrics": {
+        "ratio_score": 1.88,
+        "time_bucket": 2,
+        "total_engagement": 39,
+        "post_age_minutes": 39.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T11:57:04.405012+00:00",
+      "last_updated": "2025-08-23T11:57:04.405012+00:00",
+      "analysis_windows": [
+        "2025-08-23T11:57:04.405012+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 20,
+      "user": {
         "handle": "reneedechert.com",
         "display_name": "Renee Dechert",
         "initials": "RD",
@@ -1079,7 +1135,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "edithcharles.bsky.social",
         "display_name": "Edith",
@@ -1135,7 +1191,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user": {
         "handle": "mondycarrington.bsky.social",
         "display_name": "Mondy Carrington",
@@ -1190,7 +1246,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
