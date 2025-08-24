@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-24T18:49:55.544535+00:00",
-    "last_metrics_update": "2025-08-24T18:49:55.544535+00:00",
+    "last_metrics_update": "2025-08-24T19:02:45.328373+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -16,125 +16,6 @@
   "main_characters": [
     {
       "rank": 1,
-      "user": {
-        "handle": "mcuban.bsky.social",
-        "display_name": "Mark Cuban",
-        "initials": "MC",
-        "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
-        "profile_url": "https://bsky.app/profile/mcuban.bsky.social"
-      },
-      "ratio": "1:5",
-      "controversy": 8.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "blogmaverick.com/2011/09/19/t...\n\nI’m fine with paying more taxes.  The unrealized capital gains tax was literally the biggest economy killer tax ever proposed",
-        "uri": "at://did:plc:y5xyloyy7s4a2bwfeimj7r3b/app.bsky.feed.post/3lx4bz3bfnc2h",
-        "created_at": "2025-08-24T01:02:26.704Z",
-        "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
-      },
-      "engagement": {
-        "likes": 607,
-        "replies": 116,
-        "reposts": 54,
-        "quotes": 10,
-        "formatted": {
-          "likes": "607",
-          "replies": "116",
-          "reposts": "54",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "More than the tariffs ? Doubtful",
-        "I already pay tax based on unrealized capital gains. It’s called property tax. It’s fine....",
-        "Tariffs are stupid & billionaires should be taxed, but an unrealized capital gains tax isn’t...",
-        "unrealized is dumb and would be nightmare to implement but can't imagine it pass. Feels like a..."
-      ],
-      "metrics": {
-        "ratio_score": 2.35,
-        "time_bucket": 3,
-        "total_engagement": 458,
-        "post_age_minutes": 45.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T02:01:57.979478+00:00",
-      "last_updated": "2025-08-24T02:01:58.687915+00:00",
-      "analysis_windows": [
-        "2025-08-24T02:01:57.979478+00:00",
-        "2025-08-24T02:01:58.687915+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
-    },
-    {
-      "rank": 2,
-      "user": {
-        "handle": "atrupar.com",
-        "display_name": "Aaron Rupar",
-        "initials": "AR",
-        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
-        "profile_url": "https://bsky.app/profile/atrupar.com"
-      },
-      "ratio": "1:1",
-      "controversy": 8.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "JD Vance on Russia-Ukraine: \"What I admire about the president is he's not trying to focus on every nitpicky detail of how this thing started three and a half year ago, he's trying to focus on the nitpicky details of now.\"",
-        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lx5o3lqfw32g",
-        "created_at": "2025-08-24T14:11:15.705Z",
-        "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
-      },
-      "engagement": {
-        "likes": 346,
-        "replies": 230,
-        "reposts": 77,
-        "quotes": 65,
-        "formatted": {
-          "likes": "346",
-          "replies": "230",
-          "reposts": "77",
-          "quotes": "65"
-        }
-      },
-      "sample_replies": [
-        "You mean the nitpicky thing of Russia invading a sovereign nation?",
-        "Just smack him already",
-        "Putin's illegal invasion is just a nitpicky detail.",
-        "\"THiS iS bIDen's WaR\" but yeah we aren't worried about nitpicky details."
-      ],
-      "metrics": {
-        "ratio_score": 4.22,
-        "time_bucket": 3,
-        "total_engagement": 521,
-        "post_age_minutes": 51.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T15:18:06.997773+00:00",
-      "last_updated": "2025-08-24T15:18:07.532231+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.997773+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
-    },
-    {
-      "rank": 3,
       "user": {
         "handle": "nothoodlum.bsky.social",
         "display_name": "Hoodlum 🇺🇸",
@@ -154,14 +35,14 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 2971,
-        "replies": 1390,
-        "reposts": 850,
+        "likes": 2978,
+        "replies": 1392,
+        "reposts": 854,
         "quotes": 290,
         "formatted": {
           "likes": "3.0K",
           "replies": "1.4K",
-          "reposts": "850",
+          "reposts": "854",
           "quotes": "290"
         }
       },
@@ -190,7 +71,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "user": {
         "handle": "ronfilipkowski.bsky.social",
         "display_name": "Ron Filipkowski",
@@ -199,7 +80,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6ubj2wlhc34awzcymh3qpur/bafkreifqp5wczyswtq4g45yi73ivgtlhctw2jj3ghjfsve53k4tvli62cy@jpeg",
         "profile_url": "https://bsky.app/profile/ronfilipkowski.bsky.social"
       },
-      "ratio": "1:7",
+      "ratio": "1:8",
       "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
@@ -210,14 +91,14 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
       },
       "engagement": {
-        "likes": 1388,
+        "likes": 1391,
         "replies": 185,
-        "reposts": 179,
+        "reposts": 180,
         "quotes": 24,
         "formatted": {
           "likes": "1.4K",
           "replies": "185",
-          "reposts": "179",
+          "reposts": "180",
           "quotes": "24"
         }
       },
@@ -244,7 +125,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "user": {
         "handle": "internethippo.bsky.social",
         "display_name": "Dinner is 6 pm",
@@ -300,6 +181,125 @@
       "trend": "new"
     },
     {
+      "rank": 4,
+      "user": {
+        "handle": "mcuban.bsky.social",
+        "display_name": "Mark Cuban",
+        "initials": "MC",
+        "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
+        "profile_url": "https://bsky.app/profile/mcuban.bsky.social"
+      },
+      "ratio": "1:5",
+      "controversy": 8.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "blogmaverick.com/2011/09/19/t...\n\nI’m fine with paying more taxes.  The unrealized capital gains tax was literally the biggest economy killer tax ever proposed",
+        "uri": "at://did:plc:y5xyloyy7s4a2bwfeimj7r3b/app.bsky.feed.post/3lx4bz3bfnc2h",
+        "created_at": "2025-08-24T01:02:26.704Z",
+        "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
+      },
+      "engagement": {
+        "likes": 611,
+        "replies": 116,
+        "reposts": 54,
+        "quotes": 10,
+        "formatted": {
+          "likes": "611",
+          "replies": "116",
+          "reposts": "54",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "More than the tariffs ? Doubtful",
+        "I already pay tax based on unrealized capital gains. It’s called property tax. It’s fine....",
+        "Tariffs are stupid & billionaires should be taxed, but an unrealized capital gains tax isn’t...",
+        "unrealized is dumb and would be nightmare to implement but can't imagine it pass. Feels like a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.35,
+        "time_bucket": 3,
+        "total_engagement": 458,
+        "post_age_minutes": 45.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T02:01:57.979478+00:00",
+      "last_updated": "2025-08-24T02:01:58.687915+00:00",
+      "analysis_windows": [
+        "2025-08-24T02:01:57.979478+00:00",
+        "2025-08-24T02:01:58.687915+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 5,
+      "user": {
+        "handle": "atrupar.com",
+        "display_name": "Aaron Rupar",
+        "initials": "AR",
+        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
+        "profile_url": "https://bsky.app/profile/atrupar.com"
+      },
+      "ratio": "1:1",
+      "controversy": 8.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "JD Vance on Russia-Ukraine: \"What I admire about the president is he's not trying to focus on every nitpicky detail of how this thing started three and a half year ago, he's trying to focus on the nitpicky details of now.\"",
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lx5o3lqfw32g",
+        "created_at": "2025-08-24T14:11:15.705Z",
+        "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
+      },
+      "engagement": {
+        "likes": 356,
+        "replies": 235,
+        "reposts": 79,
+        "quotes": 66,
+        "formatted": {
+          "likes": "356",
+          "replies": "235",
+          "reposts": "79",
+          "quotes": "66"
+        }
+      },
+      "sample_replies": [
+        "You mean the nitpicky thing of Russia invading a sovereign nation?",
+        "Just smack him already",
+        "Putin's illegal invasion is just a nitpicky detail.",
+        "\"THiS iS bIDen's WaR\" but yeah we aren't worried about nitpicky details."
+      ],
+      "metrics": {
+        "ratio_score": 4.22,
+        "time_bucket": 3,
+        "total_engagement": 521,
+        "post_age_minutes": 51.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T15:18:06.997773+00:00",
+      "last_updated": "2025-08-24T15:18:07.532231+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.997773+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
       "rank": 6,
       "user": {
         "handle": "hollyanderson.bsky.social",
@@ -320,12 +320,12 @@
         "url": "https://bsky.app/profile/hollyanderson.bsky.social/post/3lx3kst4wac2l"
       },
       "engagement": {
-        "likes": 170,
+        "likes": 171,
         "replies": 9,
         "reposts": 7,
         "quotes": 9,
         "formatted": {
-          "likes": "170",
+          "likes": "171",
           "replies": "9",
           "reposts": "7",
           "quotes": "9"
@@ -376,15 +376,15 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 173,
-        "replies": 17,
-        "reposts": 4,
-        "quotes": 6,
+        "likes": 185,
+        "replies": 19,
+        "reposts": 5,
+        "quotes": 8,
         "formatted": {
-          "likes": "173",
-          "replies": "17",
-          "reposts": "4",
-          "quotes": "6"
+          "likes": "185",
+          "replies": "19",
+          "reposts": "5",
+          "quotes": "8"
         }
       },
       "sample_replies": [
@@ -432,15 +432,15 @@
         "url": "https://bsky.app/profile/rikergoogling.bsky.social/post/3lx3m65lbue24"
       },
       "engagement": {
-        "likes": 191,
+        "likes": 192,
         "replies": 17,
         "reposts": 31,
-        "quotes": 18,
+        "quotes": 19,
         "formatted": {
-          "likes": "191",
+          "likes": "192",
           "replies": "17",
           "reposts": "31",
-          "quotes": "18"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -488,14 +488,14 @@
         "url": "https://bsky.app/profile/leahjustyaps.bsky.social/post/3lx3xcjnihs22"
       },
       "engagement": {
-        "likes": 111,
+        "likes": 114,
         "replies": 7,
-        "reposts": 14,
+        "reposts": 15,
         "quotes": 12,
         "formatted": {
-          "likes": "111",
+          "likes": "114",
           "replies": "7",
-          "reposts": "14",
+          "reposts": "15",
           "quotes": "12"
         }
       },
@@ -582,63 +582,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "rapsheet.bsky.social",
-        "display_name": "Ian Rapoport",
-        "initials": "IR",
-        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
-        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
-        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
-        "created_at": "2025-08-24T14:33:47.091Z",
-        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
-      },
-      "engagement": {
-        "likes": 121,
-        "replies": 6,
-        "reposts": 13,
-        "quotes": 14,
-        "formatted": {
-          "likes": "121",
-          "replies": "6",
-          "reposts": "13",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
-        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
-        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
-        "Whatever. Just bring Theilen back."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 1,
-        "total_engagement": 67,
-        "post_age_minutes": 29.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T15:18:06.821464+00:00",
-      "last_updated": "2025-08-24T15:18:07.532231+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.821464+00:00",
-        "2025-08-24T15:18:07.532231+00:00"
-      ],
-      "peak_controversy": 3.8,
-      "trend": "rising"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "radiofreetom.bsky.social",
         "display_name": "Tom Nichols",
         "initials": "TN",
@@ -657,15 +600,15 @@
         "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
       },
       "engagement": {
-        "likes": 70,
+        "likes": 83,
         "replies": 21,
         "reposts": 7,
-        "quotes": 5,
+        "quotes": 6,
         "formatted": {
-          "likes": "70",
+          "likes": "83",
           "replies": "21",
           "reposts": "7",
-          "quotes": "5"
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -693,7 +636,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -713,14 +656,14 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
       },
       "engagement": {
-        "likes": 85,
+        "likes": 88,
         "replies": 26,
-        "reposts": 18,
+        "reposts": 19,
         "quotes": 10,
         "formatted": {
-          "likes": "85",
+          "likes": "88",
           "replies": "26",
-          "reposts": "18",
+          "reposts": "19",
           "quotes": "10"
         }
       },
@@ -747,6 +690,63 @@
       ],
       "peak_controversy": 3.0,
       "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "rapsheet.bsky.social",
+        "display_name": "Ian Rapoport",
+        "initials": "IR",
+        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
+        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
+        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
+        "created_at": "2025-08-24T14:33:47.091Z",
+        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
+      },
+      "engagement": {
+        "likes": 129,
+        "replies": 6,
+        "reposts": 14,
+        "quotes": 14,
+        "formatted": {
+          "likes": "129",
+          "replies": "6",
+          "reposts": "14",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
+        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
+        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
+        "Whatever. Just bring Theilen back."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "time_bucket": 1,
+        "total_engagement": 67,
+        "post_age_minutes": 29.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T15:18:06.821464+00:00",
+      "last_updated": "2025-08-24T15:18:07.532231+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.821464+00:00",
+        "2025-08-24T15:18:07.532231+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "rising"
     },
     {
       "rank": 14,
@@ -825,12 +825,12 @@
         "url": "https://bsky.app/profile/drfrancisyoung.bsky.social/post/3lx3m64uhfk2u"
       },
       "engagement": {
-        "likes": 145,
+        "likes": 146,
         "replies": 37,
         "reposts": 12,
         "quotes": 7,
         "formatted": {
-          "likes": "145",
+          "likes": "146",
           "replies": "37",
           "reposts": "12",
           "quotes": "7"
@@ -1049,12 +1049,12 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lx3watvlpu2r"
       },
       "engagement": {
-        "likes": 193,
+        "likes": 196,
         "replies": 50,
         "reposts": 11,
         "quotes": 8,
         "formatted": {
-          "likes": "193",
+          "likes": "196",
           "replies": "50",
           "reposts": "11",
           "quotes": "8"
@@ -1104,12 +1104,12 @@
         "url": "https://bsky.app/profile/bblionotev.bsky.social/post/3lx4bfwyf3c2l"
       },
       "engagement": {
-        "likes": 113,
+        "likes": 114,
         "replies": 11,
         "reposts": 13,
         "quotes": 24,
         "formatted": {
-          "likes": "113",
+          "likes": "114",
           "replies": "11",
           "reposts": "13",
           "quotes": "24"
@@ -1160,15 +1160,15 @@
         "url": "https://bsky.app/profile/psychobob4q2.bsky.social/post/3lx632no44k2t"
       },
       "engagement": {
-        "likes": 30,
-        "replies": 10,
-        "reposts": 7,
-        "quotes": 5,
+        "likes": 36,
+        "replies": 12,
+        "reposts": 8,
+        "quotes": 6,
         "formatted": {
-          "likes": "30",
-          "replies": "10",
-          "reposts": "7",
-          "quotes": "5"
+          "likes": "36",
+          "replies": "12",
+          "reposts": "8",
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -1205,7 +1205,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
         "profile_url": "https://bsky.app/profile/solomonmissouri.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "2:1",
       "controversy": 1.9,
       "change": "NEW",
       "change_type": "new",
@@ -1216,15 +1216,15 @@
         "url": "https://bsky.app/profile/solomonmissouri.bsky.social/post/3lx63zamcls2j"
       },
       "engagement": {
-        "likes": 24,
-        "replies": 5,
-        "reposts": 2,
-        "quotes": 7,
+        "likes": 34,
+        "replies": 9,
+        "reposts": 5,
+        "quotes": 10,
         "formatted": {
-          "likes": "24",
-          "replies": "5",
-          "reposts": "2",
-          "quotes": "7"
+          "likes": "34",
+          "replies": "9",
+          "reposts": "5",
+          "quotes": "10"
         }
       },
       "sample_replies": [
@@ -1498,12 +1498,12 @@
         "likes": 58,
         "replies": 12,
         "reposts": 9,
-        "quotes": 17,
+        "quotes": 18,
         "formatted": {
           "likes": "58",
           "replies": "12",
           "reposts": "9",
-          "quotes": "17"
+          "quotes": "18"
         }
       },
       "sample_replies": [
@@ -1550,13 +1550,13 @@
         "url": "https://bsky.app/profile/assignedmedia.org/post/3lx3wfugynk22"
       },
       "engagement": {
-        "likes": 48,
-        "replies": 21,
+        "likes": 49,
+        "replies": 22,
         "reposts": 6,
         "quotes": 16,
         "formatted": {
-          "likes": "48",
-          "replies": "21",
+          "likes": "49",
+          "replies": "22",
           "reposts": "6",
           "quotes": "16"
         }
@@ -1707,7 +1707,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sdobrsxnvwczrjydmnubhibh/bafkreihnn23xnyiqb7cdn7wxo22qjaueo5ya3blmnoyswetxm5fdz6432i@jpeg",
         "profile_url": "https://bsky.app/profile/notfriedgehnic.bsky.social"
       },
-      "ratio": "5:1",
+      "ratio": "8:1",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -1718,15 +1718,15 @@
         "url": "https://bsky.app/profile/notfriedgehnic.bsky.social/post/3lx62mxkcsl24"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 5,
+        "likes": 25,
+        "replies": 6,
         "reposts": 1,
-        "quotes": 5,
+        "quotes": 8,
         "formatted": {
-          "likes": "20",
-          "replies": "5",
+          "likes": "25",
+          "replies": "6",
           "reposts": "1",
-          "quotes": "5"
+          "quotes": "8"
         }
       },
       "sample_replies": [
@@ -1755,6 +1755,61 @@
     },
     {
       "rank": 32,
+      "user": {
+        "handle": "ramiiiigazaaaa.bsky.social",
+        "display_name": "Rami Na 🍉",
+        "initials": "RN",
+        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
+        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
+      },
+      "ratio": "1:3",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
+        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
+        "created_at": "2025-08-23T18:25:38.484Z",
+        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
+      },
+      "engagement": {
+        "likes": 26,
+        "replies": 9,
+        "reposts": 37,
+        "quotes": 14,
+        "formatted": {
+          "likes": "26",
+          "replies": "9",
+          "reposts": "37",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "@chaceverity.com",
+        "@nora.zone",
+        "@161bklyn.bsky.social"
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 1,
+        "total_engagement": 19,
+        "post_age_minutes": 21.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T19:03:42.499737+00:00",
+      "last_updated": "2025-08-23T19:03:42.499737+00:00",
+      "analysis_windows": [
+        "2025-08-23T19:03:42.499737+00:00"
+      ],
+      "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 33,
       "user": {
         "handle": "kurtbusiek.bsky.social",
         "display_name": "Kurt Busiek",
@@ -1811,61 +1866,6 @@
       "trend": "rising"
     },
     {
-      "rank": 33,
-      "user": {
-        "handle": "ramiiiigazaaaa.bsky.social",
-        "display_name": "Rami Na 🍉",
-        "initials": "RN",
-        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
-        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
-      },
-      "ratio": "1:3",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
-        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
-        "created_at": "2025-08-23T18:25:38.484Z",
-        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
-      },
-      "engagement": {
-        "likes": 26,
-        "replies": 9,
-        "reposts": 36,
-        "quotes": 14,
-        "formatted": {
-          "likes": "26",
-          "replies": "9",
-          "reposts": "36",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "@chaceverity.com",
-        "@nora.zone",
-        "@161bklyn.bsky.social"
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 1,
-        "total_engagement": 19,
-        "post_age_minutes": 21.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T19:03:42.499737+00:00",
-      "last_updated": "2025-08-23T19:03:42.499737+00:00",
-      "analysis_windows": [
-        "2025-08-23T19:03:42.499737+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
       "rank": 34,
       "user": {
         "handle": "newsweek.com",
@@ -1886,13 +1886,13 @@
         "url": "https://bsky.app/profile/newsweek.com/post/3lx624ja3fl2t"
       },
       "engagement": {
-        "likes": 8,
-        "replies": 10,
+        "likes": 9,
+        "replies": 11,
         "reposts": 6,
         "quotes": 5,
         "formatted": {
-          "likes": "8",
-          "replies": "10",
+          "likes": "9",
+          "replies": "11",
           "reposts": "6",
           "quotes": "5"
         }
@@ -1997,12 +1997,12 @@
         "url": "https://bsky.app/profile/deadasdreams05.bsky.social/post/3lx5zruw7l224"
       },
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "replies": 4,
         "reposts": 0,
         "quotes": 7,
         "formatted": {
-          "likes": "14",
+          "likes": "15",
           "replies": "4",
           "reposts": "0",
           "quotes": "7"
