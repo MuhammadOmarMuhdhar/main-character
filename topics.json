@@ -1,11 +1,11 @@
 {
   "collection_date": "2025-08-24",
-  "collection_timestamp": "2025-08-24T08:27:18.243374+00:00",
+  "collection_timestamp": "2025-08-24T11:57:18.827054+00:00",
   "metadata": {
     "error": "Cannot use scipy.linalg.eigh for sparse A with k >= N. Use scipy.linalg.eigh(A.toarray()) or reduce k.",
     "corpus_size": 6,
     "english_texts": 0,
-    "timestamp": "2025-08-24T08:27:18.243323+00:00"
+    "timestamp": "2025-08-24T11:57:18.826996+00:00"
   },
   "topics": [],
   "archived_topics": []
