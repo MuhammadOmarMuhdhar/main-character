@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-24T15:18:07.532319+00:00",
-    "last_metrics_update": "2025-08-24T17:17:22.035677+00:00",
+    "last_metrics_update": "2025-08-24T17:32:20.937970+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 30,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 2962,
-        "replies": 1386,
-        "reposts": 846,
-        "quotes": 288,
+        "likes": 2966,
+        "replies": 1388,
+        "reposts": 849,
+        "quotes": 289,
         "formatted": {
           "likes": "3.0K",
           "replies": "1.4K",
-          "reposts": "846",
-          "quotes": "288"
+          "reposts": "849",
+          "quotes": "289"
         }
       },
       "sample_replies": [
@@ -91,13 +91,13 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
       },
       "engagement": {
-        "likes": 1380,
-        "replies": 183,
+        "likes": 1381,
+        "replies": 185,
         "reposts": 179,
         "quotes": 24,
         "formatted": {
           "likes": "1.4K",
-          "replies": "183",
+          "replies": "185",
           "reposts": "179",
           "quotes": "24"
         }
@@ -201,14 +201,14 @@
         "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
       },
       "engagement": {
-        "likes": 603,
+        "likes": 605,
         "replies": 116,
-        "reposts": 52,
+        "reposts": 53,
         "quotes": 9,
         "formatted": {
-          "likes": "603",
+          "likes": "605",
           "replies": "116",
-          "reposts": "52",
+          "reposts": "53",
           "quotes": "9"
         }
       },
@@ -258,14 +258,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
       },
       "engagement": {
-        "likes": 326,
-        "replies": 222,
-        "reposts": 66,
+        "likes": 332,
+        "replies": 224,
+        "reposts": 67,
         "quotes": 63,
         "formatted": {
-          "likes": "326",
-          "replies": "222",
-          "reposts": "66",
+          "likes": "332",
+          "replies": "224",
+          "reposts": "67",
           "quotes": "63"
         }
       },
@@ -544,14 +544,14 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
       },
       "engagement": {
-        "likes": 80,
+        "likes": 82,
         "replies": 26,
-        "reposts": 16,
+        "reposts": 17,
         "quotes": 10,
         "formatted": {
-          "likes": "80",
+          "likes": "82",
           "replies": "26",
-          "reposts": "16",
+          "reposts": "17",
           "quotes": "10"
         }
       },
@@ -600,15 +600,15 @@
         "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
       },
       "engagement": {
-        "likes": 110,
+        "likes": 114,
         "replies": 6,
         "reposts": 12,
-        "quotes": 12,
+        "quotes": 14,
         "formatted": {
-          "likes": "110",
+          "likes": "114",
           "replies": "6",
           "reposts": "12",
-          "quotes": "12"
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -1160,13 +1160,13 @@
         "url": "https://bsky.app/profile/deardean22.bsky.social/post/3lx4ckvbcfk2y"
       },
       "engagement": {
-        "likes": 104,
-        "replies": 25,
+        "likes": 105,
+        "replies": 26,
         "reposts": 17,
         "quotes": 10,
         "formatted": {
-          "likes": "104",
-          "replies": "25",
+          "likes": "105",
+          "replies": "26",
           "reposts": "17",
           "quotes": "10"
         }
