@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-24T05:14:33.912269+00:00",
-    "last_metrics_update": "2025-08-24T05:14:33.912269+00:00",
+    "last_metrics_update": "2025-08-24T05:17:20.255162+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -16,63 +16,6 @@
   "main_characters": [
     {
       "rank": 1,
-      "user": {
-        "handle": "mcuban.bsky.social",
-        "display_name": "Mark Cuban",
-        "initials": "MC",
-        "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
-        "profile_url": "https://bsky.app/profile/mcuban.bsky.social"
-      },
-      "ratio": "1:5",
-      "controversy": 8.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "blogmaverick.com/2011/09/19/t...\n\nI’m fine with paying more taxes.  The unrealized capital gains tax was literally the biggest economy killer tax ever proposed",
-        "uri": "at://did:plc:y5xyloyy7s4a2bwfeimj7r3b/app.bsky.feed.post/3lx4bz3bfnc2h",
-        "created_at": "2025-08-24T01:02:26.704Z",
-        "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
-      },
-      "engagement": {
-        "likes": 489,
-        "replies": 91,
-        "reposts": 43,
-        "quotes": 8,
-        "formatted": {
-          "likes": "489",
-          "replies": "91",
-          "reposts": "43",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "More than the tariffs ? Doubtful",
-        "I already pay tax based on unrealized capital gains. It’s called property tax. It’s fine....",
-        "Tariffs are stupid & billionaires should be taxed, but an unrealized capital gains tax isn’t...",
-        "unrealized is dumb and would be nightmare to implement but can't imagine it pass. Feels like a..."
-      ],
-      "metrics": {
-        "ratio_score": 2.35,
-        "time_bucket": 3,
-        "total_engagement": 458,
-        "post_age_minutes": 45.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T02:01:57.979478+00:00",
-      "last_updated": "2025-08-24T02:01:58.687915+00:00",
-      "analysis_windows": [
-        "2025-08-24T02:01:57.979478+00:00",
-        "2025-08-24T02:01:58.687915+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
-    },
-    {
-      "rank": 2,
       "user": {
         "handle": "npr.org",
         "display_name": "NPR",
@@ -92,12 +35,12 @@
         "url": "https://bsky.app/profile/npr.org/post/3lx36xaz2hp2e"
       },
       "engagement": {
-        "likes": 316,
+        "likes": 317,
         "replies": 175,
         "reposts": 88,
         "quotes": 58,
         "formatted": {
-          "likes": "316",
+          "likes": "317",
           "replies": "175",
           "reposts": "88",
           "quotes": "58"
@@ -128,7 +71,7 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "user": {
         "handle": "nothoodlum.bsky.social",
         "display_name": "Hoodlum 🇺🇸",
@@ -148,15 +91,15 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 2620,
-        "replies": 1262,
-        "reposts": 759,
-        "quotes": 253,
+        "likes": 2637,
+        "replies": 1268,
+        "reposts": 760,
+        "quotes": 254,
         "formatted": {
           "likes": "2.6K",
           "replies": "1.3K",
-          "reposts": "759",
-          "quotes": "253"
+          "reposts": "760",
+          "quotes": "254"
         }
       },
       "sample_replies": [
@@ -184,7 +127,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "user": {
         "handle": "ronfilipkowski.bsky.social",
         "display_name": "Ron Filipkowski",
@@ -204,14 +147,14 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
       },
       "engagement": {
-        "likes": 1003,
-        "replies": 136,
-        "reposts": 120,
+        "likes": 1029,
+        "replies": 137,
+        "reposts": 122,
         "quotes": 15,
         "formatted": {
           "likes": "1.0K",
-          "replies": "136",
-          "reposts": "120",
+          "replies": "137",
+          "reposts": "122",
           "quotes": "15"
         }
       },
@@ -238,7 +181,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "user": {
         "handle": "internethippo.bsky.social",
         "display_name": "Dinner is 6 pm",
@@ -292,6 +235,63 @@
       ],
       "peak_controversy": 10.0,
       "trend": "new"
+    },
+    {
+      "rank": 5,
+      "user": {
+        "handle": "mcuban.bsky.social",
+        "display_name": "Mark Cuban",
+        "initials": "MC",
+        "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
+        "profile_url": "https://bsky.app/profile/mcuban.bsky.social"
+      },
+      "ratio": "1:6",
+      "controversy": 8.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "blogmaverick.com/2011/09/19/t...\n\nI’m fine with paying more taxes.  The unrealized capital gains tax was literally the biggest economy killer tax ever proposed",
+        "uri": "at://did:plc:y5xyloyy7s4a2bwfeimj7r3b/app.bsky.feed.post/3lx4bz3bfnc2h",
+        "created_at": "2025-08-24T01:02:26.704Z",
+        "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
+      },
+      "engagement": {
+        "likes": 494,
+        "replies": 91,
+        "reposts": 45,
+        "quotes": 8,
+        "formatted": {
+          "likes": "494",
+          "replies": "91",
+          "reposts": "45",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "More than the tariffs ? Doubtful",
+        "I already pay tax based on unrealized capital gains. It’s called property tax. It’s fine....",
+        "Tariffs are stupid & billionaires should be taxed, but an unrealized capital gains tax isn’t...",
+        "unrealized is dumb and would be nightmare to implement but can't imagine it pass. Feels like a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.35,
+        "time_bucket": 3,
+        "total_engagement": 458,
+        "post_age_minutes": 45.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T02:01:57.979478+00:00",
+      "last_updated": "2025-08-24T02:01:58.687915+00:00",
+      "analysis_windows": [
+        "2025-08-24T02:01:57.979478+00:00",
+        "2025-08-24T02:01:58.687915+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
     },
     {
       "rank": 6,
@@ -538,12 +538,12 @@
         "url": "https://bsky.app/profile/bbkittyfck.bsky.social/post/3lx3vlrlg7k2o"
       },
       "engagement": {
-        "likes": 239,
+        "likes": 241,
         "replies": 52,
         "reposts": 33,
         "quotes": 12,
         "formatted": {
-          "likes": "239",
+          "likes": "241",
           "replies": "52",
           "reposts": "33",
           "quotes": "12"
@@ -818,13 +818,13 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lx3watvlpu2r"
       },
       "engagement": {
-        "likes": 154,
-        "replies": 44,
+        "likes": 156,
+        "replies": 45,
         "reposts": 10,
         "quotes": 8,
         "formatted": {
-          "likes": "154",
-          "replies": "44",
+          "likes": "156",
+          "replies": "45",
           "reposts": "10",
           "quotes": "8"
         }
@@ -873,15 +873,15 @@
         "url": "https://bsky.app/profile/bblionotev.bsky.social/post/3lx4bfwyf3c2l"
       },
       "engagement": {
-        "likes": 99,
+        "likes": 100,
         "replies": 10,
         "reposts": 13,
-        "quotes": 21,
+        "quotes": 23,
         "formatted": {
-          "likes": "99",
+          "likes": "100",
           "replies": "10",
           "reposts": "13",
-          "quotes": "21"
+          "quotes": "23"
         }
       },
       "sample_replies": [
@@ -1207,13 +1207,13 @@
         "url": "https://bsky.app/profile/deardean22.bsky.social/post/3lx4ckvbcfk2y"
       },
       "engagement": {
-        "likes": 67,
-        "replies": 22,
+        "likes": 71,
+        "replies": 23,
         "reposts": 13,
         "quotes": 10,
         "formatted": {
-          "likes": "67",
-          "replies": "22",
+          "likes": "71",
+          "replies": "23",
           "reposts": "13",
           "quotes": "10"
         }
@@ -1374,12 +1374,12 @@
         "url": "https://bsky.app/profile/prettttystoned.bsky.social/post/3lx4boekces22"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 54,
         "replies": 12,
         "reposts": 9,
         "quotes": 16,
         "formatted": {
-          "likes": "53",
+          "likes": "54",
           "replies": "12",
           "reposts": "9",
           "quotes": "16"
@@ -1691,6 +1691,61 @@
     {
       "rank": 31,
       "user": {
+        "handle": "ramiiiigazaaaa.bsky.social",
+        "display_name": "Rami Na 🍉",
+        "initials": "RN",
+        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
+        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
+        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
+        "created_at": "2025-08-23T18:25:38.484Z",
+        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
+      },
+      "engagement": {
+        "likes": 23,
+        "replies": 9,
+        "reposts": 33,
+        "quotes": 14,
+        "formatted": {
+          "likes": "23",
+          "replies": "9",
+          "reposts": "33",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "@chaceverity.com",
+        "@nora.zone",
+        "@161bklyn.bsky.social"
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 1,
+        "total_engagement": 19,
+        "post_age_minutes": 21.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T19:03:42.499737+00:00",
+      "last_updated": "2025-08-23T19:03:42.499737+00:00",
+      "analysis_windows": [
+        "2025-08-23T19:03:42.499737+00:00"
+      ],
+      "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 32,
+      "user": {
         "handle": "kurtbusiek.bsky.social",
         "display_name": "Kurt Busiek",
         "initials": "KB",
@@ -1744,61 +1799,6 @@
       ],
       "peak_controversy": 2.0,
       "trend": "rising"
-    },
-    {
-      "rank": 32,
-      "user": {
-        "handle": "ramiiiigazaaaa.bsky.social",
-        "display_name": "Rami Na 🍉",
-        "initials": "RN",
-        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
-        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
-        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
-        "created_at": "2025-08-23T18:25:38.484Z",
-        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
-      },
-      "engagement": {
-        "likes": 23,
-        "replies": 9,
-        "reposts": 33,
-        "quotes": 14,
-        "formatted": {
-          "likes": "23",
-          "replies": "9",
-          "reposts": "33",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "@chaceverity.com",
-        "@nora.zone",
-        "@161bklyn.bsky.social"
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 1,
-        "total_engagement": 19,
-        "post_age_minutes": 21.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T19:03:42.499737+00:00",
-      "last_updated": "2025-08-23T19:03:42.499737+00:00",
-      "analysis_windows": [
-        "2025-08-23T19:03:42.499737+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
     },
     {
       "rank": 33,
@@ -1977,7 +1977,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cd3sz367a5gstbcjlcjblan4/bafkreihgisy3qrmmw7knrdmnn66udtudvszjk4kjjewrw2qzlziyzj3aiq@jpeg",
         "profile_url": "https://bsky.app/profile/knewyorksfinest.life"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -1988,15 +1988,15 @@
         "url": "https://bsky.app/profile/knewyorksfinest.life/post/3lx4ng55dwc26"
       },
       "engagement": {
-        "likes": 6,
+        "likes": 7,
         "replies": 2,
         "reposts": 3,
-        "quotes": 7,
+        "quotes": 8,
         "formatted": {
-          "likes": "6",
+          "likes": "7",
           "replies": "2",
           "reposts": "3",
-          "quotes": "7"
+          "quotes": "8"
         }
       },
       "sample_replies": [
