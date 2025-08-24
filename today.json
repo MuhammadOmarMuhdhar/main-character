@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-24T05:14:33.912269+00:00",
-    "last_metrics_update": "2025-08-24T07:32:48.573494+00:00",
+    "last_metrics_update": "2025-08-24T07:47:45.941648+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -91,8 +91,8 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 2702,
-        "replies": 1289,
+        "likes": 2708,
+        "replies": 1291,
         "reposts": 781,
         "quotes": 266,
         "formatted": {
@@ -147,7 +147,7 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
       },
       "engagement": {
-        "likes": 1121,
+        "likes": 1124,
         "replies": 142,
         "reposts": 131,
         "quotes": 16,
@@ -819,12 +819,12 @@
       },
       "engagement": {
         "likes": 167,
-        "replies": 47,
+        "replies": 48,
         "reposts": 10,
         "quotes": 8,
         "formatted": {
           "likes": "167",
-          "replies": "47",
+          "replies": "48",
           "reposts": "10",
           "quotes": "8"
         }
@@ -873,12 +873,12 @@
         "url": "https://bsky.app/profile/bblionotev.bsky.social/post/3lx4bfwyf3c2l"
       },
       "engagement": {
-        "likes": 103,
+        "likes": 104,
         "replies": 10,
         "reposts": 13,
         "quotes": 23,
         "formatted": {
-          "likes": "103",
+          "likes": "104",
           "replies": "10",
           "reposts": "13",
           "quotes": "23"
@@ -1262,13 +1262,13 @@
         "url": "https://bsky.app/profile/channel4news.bsky.social/post/3lx3lan74x22c"
       },
       "engagement": {
-        "likes": 15,
-        "replies": 53,
+        "likes": 16,
+        "replies": 54,
         "reposts": 3,
         "quotes": 21,
         "formatted": {
-          "likes": "15",
-          "replies": "53",
+          "likes": "16",
+          "replies": "54",
           "reposts": "3",
           "quotes": "21"
         }
