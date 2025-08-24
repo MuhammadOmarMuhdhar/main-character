@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-24T05:14:33.912269+00:00",
-    "last_metrics_update": "2025-08-24T07:02:19.395163+00:00",
+    "last_metrics_update": "2025-08-24T07:17:20.253217+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -91,14 +91,14 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 2694,
-        "replies": 1287,
-        "reposts": 779,
+        "likes": 2700,
+        "replies": 1289,
+        "reposts": 781,
         "quotes": 266,
         "formatted": {
           "likes": "2.7K",
           "replies": "1.3K",
-          "reposts": "779",
+          "reposts": "781",
           "quotes": "266"
         }
       },
@@ -147,7 +147,7 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
       },
       "engagement": {
-        "likes": 1100,
+        "likes": 1110,
         "replies": 142,
         "reposts": 130,
         "quotes": 16,
@@ -257,12 +257,12 @@
         "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
       },
       "engagement": {
-        "likes": 519,
+        "likes": 522,
         "replies": 94,
         "reposts": 46,
         "quotes": 9,
         "formatted": {
-          "likes": "519",
+          "likes": "522",
           "replies": "94",
           "reposts": "46",
           "quotes": "9"
@@ -873,12 +873,12 @@
         "url": "https://bsky.app/profile/bblionotev.bsky.social/post/3lx4bfwyf3c2l"
       },
       "engagement": {
-        "likes": 102,
+        "likes": 103,
         "replies": 10,
         "reposts": 13,
         "quotes": 23,
         "formatted": {
-          "likes": "102",
+          "likes": "103",
           "replies": "10",
           "reposts": "13",
           "quotes": "23"
@@ -1642,7 +1642,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tshrll7hb5scyeg4m6nitxtr/bafkreid3kczgnzorle6lfzh66pbomgq4rkvnhleoppb62tx7tpck7ehllq@jpeg",
         "profile_url": "https://bsky.app/profile/news.sky.com"
       },
-      "ratio": "27:0",
+      "ratio": "28:0",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -1656,12 +1656,12 @@
         "likes": 11,
         "replies": 50,
         "reposts": 0,
-        "quotes": 27,
+        "quotes": 28,
         "formatted": {
           "likes": "11",
           "replies": "50",
           "reposts": "0",
-          "quotes": "27"
+          "quotes": "28"
         }
       },
       "sample_replies": [
