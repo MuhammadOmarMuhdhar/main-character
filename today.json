@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-24T11:57:21.841511+00:00",
-    "last_metrics_update": "2025-08-24T14:47:59.022875+00:00",
+    "last_full_analysis": "2025-08-24T15:18:07.532319+00:00",
+    "last_metrics_update": "2025-08-24T15:18:07.532319+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 37,
+    "main_characters_count": 30,
     "rolling_window": {
-      "last_update": "2025-08-24T08:27:19.224106+00:00",
-      "new_entries_added": 1,
-      "total_in_window": 37,
+      "last_update": "2025-08-24T15:18:07.532319+00:00",
+      "new_entries_added": 10,
+      "total_in_window": 30,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,228 +16,6 @@
   "main_characters": [
     {
       "rank": 1,
-      "user": {
-        "handle": "npr.org",
-        "display_name": "NPR",
-        "initials": "NP",
-        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln72v57ivz2g46uqf4xxqiuh/bafkreibuignib3md64nrejizb45lynj2rf2pfahys46dz3oztgtrmpeizu@jpeg",
-        "profile_url": "https://bsky.app/profile/npr.org"
-      },
-      "ratio": "1:2",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trump has swapped out the grass in the Rose Garden with stone, turning what had been a lawn into a patio that bears a striking resemblance to one at his Mar-a-Lago resort in Palm Beach, Fla.",
-        "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3lx36xaz2hp2e",
-        "created_at": "2025-08-23T14:35:04.607883Z",
-        "url": "https://bsky.app/profile/npr.org/post/3lx36xaz2hp2e"
-      },
-      "engagement": {
-        "likes": 319,
-        "replies": 175,
-        "reposts": 88,
-        "quotes": 58,
-        "formatted": {
-          "likes": "319",
-          "replies": "175",
-          "reposts": "88",
-          "quotes": "58"
-        }
-      },
-      "sample_replies": [
-        "Replacing green life with cold stone is so on brand.",
-        "Trash.",
-        "motherfucker needs to remember it isn't his house",
-        "This is what they do with dementia patients so they don’t get lost- recreate their “home” so things..."
-      ],
-      "metrics": {
-        "ratio_score": 3.16,
-        "time_bucket": 1,
-        "total_engagement": 342,
-        "post_age_minutes": 27.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:27.583369+00:00",
-      "last_updated": "2025-08-23T15:17:27.583369+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:27.583369+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 2,
-      "user": {
-        "handle": "nothoodlum.bsky.social",
-        "display_name": "Hoodlum 🇺🇸",
-        "initials": "H🇺",
-        "did": "did:plc:sk6jryjhuavqchpa53jlcsyu",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sk6jryjhuavqchpa53jlcsyu/bafkreibtsfnl65yb7zzp5qb4nh7yjyrvejgdwoobvsfgqp2ya6lm27cipe@jpeg",
-        "profile_url": "https://bsky.app/profile/nothoodlum.bsky.social"
-      },
-      "ratio": "1:3",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "This is the new tacky AF ‘Rose Garden at the White House.",
-        "uri": "at://did:plc:sk6jryjhuavqchpa53jlcsyu/app.bsky.feed.post/3lx3m5yyqg22m",
-        "created_at": "2025-08-23T18:31:29.777Z",
-        "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
-      },
-      "engagement": {
-        "likes": 2899,
-        "replies": 1352,
-        "reposts": 827,
-        "quotes": 280,
-        "formatted": {
-          "likes": "2.9K",
-          "replies": "1.4K",
-          "reposts": "827",
-          "quotes": "280"
-        }
-      },
-      "sample_replies": [
-        "I've seen Ramada Inns on access roads with more inviting patios.",
-        "Golden phalluses",
-        "Everywhere... yellow dildos",
-        "Looks like a bunch of gold dildos."
-      ],
-      "metrics": {
-        "ratio_score": 2.62,
-        "time_bucket": 1,
-        "total_engagement": 510,
-        "post_age_minutes": 15.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T19:03:41.912287+00:00",
-      "last_updated": "2025-08-23T19:03:41.912287+00:00",
-      "analysis_windows": [
-        "2025-08-23T19:03:41.912287+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
-        "handle": "ronfilipkowski.bsky.social",
-        "display_name": "Ron Filipkowski",
-        "initials": "RF",
-        "did": "did:plc:t6ubj2wlhc34awzcymh3qpur",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6ubj2wlhc34awzcymh3qpur/bafkreifqp5wczyswtq4g45yi73ivgtlhctw2jj3ghjfsve53k4tvli62cy@jpeg",
-        "profile_url": "https://bsky.app/profile/ronfilipkowski.bsky.social"
-      },
-      "ratio": "1:7",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "This is a man who is clearly suffering. Gavin needs to stop. It’s just cruel and abusive at this point. It’s MAGA abuse.",
-        "uri": "at://did:plc:t6ubj2wlhc34awzcymh3qpur/app.bsky.feed.post/3lx4cfdavak2l",
-        "created_at": "2025-08-24T01:09:17.727Z",
-        "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
-      },
-      "engagement": {
-        "likes": 1340,
-        "replies": 177,
-        "reposts": 172,
-        "quotes": 24,
-        "formatted": {
-          "likes": "1.3K",
-          "replies": "177",
-          "reposts": "172",
-          "quotes": "24"
-        }
-      },
-      "sample_replies": [
-        "Pot meet kettle 😂 Gavin has broken all these MAGA buffoons brains 😂",
-        "MAGA are snowflakes, and if not pedophiles: they protect pedophiles.\n“Save the Children.”\nWhat a..."
-      ],
-      "metrics": {
-        "ratio_score": 1.51,
-        "time_bucket": 2,
-        "total_engagement": 754,
-        "post_age_minutes": 38.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T02:01:58.245211+00:00",
-      "last_updated": "2025-08-24T02:01:58.245211+00:00",
-      "analysis_windows": [
-        "2025-08-24T02:01:58.245211+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 4,
-      "user": {
-        "handle": "internethippo.bsky.social",
-        "display_name": "Dinner is 6 pm",
-        "initials": "DI",
-        "did": "did:plc:ux34natbhxube3xgdu3rhf45",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ux34natbhxube3xgdu3rhf45/bafkreifc7sdckzdjajw5rv7iemr544vbdwahijd7g2ecrt5vpffudojxtq@jpeg",
-        "profile_url": "https://bsky.app/profile/internethippo.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Something I'm thinking about, and having a bad time doing so, is how long it'll take for Trump's brand of corruption to filter down to and infect every other level of government",
-        "uri": "at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3lx4c45w3cs2g",
-        "created_at": "2025-08-24T01:04:10.143Z",
-        "url": "https://bsky.app/profile/internethippo.bsky.social/post/3lx4c45w3cs2g"
-      },
-      "engagement": {
-        "likes": 468,
-        "replies": 19,
-        "reposts": 15,
-        "quotes": 6,
-        "formatted": {
-          "likes": "468",
-          "replies": "19",
-          "reposts": "15",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "I'm personally not looking forward to living in a gangster state! As far as I can tell there's no...",
-        "Already has been, an ICE prison in western Tennessee and a data center in Wisconsin.  Both times...",
-        "tfw your contractor tells you the county clerk’s office wants an additional $1200 more for the...",
-        "fortunately he started with cops who are already very corrupt"
-      ],
-      "metrics": {
-        "ratio_score": 1.73,
-        "time_bucket": 2,
-        "total_engagement": 391,
-        "post_age_minutes": 43.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T02:01:58.330446+00:00",
-      "last_updated": "2025-08-24T02:01:58.330446+00:00",
-      "analysis_windows": [
-        "2025-08-24T02:01:58.330446+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 5,
       "user": {
         "handle": "mcuban.bsky.social",
         "display_name": "Mark Cuban",
@@ -294,63 +72,235 @@
       "trend": "rising"
     },
     {
-      "rank": 6,
+      "rank": 2,
       "user": {
-        "handle": "thelouvreof.bsky.social",
-        "display_name": "The Louvre of Bluesky",
-        "initials": "TL",
-        "did": "did:plc:g2p3bnbzcvcbohfpvjxfazqv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:g2p3bnbzcvcbohfpvjxfazqv/bafkreifyqcyh2i3yj3wtqv2ohiq77lg7edb6yybqhpy2g26dt73zazubdi@jpeg",
-        "profile_url": "https://bsky.app/profile/thelouvreof.bsky.social"
+        "handle": "atrupar.com",
+        "display_name": "Aaron Rupar",
+        "initials": "AR",
+        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
+        "profile_url": "https://bsky.app/profile/atrupar.com"
       },
-      "ratio": "1:4",
-      "controversy": 6.5,
+      "ratio": "1:1",
+      "controversy": 8.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "",
-        "uri": "at://did:plc:g2p3bnbzcvcbohfpvjxfazqv/app.bsky.feed.post/3lx35eo6sgk2o",
-        "created_at": "2025-08-23T14:06:47.184Z",
-        "url": "https://bsky.app/profile/thelouvreof.bsky.social/post/3lx35eo6sgk2o"
+        "text": "JD Vance on Russia-Ukraine: \"What I admire about the president is he's not trying to focus on every nitpicky detail of how this thing started three and a half year ago, he's trying to focus on the nitpicky details of now.\"",
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lx5o3lqfw32g",
+        "created_at": "2025-08-24T14:11:15.705Z",
+        "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
       },
       "engagement": {
-        "likes": 557,
-        "replies": 25,
-        "reposts": 39,
-        "quotes": 10,
+        "likes": 235,
+        "replies": 188,
+        "reposts": 54,
+        "quotes": 44,
         "formatted": {
-          "likes": "557",
-          "replies": "25",
-          "reposts": "39",
-          "quotes": "10"
+          "likes": "235",
+          "replies": "188",
+          "reposts": "54",
+          "quotes": "44"
         }
       },
       "sample_replies": [
-        "“I’m indigenous”\n\n“Ah so your government has no history of hating you”",
-        "Begging some of y’all to read a book. Any book at this point.",
-        "just gonna drop this here",
-        "Honestly a good number of Bluesky users need to read some Richard Scarry Busytown books"
+        "You mean the nitpicky thing of Russia invading a sovereign nation?",
+        "Just smack him already",
+        "Putin's illegal invasion is just a nitpicky detail.",
+        "\"THiS iS bIDen's WaR\" but yeah we aren't worried about nitpicky details."
       ],
       "metrics": {
-        "ratio_score": 2.0,
+        "ratio_score": 4.22,
         "time_bucket": 3,
-        "total_engagement": 326,
-        "post_age_minutes": 55.8
+        "total_engagement": 521,
+        "post_age_minutes": 51.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-23T15:17:28.138781+00:00",
-      "last_updated": "2025-08-23T15:17:28.138781+00:00",
+      "first_detected": "2025-08-24T15:18:06.997773+00:00",
+      "last_updated": "2025-08-24T15:18:07.532231+00:00",
       "analysis_windows": [
-        "2025-08-23T15:17:28.138781+00:00"
+        "2025-08-24T15:18:06.997773+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00"
       ],
-      "peak_controversy": 6.5,
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 3,
+      "user": {
+        "handle": "nothoodlum.bsky.social",
+        "display_name": "Hoodlum 🇺🇸",
+        "initials": "H🇺",
+        "did": "did:plc:sk6jryjhuavqchpa53jlcsyu",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sk6jryjhuavqchpa53jlcsyu/bafkreibtsfnl65yb7zzp5qb4nh7yjyrvejgdwoobvsfgqp2ya6lm27cipe@jpeg",
+        "profile_url": "https://bsky.app/profile/nothoodlum.bsky.social"
+      },
+      "ratio": "1:3",
+      "controversy": 10.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "This is the new tacky AF ‘Rose Garden at the White House.",
+        "uri": "at://did:plc:sk6jryjhuavqchpa53jlcsyu/app.bsky.feed.post/3lx3m5yyqg22m",
+        "created_at": "2025-08-23T18:31:29.777Z",
+        "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
+      },
+      "engagement": {
+        "likes": 2899,
+        "replies": 1352,
+        "reposts": 827,
+        "quotes": 280,
+        "formatted": {
+          "likes": "2.9K",
+          "replies": "1.4K",
+          "reposts": "827",
+          "quotes": "280"
+        }
+      },
+      "sample_replies": [
+        "I've seen Ramada Inns on access roads with more inviting patios.",
+        "Golden phalluses",
+        "Everywhere... yellow dildos",
+        "Looks like a bunch of gold dildos."
+      ],
+      "metrics": {
+        "ratio_score": 2.62,
+        "time_bucket": 1,
+        "total_engagement": 510,
+        "post_age_minutes": 15.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-23T19:03:41.912287+00:00",
+      "last_updated": "2025-08-23T19:03:41.912287+00:00",
+      "analysis_windows": [
+        "2025-08-23T19:03:41.912287+00:00"
+      ],
+      "peak_controversy": 10.0,
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "user": {
+        "handle": "ronfilipkowski.bsky.social",
+        "display_name": "Ron Filipkowski",
+        "initials": "RF",
+        "did": "did:plc:t6ubj2wlhc34awzcymh3qpur",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6ubj2wlhc34awzcymh3qpur/bafkreifqp5wczyswtq4g45yi73ivgtlhctw2jj3ghjfsve53k4tvli62cy@jpeg",
+        "profile_url": "https://bsky.app/profile/ronfilipkowski.bsky.social"
+      },
+      "ratio": "1:7",
+      "controversy": 10.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "This is a man who is clearly suffering. Gavin needs to stop. It’s just cruel and abusive at this point. It’s MAGA abuse.",
+        "uri": "at://did:plc:t6ubj2wlhc34awzcymh3qpur/app.bsky.feed.post/3lx4cfdavak2l",
+        "created_at": "2025-08-24T01:09:17.727Z",
+        "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
+      },
+      "engagement": {
+        "likes": 1340,
+        "replies": 177,
+        "reposts": 172,
+        "quotes": 24,
+        "formatted": {
+          "likes": "1.3K",
+          "replies": "177",
+          "reposts": "172",
+          "quotes": "24"
+        }
+      },
+      "sample_replies": [
+        "Pot meet kettle 😂 Gavin has broken all these MAGA buffoons brains 😂",
+        "MAGA are snowflakes, and if not pedophiles: they protect pedophiles.\n“Save the Children.”\nWhat a..."
+      ],
+      "metrics": {
+        "ratio_score": 1.51,
+        "time_bucket": 2,
+        "total_engagement": 754,
+        "post_age_minutes": 38.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T02:01:58.245211+00:00",
+      "last_updated": "2025-08-24T02:01:58.245211+00:00",
+      "analysis_windows": [
+        "2025-08-24T02:01:58.245211+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
+      "user": {
+        "handle": "internethippo.bsky.social",
+        "display_name": "Dinner is 6 pm",
+        "initials": "DI",
+        "did": "did:plc:ux34natbhxube3xgdu3rhf45",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ux34natbhxube3xgdu3rhf45/bafkreifc7sdckzdjajw5rv7iemr544vbdwahijd7g2ecrt5vpffudojxtq@jpeg",
+        "profile_url": "https://bsky.app/profile/internethippo.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 10.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Something I'm thinking about, and having a bad time doing so, is how long it'll take for Trump's brand of corruption to filter down to and infect every other level of government",
+        "uri": "at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3lx4c45w3cs2g",
+        "created_at": "2025-08-24T01:04:10.143Z",
+        "url": "https://bsky.app/profile/internethippo.bsky.social/post/3lx4c45w3cs2g"
+      },
+      "engagement": {
+        "likes": 468,
+        "replies": 19,
+        "reposts": 15,
+        "quotes": 6,
+        "formatted": {
+          "likes": "468",
+          "replies": "19",
+          "reposts": "15",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "I'm personally not looking forward to living in a gangster state! As far as I can tell there's no...",
+        "Already has been, an ICE prison in western Tennessee and a data center in Wisconsin.  Both times...",
+        "tfw your contractor tells you the county clerk’s office wants an additional $1200 more for the...",
+        "fortunately he started with cops who are already very corrupt"
+      ],
+      "metrics": {
+        "ratio_score": 1.73,
+        "time_bucket": 2,
+        "total_engagement": 391,
+        "post_age_minutes": 43.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T02:01:58.330446+00:00",
+      "last_updated": "2025-08-24T02:01:58.330446+00:00",
+      "analysis_windows": [
+        "2025-08-24T02:01:58.330446+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "new"
+    },
+    {
+      "rank": 6,
       "user": {
         "handle": "hollyanderson.bsky.social",
         "display_name": "Holly Anderson 🍇",
@@ -406,7 +356,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "rikergoogling.bsky.social",
         "display_name": "Riker Googling",
@@ -462,7 +412,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "user": {
         "handle": "leahjustyaps.bsky.social",
         "display_name": "leah | #morganmob 🫡",
@@ -518,7 +468,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "user": {
         "handle": "bbkittyfck.bsky.social",
         "display_name": "BooBoo Kitty",
@@ -574,7 +524,120 @@
       "trend": "new"
     },
     {
+      "rank": 10,
+      "user": {
+        "handle": "rapsheet.bsky.social",
+        "display_name": "Ian Rapoport",
+        "initials": "IR",
+        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
+        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
+        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
+        "created_at": "2025-08-24T14:33:47.091Z",
+        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
+      },
+      "engagement": {
+        "likes": 52,
+        "replies": 3,
+        "reposts": 5,
+        "quotes": 7,
+        "formatted": {
+          "likes": "52",
+          "replies": "3",
+          "reposts": "5",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
+        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
+        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
+        "Whatever. Just bring Theilen back."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "time_bucket": 1,
+        "total_engagement": 67,
+        "post_age_minutes": 29.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T15:18:06.821464+00:00",
+      "last_updated": "2025-08-24T15:18:07.532231+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.821464+00:00",
+        "2025-08-24T15:18:07.532231+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "rising"
+    },
+    {
       "rank": 11,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:1",
+      "controversy": 3.0,
+      "change": "+1.3",
+      "change_type": "positive",
+      "post": {
+        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
+        "created_at": "2025-08-24T14:50:05.372046Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
+      },
+      "engagement": {
+        "likes": 40,
+        "replies": 9,
+        "reposts": 6,
+        "quotes": 6,
+        "formatted": {
+          "likes": "40",
+          "replies": "9",
+          "reposts": "6",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "They want others to do their genocidal work for them. Fuck them!",
+        "🤷‍♂️",
+        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
+        "religion is a bane on humanity!"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 0,
+        "total_engagement": 61,
+        "post_age_minutes": 12.9
+      },
+      "previous_analysis": {
+        "controversy": 1.7,
+        "rank": 18
+      },
+      "first_detected": "2025-08-24T15:18:06.732922+00:00",
+      "last_updated": "2025-08-24T15:18:06.732922+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.732922+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
       "user": {
         "handle": "maks23.bsky.social",
         "display_name": "MAKS 25 👀🇺🇦",
@@ -630,7 +693,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "drfrancisyoung.bsky.social",
         "display_name": "Dr Francis Young",
@@ -686,7 +749,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "laurajnelson.bsky.social",
         "display_name": "Laura J. Nelson",
@@ -742,7 +805,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user": {
         "handle": "earthbound420.bsky.social",
         "display_name": "Earthbound420.Bsky.Social",
@@ -798,7 +861,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
@@ -854,7 +917,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user": {
         "handle": "askaubry.com",
         "display_name": "AskAubry 🦝 🐆",
@@ -909,7 +972,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user": {
         "handle": "bblionotev.bsky.social",
         "display_name": "BB Lion 🦁🗝",
@@ -962,62 +1025,6 @@
         "2025-08-24T02:01:58.595187+00:00"
       ],
       "peak_controversy": 2.1,
-      "trend": "new"
-    },
-    {
-      "rank": 18,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:1",
-      "controversy": 1.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The Texas Legislature gave final approval on Saturday to an aggressively redrawn congressional map — a major victory in President Trump’s push to get Republican state leaders to help his party keep control of the U.S. House. nyti.ms/4fTVw9K",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx3a2zaohj2k",
-        "created_at": "2025-08-23T14:55:04.424189Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lx3a2zaohj2k"
-      },
-      "engagement": {
-        "likes": 46,
-        "replies": 42,
-        "reposts": 20,
-        "quotes": 16,
-        "formatted": {
-          "likes": "46",
-          "replies": "42",
-          "reposts": "20",
-          "quotes": "16"
-        }
-      },
-      "sample_replies": [
-        "Yall need to take a serious F’ng look at the tone of your headlines. You know damn well MAGA are...",
-        "They didn't even ask their citizens like California is doing. youtu.be/6Qp5AZZ-N2A",
-        "NYTimes: \"How dare Gavin Newson and the Democrats fight back by doing the same thing\"",
-        "Yes. They intend to keep control by any means other than winnng a majority of votes in free and..."
-      ],
-      "metrics": {
-        "ratio_score": 3.17,
-        "time_bucket": 0,
-        "total_engagement": 34,
-        "post_age_minutes": 7.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:27.299117+00:00",
-      "last_updated": "2025-08-23T15:17:27.299117+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:27.299117+00:00"
-      ],
-      "peak_controversy": 1.7,
       "trend": "new"
     },
     {
@@ -1135,116 +1142,6 @@
     {
       "rank": 21,
       "user": {
-        "handle": "letterboxd.social",
-        "display_name": "Letterboxd",
-        "initials": "LE",
-        "did": "did:plc:ebczxy5kirxbwzoippkbb2jf",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ebczxy5kirxbwzoippkbb2jf/bafkreia7sxknyfltiaawlmg6e5ickzpkic4lujmkaebx2gbzlryvls64n4@jpeg",
-        "profile_url": "https://bsky.app/profile/letterboxd.social"
-      },
-      "ratio": "4:1",
-      "controversy": 1.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Guess the connection between these two movies 👀",
-        "uri": "at://did:plc:ebczxy5kirxbwzoippkbb2jf/app.bsky.feed.post/3lx36wnkt6c24",
-        "created_at": "2025-08-23T14:34:44.204Z",
-        "url": "https://bsky.app/profile/letterboxd.social/post/3lx36wnkt6c24"
-      },
-      "engagement": {
-        "likes": 85,
-        "replies": 21,
-        "reposts": 4,
-        "quotes": 15,
-        "formatted": {
-          "likes": "85",
-          "replies": "21",
-          "reposts": "4",
-          "quotes": "15"
-        }
-      },
-      "sample_replies": [
-        "One had to be changed because of 9/11 and the other is about 9/11",
-        "Gilbert Gottfried is in neither of them."
-      ],
-      "metrics": {
-        "ratio_score": 6.5,
-        "time_bucket": 1,
-        "total_engagement": 38,
-        "post_age_minutes": 27.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:27.721616+00:00",
-      "last_updated": "2025-08-23T15:17:27.721616+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:27.721616+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 22,
-      "user": {
-        "handle": "guynemer.bsky.social",
-        "display_name": "Guynemer",
-        "initials": "GU",
-        "did": "did:plc:bacymjtv5jc2ehhd5hlzfzp5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bacymjtv5jc2ehhd5hlzfzp5/bafkreifvafwrwaci73fowr6elr5ioxe3tswnllpob34hg6ifrcxam7wgdm@jpeg",
-        "profile_url": "https://bsky.app/profile/guynemer.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 1.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I have a Week Zero tradition that I'd love for you all to join me in.\n\nEnjoy listening to a grown-ass man lose his absolute fucking marbles over a college football game:\n\nwww.youtube.com/watch?v=xPvf...",
-        "uri": "at://did:plc:bacymjtv5jc2ehhd5hlzfzp5/app.bsky.feed.post/3lx35g3yrks2u",
-        "created_at": "2025-08-23T14:07:35.228Z",
-        "url": "https://bsky.app/profile/guynemer.bsky.social/post/3lx35g3yrks2u"
-      },
-      "engagement": {
-        "likes": 78,
-        "replies": 15,
-        "reposts": 9,
-        "quotes": 31,
-        "formatted": {
-          "likes": "78",
-          "replies": "15",
-          "reposts": "9",
-          "quotes": "31"
-        }
-      },
-      "sample_replies": [
-        "THEY MISMANAGED THE CLOCK\n\nAGAIN",
-        "bsky.app/profile/kbut...",
-        "doc, this is what i talked to you about, i'm not screwin' around, shut up \n\nnow let met get to the...",
-        "have some of that water"
-      ],
-      "metrics": {
-        "ratio_score": 3.0,
-        "time_bucket": 3,
-        "total_engagement": 73,
-        "post_age_minutes": 55.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:28.276851+00:00",
-      "last_updated": "2025-08-23T15:17:28.276851+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:28.276851+00:00"
-      ],
-      "peak_controversy": 1.5,
-      "trend": "new"
-    },
-    {
-      "rank": 23,
-      "user": {
         "handle": "deardean22.bsky.social",
         "display_name": "Myron J. Clifton",
         "initials": "MJ",
@@ -1298,7 +1195,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "user": {
         "handle": "channel4news.bsky.social",
         "display_name": "Channel 4 News",
@@ -1354,63 +1251,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
-      "user": {
-        "handle": "iwillnotbesilenced.bsky.social",
-        "display_name": "Raider",
-        "initials": "RA",
-        "did": "did:plc:udnac33pmf2iwcblpeai5a5p",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:udnac33pmf2iwcblpeai5a5p/bafkreibo44jy3wcnq3tpzkfaaerqyyc3raw42i2kloersuxza4zurxsble@jpeg",
-        "profile_url": "https://bsky.app/profile/iwillnotbesilenced.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 1.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trump mobilizing up to 1,700 National Guardsmen in 19 states to widen crime and immigration crackdown",
-        "uri": "at://did:plc:udnac33pmf2iwcblpeai5a5p/app.bsky.feed.post/3lx2tfj2hhc2h",
-        "created_at": "2025-08-23T11:08:17.945Z",
-        "url": "https://bsky.app/profile/iwillnotbesilenced.bsky.social/post/3lx2tfj2hhc2h"
-      },
-      "engagement": {
-        "likes": 44,
-        "replies": 18,
-        "reposts": 23,
-        "quotes": 10,
-        "formatted": {
-          "likes": "44",
-          "replies": "18",
-          "reposts": "23",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "It's not a crime crackdown.   Stop calling, it that.",
-        "Lol the most underwhelming show of force. Less than 100 troops per state. Good luck sir, I'm sure...",
-        "\"to widen crime\"",
-        "Dear title of the article: Not a crime crackdown... but okay."
-      ],
-      "metrics": {
-        "ratio_score": 1.88,
-        "time_bucket": 2,
-        "total_engagement": 39,
-        "post_age_minutes": 39.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T11:57:04.405012+00:00",
-      "last_updated": "2025-08-23T11:57:04.405012+00:00",
-      "analysis_windows": [
-        "2025-08-23T11:57:04.405012+00:00"
-      ],
-      "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
-      "rank": 26,
+      "rank": 23,
       "user": {
         "handle": "prettttystoned.bsky.social",
         "display_name": "Tia The Talking Titty Titan🧿",
@@ -1465,7 +1306,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 24,
       "user": {
         "handle": "assignedmedia.org",
         "display_name": "Assigned Media",
@@ -1521,7 +1362,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 25,
       "user": {
         "handle": "timbers.com",
         "display_name": "Portland Timbers",
@@ -1577,63 +1418,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
-      "user": {
-        "handle": "newsguy.bsky.social",
-        "display_name": "Steve Herman",
-        "initials": "SH",
-        "did": "did:plc:v63y3emmbz5dlvzkejca2mcc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v63y3emmbz5dlvzkejca2mcc/bafkreiggos46cd44z2mz5zxi4sxuhgkvhnp2g22xemb7gnkfyxgxayuekm@jpeg",
-        "profile_url": "https://bsky.app/profile/newsguy.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 1.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Galileo Project founder, Harvard Univ. astrophysicist Avi Loeb, continues to asserts the 3I/ATLAS interstellar interloper in our solar system (and heading closer to us) seems to be generating \"its own light\" and could be a nuclear-powered alien probe.",
-        "uri": "at://did:plc:v63y3emmbz5dlvzkejca2mcc/app.bsky.feed.post/3lx37tg45q725",
-        "created_at": "2025-08-23T14:50:48.201Z",
-        "url": "https://bsky.app/profile/newsguy.bsky.social/post/3lx37tg45q725"
-      },
-      "engagement": {
-        "likes": 15,
-        "replies": 9,
-        "reposts": 7,
-        "quotes": 8,
-        "formatted": {
-          "likes": "15",
-          "replies": "9",
-          "reposts": "7",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "That sounds wonderful!",
-        "Ya, nuclear-powered alien probe sounds like the most likely explanation.",
-        "It’s coming to take Donald Trump to heaven.\n\nOr at least that is an explanation with a similar...",
-        "i'll delay worrying until it decelerates and goes into aparking orbit"
-      ],
-      "metrics": {
-        "ratio_score": 3.33,
-        "time_bucket": 0,
-        "total_engagement": 20,
-        "post_age_minutes": 11.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:27.443575+00:00",
-      "last_updated": "2025-08-23T15:17:27.443575+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:27.443575+00:00"
-      ],
-      "peak_controversy": 1.0,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
+      "rank": 26,
       "user": {
         "handle": "iamabundantaf.bsky.social",
         "display_name": "I Am Abundant AF",
@@ -1689,118 +1474,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
-      "user": {
-        "handle": "news.sky.com",
-        "display_name": "Sky News",
-        "initials": "SN",
-        "did": "did:plc:tshrll7hb5scyeg4m6nitxtr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tshrll7hb5scyeg4m6nitxtr/bafkreid3kczgnzorle6lfzh66pbomgq4rkvnhleoppb62tx7tpck7ehllq@jpeg",
-        "profile_url": "https://bsky.app/profile/news.sky.com"
-      },
-      "ratio": "29:0",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Reform UK's new immigration plans would've been extreme just a few years ago",
-        "uri": "at://did:plc:tshrll7hb5scyeg4m6nitxtr/app.bsky.feed.post/3lx36c2ecgw2v",
-        "created_at": "2025-08-23T14:23:12.795Z",
-        "url": "https://bsky.app/profile/news.sky.com/post/3lx36c2ecgw2v"
-      },
-      "engagement": {
-        "likes": 12,
-        "replies": 54,
-        "reposts": 0,
-        "quotes": 29,
-        "formatted": {
-          "likes": "12",
-          "replies": "54",
-          "reposts": "0",
-          "quotes": "29"
-        }
-      },
-      "sample_replies": [
-        "Note: they're still extreme today",
-        "Still extreme. Feel like you are doing some normalising here sky news.",
-        "The UK well on its way to following the US into Banana Republicanism.",
-        "Thanks in a large part to a Murdoch infested media, this kind of rhetoric has become..."
-      ],
-      "metrics": {
-        "ratio_score": 11.5,
-        "time_bucket": 2,
-        "total_engagement": 29,
-        "post_age_minutes": 39.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:27.861911+00:00",
-      "last_updated": "2025-08-23T15:17:27.861911+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:27.861911+00:00"
-      ],
-      "peak_controversy": 0.9,
-      "trend": "new"
-    },
-    {
-      "rank": 32,
-      "user": {
-        "handle": "ramiiiigazaaaa.bsky.social",
-        "display_name": "Rami Na 🍉",
-        "initials": "RN",
-        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
-        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
-      },
-      "ratio": "1:3",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
-        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
-        "created_at": "2025-08-23T18:25:38.484Z",
-        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
-      },
-      "engagement": {
-        "likes": 26,
-        "replies": 9,
-        "reposts": 36,
-        "quotes": 14,
-        "formatted": {
-          "likes": "26",
-          "replies": "9",
-          "reposts": "36",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "@chaceverity.com",
-        "@nora.zone",
-        "@161bklyn.bsky.social"
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 1,
-        "total_engagement": 19,
-        "post_age_minutes": 21.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T19:03:42.499737+00:00",
-      "last_updated": "2025-08-23T19:03:42.499737+00:00",
-      "analysis_windows": [
-        "2025-08-23T19:03:42.499737+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 33,
+      "rank": 27,
       "user": {
         "handle": "kurtbusiek.bsky.social",
         "display_name": "Kurt Busiek",
@@ -1857,119 +1531,62 @@
       "trend": "rising"
     },
     {
-      "rank": 34,
+      "rank": 28,
       "user": {
-        "handle": "nmjmredux.blacksky.app",
-        "display_name": "Henny Gesserit",
-        "initials": "HG",
-        "did": "did:plc:gsfcatjdodevhzfveiaacqht",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsfcatjdodevhzfveiaacqht/bafkreihw4vrhig2vm5p57jofgzwnpgetxpd2y7cwqrns7nnvry5oyjfw3q@jpeg",
-        "profile_url": "https://bsky.app/profile/nmjmredux.blacksky.app"
+        "handle": "ramiiiigazaaaa.bsky.social",
+        "display_name": "Rami Na 🍉",
+        "initials": "RN",
+        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
+        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
       },
-      "ratio": "4:1",
-      "controversy": 0.6,
+      "ratio": "1:3",
+      "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Remember when schools used to threaten you with your \"permanent record\"",
-        "uri": "at://did:plc:gsfcatjdodevhzfveiaacqht/app.bsky.feed.post/3lx366wi7ek2s",
-        "created_at": "2025-08-23T14:21:28.306Z",
-        "url": "https://bsky.app/profile/nmjmredux.blacksky.app/post/3lx366wi7ek2s"
+        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
+        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
+        "created_at": "2025-08-23T18:25:38.484Z",
+        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
       },
       "engagement": {
-        "likes": 23,
-        "replies": 3,
-        "reposts": 2,
-        "quotes": 9,
+        "likes": 26,
+        "replies": 9,
+        "reposts": 36,
+        "quotes": 14,
         "formatted": {
-          "likes": "23",
-          "replies": "3",
-          "reposts": "2",
-          "quotes": "9"
+          "likes": "26",
+          "replies": "9",
+          "reposts": "36",
+          "quotes": "14"
         }
       },
       "sample_replies": [
-        "\"I'll never get into college!!!\"",
-        "absolutely nothing, I was disturbingly good",
-        "Control",
-        "Had me scared for nothing b/c 2 of ISS stints. 😄"
+        "@chaceverity.com",
+        "@nora.zone",
+        "@161bklyn.bsky.social"
       ],
       "metrics": {
-        "ratio_score": 7.0,
-        "time_bucket": 2,
-        "total_engagement": 21,
-        "post_age_minutes": 41.1
+        "ratio_score": 2.0,
+        "time_bucket": 1,
+        "total_engagement": 19,
+        "post_age_minutes": 21.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-23T15:17:28.002187+00:00",
-      "last_updated": "2025-08-23T15:17:28.002187+00:00",
+      "first_detected": "2025-08-23T19:03:42.499737+00:00",
+      "last_updated": "2025-08-23T19:03:42.499737+00:00",
       "analysis_windows": [
-        "2025-08-23T15:17:28.002187+00:00"
+        "2025-08-23T19:03:42.499737+00:00"
       ],
-      "peak_controversy": 0.6,
+      "peak_controversy": 0.8,
       "trend": "new"
     },
     {
-      "rank": 35,
-      "user": {
-        "handle": "coloradosun.com",
-        "display_name": "The Colorado Sun ☀️",
-        "initials": "TC",
-        "did": "did:plc:iwlynwlkj7eiiy25mpxuqyrj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwlynwlkj7eiiy25mpxuqyrj/bafkreibhz5o7ukodhfzauruqi5i2dtjfnilseliyztukt4mibw3tkka3bi@jpeg",
-        "profile_url": "https://bsky.app/profile/coloradosun.com"
-      },
-      "ratio": "1:2",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Amazon and Starlink awarded 50% of Colorado’s underserved broadband locations",
-        "uri": "at://did:plc:iwlynwlkj7eiiy25mpxuqyrj/app.bsky.feed.post/3lx35gwqqgo2p",
-        "created_at": "2025-08-23T14:08:01.023Z",
-        "url": "https://bsky.app/profile/coloradosun.com/post/3lx35gwqqgo2p"
-      },
-      "engagement": {
-        "likes": 17,
-        "replies": 6,
-        "reposts": 9,
-        "quotes": 4,
-        "formatted": {
-          "likes": "17",
-          "replies": "6",
-          "reposts": "9",
-          "quotes": "4"
-        }
-      },
-      "sample_replies": [
-        "Disappointing. First, because Bezos and Musk are greedy bastards that already have billions of...",
-        "Boo!",
-        "Starlink = Skynet !",
-        "WITAF?! 🤬"
-      ],
-      "metrics": {
-        "ratio_score": 1.5,
-        "time_bucket": 3,
-        "total_engagement": 26,
-        "post_age_minutes": 54.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T15:17:28.415314+00:00",
-      "last_updated": "2025-08-23T15:17:28.415314+00:00",
-      "analysis_windows": [
-        "2025-08-23T15:17:28.415314+00:00"
-      ],
-      "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 36,
+      "rank": 29,
       "user": {
         "handle": "knewyorksfinest.life",
         "display_name": "Balloon Knot Enthusiast 🇯🇲",
@@ -2024,7 +1641,7 @@
       "trend": "new"
     },
     {
-      "rank": 37,
+      "rank": 30,
       "user": {
         "handle": "anthrclfrnn.bsky.social",
         "display_name": "Another Californian",
