@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-24T05:14:33.912269+00:00",
-    "last_metrics_update": "2025-08-24T08:02:27.448954+00:00",
+    "last_full_analysis": "2025-08-24T08:27:19.224106+00:00",
+    "last_metrics_update": "2025-08-24T08:27:19.224106+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
     "rolling_window": {
-      "last_update": "2025-08-24T05:14:33.912269+00:00",
-      "new_entries_added": 2,
+      "last_update": "2025-08-24T08:27:19.224106+00:00",
+      "new_entries_added": 1,
       "total_in_window": 37,
       "window_hours": 24,
       "update_interval_hours": 3
@@ -16,6 +16,63 @@
   "main_characters": [
     {
       "rank": 1,
+      "user": {
+        "handle": "mcuban.bsky.social",
+        "display_name": "Mark Cuban",
+        "initials": "MC",
+        "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
+        "profile_url": "https://bsky.app/profile/mcuban.bsky.social"
+      },
+      "ratio": "1:5",
+      "controversy": 8.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "blogmaverick.com/2011/09/19/t...\n\nI’m fine with paying more taxes.  The unrealized capital gains tax was literally the biggest economy killer tax ever proposed",
+        "uri": "at://did:plc:y5xyloyy7s4a2bwfeimj7r3b/app.bsky.feed.post/3lx4bz3bfnc2h",
+        "created_at": "2025-08-24T01:02:26.704Z",
+        "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
+      },
+      "engagement": {
+        "likes": 525,
+        "replies": 95,
+        "reposts": 47,
+        "quotes": 9,
+        "formatted": {
+          "likes": "525",
+          "replies": "95",
+          "reposts": "47",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "More than the tariffs ? Doubtful",
+        "I already pay tax based on unrealized capital gains. It’s called property tax. It’s fine....",
+        "Tariffs are stupid & billionaires should be taxed, but an unrealized capital gains tax isn’t...",
+        "unrealized is dumb and would be nightmare to implement but can't imagine it pass. Feels like a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.35,
+        "time_bucket": 3,
+        "total_engagement": 458,
+        "post_age_minutes": 45.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T02:01:57.979478+00:00",
+      "last_updated": "2025-08-24T02:01:58.687915+00:00",
+      "analysis_windows": [
+        "2025-08-24T02:01:57.979478+00:00",
+        "2025-08-24T02:01:58.687915+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 2,
       "user": {
         "handle": "npr.org",
         "display_name": "NPR",
@@ -71,7 +128,7 @@
       "trend": "new"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "user": {
         "handle": "nothoodlum.bsky.social",
         "display_name": "Hoodlum 🇺🇸",
@@ -127,7 +184,7 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "user": {
         "handle": "ronfilipkowski.bsky.social",
         "display_name": "Ron Filipkowski",
@@ -181,7 +238,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user": {
         "handle": "internethippo.bsky.social",
         "display_name": "Dinner is 6 pm",
@@ -235,63 +292,6 @@
       ],
       "peak_controversy": 10.0,
       "trend": "new"
-    },
-    {
-      "rank": 5,
-      "user": {
-        "handle": "mcuban.bsky.social",
-        "display_name": "Mark Cuban",
-        "initials": "MC",
-        "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
-        "profile_url": "https://bsky.app/profile/mcuban.bsky.social"
-      },
-      "ratio": "1:5",
-      "controversy": 8.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "blogmaverick.com/2011/09/19/t...\n\nI’m fine with paying more taxes.  The unrealized capital gains tax was literally the biggest economy killer tax ever proposed",
-        "uri": "at://did:plc:y5xyloyy7s4a2bwfeimj7r3b/app.bsky.feed.post/3lx4bz3bfnc2h",
-        "created_at": "2025-08-24T01:02:26.704Z",
-        "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
-      },
-      "engagement": {
-        "likes": 525,
-        "replies": 95,
-        "reposts": 47,
-        "quotes": 9,
-        "formatted": {
-          "likes": "525",
-          "replies": "95",
-          "reposts": "47",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "More than the tariffs ? Doubtful",
-        "I already pay tax based on unrealized capital gains. It’s called property tax. It’s fine....",
-        "Tariffs are stupid & billionaires should be taxed, but an unrealized capital gains tax isn’t...",
-        "unrealized is dumb and would be nightmare to implement but can't imagine it pass. Feels like a..."
-      ],
-      "metrics": {
-        "ratio_score": 2.35,
-        "time_bucket": 3,
-        "total_engagement": 458,
-        "post_age_minutes": 45.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T02:01:57.979478+00:00",
-      "last_updated": "2025-08-24T02:01:58.687915+00:00",
-      "analysis_windows": [
-        "2025-08-24T02:01:57.979478+00:00",
-        "2025-08-24T02:01:58.687915+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
     },
     {
       "rank": 6,
@@ -576,6 +576,62 @@
     {
       "rank": 11,
       "user": {
+        "handle": "maks23.bsky.social",
+        "display_name": "MAKS 25 👀🇺🇦",
+        "initials": "M2",
+        "did": "did:plc:6y3honhec2jch2ryrbuyx5a5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6y3honhec2jch2ryrbuyx5a5/bafkreiaxheuelonc6ngwflm43jyexf7cqcs56bcdfiv2to77rrxbfvmh4e@jpeg",
+        "profile_url": "https://bsky.app/profile/maks23.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "🇺🇸❗️🇺🇦 The Pentagon has blocked Ukraine from using long-range missiles to strike inside Russia for months, - WSJ\n\nA high-level, unannounced Pentagon approval process has blocked Ukraine from using ATACMS against targets inside Russia since late spring.",
+        "uri": "at://did:plc:6y3honhec2jch2ryrbuyx5a5/app.bsky.feed.post/3lx4zap77t22b",
+        "created_at": "2025-08-24T07:58:18.539Z",
+        "url": "https://bsky.app/profile/maks23.bsky.social/post/3lx4zap77t22b"
+      },
+      "engagement": {
+        "likes": 51,
+        "replies": 7,
+        "reposts": 7,
+        "quotes": 6,
+        "formatted": {
+          "likes": "51",
+          "replies": "7",
+          "reposts": "7",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "In at least one case, Ukraine tried to use the ATACMS against a target inside Russia but was...",
+        "This week, the administration approved the sale of 3,350 air-launched Extended Range Attack...",
+        "If the Flamingos are as good as they seem, I would think everyone will rather buy them than ATACMS...",
+        "Trump is Putinist scum"
+      ],
+      "metrics": {
+        "ratio_score": 1.62,
+        "time_bucket": 1,
+        "total_engagement": 71,
+        "post_age_minutes": 17.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T08:27:19.223952+00:00",
+      "last_updated": "2025-08-24T08:27:19.223952+00:00",
+      "analysis_windows": [
+        "2025-08-24T08:27:19.223952+00:00"
+      ],
+      "peak_controversy": 2.8,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
+      "user": {
         "handle": "drfrancisyoung.bsky.social",
         "display_name": "Dr Francis Young",
         "initials": "DF",
@@ -630,7 +686,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "laurajnelson.bsky.social",
         "display_name": "Laura J. Nelson",
@@ -686,7 +742,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "earthbound420.bsky.social",
         "display_name": "Earthbound420.Bsky.Social",
@@ -742,7 +798,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
@@ -798,7 +854,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user": {
         "handle": "askaubry.com",
         "display_name": "AskAubry 🦝 🐆",
@@ -853,7 +909,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user": {
         "handle": "bblionotev.bsky.social",
         "display_name": "BB Lion 🦁🗝",
@@ -909,7 +965,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -965,7 +1021,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user": {
         "handle": "mewefree.bsky.social",
         "display_name": "Yours in negritude, Ryan K. Smith",
@@ -1021,7 +1077,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user": {
         "handle": "streetlightlily.bsky.social",
         "display_name": "pistachio classic",
@@ -1077,7 +1133,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "letterboxd.social",
         "display_name": "Letterboxd",
@@ -1131,7 +1187,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user": {
         "handle": "guynemer.bsky.social",
         "display_name": "Guynemer",
@@ -1187,7 +1243,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "user": {
         "handle": "deardean22.bsky.social",
         "display_name": "Myron J. Clifton",
@@ -1242,7 +1298,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "user": {
         "handle": "channel4news.bsky.social",
         "display_name": "Channel 4 News",
@@ -1298,7 +1354,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "user": {
         "handle": "iwillnotbesilenced.bsky.social",
         "display_name": "Raider",
@@ -1354,7 +1410,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "user": {
         "handle": "prettttystoned.bsky.social",
         "display_name": "Tia The Talking Titty Titan🧿",
@@ -1409,7 +1465,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "user": {
         "handle": "assignedmedia.org",
         "display_name": "Assigned Media",
@@ -1465,7 +1521,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "user": {
         "handle": "timbers.com",
         "display_name": "Portland Timbers",
@@ -1521,7 +1577,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "user": {
         "handle": "newsguy.bsky.social",
         "display_name": "Steve Herman",
@@ -1577,7 +1633,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "user": {
         "handle": "iamabundantaf.bsky.social",
         "display_name": "I Am Abundant AF",
@@ -1633,7 +1689,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "user": {
         "handle": "news.sky.com",
         "display_name": "Sky News",
@@ -1686,61 +1742,6 @@
         "2025-08-23T15:17:27.861911+00:00"
       ],
       "peak_controversy": 0.9,
-      "trend": "new"
-    },
-    {
-      "rank": 31,
-      "user": {
-        "handle": "ramiiiigazaaaa.bsky.social",
-        "display_name": "Rami Na 🍉",
-        "initials": "RN",
-        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
-        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
-        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
-        "created_at": "2025-08-23T18:25:38.484Z",
-        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
-      },
-      "engagement": {
-        "likes": 24,
-        "replies": 9,
-        "reposts": 33,
-        "quotes": 14,
-        "formatted": {
-          "likes": "24",
-          "replies": "9",
-          "reposts": "33",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "@chaceverity.com",
-        "@nora.zone",
-        "@161bklyn.bsky.social"
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 1,
-        "total_engagement": 19,
-        "post_age_minutes": 21.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-23T19:03:42.499737+00:00",
-      "last_updated": "2025-08-23T19:03:42.499737+00:00",
-      "analysis_windows": [
-        "2025-08-23T19:03:42.499737+00:00"
-      ],
-      "peak_controversy": 0.8,
       "trend": "new"
     },
     {
@@ -1803,56 +1804,56 @@
     {
       "rank": 33,
       "user": {
-        "handle": "mondycarrington.bsky.social",
-        "display_name": "Mondy Carrington",
-        "initials": "MC",
-        "did": "did:plc:ytuk6h6gga2v2zte7xn7ti2u",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ytuk6h6gga2v2zte7xn7ti2u/bafkreig2nyvnupcmd4l3ommic6eqhgkrqpnsdu2ajwnm45dgd7fy5d6rny@jpeg",
-        "profile_url": "https://bsky.app/profile/mondycarrington.bsky.social"
+        "handle": "ramiiiigazaaaa.bsky.social",
+        "display_name": "Rami Na 🍉",
+        "initials": "RN",
+        "did": "did:plc:nan3hamsyfdf3a5lqxw4azq6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nan3hamsyfdf3a5lqxw4azq6/bafkreiaido4dtdhhp5ieoc7rbf577phzdrs3gwztyitzbuqdv4zeetnsue@jpeg",
+        "profile_url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social"
       },
-      "ratio": "1:1",
-      "controversy": 0.6,
+      "ratio": "1:2",
+      "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "A man will slide in your DMs and give you nothing. The conversation be drier than the Sahara. Just a bunch of “lol” and “good morning.” Please, miss me with the bullshit.",
-        "uri": "at://did:plc:ytuk6h6gga2v2zte7xn7ti2u/app.bsky.feed.post/3lx263y34wc2z",
-        "created_at": "2025-08-23T04:47:09.573Z",
-        "url": "https://bsky.app/profile/mondycarrington.bsky.social/post/3lx263y34wc2z"
+        "text": "I recently had sinus surgery and septum correction and urgently need medications and follow-up care. My children are still suffering from hunger and famine, and we desperately need your support to survive and recover.Every contribution, no matter how small, can save lives.\ntinyurl.com/HelpRamiFamily",
+        "uri": "at://did:plc:nan3hamsyfdf3a5lqxw4azq6/app.bsky.feed.post/3lx3ltjz34m2n",
+        "created_at": "2025-08-23T18:25:38.484Z",
+        "url": "https://bsky.app/profile/ramiiiigazaaaa.bsky.social/post/3lx3ltjz34m2n"
       },
       "engagement": {
         "likes": 24,
-        "replies": 2,
-        "reposts": 5,
-        "quotes": 7,
+        "replies": 9,
+        "reposts": 33,
+        "quotes": 14,
         "formatted": {
           "likes": "24",
-          "replies": "2",
-          "reposts": "5",
-          "quotes": "7"
+          "replies": "9",
+          "reposts": "33",
+          "quotes": "14"
         }
       },
       "sample_replies": [
-        "Smh",
-        "Lmao damn (unintentionally, this too)",
-        "A bunch of time wasters."
+        "@chaceverity.com",
+        "@nora.zone",
+        "@161bklyn.bsky.social"
       ],
       "metrics": {
         "ratio_score": 2.0,
-        "time_bucket": 2,
-        "total_engagement": 21,
-        "post_age_minutes": 30.5
+        "time_bucket": 1,
+        "total_engagement": 19,
+        "post_age_minutes": 21.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-23T05:29:02.289490+00:00",
-      "last_updated": "2025-08-23T05:29:02.289490+00:00",
+      "first_detected": "2025-08-23T19:03:42.499737+00:00",
+      "last_updated": "2025-08-23T19:03:42.499737+00:00",
       "analysis_windows": [
-        "2025-08-23T05:29:02.289490+00:00"
+        "2025-08-23T19:03:42.499737+00:00"
       ],
-      "peak_controversy": 0.6,
+      "peak_controversy": 0.8,
       "trend": "new"
     },
     {
