@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-23T22:33:39.320793+00:00",
-    "last_metrics_update": "2025-08-24T00:47:36.058214+00:00",
+    "last_metrics_update": "2025-08-24T01:02:41.923842+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 32,
@@ -91,14 +91,14 @@
         "url": "https://bsky.app/profile/nothoodlum.bsky.social/post/3lx3m5yyqg22m"
       },
       "engagement": {
-        "likes": 2320,
-        "replies": 1160,
-        "reposts": 668,
+        "likes": 2347,
+        "replies": 1172,
+        "reposts": 678,
         "quotes": 238,
         "formatted": {
           "likes": "2.3K",
           "replies": "1.2K",
-          "reposts": "668",
+          "reposts": "678",
           "quotes": "238"
         }
       },
@@ -147,12 +147,12 @@
         "url": "https://bsky.app/profile/thelouvreof.bsky.social/post/3lx35eo6sgk2o"
       },
       "engagement": {
-        "likes": 523,
+        "likes": 525,
         "replies": 25,
         "reposts": 35,
         "quotes": 10,
         "formatted": {
-          "likes": "523",
+          "likes": "525",
           "replies": "25",
           "reposts": "35",
           "quotes": "10"
@@ -481,14 +481,14 @@
         "url": "https://bsky.app/profile/bbkittyfck.bsky.social/post/3lx3vlrlg7k2o"
       },
       "engagement": {
-        "likes": 211,
+        "likes": 215,
         "replies": 51,
-        "reposts": 28,
+        "reposts": 29,
         "quotes": 12,
         "formatted": {
-          "likes": "211",
+          "likes": "215",
           "replies": "51",
-          "reposts": "28",
+          "reposts": "29",
           "quotes": "12"
         }
       },
@@ -593,12 +593,12 @@
         "url": "https://bsky.app/profile/laurajnelson.bsky.social/post/3lx3wxgopys2a"
       },
       "engagement": {
-        "likes": 113,
+        "likes": 114,
         "replies": 10,
         "reposts": 3,
         "quotes": 6,
         "formatted": {
-          "likes": "113",
+          "likes": "114",
           "replies": "10",
           "reposts": "3",
           "quotes": "6"
@@ -649,14 +649,14 @@
         "url": "https://bsky.app/profile/earthbound420.bsky.social/post/3lx3ks6qefk2q"
       },
       "engagement": {
-        "likes": 96,
+        "likes": 99,
         "replies": 37,
-        "reposts": 27,
+        "reposts": 28,
         "quotes": 15,
         "formatted": {
-          "likes": "96",
+          "likes": "99",
           "replies": "37",
-          "reposts": "27",
+          "reposts": "28",
           "quotes": "15"
         }
       },
@@ -761,12 +761,12 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lx3watvlpu2r"
       },
       "engagement": {
-        "likes": 128,
+        "likes": 132,
         "replies": 40,
         "reposts": 9,
         "quotes": 7,
         "formatted": {
-          "likes": "128",
+          "likes": "132",
           "replies": "40",
           "reposts": "9",
           "quotes": "7"
@@ -873,12 +873,12 @@
       },
       "engagement": {
         "likes": 21,
-        "replies": 28,
+        "replies": 29,
         "reposts": 0,
         "quotes": 175,
         "formatted": {
           "likes": "21",
-          "replies": "28",
+          "replies": "29",
           "reposts": "0",
           "quotes": "175"
         }
@@ -1207,12 +1207,12 @@
       },
       "engagement": {
         "likes": 37,
-        "replies": 16,
+        "replies": 17,
         "reposts": 2,
         "quotes": 9,
         "formatted": {
           "likes": "37",
-          "replies": "16",
+          "replies": "17",
           "reposts": "2",
           "quotes": "9"
         }
@@ -1485,13 +1485,13 @@
         "url": "https://bsky.app/profile/kurtbusiek.bsky.social/post/3lx3wz22dpc2i"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 5,
+        "likes": 21,
+        "replies": 6,
         "reposts": 1,
         "quotes": 19,
         "formatted": {
-          "likes": "20",
-          "replies": "5",
+          "likes": "21",
+          "replies": "6",
           "reposts": "1",
           "quotes": "19"
         }
