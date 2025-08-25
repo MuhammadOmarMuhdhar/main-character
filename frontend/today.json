@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-25T05:29:36.089997+00:00",
-    "last_metrics_update": "2025-08-25T08:17:46.863148+00:00",
+    "last_full_analysis": "2025-08-25T09:11:21.744815+00:00",
+    "last_metrics_update": "2025-08-25T09:11:21.744815+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
     "rolling_window": {
-      "last_update": "2025-08-25T05:29:36.089997+00:00",
-      "new_entries_added": 4,
+      "last_update": "2025-08-25T09:11:21.744815+00:00",
+      "new_entries_added": 1,
       "total_in_window": 22,
       "window_hours": 24,
       "update_interval_hours": 3
@@ -304,118 +304,6 @@
     {
       "rank": 6,
       "user": {
-        "handle": "radiofreetom.bsky.social",
-        "display_name": "Tom Nichols",
-        "initials": "TN",
-        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
-        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
-        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
-        "created_at": "2025-08-24T17:48:35.473Z",
-        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
-      },
-      "engagement": {
-        "likes": 116,
-        "replies": 24,
-        "reposts": 8,
-        "quotes": 7,
-        "formatted": {
-          "likes": "116",
-          "replies": "24",
-          "reposts": "8",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "Not something I would say if I were running for office, either",
-        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
-        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
-        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
-      ],
-      "metrics": {
-        "ratio_score": 3.25,
-        "time_bucket": 2,
-        "total_engagement": 103,
-        "post_age_minutes": 44.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T18:49:55.022968+00:00",
-      "last_updated": "2025-08-24T18:49:55.022968+00:00",
-      "analysis_windows": [
-        "2025-08-24T18:49:55.022968+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.0,
-      "change": "+1.3",
-      "change_type": "positive",
-      "post": {
-        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
-        "created_at": "2025-08-24T14:50:05.372046Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
-      },
-      "engagement": {
-        "likes": 100,
-        "replies": 29,
-        "reposts": 22,
-        "quotes": 10,
-        "formatted": {
-          "likes": "100",
-          "replies": "29",
-          "reposts": "22",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "They want others to do their genocidal work for them. Fuck them!",
-        "🤷‍♂️",
-        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
-        "religion is a bane on humanity!"
-      ],
-      "metrics": {
-        "ratio_score": 2.14,
-        "time_bucket": 0,
-        "total_engagement": 61,
-        "post_age_minutes": 12.9
-      },
-      "previous_analysis": {
-        "controversy": 1.7,
-        "rank": 18
-      },
-      "first_detected": "2025-08-24T15:18:06.732922+00:00",
-      "last_updated": "2025-08-24T15:18:06.732922+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.732922+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
-      "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
         "initials": "IR",
@@ -471,63 +359,119 @@
       "trend": "rising"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "user": {
-        "handle": "maks23.bsky.social",
-        "display_name": "MAKS 25 👀🇺🇦",
-        "initials": "M2",
-        "did": "did:plc:6y3honhec2jch2ryrbuyx5a5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6y3honhec2jch2ryrbuyx5a5/bafkreiaxheuelonc6ngwflm43jyexf7cqcs56bcdfiv2to77rrxbfvmh4e@jpeg",
-        "profile_url": "https://bsky.app/profile/maks23.bsky.social"
+        "handle": "radiofreetom.bsky.social",
+        "display_name": "Tom Nichols",
+        "initials": "TN",
+        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
+        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
       },
-      "ratio": "1:6",
-      "controversy": 2.8,
+      "ratio": "1:1",
+      "controversy": 3.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "🇺🇸❗️🇺🇦 The Pentagon has blocked Ukraine from using long-range missiles to strike inside Russia for months, - WSJ\n\nA high-level, unannounced Pentagon approval process has blocked Ukraine from using ATACMS against targets inside Russia since late spring.",
-        "uri": "at://did:plc:6y3honhec2jch2ryrbuyx5a5/app.bsky.feed.post/3lx4zap77t22b",
-        "created_at": "2025-08-24T07:58:18.539Z",
-        "url": "https://bsky.app/profile/maks23.bsky.social/post/3lx4zap77t22b"
+        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
+        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
+        "created_at": "2025-08-24T17:48:35.473Z",
+        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
       },
       "engagement": {
-        "likes": 167,
-        "replies": 21,
-        "reposts": 37,
-        "quotes": 6,
+        "likes": 116,
+        "replies": 24,
+        "reposts": 8,
+        "quotes": 7,
         "formatted": {
-          "likes": "167",
-          "replies": "21",
-          "reposts": "37",
-          "quotes": "6"
+          "likes": "116",
+          "replies": "24",
+          "reposts": "8",
+          "quotes": "7"
         }
       },
       "sample_replies": [
-        "In at least one case, Ukraine tried to use the ATACMS against a target inside Russia but was...",
-        "This week, the administration approved the sale of 3,350 air-launched Extended Range Attack...",
-        "If the Flamingos are as good as they seem, I would think everyone will rather buy them than ATACMS...",
-        "Trump is Putinist scum"
+        "Not something I would say if I were running for office, either",
+        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
+        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
+        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
       ],
       "metrics": {
-        "ratio_score": 1.62,
-        "time_bucket": 1,
-        "total_engagement": 71,
-        "post_age_minutes": 17.8
+        "ratio_score": 3.25,
+        "time_bucket": 2,
+        "total_engagement": 103,
+        "post_age_minutes": 44.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-24T08:27:19.223952+00:00",
-      "last_updated": "2025-08-24T08:27:19.223952+00:00",
+      "first_detected": "2025-08-24T18:49:55.022968+00:00",
+      "last_updated": "2025-08-24T18:49:55.022968+00:00",
       "analysis_windows": [
-        "2025-08-24T08:27:19.223952+00:00"
+        "2025-08-24T18:49:55.022968+00:00"
       ],
-      "peak_controversy": 2.8,
+      "peak_controversy": 3.1,
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.0,
+      "change": "+1.3",
+      "change_type": "positive",
+      "post": {
+        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
+        "created_at": "2025-08-24T14:50:05.372046Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
+      },
+      "engagement": {
+        "likes": 100,
+        "replies": 29,
+        "reposts": 22,
+        "quotes": 10,
+        "formatted": {
+          "likes": "100",
+          "replies": "29",
+          "reposts": "22",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "They want others to do their genocidal work for them. Fuck them!",
+        "🤷‍♂️",
+        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
+        "religion is a bane on humanity!"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 0,
+        "total_engagement": 61,
+        "post_age_minutes": 12.9
+      },
+      "previous_analysis": {
+        "controversy": 1.7,
+        "rank": 18
+      },
+      "first_detected": "2025-08-24T15:18:06.732922+00:00",
+      "last_updated": "2025-08-24T15:18:06.732922+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.732922+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -582,7 +526,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "user": {
         "handle": "psychobob4q2.bsky.social",
         "display_name": "Bob",
@@ -638,7 +582,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "solomonmissouri.bsky.social",
         "display_name": "Solomon",
@@ -694,7 +638,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "benrothenberg.bsky.social",
         "display_name": "Ben Rothenberg",
@@ -750,7 +694,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user": {
         "handle": "huffpost.com",
         "display_name": "HuffPost",
@@ -803,6 +747,62 @@
         "2025-08-24T22:19:23.612729+00:00"
       ],
       "peak_controversy": 1.4,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
+      "user": {
+        "handle": "hagenilda.bsky.social",
+        "display_name": "Jo  🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "initials": "J🏴",
+        "did": "did:plc:hpd52e4qfn6nu3uegetepyyk",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hpd52e4qfn6nu3uegetepyyk/bafkreidrs236xqzj6np6z72opnidlbj4hmcsasytiihnap5cdncyehj6oq@jpeg",
+        "profile_url": "https://bsky.app/profile/hagenilda.bsky.social"
+      },
+      "ratio": "5:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Still sad that Nicaea: the movie never came into fruition. \n\nWhat super bureaucratic episodes in history would you like to see dramatised?\n\nI want a six part epic on Domesday survey.",
+        "uri": "at://did:plc:hpd52e4qfn6nu3uegetepyyk/app.bsky.feed.post/3lx7kwd3wys24",
+        "created_at": "2025-08-25T08:19:57.144Z",
+        "url": "https://bsky.app/profile/hagenilda.bsky.social/post/3lx7kwd3wys24"
+      },
+      "engagement": {
+        "likes": 26,
+        "replies": 8,
+        "reposts": 1,
+        "quotes": 5,
+        "formatted": {
+          "likes": "26",
+          "replies": "8",
+          "reposts": "1",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Nicaea: The Movie would be very dry up until the point at which Santa punches a heretic.\n\nDid it...",
+        "Also, it can be a Christmas movie! Like Die Hard but with bishops.",
+        "\"The executive producer and driving force behind Nicaea is American Catholic layman Charles...",
+        "I reckon peace conferences are under-used as historical drama (certainly compared to war).\n\nI..."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "time_bucket": 2,
+        "total_engagement": 40,
+        "post_age_minutes": 40.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T09:11:21.742446+00:00",
+      "last_updated": "2025-08-25T09:11:21.742446+00:00",
+      "analysis_windows": [
+        "2025-08-25T09:11:21.742446+00:00"
+      ],
+      "peak_controversy": 1.2,
       "trend": "new"
     },
     {
