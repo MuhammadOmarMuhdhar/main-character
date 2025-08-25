@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T05:29:36.089997+00:00",
-    "last_metrics_update": "2025-08-25T06:47:36.782512+00:00",
+    "last_metrics_update": "2025-08-25T07:02:34.019036+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 324,
+        "likes": 326,
         "replies": 75,
         "reposts": 29,
         "quotes": 33,
         "formatted": {
-          "likes": "324",
+          "likes": "326",
           "replies": "75",
           "reposts": "29",
           "quotes": "33"
@@ -143,7 +143,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxfqu53b6jtrqqntce6pseqh/bafkreie6l3hxlgxnw2rk7hsbqw7sfnt3uystf5dfv5cjc4dn4lcntawcwy@jpeg",
         "profile_url": "https://bsky.app/profile/youngvulgarian.marieleconte.com"
       },
-      "ratio": "1:1",
+      "ratio": "1:2",
       "controversy": 5.4,
       "change": "NEW",
       "change_type": "new",
@@ -154,14 +154,14 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 273,
+        "likes": 283,
         "replies": 80,
-        "reposts": 49,
+        "reposts": 54,
         "quotes": 36,
         "formatted": {
-          "likes": "273",
+          "likes": "283",
           "replies": "80",
-          "reposts": "49",
+          "reposts": "54",
           "quotes": "36"
         }
       },
@@ -210,12 +210,12 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 339,
+        "likes": 341,
         "replies": 24,
         "reposts": 10,
         "quotes": 12,
         "formatted": {
-          "likes": "339",
+          "likes": "341",
           "replies": "24",
           "reposts": "10",
           "quotes": "12"
@@ -547,15 +547,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
       },
       "engagement": {
-        "likes": 127,
-        "replies": 80,
+        "likes": 131,
+        "replies": 81,
         "reposts": 12,
-        "quotes": 23,
+        "quotes": 24,
         "formatted": {
-          "likes": "127",
-          "replies": "80",
+          "likes": "131",
+          "replies": "81",
           "reposts": "12",
-          "quotes": "23"
+          "quotes": "24"
         }
       },
       "sample_replies": [
@@ -927,7 +927,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrgu6zwmbtatfohzhabru7n4/bafkreidlgewzjghp57j6xh4j5baontm4moe3o2wpxi4gf5kwncjipokkqe@jpeg",
         "profile_url": "https://bsky.app/profile/deemarleyy.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -938,14 +938,14 @@
         "url": "https://bsky.app/profile/deemarleyy.bsky.social/post/3lx76k4mxzk23"
       },
       "engagement": {
-        "likes": 21,
+        "likes": 22,
         "replies": 7,
-        "reposts": 2,
+        "reposts": 3,
         "quotes": 8,
         "formatted": {
-          "likes": "21",
+          "likes": "22",
           "replies": "7",
-          "reposts": "2",
+          "reposts": "3",
           "quotes": "8"
         }
       },
@@ -1218,12 +1218,12 @@
         "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lx763g2nss2n"
       },
       "engagement": {
-        "likes": 4,
+        "likes": 5,
         "replies": 3,
         "reposts": 0,
         "quotes": 8,
         "formatted": {
-          "likes": "4",
+          "likes": "5",
           "replies": "3",
           "reposts": "0",
           "quotes": "8"
