@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-25T02:17:29.009273+00:00",
-    "last_metrics_update": "2025-08-25T05:02:36.495411+00:00",
+    "last_full_analysis": "2025-08-25T05:29:36.089997+00:00",
+    "last_metrics_update": "2025-08-25T05:29:36.089997+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 20,
+    "main_characters_count": 22,
     "rolling_window": {
-      "last_update": "2025-08-25T02:17:29.009273+00:00",
-      "new_entries_added": 5,
-      "total_in_window": 20,
+      "last_update": "2025-08-25T05:29:36.089997+00:00",
+      "new_entries_added": 4,
+      "total_in_window": 22,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -248,117 +248,61 @@
     {
       "rank": 5,
       "user": {
-        "handle": "radiofreetom.bsky.social",
-        "display_name": "Tom Nichols",
-        "initials": "TN",
-        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
-        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
+        "handle": "cjzero.bsky.social",
+        "display_name": "CJ Fogler",
+        "initials": "CF",
+        "did": "did:plc:4vziktoq7p6jd3i5l3wtmfab",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4vziktoq7p6jd3i5l3wtmfab/bafkreicuo25577cf4m4b2zbwzlrwiqdvogbkgmkpcg25uttwsiqlcuhype@jpeg",
+        "profile_url": "https://bsky.app/profile/cjzero.bsky.social"
       },
-      "ratio": "1:1",
-      "controversy": 3.1,
+      "ratio": "2:1",
+      "controversy": 3.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
-        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
-        "created_at": "2025-08-24T17:48:35.473Z",
-        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
+        "text": "Medvedev absolutely annihilates a racquet",
+        "uri": "at://did:plc:4vziktoq7p6jd3i5l3wtmfab/app.bsky.feed.post/3lx77kwuhi22c",
+        "created_at": "2025-08-25T04:56:44.057Z",
+        "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
       },
       "engagement": {
-        "likes": 113,
-        "replies": 24,
-        "reposts": 7,
-        "quotes": 7,
+        "likes": 48,
+        "replies": 15,
+        "reposts": 8,
+        "quotes": 16,
         "formatted": {
-          "likes": "113",
-          "replies": "24",
-          "reposts": "7",
-          "quotes": "7"
+          "likes": "48",
+          "replies": "15",
+          "reposts": "8",
+          "quotes": "16"
         }
       },
       "sample_replies": [
-        "Not something I would say if I were running for office, either",
-        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
-        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
-        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
+        "What a $hithead and poor sport. Should have been dq’ed  for his display in the third set.",
+        "that was just weird and kinda pathetic to watch",
+        "While his opponent and the winner, after 5 sets, waits to start his interview…go do that BS in the...",
+        "Seek help"
       ],
       "metrics": {
-        "ratio_score": 3.25,
-        "time_bucket": 2,
-        "total_engagement": 103,
-        "post_age_minutes": 44.2
+        "ratio_score": 3.44,
+        "time_bucket": 1,
+        "total_engagement": 87,
+        "post_age_minutes": 21.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-24T18:49:55.022968+00:00",
-      "last_updated": "2025-08-24T18:49:55.022968+00:00",
+      "first_detected": "2025-08-25T05:29:35.733946+00:00",
+      "last_updated": "2025-08-25T05:29:35.733946+00:00",
       "analysis_windows": [
-        "2025-08-24T18:49:55.022968+00:00"
+        "2025-08-25T05:29:35.733946+00:00"
       ],
-      "peak_controversy": 3.1,
+      "peak_controversy": 3.5,
       "trend": "new"
     },
     {
       "rank": 6,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.0,
-      "change": "+1.3",
-      "change_type": "positive",
-      "post": {
-        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
-        "created_at": "2025-08-24T14:50:05.372046Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
-      },
-      "engagement": {
-        "likes": 98,
-        "replies": 29,
-        "reposts": 22,
-        "quotes": 10,
-        "formatted": {
-          "likes": "98",
-          "replies": "29",
-          "reposts": "22",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "They want others to do their genocidal work for them. Fuck them!",
-        "🤷‍♂️",
-        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
-        "religion is a bane on humanity!"
-      ],
-      "metrics": {
-        "ratio_score": 2.14,
-        "time_bucket": 0,
-        "total_engagement": 61,
-        "post_age_minutes": 12.9
-      },
-      "previous_analysis": {
-        "controversy": 1.7,
-        "rank": 18
-      },
-      "first_detected": "2025-08-24T15:18:06.732922+00:00",
-      "last_updated": "2025-08-24T15:18:06.732922+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.732922+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
       "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
@@ -415,7 +359,119 @@
       "trend": "rising"
     },
     {
+      "rank": 7,
+      "user": {
+        "handle": "radiofreetom.bsky.social",
+        "display_name": "Tom Nichols",
+        "initials": "TN",
+        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
+        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
+        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
+        "created_at": "2025-08-24T17:48:35.473Z",
+        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
+      },
+      "engagement": {
+        "likes": 113,
+        "replies": 24,
+        "reposts": 7,
+        "quotes": 7,
+        "formatted": {
+          "likes": "113",
+          "replies": "24",
+          "reposts": "7",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Not something I would say if I were running for office, either",
+        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
+        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
+        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
+      ],
+      "metrics": {
+        "ratio_score": 3.25,
+        "time_bucket": 2,
+        "total_engagement": 103,
+        "post_age_minutes": 44.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T18:49:55.022968+00:00",
+      "last_updated": "2025-08-24T18:49:55.022968+00:00",
+      "analysis_windows": [
+        "2025-08-24T18:49:55.022968+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
+    },
+    {
       "rank": 8,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.0,
+      "change": "+1.3",
+      "change_type": "positive",
+      "post": {
+        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
+        "created_at": "2025-08-24T14:50:05.372046Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
+      },
+      "engagement": {
+        "likes": 98,
+        "replies": 29,
+        "reposts": 22,
+        "quotes": 10,
+        "formatted": {
+          "likes": "98",
+          "replies": "29",
+          "reposts": "22",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "They want others to do their genocidal work for them. Fuck them!",
+        "🤷‍♂️",
+        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
+        "religion is a bane on humanity!"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 0,
+        "total_engagement": 61,
+        "post_age_minutes": 12.9
+      },
+      "previous_analysis": {
+        "controversy": 1.7,
+        "rank": 18
+      },
+      "first_detected": "2025-08-24T15:18:06.732922+00:00",
+      "last_updated": "2025-08-24T15:18:06.732922+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.732922+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
       "user": {
         "handle": "maks23.bsky.social",
         "display_name": "MAKS 25 👀🇺🇦",
@@ -471,7 +527,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -526,7 +582,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user": {
         "handle": "psychobob4q2.bsky.social",
         "display_name": "Bob",
@@ -582,7 +638,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user": {
         "handle": "solomonmissouri.bsky.social",
         "display_name": "Solomon",
@@ -638,7 +694,63 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "user": {
+        "handle": "benrothenberg.bsky.social",
+        "display_name": "Ben Rothenberg",
+        "initials": "BR",
+        "did": "did:plc:v6qlczlagkgpcpvdbnahevw5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v6qlczlagkgpcpvdbnahevw5/bafkreib3pwplrjuhdi2c7xphb6usa6o4wee4jag2bq7kgkjo67w4arzl3a@jpeg",
+        "profile_url": "https://bsky.app/profile/benrothenberg.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Breaking:\n\nBounces can report, confirmed by USTA, that the photographer was escorted from the court by US Open security. \n\nHis credential has been revoked for the 2025 US Open.",
+        "uri": "at://did:plc:v6qlczlagkgpcpvdbnahevw5/app.bsky.feed.post/3lx76qjb5222w",
+        "created_at": "2025-08-25T04:41:57.376Z",
+        "url": "https://bsky.app/profile/benrothenberg.bsky.social/post/3lx76qjb5222w"
+      },
+      "engagement": {
+        "likes": 29,
+        "replies": 8,
+        "reposts": 4,
+        "quotes": 9,
+        "formatted": {
+          "likes": "29",
+          "replies": "8",
+          "reposts": "4",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "now give medvedev a $250k fine. he was beyond disgusting. so happy bonzi pulled through.",
+        "So he’s been penalised but Medvedev’s vile antics will go unpunished?",
+        "Ok, but was it his first time at a tennis event or was he impaired or what?",
+        "They showed him being escorted out on TV"
+      ],
+      "metrics": {
+        "ratio_score": 3.4,
+        "time_bucket": 2,
+        "total_engagement": 50,
+        "post_age_minutes": 36.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T05:29:35.851769+00:00",
+      "last_updated": "2025-08-25T05:29:35.851769+00:00",
+      "analysis_windows": [
+        "2025-08-25T05:29:35.851769+00:00"
+      ],
+      "peak_controversy": 1.5,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
       "user": {
         "handle": "huffpost.com",
         "display_name": "HuffPost",
@@ -694,7 +806,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "user": {
         "handle": "korndoggychub.bsky.social",
         "display_name": "KORNdoggychub",
@@ -750,7 +862,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "user": {
         "handle": "notfriedgehnic.bsky.social",
         "display_name": "Elliotte Friedman (Bot)",
@@ -806,7 +918,63 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 17,
+      "user": {
+        "handle": "deemarleyy.bsky.social",
+        "display_name": "DeeMarleyy😶‍🌫️🍃",
+        "initials": "DE",
+        "did": "did:plc:vrgu6zwmbtatfohzhabru7n4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrgu6zwmbtatfohzhabru7n4/bafkreidlgewzjghp57j6xh4j5baontm4moe3o2wpxi4gf5kwncjipokkqe@jpeg",
+        "profile_url": "https://bsky.app/profile/deemarleyy.bsky.social"
+      },
+      "ratio": "8:1",
+      "controversy": 0.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "But are you gonna call me pretty while your dick is down my throat and I got tears in my eyes looking like I’m tryna off myself?👀👀👀",
+        "uri": "at://did:plc:vrgu6zwmbtatfohzhabru7n4/app.bsky.feed.post/3lx76k4mxzk23",
+        "created_at": "2025-08-25T04:38:22.806Z",
+        "url": "https://bsky.app/profile/deemarleyy.bsky.social/post/3lx76k4mxzk23"
+      },
+      "engagement": {
+        "likes": 15,
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 8,
+        "formatted": {
+          "likes": "15",
+          "replies": "7",
+          "reposts": "1",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "Keep goin👀",
+        "… *writes down add tears* 😌",
+        "Bouta hack your account and repost it loudly🙂‍↕️😭",
+        "😍😍😍😍😍😍😍😍😍"
+      ],
+      "metrics": {
+        "ratio_score": 7.5,
+        "time_bucket": 2,
+        "total_engagement": 31,
+        "post_age_minutes": 39.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T05:29:35.972116+00:00",
+      "last_updated": "2025-08-25T05:29:35.972116+00:00",
+      "analysis_windows": [
+        "2025-08-25T05:29:35.972116+00:00"
+      ],
+      "peak_controversy": 0.9,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
       "user": {
         "handle": "newsweek.com",
         "display_name": "Newsweek",
@@ -862,62 +1030,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
-      "user": {
-        "handle": "knewyorksfinest.life",
-        "display_name": "Balloon Knot Enthusiast 🇯🇲",
-        "initials": "BK",
-        "did": "did:plc:cd3sz367a5gstbcjlcjblan4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cd3sz367a5gstbcjlcjblan4/bafkreihgisy3qrmmw7knrdmnn66udtudvszjk4kjjewrw2qzlziyzj3aiq@jpeg",
-        "profile_url": "https://bsky.app/profile/knewyorksfinest.life"
-      },
-      "ratio": "3:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "relevant",
-        "uri": "at://did:plc:cd3sz367a5gstbcjlcjblan4/app.bsky.feed.post/3lx4ng55dwc26",
-        "created_at": "2025-08-24T04:26:36.027Z",
-        "url": "https://bsky.app/profile/knewyorksfinest.life/post/3lx4ng55dwc26"
-      },
-      "engagement": {
-        "likes": 11,
-        "replies": 2,
-        "reposts": 4,
-        "quotes": 13,
-        "formatted": {
-          "likes": "11",
-          "replies": "2",
-          "reposts": "4",
-          "quotes": "13"
-        }
-      },
-      "sample_replies": [
-        "Sir...",
-        "AYO 🤣🤣🤣🤣",
-        "damn i’m tryna figure out how to delete this, i got hacked 🤦🏿‍♂️🤦🏿‍♂️"
-      ],
-      "metrics": {
-        "ratio_score": 2.25,
-        "time_bucket": 2,
-        "total_engagement": 18,
-        "post_age_minutes": 36.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T05:14:32.633827+00:00",
-      "last_updated": "2025-08-24T05:14:32.633827+00:00",
-      "analysis_windows": [
-        "2025-08-24T05:14:32.633827+00:00"
-      ],
-      "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 17,
+      "rank": 19,
       "user": {
         "handle": "deadasdreams05.bsky.social",
         "display_name": "War Metal Enjoyer",
@@ -973,7 +1086,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "user": {
         "handle": "loveeternal.blacksky.app",
         "display_name": "Skeetocratic Oath ♊ 5/26",
@@ -1029,61 +1142,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
-      "user": {
-        "handle": "anthrclfrnn.bsky.social",
-        "display_name": "Another Californian",
-        "initials": "AC",
-        "did": "did:plc:dxsy5hlvmzxpdzfqxtw3vp2h",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dxsy5hlvmzxpdzfqxtw3vp2h/bafkreiepgabfc2cfjjtpfaqrtwb7ibiphui65icv7knsxoq7olfrlorfaq@jpeg",
-        "profile_url": "https://bsky.app/profile/anthrclfrnn.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Aug 24, 2025: 5 days of Russian Federation Armed Forces losses (as reported by General Staff of the Armed Forces of #Ukraine) compared to the invasion average: Yellow is below average; Green is above average; the number is the ratio of the day’s losses over average. @anthrclfrnn.bsky.social",
-        "uri": "at://did:plc:dxsy5hlvmzxpdzfqxtw3vp2h/app.bsky.feed.post/3lx4mez7wis2a",
-        "created_at": "2025-08-24T04:08:04.631Z",
-        "url": "https://bsky.app/profile/anthrclfrnn.bsky.social/post/3lx4mez7wis2a"
-      },
-      "engagement": {
-        "likes": 18,
-        "replies": 2,
-        "reposts": 5,
-        "quotes": 9,
-        "formatted": {
-          "likes": "18",
-          "replies": "2",
-          "reposts": "5",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "My *weekly* trend report, with the #meatgrinder index trend and the cruise missile attrition report...",
-        "Today's raw numbers from UA General Staff:"
-      ],
-      "metrics": {
-        "ratio_score": 5.5,
-        "time_bucket": 3,
-        "total_engagement": 17,
-        "post_age_minutes": 54.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T05:14:33.912121+00:00",
-      "last_updated": "2025-08-24T05:14:33.912121+00:00",
-      "analysis_windows": [
-        "2025-08-24T05:14:33.912121+00:00"
-      ],
-      "peak_controversy": 0.3,
-      "trend": "new"
-    },
-    {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "jimicardoor.bsky.social",
         "display_name": "Jimi Cardoor",
@@ -1134,6 +1193,62 @@
       "last_updated": "2025-08-25T02:17:29.009087+00:00",
       "analysis_windows": [
         "2025-08-25T02:17:29.009087+00:00"
+      ],
+      "peak_controversy": 0.3,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
+      "user": {
+        "handle": "keeksreal.bsky.social",
+        "display_name": "🇹🇹Menacing Keeks",
+        "initials": "🇹K",
+        "did": "did:plc:hur5kz4omzpee5kh5i6qifdp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hur5kz4omzpee5kh5i6qifdp/bafkreifi3xmfnwzg35onezx34enj3xzcunajpra6n4bt3bkhdjflbnjyru@jpeg",
+        "profile_url": "https://bsky.app/profile/keeksreal.bsky.social"
+      },
+      "ratio": "8:0",
+      "controversy": 0.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "If you have duck nails and you touch my next step, it is biting you HARDDDDDD\n\nThis lady just stroked my leg with some duck nails. I almost screamed",
+        "uri": "at://did:plc:hur5kz4omzpee5kh5i6qifdp/app.bsky.feed.post/3lx763g2nss2n",
+        "created_at": "2025-08-25T04:30:09.376Z",
+        "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lx763g2nss2n"
+      },
+      "engagement": {
+        "likes": 3,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 8,
+        "formatted": {
+          "likes": "3",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "I HATE IT like ok you put them ugly ass shit on. I don't trust your decision-making skills off...",
+        "They’re so ugly 😭😭😭😭😭😭😭 like pls don’t fuckin touch me with your questionable choices",
+        "😭 I seen this video and this lady struggling to put rings on 😭😭😭",
+        "😭😭 I never got them when they were a trend bc I thought they were hideous 😭"
+      ],
+      "metrics": {
+        "ratio_score": 11.0,
+        "time_bucket": 3,
+        "total_engagement": 14,
+        "post_age_minutes": 47.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T05:29:36.089871+00:00",
+      "last_updated": "2025-08-25T05:29:36.089871+00:00",
+      "analysis_windows": [
+        "2025-08-25T05:29:36.089871+00:00"
       ],
       "peak_controversy": 0.3,
       "trend": "new"
