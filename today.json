@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T02:17:29.009273+00:00",
-    "last_metrics_update": "2025-08-25T04:32:24.106098+00:00",
+    "last_metrics_update": "2025-08-25T04:47:31.868584+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 20,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 288,
+        "likes": 293,
         "replies": 73,
         "reposts": 27,
-        "quotes": 30,
+        "quotes": 31,
         "formatted": {
-          "likes": "288",
+          "likes": "293",
           "replies": "73",
           "reposts": "27",
-          "quotes": "30"
+          "quotes": "31"
         }
       },
       "sample_replies": [
@@ -210,12 +210,12 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 330,
+        "likes": 332,
         "replies": 23,
         "reposts": 9,
         "quotes": 12,
         "formatted": {
-          "likes": "330",
+          "likes": "332",
           "replies": "23",
           "reposts": "9",
           "quotes": "12"
@@ -491,15 +491,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
       },
       "engagement": {
-        "likes": 100,
-        "replies": 72,
+        "likes": 101,
+        "replies": 73,
         "reposts": 10,
-        "quotes": 17,
+        "quotes": 19,
         "formatted": {
-          "likes": "100",
-          "replies": "72",
+          "likes": "101",
+          "replies": "73",
           "reposts": "10",
-          "quotes": "17"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -658,12 +658,12 @@
         "url": "https://bsky.app/profile/huffpost.com/post/3lx6gpqolyp2c"
       },
       "engagement": {
-        "likes": 50,
+        "likes": 51,
         "replies": 10,
         "reposts": 13,
         "quotes": 8,
         "formatted": {
-          "likes": "50",
+          "likes": "51",
           "replies": "10",
           "reposts": "13",
           "quotes": "8"
