@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T09:11:21.744815+00:00",
-    "last_metrics_update": "2025-08-25T10:32:36.698434+00:00",
+    "last_metrics_update": "2025-08-25T10:47:22.751107+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 346,
+        "likes": 348,
         "replies": 80,
         "reposts": 31,
         "quotes": 34,
         "formatted": {
-          "likes": "346",
+          "likes": "348",
           "replies": "80",
           "reposts": "31",
           "quotes": "34"
@@ -154,14 +154,14 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 327,
-        "replies": 95,
-        "reposts": 67,
+        "likes": 331,
+        "replies": 96,
+        "reposts": 69,
         "quotes": 44,
         "formatted": {
-          "likes": "327",
-          "replies": "95",
-          "reposts": "67",
+          "likes": "331",
+          "replies": "96",
+          "reposts": "69",
           "quotes": "44"
         }
       },
@@ -210,12 +210,12 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 349,
+        "likes": 350,
         "replies": 24,
         "reposts": 10,
         "quotes": 12,
         "formatted": {
-          "likes": "349",
+          "likes": "350",
           "replies": "24",
           "reposts": "10",
           "quotes": "12"
@@ -266,14 +266,14 @@
         "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
       },
       "engagement": {
-        "likes": 102,
-        "replies": 30,
-        "reposts": 16,
+        "likes": 106,
+        "replies": 31,
+        "reposts": 17,
         "quotes": 39,
         "formatted": {
-          "likes": "102",
-          "replies": "30",
-          "reposts": "16",
+          "likes": "106",
+          "replies": "31",
+          "reposts": "17",
           "quotes": "39"
         }
       },
@@ -494,12 +494,12 @@
         "likes": 142,
         "replies": 87,
         "reposts": 13,
-        "quotes": 25,
+        "quotes": 26,
         "formatted": {
           "likes": "142",
           "replies": "87",
           "reposts": "13",
-          "quotes": "25"
+          "quotes": "26"
         }
       },
       "sample_replies": [
@@ -772,12 +772,12 @@
       "engagement": {
         "likes": 53,
         "replies": 16,
-        "reposts": 8,
+        "reposts": 9,
         "quotes": 10,
         "formatted": {
           "likes": "53",
           "replies": "16",
-          "reposts": "8",
+          "reposts": "9",
           "quotes": "10"
         }
       },
