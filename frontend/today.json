@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T16:20:18.001270+00:00",
-    "last_metrics_update": "2025-08-25T19:02:51.490560+00:00",
+    "last_metrics_update": "2025-08-25T19:17:46.203852+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 31,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
       },
       "engagement": {
-        "likes": 1041,
-        "replies": 269,
-        "reposts": 262,
-        "quotes": 46,
+        "likes": 1052,
+        "replies": 273,
+        "reposts": 265,
+        "quotes": 47,
         "formatted": {
-          "likes": "1.0K",
-          "replies": "269",
-          "reposts": "262",
-          "quotes": "46"
+          "likes": "1.1K",
+          "replies": "273",
+          "reposts": "265",
+          "quotes": "47"
         }
       },
       "sample_replies": [
@@ -91,12 +91,12 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 465,
+        "likes": 467,
         "replies": 98,
         "reposts": 45,
         "quotes": 39,
         "formatted": {
-          "likes": "465",
+          "likes": "467",
           "replies": "98",
           "reposts": "45",
           "quotes": "39"
@@ -148,15 +148,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxadqqhbgy2i"
       },
       "engagement": {
-        "likes": 696,
-        "replies": 148,
-        "reposts": 158,
-        "quotes": 83,
+        "likes": 707,
+        "replies": 150,
+        "reposts": 159,
+        "quotes": 84,
         "formatted": {
-          "likes": "696",
-          "replies": "148",
-          "reposts": "158",
-          "quotes": "83"
+          "likes": "707",
+          "replies": "150",
+          "reposts": "159",
+          "quotes": "84"
         }
       },
       "sample_replies": [
@@ -208,12 +208,12 @@
         "url": "https://bsky.app/profile/mrsbettybowers.bsky.social/post/3lxaeba2v6s27"
       },
       "engagement": {
-        "likes": 336,
+        "likes": 339,
         "replies": 106,
         "reposts": 46,
         "quotes": 18,
         "formatted": {
-          "likes": "336",
+          "likes": "339",
           "replies": "106",
           "reposts": "46",
           "quotes": "18"
@@ -264,12 +264,12 @@
         "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lx7yo5tm7c2w"
       },
       "engagement": {
-        "likes": 208,
+        "likes": 209,
         "replies": 115,
         "reposts": 29,
         "quotes": 15,
         "formatted": {
-          "likes": "208",
+          "likes": "209",
           "replies": "115",
           "reposts": "29",
           "quotes": "15"
@@ -319,14 +319,14 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 382,
-        "replies": 102,
-        "reposts": 78,
+        "likes": 383,
+        "replies": 103,
+        "reposts": 79,
         "quotes": 46,
         "formatted": {
-          "likes": "382",
-          "replies": "102",
-          "reposts": "78",
+          "likes": "383",
+          "replies": "103",
+          "reposts": "79",
           "quotes": "46"
         }
       },
@@ -431,13 +431,13 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lxaeefm2t22d"
       },
       "engagement": {
-        "likes": 111,
-        "replies": 96,
+        "likes": 113,
+        "replies": 98,
         "reposts": 32,
         "quotes": 21,
         "formatted": {
-          "likes": "111",
-          "replies": "96",
+          "likes": "113",
+          "replies": "98",
           "reposts": "32",
           "quotes": "21"
         }
@@ -488,12 +488,12 @@
       },
       "engagement": {
         "likes": 164,
-        "replies": 43,
+        "replies": 44,
         "reposts": 22,
         "quotes": 68,
         "formatted": {
           "likes": "164",
-          "replies": "43",
+          "replies": "44",
           "reposts": "22",
           "quotes": "68"
         }
@@ -991,12 +991,12 @@
       },
       "engagement": {
         "likes": 28,
-        "replies": 22,
+        "replies": 21,
         "reposts": 13,
         "quotes": 6,
         "formatted": {
           "likes": "28",
-          "replies": "22",
+          "replies": "21",
           "reposts": "13",
           "quotes": "6"
         }
