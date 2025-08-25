@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-24T22:19:24.053530+00:00",
-    "last_metrics_update": "2025-08-25T01:02:52.690161+00:00",
+    "last_metrics_update": "2025-08-25T01:17:20.912572+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 32,
@@ -35,7 +35,7 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lx4cfdavak2l"
       },
       "engagement": {
-        "likes": 1429,
+        "likes": 1430,
         "replies": 187,
         "reposts": 185,
         "quotes": 24,
@@ -145,14 +145,14 @@
         "url": "https://bsky.app/profile/mcuban.bsky.social/post/3lx4bz3bfnc2h"
       },
       "engagement": {
-        "likes": 695,
+        "likes": 698,
         "replies": 140,
-        "reposts": 71,
+        "reposts": 72,
         "quotes": 10,
         "formatted": {
-          "likes": "695",
+          "likes": "698",
           "replies": "140",
-          "reposts": "71",
+          "reposts": "72",
           "quotes": "10"
         }
       },
@@ -267,12 +267,12 @@
         "likes": 250,
         "replies": 76,
         "reposts": 46,
-        "quotes": 31,
+        "quotes": 32,
         "formatted": {
           "likes": "250",
           "replies": "76",
           "reposts": "46",
-          "quotes": "31"
+          "quotes": "32"
         }
       },
       "sample_replies": [
@@ -320,13 +320,13 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 300,
-        "replies": 21,
+        "likes": 302,
+        "replies": 22,
         "reposts": 9,
         "quotes": 11,
         "formatted": {
-          "likes": "300",
-          "replies": "21",
+          "likes": "302",
+          "replies": "22",
           "reposts": "9",
           "quotes": "11"
         }
@@ -1104,13 +1104,13 @@
       },
       "engagement": {
         "likes": 40,
-        "replies": 9,
-        "reposts": 10,
+        "replies": 10,
+        "reposts": 11,
         "quotes": 8,
         "formatted": {
           "likes": "40",
-          "replies": "9",
-          "reposts": "10",
+          "replies": "10",
+          "reposts": "11",
           "quotes": "8"
         }
       },
@@ -1718,12 +1718,12 @@
         "url": "https://bsky.app/profile/loveeternal.blacksky.app/post/3lx6fnvvggs2t"
       },
       "engagement": {
-        "likes": 19,
+        "likes": 20,
         "replies": 7,
         "reposts": 5,
         "quotes": 21,
         "formatted": {
-          "likes": "19",
+          "likes": "20",
           "replies": "7",
           "reposts": "5",
           "quotes": "21"
