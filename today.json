@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-25T12:59:15.287544+00:00",
-    "last_metrics_update": "2025-08-25T15:47:49.422380+00:00",
+    "last_full_analysis": "2025-08-25T16:20:18.001270+00:00",
+    "last_metrics_update": "2025-08-25T16:20:18.001270+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 28,
+    "main_characters_count": 31,
     "rolling_window": {
-      "last_update": "2025-08-25T12:59:15.287544+00:00",
-      "new_entries_added": 8,
-      "total_in_window": 28,
+      "last_update": "2025-08-25T16:20:18.001270+00:00",
+      "new_entries_added": 10,
+      "total_in_window": 31,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,70 +16,6 @@
   "main_characters": [
     {
       "rank": 1,
-      "user": {
-        "handle": "atrupar.com",
-        "display_name": "Aaron Rupar",
-        "initials": "AR",
-        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
-        "profile_url": "https://bsky.app/profile/atrupar.com"
-      },
-      "ratio": "1:4",
-      "controversy": 10.0,
-      "change": "+2.0",
-      "change_type": "positive",
-      "post": {
-        "text": "Jeanine Pirro is on Fox & Friends whining that she can’t “touch” 15 year olds in Washington DC",
-        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lx7ytizqwa2l",
-        "created_at": "2025-08-25T12:28:55.067Z",
-        "url": "https://bsky.app/profile/atrupar.com/post/3lx7ytizqwa2l"
-      },
-      "engagement": {
-        "likes": 1145,
-        "replies": 257,
-        "reposts": 256,
-        "quotes": 70,
-        "formatted": {
-          "likes": "1.1K",
-          "replies": "257",
-          "reposts": "256",
-          "quotes": "70"
-        }
-      },
-      "sample_replies": [
-        "Trump has spent his entire life complaining about the same thing",
-        "Judge Winebox is a woman you would catch blowing her son's best friend at a pool party.",
-        "Republicans are obsessed with touching 15-year-olds.",
-        "Can't she?"
-      ],
-      "metrics": {
-        "ratio_score": 2.14,
-        "time_bucket": 1,
-        "total_engagement": 332,
-        "post_age_minutes": 18.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T15:18:06.997773+00:00",
-      "last_updated": "2025-08-25T12:59:15.287483+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.997773+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-25T12:59:15.287483+00:00",
-        "2025-08-25T12:59:15.287483+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
-    },
-    {
-      "rank": 2,
       "user": {
         "handle": "kenklippenstein.bsky.social",
         "display_name": "Ken Klippenstein",
@@ -136,7 +72,179 @@
       "trend": "rising"
     },
     {
+      "rank": 2,
+      "user": {
+        "handle": "meidastouch.com",
+        "display_name": "MeidasTouch",
+        "initials": "ME",
+        "did": "did:plc:xjc7mkotpenvhh6ffewkdpyn",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjc7mkotpenvhh6ffewkdpyn/bafkreifmocqyainrhqyrla3lewf7xb6mj3vqchd73iefmumh6hs6jtdcmy@jpeg",
+        "profile_url": "https://bsky.app/profile/meidastouch.com"
+      },
+      "ratio": "1:4",
+      "controversy": 10.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "???",
+        "uri": "at://did:plc:xjc7mkotpenvhh6ffewkdpyn/app.bsky.feed.post/3lxadzb4lr22s",
+        "created_at": "2025-08-25T15:48:59.270Z",
+        "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
+      },
+      "engagement": {
+        "likes": 318,
+        "replies": 116,
+        "reposts": 74,
+        "quotes": 17,
+        "formatted": {
+          "likes": "318",
+          "replies": "116",
+          "reposts": "74",
+          "quotes": "17"
+        }
+      },
+      "sample_replies": [
+        "Must be one of those MS-13 tattoos he loves so much",
+        "Please let him be near death’s door",
+        "whatever lives in there is trying to escape",
+        "His soul is rotten and he’s rotting from the inside out."
+      ],
+      "metrics": {
+        "ratio_score": 1.77,
+        "time_bucket": 0,
+        "total_engagement": 525,
+        "post_age_minutes": 13.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:14.577584+00:00",
+      "last_updated": "2025-08-25T16:20:14.577584+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:14.577584+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "new"
+    },
+    {
       "rank": 3,
+      "user": {
+        "handle": "atrupar.com",
+        "display_name": "Aaron Rupar",
+        "initials": "AR",
+        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
+        "profile_url": "https://bsky.app/profile/atrupar.com"
+      },
+      "ratio": "1:2",
+      "controversy": 10.0,
+      "change": "=",
+      "change_type": "neutral",
+      "post": {
+        "text": "Trump calls Gretchen Whitmer \"Kristi -- uh, Kristi Whitman. Whitmer.\"",
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lxadqqhbgy2i",
+        "created_at": "2025-08-25T15:44:13.345Z",
+        "url": "https://bsky.app/profile/atrupar.com/post/3lxadqqhbgy2i"
+      },
+      "engagement": {
+        "likes": 382,
+        "replies": 101,
+        "reposts": 85,
+        "quotes": 48,
+        "formatted": {
+          "likes": "382",
+          "replies": "101",
+          "reposts": "85",
+          "quotes": "48"
+        }
+      },
+      "sample_replies": [
+        "Has anyone else noticed that he is usually just parked behind the Resolute Desk these days?",
+        "Remember way back when a president being old, feeble, and senile was something Republicans were...",
+        "If only Jake Tapper were alive to see this",
+        "And hiding his hands."
+      ],
+      "metrics": {
+        "ratio_score": 1.73,
+        "time_bucket": 1,
+        "total_engagement": 616,
+        "post_age_minutes": 18.5
+      },
+      "previous_analysis": {
+        "controversy": 10.0,
+        "rank": 1
+      },
+      "first_detected": "2025-08-25T16:20:16.867513+00:00",
+      "last_updated": "2025-08-25T16:20:18.001158+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:16.867513+00:00",
+        "2025-08-25T16:20:18.001158+00:00",
+        "2025-08-25T16:20:18.001158+00:00",
+        "2025-08-25T16:20:18.001158+00:00",
+        "2025-08-25T16:20:18.001158+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "stable"
+    },
+    {
+      "rank": 4,
+      "user": {
+        "handle": "mrsbettybowers.bsky.social",
+        "display_name": "Mrs. Betty Bowers",
+        "initials": "MB",
+        "did": "did:plc:uayevtgtbwot25zhocjzb6lv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uayevtgtbwot25zhocjzb6lv/bafkreih3p5qdx4eya6dz6s5qwemy4mdfdewm23kxcyj3vm4ipfto33xmni@jpeg",
+        "profile_url": "https://bsky.app/profile/mrsbettybowers.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 7.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I went to a movie with my child, and there was a Peruvian couple in it, and this led to questions from my child, and it messed me up and threw me for a loop. These are kids! We have to show that at this age? They’re going to ask questions. I don’t have the answer.",
+        "uri": "at://did:plc:uayevtgtbwot25zhocjzb6lv/app.bsky.feed.post/3lxaeba2v6s27",
+        "created_at": "2025-08-25T15:53:26.607Z",
+        "url": "https://bsky.app/profile/mrsbettybowers.bsky.social/post/3lxaeba2v6s27"
+      },
+      "engagement": {
+        "likes": 99,
+        "replies": 36,
+        "reposts": 8,
+        "quotes": 5,
+        "formatted": {
+          "likes": "99",
+          "replies": "36",
+          "reposts": "8",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Totally OK to have two women acting like they’re lesbians rubbing on watch other IN SNOOPS video...",
+        "The \"I don't know how answer simple questions about two people in love\" is ridiculous. When my kid...",
+        "It’s such a strange thing, to imagine that a child, who doesn’t even consider how people procreate,...",
+        "Hey Grampa Snoop... what are hoes and bitches?"
+      ],
+      "metrics": {
+        "ratio_score": 4.56,
+        "time_bucket": 0,
+        "total_engagement": 148,
+        "post_age_minutes": 9.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:17.147145+00:00",
+      "last_updated": "2025-08-25T16:20:17.147145+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:17.147145+00:00"
+      ],
+      "peak_controversy": 7.4,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
       "user": {
         "handle": "patriottakes.bsky.social",
         "display_name": "PatriotTakes 🇺🇸",
@@ -191,7 +299,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "user": {
         "handle": "youngvulgarian.marieleconte.com",
         "display_name": "Marie Le Conte",
@@ -247,7 +355,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "user": {
         "handle": "minakimes.bsky.social",
         "display_name": "Mina Kimes",
@@ -303,7 +411,63 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "user": {
+        "handle": "antongerashchenko.bsky.social",
+        "display_name": "Anton Gerashchenko",
+        "initials": "AG",
+        "did": "did:plc:5jbj2wzit57tfjmmwocupfs7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5jbj2wzit57tfjmmwocupfs7/bafkreiczdq3dlnnvhnc5nyn7ciyput5n7la63x2wh42zp7zjpvxcnrekum@jpeg",
+        "profile_url": "https://bsky.app/profile/antongerashchenko.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 3.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trump:\nI think our nation now is the most respected nation anywhere in the world by far.You saw that with the European leaders,you saw that with NATO,where they respect your president to a level that they jokingly call me the president of Europe.They call me the president of Europe,which is an honor",
+        "uri": "at://did:plc:5jbj2wzit57tfjmmwocupfs7/app.bsky.feed.post/3lxaeefm2t22d",
+        "created_at": "2025-08-25T15:55:13.075Z",
+        "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lxaeefm2t22d"
+      },
+      "engagement": {
+        "likes": 33,
+        "replies": 25,
+        "reposts": 9,
+        "quotes": 6,
+        "formatted": {
+          "likes": "33",
+          "replies": "25",
+          "reposts": "9",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "He is an idiot. Europe hates him, those leaders just appeal to his narcissism because they know...",
+        "Delusional",
+        "IF they actually said that, they were clearly mocking him, not praising him, but he's too stupid to...",
+        "European here. We hate him"
+      ],
+      "metrics": {
+        "ratio_score": 3.1,
+        "time_bucket": 0,
+        "total_engagement": 73,
+        "post_age_minutes": 7.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:17.570934+00:00",
+      "last_updated": "2025-08-25T16:20:17.570934+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:17.570934+00:00"
+      ],
+      "peak_controversy": 3.6,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
       "user": {
         "handle": "cjzero.bsky.social",
         "display_name": "CJ Fogler",
@@ -359,7 +523,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "user": {
         "handle": "radiofreetom.bsky.social",
         "display_name": "Tom Nichols",
@@ -415,120 +579,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.0,
-      "change": "+1.3",
-      "change_type": "positive",
-      "post": {
-        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
-        "created_at": "2025-08-24T14:50:05.372046Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
-      },
-      "engagement": {
-        "likes": 101,
-        "replies": 30,
-        "reposts": 22,
-        "quotes": 10,
-        "formatted": {
-          "likes": "101",
-          "replies": "30",
-          "reposts": "22",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "They want others to do their genocidal work for them. Fuck them!",
-        "🤷‍♂️",
-        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
-        "religion is a bane on humanity!"
-      ],
-      "metrics": {
-        "ratio_score": 2.14,
-        "time_bucket": 0,
-        "total_engagement": 61,
-        "post_age_minutes": 12.9
-      },
-      "previous_analysis": {
-        "controversy": 1.7,
-        "rank": 18
-      },
-      "first_detected": "2025-08-24T15:18:06.732922+00:00",
-      "last_updated": "2025-08-24T15:18:06.732922+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.732922+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 9,
-      "user": {
-        "handle": "rapsheet.bsky.social",
-        "display_name": "Ian Rapoport",
-        "initials": "IR",
-        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
-        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
-        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
-        "created_at": "2025-08-24T14:33:47.091Z",
-        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
-      },
-      "engagement": {
-        "likes": 163,
-        "replies": 7,
-        "reposts": 15,
-        "quotes": 14,
-        "formatted": {
-          "likes": "163",
-          "replies": "7",
-          "reposts": "15",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
-        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
-        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
-        "Whatever. Just bring Theilen back."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 1,
-        "total_engagement": 67,
-        "post_age_minutes": 29.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T15:18:06.821464+00:00",
-      "last_updated": "2025-08-24T15:18:07.532231+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.821464+00:00",
-        "2025-08-24T15:18:07.532231+00:00"
-      ],
-      "peak_controversy": 3.8,
-      "trend": "rising"
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -583,7 +634,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user": {
         "handle": "psychobob4q2.bsky.social",
         "display_name": "Bob",
@@ -639,7 +690,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "solomonmissouri.bsky.social",
         "display_name": "Solomon",
@@ -695,7 +746,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "fintwitter.bsky.social",
         "display_name": "FinTwitter",
@@ -751,7 +802,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user": {
         "handle": "benrothenberg.bsky.social",
         "display_name": "Ben Rothenberg",
@@ -807,7 +858,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user": {
         "handle": "huffpost.com",
         "display_name": "HuffPost",
@@ -863,7 +914,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user": {
         "handle": "hagenilda.bsky.social",
         "display_name": "Jo  🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -919,7 +970,63 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "user": {
+        "handle": "the-independent.com",
+        "display_name": "The Independent",
+        "initials": "TI",
+        "did": "did:plc:yc54nj2zlnqrdotewpkbrauy",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yc54nj2zlnqrdotewpkbrauy/bafkreihgzzeqj4wbsknmnpjue6zd6nzd3rubakgjv4wrcuaqzhwlrj2t3i@jpeg",
+        "profile_url": "https://bsky.app/profile/the-independent.com"
+      },
+      "ratio": "1:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "BREAKING | Trump says he is not a dictator but insists many people think the US could use one",
+        "uri": "at://did:plc:yc54nj2zlnqrdotewpkbrauy/app.bsky.feed.post/3lxae6r7aef2k",
+        "created_at": "2025-08-25T15:52:03.745Z",
+        "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
+      },
+      "engagement": {
+        "likes": 11,
+        "replies": 5,
+        "reposts": 4,
+        "quotes": 5,
+        "formatted": {
+          "likes": "11",
+          "replies": "5",
+          "reposts": "4",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "aka he's a dictator",
+        "Over half of Republicans strongly support Trump’s performance as he exerts dictatorial powers and...",
+        "Dick",
+        "Thats them and good for those fucked up republicans. Most are white racist assholes and just want a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 0,
+        "total_engagement": 25,
+        "post_age_minutes": 10.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:17.712006+00:00",
+      "last_updated": "2025-08-25T16:20:17.712006+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:17.712006+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 19,
       "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
@@ -975,7 +1082,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "user": {
         "handle": "dennycarter.bsky.social",
         "display_name": "Denny Carter",
@@ -1030,7 +1137,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "user": {
         "handle": "korndoggychub.bsky.social",
         "display_name": "KORNdoggychub",
@@ -1086,7 +1193,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "user": {
         "handle": "notfriedgehnic.bsky.social",
         "display_name": "Elliotte Friedman (Bot)",
@@ -1142,7 +1249,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "user": {
         "handle": "deemarleyy.bsky.social",
         "display_name": "DeeMarleyy😶‍🌫️🍃",
@@ -1198,7 +1305,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
@@ -1254,7 +1361,63 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 25,
+      "user": {
+        "handle": "blackranga.blacksky.app",
+        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
+        "initials": "GI",
+        "did": "did:plc:tom67pr2zmkziputghvxoe34",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreig32yjhwzcziwutr3ve4ptq6vuycbsl4apd3rcaf7ljiu73pevb5q@jpeg",
+        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
+      },
+      "ratio": "7:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "You only get to choose two and the rest go in the trash what are you choosing? | #BlackSky",
+        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lxae4laln22t",
+        "created_at": "2025-08-25T15:50:50.547Z",
+        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lxae4laln22t"
+      },
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 7,
+        "formatted": {
+          "likes": "5",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Two handfuls.",
+        "First handful is going to be centered on them Reece's while the second handful is aiming for the...",
+        "🤭",
+        "Delete lol"
+      ],
+      "metrics": {
+        "ratio_score": 10.0,
+        "time_bucket": 0,
+        "total_engagement": 15,
+        "post_age_minutes": 11.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:17.854354+00:00",
+      "last_updated": "2025-08-25T16:20:17.854354+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:17.854354+00:00"
+      ],
+      "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 26,
       "user": {
         "handle": "newsweek.com",
         "display_name": "Newsweek",
@@ -1310,7 +1473,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 27,
       "user": {
         "handle": "freshlogic.bsky.social",
         "display_name": "⚜️New Logic",
@@ -1365,7 +1528,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 28,
       "user": {
         "handle": "deadasdreams05.bsky.social",
         "display_name": "War Metal Enjoyer",
@@ -1421,7 +1584,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 29,
       "user": {
         "handle": "loveeternal.blacksky.app",
         "display_name": "Skeetocratic Oath ♊ 5/26",
@@ -1477,7 +1640,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 30,
       "user": {
         "handle": "jimicardoor.bsky.social",
         "display_name": "Jimi Cardoor",
@@ -1533,7 +1696,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 31,
       "user": {
         "handle": "keeksreal.bsky.social",
         "display_name": "🇹🇹Menacing Keeks",
