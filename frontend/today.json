@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T02:17:29.009273+00:00",
-    "last_metrics_update": "2025-08-25T02:17:29.009273+00:00",
+    "last_metrics_update": "2025-08-25T02:32:54.498951+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 20,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 139,
-        "replies": 47,
-        "reposts": 17,
-        "quotes": 15,
+        "likes": 195,
+        "replies": 57,
+        "reposts": 20,
+        "quotes": 22,
         "formatted": {
-          "likes": "139",
-          "replies": "47",
-          "reposts": "17",
-          "quotes": "15"
+          "likes": "195",
+          "replies": "57",
+          "reposts": "20",
+          "quotes": "22"
         }
       },
       "sample_replies": [
@@ -92,15 +92,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
       },
       "engagement": {
-        "likes": 389,
+        "likes": 392,
         "replies": 250,
         "reposts": 89,
-        "quotes": 73,
+        "quotes": 74,
         "formatted": {
-          "likes": "389",
+          "likes": "392",
           "replies": "250",
           "reposts": "89",
-          "quotes": "73"
+          "quotes": "74"
         }
       },
       "sample_replies": [
@@ -154,12 +154,12 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 250,
+        "likes": 252,
         "replies": 76,
         "reposts": 46,
         "quotes": 32,
         "formatted": {
-          "likes": "250",
+          "likes": "252",
           "replies": "76",
           "reposts": "46",
           "quotes": "32"
@@ -210,13 +210,13 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 302,
-        "replies": 22,
+        "likes": 315,
+        "replies": 23,
         "reposts": 9,
         "quotes": 11,
         "formatted": {
-          "likes": "302",
-          "replies": "22",
+          "likes": "315",
+          "replies": "23",
           "reposts": "9",
           "quotes": "11"
         }
@@ -248,6 +248,118 @@
     {
       "rank": 5,
       "user": {
+        "handle": "radiofreetom.bsky.social",
+        "display_name": "Tom Nichols",
+        "initials": "TN",
+        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
+        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
+        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
+        "created_at": "2025-08-24T17:48:35.473Z",
+        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
+      },
+      "engagement": {
+        "likes": 110,
+        "replies": 24,
+        "reposts": 7,
+        "quotes": 7,
+        "formatted": {
+          "likes": "110",
+          "replies": "24",
+          "reposts": "7",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Not something I would say if I were running for office, either",
+        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
+        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
+        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
+      ],
+      "metrics": {
+        "ratio_score": 3.25,
+        "time_bucket": 2,
+        "total_engagement": 103,
+        "post_age_minutes": 44.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T18:49:55.022968+00:00",
+      "last_updated": "2025-08-24T18:49:55.022968+00:00",
+      "analysis_windows": [
+        "2025-08-24T18:49:55.022968+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
+    },
+    {
+      "rank": 6,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.0,
+      "change": "+1.3",
+      "change_type": "positive",
+      "post": {
+        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
+        "created_at": "2025-08-24T14:50:05.372046Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
+      },
+      "engagement": {
+        "likes": 97,
+        "replies": 29,
+        "reposts": 20,
+        "quotes": 10,
+        "formatted": {
+          "likes": "97",
+          "replies": "29",
+          "reposts": "20",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "They want others to do their genocidal work for them. Fuck them!",
+        "🤷‍♂️",
+        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
+        "religion is a bane on humanity!"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 0,
+        "total_engagement": 61,
+        "post_age_minutes": 12.9
+      },
+      "previous_analysis": {
+        "controversy": 1.7,
+        "rank": 18
+      },
+      "first_detected": "2025-08-24T15:18:06.732922+00:00",
+      "last_updated": "2025-08-24T15:18:06.732922+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.732922+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
         "initials": "IR",
@@ -266,12 +378,12 @@
         "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
       },
       "engagement": {
-        "likes": 148,
+        "likes": 151,
         "replies": 6,
         "reposts": 14,
         "quotes": 14,
         "formatted": {
-          "likes": "148",
+          "likes": "151",
           "replies": "6",
           "reposts": "14",
           "quotes": "14"
@@ -303,118 +415,6 @@
       "trend": "rising"
     },
     {
-      "rank": 6,
-      "user": {
-        "handle": "radiofreetom.bsky.social",
-        "display_name": "Tom Nichols",
-        "initials": "TN",
-        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
-        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
-        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
-        "created_at": "2025-08-24T17:48:35.473Z",
-        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
-      },
-      "engagement": {
-        "likes": 108,
-        "replies": 24,
-        "reposts": 7,
-        "quotes": 7,
-        "formatted": {
-          "likes": "108",
-          "replies": "24",
-          "reposts": "7",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "Not something I would say if I were running for office, either",
-        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
-        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
-        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
-      ],
-      "metrics": {
-        "ratio_score": 3.25,
-        "time_bucket": 2,
-        "total_engagement": 103,
-        "post_age_minutes": 44.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T18:49:55.022968+00:00",
-      "last_updated": "2025-08-24T18:49:55.022968+00:00",
-      "analysis_windows": [
-        "2025-08-24T18:49:55.022968+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.0,
-      "change": "+1.3",
-      "change_type": "positive",
-      "post": {
-        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
-        "created_at": "2025-08-24T14:50:05.372046Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
-      },
-      "engagement": {
-        "likes": 96,
-        "replies": 28,
-        "reposts": 20,
-        "quotes": 10,
-        "formatted": {
-          "likes": "96",
-          "replies": "28",
-          "reposts": "20",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "They want others to do their genocidal work for them. Fuck them!",
-        "🤷‍♂️",
-        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
-        "religion is a bane on humanity!"
-      ],
-      "metrics": {
-        "ratio_score": 2.14,
-        "time_bucket": 0,
-        "total_engagement": 61,
-        "post_age_minutes": 12.9
-      },
-      "previous_analysis": {
-        "controversy": 1.7,
-        "rank": 18
-      },
-      "first_detected": "2025-08-24T15:18:06.732922+00:00",
-      "last_updated": "2025-08-24T15:18:06.732922+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.732922+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
       "rank": 8,
       "user": {
         "handle": "maks23.bsky.social",
@@ -435,13 +435,13 @@
         "url": "https://bsky.app/profile/maks23.bsky.social/post/3lx4zap77t22b"
       },
       "engagement": {
-        "likes": 163,
-        "replies": 19,
+        "likes": 165,
+        "replies": 21,
         "reposts": 37,
         "quotes": 6,
         "formatted": {
-          "likes": "163",
-          "replies": "19",
+          "likes": "165",
+          "replies": "21",
           "reposts": "37",
           "quotes": "6"
         }
@@ -480,7 +480,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
         "profile_url": "https://bsky.app/profile/kyivindependent.com"
       },
-      "ratio": "1:1",
+      "ratio": "2:1",
       "controversy": 2.7,
       "change": "NEW",
       "change_type": "new",
@@ -491,15 +491,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
       },
       "engagement": {
-        "likes": 62,
-        "replies": 49,
+        "likes": 71,
+        "replies": 59,
         "reposts": 10,
-        "quotes": 12,
+        "quotes": 15,
         "formatted": {
-          "likes": "62",
-          "replies": "49",
+          "likes": "71",
+          "replies": "59",
           "reposts": "10",
-          "quotes": "12"
+          "quotes": "15"
         }
       },
       "sample_replies": [
@@ -647,7 +647,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:j4eroku3volozvv6ljsnnfec/bafkreiexg5qxva4pp5xvvv2hprbdl7f3jht2ge3zdwysweioqok6xak6pi@jpeg",
         "profile_url": "https://bsky.app/profile/huffpost.com"
       },
-      "ratio": "1:1",
+      "ratio": "1:2",
       "controversy": 1.4,
       "change": "NEW",
       "change_type": "new",
@@ -658,14 +658,14 @@
         "url": "https://bsky.app/profile/huffpost.com/post/3lx6gpqolyp2c"
       },
       "engagement": {
-        "likes": 40,
+        "likes": 47,
         "replies": 10,
-        "reposts": 11,
+        "reposts": 13,
         "quotes": 8,
         "formatted": {
-          "likes": "40",
+          "likes": "47",
           "replies": "10",
-          "reposts": "11",
+          "reposts": "13",
           "quotes": "8"
         }
       },
@@ -703,7 +703,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmusuwwyizktfar65lgoisus/bafkreiam7trrownn66s4aeofw7dw42b6ogdcu5uyq5bmviyuqrbfc7vkou@jpeg",
         "profile_url": "https://bsky.app/profile/korndoggychub.bsky.social"
       },
-      "ratio": "13:0",
+      "ratio": "14:0",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -715,14 +715,14 @@
       },
       "engagement": {
         "likes": 21,
-        "replies": 19,
+        "replies": 20,
         "reposts": 0,
-        "quotes": 13,
+        "quotes": 14,
         "formatted": {
           "likes": "21",
-          "replies": "19",
+          "replies": "20",
           "reposts": "0",
-          "quotes": "13"
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -759,7 +759,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sdobrsxnvwczrjydmnubhibh/bafkreihnn23xnyiqb7cdn7wxo22qjaueo5ya3blmnoyswetxm5fdz6432i@jpeg",
         "profile_url": "https://bsky.app/profile/notfriedgehnic.bsky.social"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
@@ -772,12 +772,12 @@
       "engagement": {
         "likes": 48,
         "replies": 12,
-        "reposts": 2,
+        "reposts": 3,
         "quotes": 9,
         "formatted": {
           "likes": "48",
           "replies": "12",
-          "reposts": "2",
+          "reposts": "3",
           "quotes": "9"
         }
       },
@@ -1092,7 +1092,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d57sd7qpxjw5z6mxw43gguab/bafkreib4mwqr34nhw5ka635oiseowg5i3vypaedcqee4636tzlz6a3zqhe@jpeg",
         "profile_url": "https://bsky.app/profile/jimicardoor.bsky.social"
       },
-      "ratio": "5:0",
+      "ratio": "6:0",
       "controversy": 0.3,
       "change": "NEW",
       "change_type": "new",
@@ -1106,12 +1106,12 @@
         "likes": 7,
         "replies": 4,
         "reposts": 0,
-        "quotes": 5,
+        "quotes": 6,
         "formatted": {
           "likes": "7",
           "replies": "4",
           "reposts": "0",
-          "quotes": "5"
+          "quotes": "6"
         }
       },
       "sample_replies": [
