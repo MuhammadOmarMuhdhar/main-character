@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T05:29:36.089997+00:00",
-    "last_metrics_update": "2025-08-25T05:29:36.089997+00:00",
+    "last_metrics_update": "2025-08-25T05:32:37.940555+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 296,
+        "likes": 304,
         "replies": 74,
         "reposts": 27,
         "quotes": 31,
         "formatted": {
-          "likes": "296",
+          "likes": "304",
           "replies": "74",
           "reposts": "27",
           "quotes": "31"
@@ -92,12 +92,12 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
       },
       "engagement": {
-        "likes": 393,
+        "likes": 394,
         "replies": 255,
         "reposts": 89,
         "quotes": 74,
         "formatted": {
-          "likes": "393",
+          "likes": "394",
           "replies": "255",
           "reposts": "89",
           "quotes": "74"
@@ -154,13 +154,13 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 258,
-        "replies": 77,
+        "likes": 260,
+        "replies": 78,
         "reposts": 46,
         "quotes": 33,
         "formatted": {
-          "likes": "258",
-          "replies": "77",
+          "likes": "260",
+          "replies": "78",
           "reposts": "46",
           "quotes": "33"
         }
@@ -210,12 +210,12 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 332,
+        "likes": 334,
         "replies": 23,
         "reposts": 9,
         "quotes": 12,
         "formatted": {
-          "likes": "332",
+          "likes": "334",
           "replies": "23",
           "reposts": "9",
           "quotes": "12"
@@ -266,15 +266,15 @@
         "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
       },
       "engagement": {
-        "likes": 48,
-        "replies": 15,
-        "reposts": 8,
-        "quotes": 16,
+        "likes": 59,
+        "replies": 18,
+        "reposts": 9,
+        "quotes": 21,
         "formatted": {
-          "likes": "48",
-          "replies": "15",
-          "reposts": "8",
-          "quotes": "16"
+          "likes": "59",
+          "replies": "18",
+          "reposts": "9",
+          "quotes": "21"
         }
       },
       "sample_replies": [
@@ -303,63 +303,6 @@
     },
     {
       "rank": 6,
-      "user": {
-        "handle": "rapsheet.bsky.social",
-        "display_name": "Ian Rapoport",
-        "initials": "IR",
-        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
-        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
-        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
-        "created_at": "2025-08-24T14:33:47.091Z",
-        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
-      },
-      "engagement": {
-        "likes": 154,
-        "replies": 6,
-        "reposts": 15,
-        "quotes": 14,
-        "formatted": {
-          "likes": "154",
-          "replies": "6",
-          "reposts": "15",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
-        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
-        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
-        "Whatever. Just bring Theilen back."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 1,
-        "total_engagement": 67,
-        "post_age_minutes": 29.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T15:18:06.821464+00:00",
-      "last_updated": "2025-08-24T15:18:07.532231+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.821464+00:00",
-        "2025-08-24T15:18:07.532231+00:00"
-      ],
-      "peak_controversy": 3.8,
-      "trend": "rising"
-    },
-    {
-      "rank": 7,
       "user": {
         "handle": "radiofreetom.bsky.social",
         "display_name": "Tom Nichols",
@@ -415,7 +358,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -469,6 +412,63 @@
       ],
       "peak_controversy": 3.0,
       "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "rapsheet.bsky.social",
+        "display_name": "Ian Rapoport",
+        "initials": "IR",
+        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
+        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
+        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
+        "created_at": "2025-08-24T14:33:47.091Z",
+        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
+      },
+      "engagement": {
+        "likes": 154,
+        "replies": 6,
+        "reposts": 15,
+        "quotes": 14,
+        "formatted": {
+          "likes": "154",
+          "replies": "6",
+          "reposts": "15",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
+        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
+        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
+        "Whatever. Just bring Theilen back."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "time_bucket": 1,
+        "total_engagement": 67,
+        "post_age_minutes": 29.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T15:18:06.821464+00:00",
+      "last_updated": "2025-08-24T15:18:07.532231+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.821464+00:00",
+        "2025-08-24T15:18:07.532231+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "rising"
     },
     {
       "rank": 9,
@@ -547,15 +547,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
       },
       "engagement": {
-        "likes": 104,
-        "replies": 73,
-        "reposts": 11,
-        "quotes": 19,
+        "likes": 111,
+        "replies": 78,
+        "reposts": 12,
+        "quotes": 20,
         "formatted": {
-          "likes": "104",
-          "replies": "73",
-          "reposts": "11",
-          "quotes": "19"
+          "likes": "111",
+          "replies": "78",
+          "reposts": "12",
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -714,12 +714,12 @@
         "url": "https://bsky.app/profile/benrothenberg.bsky.social/post/3lx76qjb5222w"
       },
       "engagement": {
-        "likes": 29,
+        "likes": 31,
         "replies": 8,
         "reposts": 4,
         "quotes": 9,
         "formatted": {
-          "likes": "29",
+          "likes": "31",
           "replies": "8",
           "reposts": "4",
           "quotes": "9"
@@ -826,12 +826,12 @@
         "url": "https://bsky.app/profile/korndoggychub.bsky.social/post/3lx6fexyiss2k"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 24,
         "reposts": 0,
         "quotes": 15,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "24",
           "reposts": "0",
           "quotes": "15"
