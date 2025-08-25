@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T05:29:36.089997+00:00",
-    "last_metrics_update": "2025-08-25T07:17:34.324069+00:00",
+    "last_metrics_update": "2025-08-25T07:32:24.521442+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 22,
@@ -35,13 +35,13 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 328,
-        "replies": 76,
+        "likes": 329,
+        "replies": 77,
         "reposts": 29,
         "quotes": 33,
         "formatted": {
-          "likes": "328",
-          "replies": "76",
+          "likes": "329",
+          "replies": "77",
           "reposts": "29",
           "quotes": "33"
         }
@@ -143,7 +143,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxfqu53b6jtrqqntce6pseqh/bafkreie6l3hxlgxnw2rk7hsbqw7sfnt3uystf5dfv5cjc4dn4lcntawcwy@jpeg",
         "profile_url": "https://bsky.app/profile/youngvulgarian.marieleconte.com"
       },
-      "ratio": "1:1",
+      "ratio": "1:2",
       "controversy": 5.4,
       "change": "NEW",
       "change_type": "new",
@@ -154,14 +154,14 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 287,
+        "likes": 294,
         "replies": 81,
-        "reposts": 55,
+        "reposts": 56,
         "quotes": 37,
         "formatted": {
-          "likes": "287",
+          "likes": "294",
           "replies": "81",
-          "reposts": "55",
+          "reposts": "56",
           "quotes": "37"
         }
       },
@@ -210,12 +210,12 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 341,
+        "likes": 343,
         "replies": 24,
         "reposts": 10,
         "quotes": 12,
         "formatted": {
-          "likes": "341",
+          "likes": "343",
           "replies": "24",
           "reposts": "10",
           "quotes": "12"
@@ -266,12 +266,12 @@
         "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
       },
       "engagement": {
-        "likes": 87,
+        "likes": 88,
         "replies": 23,
         "reposts": 12,
         "quotes": 27,
         "formatted": {
-          "likes": "87",
+          "likes": "88",
           "replies": "23",
           "reposts": "12",
           "quotes": "27"
@@ -547,12 +547,12 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
       },
       "engagement": {
-        "likes": 133,
+        "likes": 135,
         "replies": 81,
         "reposts": 12,
         "quotes": 24,
         "formatted": {
-          "likes": "133",
+          "likes": "135",
           "replies": "81",
           "reposts": "12",
           "quotes": "24"
@@ -714,12 +714,12 @@
         "url": "https://bsky.app/profile/benrothenberg.bsky.social/post/3lx76qjb5222w"
       },
       "engagement": {
-        "likes": 37,
+        "likes": 38,
         "replies": 8,
         "reposts": 4,
         "quotes": 9,
         "formatted": {
-          "likes": "37",
+          "likes": "38",
           "replies": "8",
           "reposts": "4",
           "quotes": "9"
@@ -770,14 +770,14 @@
         "url": "https://bsky.app/profile/huffpost.com/post/3lx6gpqolyp2c"
       },
       "engagement": {
-        "likes": 53,
+        "likes": 54,
         "replies": 10,
-        "reposts": 13,
+        "reposts": 14,
         "quotes": 8,
         "formatted": {
-          "likes": "53",
+          "likes": "54",
           "replies": "10",
-          "reposts": "13",
+          "reposts": "14",
           "quotes": "8"
         }
       },
@@ -1050,12 +1050,12 @@
         "url": "https://bsky.app/profile/deadasdreams05.bsky.social/post/3lx5zruw7l224"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 5,
         "reposts": 0,
         "quotes": 12,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "5",
           "reposts": "0",
           "quotes": "12"
