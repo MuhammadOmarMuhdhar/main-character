@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-25T12:59:15.287544+00:00",
-    "last_metrics_update": "2025-08-25T12:59:15.287544+00:00",
+    "last_metrics_update": "2025-08-25T13:02:40.194006+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 28,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lx7ytizqwa2l"
       },
       "engagement": {
-        "likes": 220,
-        "replies": 66,
-        "reposts": 35,
-        "quotes": 11,
+        "likes": 358,
+        "replies": 104,
+        "reposts": 75,
+        "quotes": 26,
         "formatted": {
-          "likes": "220",
-          "replies": "66",
-          "reposts": "35",
-          "quotes": "11"
+          "likes": "358",
+          "replies": "104",
+          "reposts": "75",
+          "quotes": "26"
         }
       },
       "sample_replies": [
@@ -99,14 +99,14 @@
         "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
       },
       "engagement": {
-        "likes": 366,
-        "replies": 84,
-        "reposts": 32,
+        "likes": 381,
+        "replies": 86,
+        "reposts": 33,
         "quotes": 38,
         "formatted": {
-          "likes": "366",
-          "replies": "84",
-          "reposts": "32",
+          "likes": "381",
+          "replies": "86",
+          "reposts": "33",
           "quotes": "38"
         }
       },
@@ -156,13 +156,13 @@
         "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lx7yo5tm7c2w"
       },
       "engagement": {
-        "likes": 80,
-        "replies": 40,
+        "likes": 103,
+        "replies": 62,
         "reposts": 15,
         "quotes": 6,
         "formatted": {
-          "likes": "80",
-          "replies": "40",
+          "likes": "103",
+          "replies": "62",
           "reposts": "15",
           "quotes": "6"
         }
@@ -211,13 +211,13 @@
         "url": "https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3lx6fnyhs6k22"
       },
       "engagement": {
-        "likes": 335,
-        "replies": 99,
+        "likes": 339,
+        "replies": 100,
         "reposts": 70,
         "quotes": 45,
         "formatted": {
-          "likes": "335",
-          "replies": "99",
+          "likes": "339",
+          "replies": "100",
           "reposts": "70",
           "quotes": "45"
         }
@@ -267,14 +267,14 @@
         "url": "https://bsky.app/profile/minakimes.bsky.social/post/3lx5zlypa7s2b"
       },
       "engagement": {
-        "likes": 355,
+        "likes": 362,
         "replies": 24,
-        "reposts": 11,
+        "reposts": 13,
         "quotes": 12,
         "formatted": {
-          "likes": "355",
+          "likes": "362",
           "replies": "24",
-          "reposts": "11",
+          "reposts": "13",
           "quotes": "12"
         }
       },
@@ -312,7 +312,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4vziktoq7p6jd3i5l3wtmfab/bafkreicuo25577cf4m4b2zbwzlrwiqdvogbkgmkpcg25uttwsiqlcuhype@jpeg",
         "profile_url": "https://bsky.app/profile/cjzero.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 3.5,
       "change": "NEW",
       "change_type": "new",
@@ -323,15 +323,15 @@
         "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
       },
       "engagement": {
-        "likes": 116,
-        "replies": 31,
+        "likes": 126,
+        "replies": 33,
         "reposts": 20,
-        "quotes": 47,
+        "quotes": 52,
         "formatted": {
-          "likes": "116",
-          "replies": "31",
+          "likes": "126",
+          "replies": "33",
           "reposts": "20",
-          "quotes": "47"
+          "quotes": "52"
         }
       },
       "sample_replies": [
@@ -361,63 +361,6 @@
     {
       "rank": 7,
       "user": {
-        "handle": "rapsheet.bsky.social",
-        "display_name": "Ian Rapoport",
-        "initials": "IR",
-        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
-        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
-        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
-        "created_at": "2025-08-24T14:33:47.091Z",
-        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
-      },
-      "engagement": {
-        "likes": 156,
-        "replies": 7,
-        "reposts": 15,
-        "quotes": 14,
-        "formatted": {
-          "likes": "156",
-          "replies": "7",
-          "reposts": "15",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
-        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
-        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
-        "Whatever. Just bring Theilen back."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 1,
-        "total_engagement": 67,
-        "post_age_minutes": 29.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T15:18:06.821464+00:00",
-      "last_updated": "2025-08-24T15:18:07.532231+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.821464+00:00",
-        "2025-08-24T15:18:07.532231+00:00"
-      ],
-      "peak_controversy": 3.8,
-      "trend": "rising"
-    },
-    {
-      "rank": 8,
-      "user": {
         "handle": "radiofreetom.bsky.social",
         "display_name": "Tom Nichols",
         "initials": "TN",
@@ -436,12 +379,12 @@
         "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
       },
       "engagement": {
-        "likes": 116,
+        "likes": 117,
         "replies": 24,
         "reposts": 8,
         "quotes": 7,
         "formatted": {
-          "likes": "116",
+          "likes": "117",
           "replies": "24",
           "reposts": "8",
           "quotes": "7"
@@ -472,7 +415,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -528,6 +471,63 @@
       "trend": "new"
     },
     {
+      "rank": 9,
+      "user": {
+        "handle": "rapsheet.bsky.social",
+        "display_name": "Ian Rapoport",
+        "initials": "IR",
+        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
+        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trade! The Vikings are trading QB Sam Howell to the Eagles, per me and @tompelissero.bsky.social  \n\nIt’s a 5th in 2026 and 7th in 2027 to MIN, while PHI Howell and  6th in 2026. Minnesota, which recently hosted Carson Wentz on a visit, now has a QB opening. And Philly gets more QB depth.",
+        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lx5pduj3wk2e",
+        "created_at": "2025-08-24T14:33:47.091Z",
+        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lx5pduj3wk2e"
+      },
+      "engagement": {
+        "likes": 160,
+        "replies": 7,
+        "reposts": 15,
+        "quotes": 14,
+        "formatted": {
+          "likes": "160",
+          "replies": "7",
+          "reposts": "15",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "That doesn’t make a ton of sense, I thought Philly had a really good backup?",
+        "mckee hurt his finger and is probably out for week 1, howell probably becomes the 3rd string or...",
+        "Oh dang, didn’t see that, thanks! \n\nKinda expensive just to cut the guy if that’s what ends up...",
+        "Whatever. Just bring Theilen back."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "time_bucket": 1,
+        "total_engagement": 67,
+        "post_age_minutes": 29.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T15:18:06.821464+00:00",
+      "last_updated": "2025-08-24T15:18:07.532231+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.821464+00:00",
+        "2025-08-24T15:18:07.532231+00:00"
+      ],
+      "peak_controversy": 3.8,
+      "trend": "rising"
+    },
+    {
       "rank": 10,
       "user": {
         "handle": "kyivindependent.com",
@@ -548,13 +548,13 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
       },
       "engagement": {
-        "likes": 145,
-        "replies": 88,
+        "likes": 147,
+        "replies": 89,
         "reposts": 13,
         "quotes": 26,
         "formatted": {
-          "likes": "145",
-          "replies": "88",
+          "likes": "147",
+          "replies": "89",
           "reposts": "13",
           "quotes": "26"
         }
@@ -704,7 +704,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:43fdk46qa5gsokzygzildsaq/bafkreigxwcjdzgntm6s332v2tl45ewhrajz57qhnwfxuujxsemfvuiuhgu@jpeg",
         "profile_url": "https://bsky.app/profile/fintwitter.bsky.social"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 1.6,
       "change": "NEW",
       "change_type": "new",
@@ -715,15 +715,15 @@
         "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3lx7ye73eip2g"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 24,
         "replies": 2,
-        "reposts": 6,
-        "quotes": 15,
+        "reposts": 8,
+        "quotes": 25,
         "formatted": {
-          "likes": "17",
+          "likes": "24",
           "replies": "2",
-          "reposts": "6",
-          "quotes": "15"
+          "reposts": "8",
+          "quotes": "25"
         }
       },
       "sample_replies": [
@@ -828,12 +828,12 @@
       },
       "engagement": {
         "likes": 57,
-        "replies": 11,
+        "replies": 12,
         "reposts": 16,
         "quotes": 8,
         "formatted": {
           "likes": "57",
-          "replies": "11",
+          "replies": "12",
           "reposts": "16",
           "quotes": "8"
         }
@@ -883,15 +883,15 @@
         "url": "https://bsky.app/profile/hagenilda.bsky.social/post/3lx7kwd3wys24"
       },
       "engagement": {
-        "likes": 64,
-        "replies": 16,
-        "reposts": 9,
-        "quotes": 10,
+        "likes": 84,
+        "replies": 19,
+        "reposts": 11,
+        "quotes": 16,
         "formatted": {
-          "likes": "64",
-          "replies": "16",
-          "reposts": "9",
-          "quotes": "10"
+          "likes": "84",
+          "replies": "19",
+          "reposts": "11",
+          "quotes": "16"
         }
       },
       "sample_replies": [
@@ -939,15 +939,15 @@
         "url": "https://bsky.app/profile/reuters.com/post/3lx7z6q3uwz2o"
       },
       "engagement": {
-        "likes": 4,
-        "replies": 7,
-        "reposts": 2,
-        "quotes": 9,
+        "likes": 8,
+        "replies": 12,
+        "reposts": 4,
+        "quotes": 15,
         "formatted": {
-          "likes": "4",
-          "replies": "7",
-          "reposts": "2",
-          "quotes": "9"
+          "likes": "8",
+          "replies": "12",
+          "reposts": "4",
+          "quotes": "15"
         }
       },
       "sample_replies": [
@@ -995,12 +995,12 @@
         "url": "https://bsky.app/profile/dennycarter.bsky.social/post/3lx7wplzwis2r"
       },
       "engagement": {
-        "likes": 43,
+        "likes": 48,
         "replies": 3,
         "reposts": 4,
         "quotes": 5,
         "formatted": {
-          "likes": "43",
+          "likes": "48",
           "replies": "3",
           "reposts": "4",
           "quotes": "5"
@@ -1219,12 +1219,12 @@
       },
       "engagement": {
         "likes": 6,
-        "replies": 9,
+        "replies": 12,
         "reposts": 2,
         "quotes": 5,
         "formatted": {
           "likes": "6",
-          "replies": "9",
+          "replies": "12",
           "reposts": "2",
           "quotes": "5"
         }
@@ -1319,7 +1319,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
         "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
       },
-      "ratio": "6:1",
+      "ratio": "7:1",
       "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
@@ -1333,12 +1333,12 @@
         "likes": 9,
         "replies": 5,
         "reposts": 1,
-        "quotes": 6,
+        "quotes": 7,
         "formatted": {
           "likes": "9",
           "replies": "5",
           "reposts": "1",
-          "quotes": "6"
+          "quotes": "7"
         }
       },
       "sample_replies": [
@@ -1374,7 +1374,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gz3eepgi2j2tpybatqkaz55y/bafkreicymvmtyq2mbl7x7sukiar2yr3qsu7rmvnpkfmg5w5zy3snlurlae@jpeg",
         "profile_url": "https://bsky.app/profile/deadasdreams05.bsky.social"
       },
-      "ratio": "12:0",
+      "ratio": "12:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -1385,14 +1385,14 @@
         "url": "https://bsky.app/profile/deadasdreams05.bsky.social/post/3lx5zruw7l224"
       },
       "engagement": {
-        "likes": 24,
+        "likes": 25,
         "replies": 5,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 12,
         "formatted": {
-          "likes": "24",
+          "likes": "25",
           "replies": "5",
-          "reposts": "0",
+          "reposts": "1",
           "quotes": "12"
         }
       },
