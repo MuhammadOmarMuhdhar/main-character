@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-25T09:11:21.744815+00:00",
-    "last_metrics_update": "2025-08-25T12:02:37.455270+00:00",
+    "last_full_analysis": "2025-08-25T12:59:15.287544+00:00",
+    "last_metrics_update": "2025-08-25T12:59:15.287544+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 22,
+    "main_characters_count": 28,
     "rolling_window": {
-      "last_update": "2025-08-25T09:11:21.744815+00:00",
-      "new_entries_added": 1,
-      "total_in_window": 22,
+      "last_update": "2025-08-25T12:59:15.287544+00:00",
+      "new_entries_added": 8,
+      "total_in_window": 28,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,6 +16,70 @@
   "main_characters": [
     {
       "rank": 1,
+      "user": {
+        "handle": "atrupar.com",
+        "display_name": "Aaron Rupar",
+        "initials": "AR",
+        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
+        "profile_url": "https://bsky.app/profile/atrupar.com"
+      },
+      "ratio": "1:3",
+      "controversy": 10.0,
+      "change": "+2.0",
+      "change_type": "positive",
+      "post": {
+        "text": "Jeanine Pirro is on Fox & Friends whining that she can’t “touch” 15 year olds in Washington DC",
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lx7ytizqwa2l",
+        "created_at": "2025-08-25T12:28:55.067Z",
+        "url": "https://bsky.app/profile/atrupar.com/post/3lx7ytizqwa2l"
+      },
+      "engagement": {
+        "likes": 220,
+        "replies": 66,
+        "reposts": 35,
+        "quotes": 11,
+        "formatted": {
+          "likes": "220",
+          "replies": "66",
+          "reposts": "35",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "Trump has spent his entire life complaining about the same thing",
+        "Judge Winebox is a woman you would catch blowing her son's best friend at a pool party.",
+        "Republicans are obsessed with touching 15-year-olds.",
+        "Can't she?"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 1,
+        "total_engagement": 332,
+        "post_age_minutes": 18.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T15:18:06.997773+00:00",
+      "last_updated": "2025-08-25T12:59:15.287483+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.997773+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-24T15:18:07.532231+00:00",
+        "2025-08-25T12:59:15.287483+00:00",
+        "2025-08-25T12:59:15.287483+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 2,
       "user": {
         "handle": "kenklippenstein.bsky.social",
         "display_name": "Ken Klippenstein",
@@ -72,69 +136,62 @@
       "trend": "rising"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "user": {
-        "handle": "atrupar.com",
-        "display_name": "Aaron Rupar",
-        "initials": "AR",
-        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
-        "profile_url": "https://bsky.app/profile/atrupar.com"
+        "handle": "patriottakes.bsky.social",
+        "display_name": "PatriotTakes 🇺🇸",
+        "initials": "P🇺",
+        "did": "did:plc:7upoypvlxudsiv4pzbi5jtwf",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7upoypvlxudsiv4pzbi5jtwf/bafkreicziennxjeomrpoo5nftmwsngk4qfebago7tnbt5cmskn6arznh7i@jpeg",
+        "profile_url": "https://bsky.app/profile/patriottakes.bsky.social"
       },
-      "ratio": "1:1",
-      "controversy": 8.0,
+      "ratio": "1:2",
+      "controversy": 5.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "JD Vance on Russia-Ukraine: \"What I admire about the president is he's not trying to focus on every nitpicky detail of how this thing started three and a half year ago, he's trying to focus on the nitpicky details of now.\"",
-        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lx5o3lqfw32g",
-        "created_at": "2025-08-24T14:11:15.705Z",
-        "url": "https://bsky.app/profile/atrupar.com/post/3lx5o3lqfw32g"
+        "text": "MAGA preacher: “And the Lord raised up a thrice-married New York real estate developer to show American Christians what manhood and warrior courage looks like.”",
+        "uri": "at://did:plc:7upoypvlxudsiv4pzbi5jtwf/app.bsky.feed.post/3lx7yo5tm7c2w",
+        "created_at": "2025-08-25T12:25:55.578Z",
+        "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lx7yo5tm7c2w"
       },
       "engagement": {
-        "likes": 401,
-        "replies": 257,
-        "reposts": 91,
-        "quotes": 76,
+        "likes": 80,
+        "replies": 40,
+        "reposts": 15,
+        "quotes": 6,
         "formatted": {
-          "likes": "401",
-          "replies": "257",
-          "reposts": "91",
-          "quotes": "76"
+          "likes": "80",
+          "replies": "40",
+          "reposts": "15",
+          "quotes": "6"
         }
       },
       "sample_replies": [
-        "You mean the nitpicky thing of Russia invading a sovereign nation?",
-        "Just smack him already",
-        "Putin's illegal invasion is just a nitpicky detail.",
-        "\"THiS iS bIDen's WaR\" but yeah we aren't worried about nitpicky details."
+        "And they wonder why more people than ever look at religion as a joke.",
+        "Don’t forget cheater and pedophile, God didn’t raise him up, the devil did.",
+        "Satire is our reality now."
       ],
       "metrics": {
-        "ratio_score": 4.22,
-        "time_bucket": 3,
-        "total_engagement": 521,
-        "post_age_minutes": 51.8
+        "ratio_score": 2.88,
+        "time_bucket": 1,
+        "total_engagement": 141,
+        "post_age_minutes": 21.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-24T15:18:06.997773+00:00",
-      "last_updated": "2025-08-24T15:18:07.532231+00:00",
+      "first_detected": "2025-08-25T12:59:14.682387+00:00",
+      "last_updated": "2025-08-25T12:59:14.682387+00:00",
       "analysis_windows": [
-        "2025-08-24T15:18:06.997773+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00",
-        "2025-08-24T15:18:07.532231+00:00"
+        "2025-08-25T12:59:14.682387+00:00"
       ],
-      "peak_controversy": 10.0,
-      "trend": "rising"
+      "peak_controversy": 5.6,
+      "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "user": {
         "handle": "youngvulgarian.marieleconte.com",
         "display_name": "Marie Le Conte",
@@ -190,7 +247,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user": {
         "handle": "minakimes.bsky.social",
         "display_name": "Mina Kimes",
@@ -246,7 +303,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user": {
         "handle": "cjzero.bsky.social",
         "display_name": "CJ Fogler",
@@ -302,119 +359,7 @@
       "trend": "new"
     },
     {
-      "rank": 6,
-      "user": {
-        "handle": "radiofreetom.bsky.social",
-        "display_name": "Tom Nichols",
-        "initials": "TN",
-        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
-        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
-        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
-        "created_at": "2025-08-24T17:48:35.473Z",
-        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
-      },
-      "engagement": {
-        "likes": 116,
-        "replies": 24,
-        "reposts": 8,
-        "quotes": 7,
-        "formatted": {
-          "likes": "116",
-          "replies": "24",
-          "reposts": "8",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "Not something I would say if I were running for office, either",
-        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
-        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
-        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
-      ],
-      "metrics": {
-        "ratio_score": 3.25,
-        "time_bucket": 2,
-        "total_engagement": 103,
-        "post_age_minutes": 44.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-24T18:49:55.022968+00:00",
-      "last_updated": "2025-08-24T18:49:55.022968+00:00",
-      "analysis_windows": [
-        "2025-08-24T18:49:55.022968+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "new"
-    },
-    {
       "rank": 7,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.0,
-      "change": "+1.3",
-      "change_type": "positive",
-      "post": {
-        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
-        "created_at": "2025-08-24T14:50:05.372046Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
-      },
-      "engagement": {
-        "likes": 101,
-        "replies": 30,
-        "reposts": 22,
-        "quotes": 10,
-        "formatted": {
-          "likes": "101",
-          "replies": "30",
-          "reposts": "22",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "They want others to do their genocidal work for them. Fuck them!",
-        "🤷‍♂️",
-        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
-        "religion is a bane on humanity!"
-      ],
-      "metrics": {
-        "ratio_score": 2.14,
-        "time_bucket": 0,
-        "total_engagement": 61,
-        "post_age_minutes": 12.9
-      },
-      "previous_analysis": {
-        "controversy": 1.7,
-        "rank": 18
-      },
-      "first_detected": "2025-08-24T15:18:06.732922+00:00",
-      "last_updated": "2025-08-24T15:18:06.732922+00:00",
-      "analysis_windows": [
-        "2025-08-24T15:18:06.732922+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 8,
       "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
@@ -471,7 +416,119 @@
       "trend": "rising"
     },
     {
+      "rank": 8,
+      "user": {
+        "handle": "radiofreetom.bsky.social",
+        "display_name": "Tom Nichols",
+        "initials": "TN",
+        "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/bafkreigspy5xjwpait7mwirgp6qoadupybwz6yxq4zn5kslcagax4wni34@jpeg",
+        "profile_url": "https://bsky.app/profile/radiofreetom.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Find where I, or anyone involved in that list, said \"Shut up and don't talk about these issues.\"\n\nTelling prominent Democrats to talk to voters like normal human beings panics people who have discovered the joy of using jargon as a signifier of group solidarity.",
+        "uri": "at://did:plc:kbmf4lv4o6uvuvrfzpw2jbhj/app.bsky.feed.post/3lx62a7fxo22q",
+        "created_at": "2025-08-24T17:48:35.473Z",
+        "url": "https://bsky.app/profile/radiofreetom.bsky.social/post/3lx62a7fxo22q"
+      },
+      "engagement": {
+        "likes": 116,
+        "replies": 24,
+        "reposts": 8,
+        "quotes": 7,
+        "formatted": {
+          "likes": "116",
+          "replies": "24",
+          "reposts": "8",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "Not something I would say if I were running for office, either",
+        "That’s not actually why people are pushing back on this, Tom. And you know this, I think. Dem...",
+        "Your admonition accepts the Republican framing. Worse, by dismissing the use of this terminology as...",
+        "But these issues are central to the values of most Democratic voters. So even if most Americans..."
+      ],
+      "metrics": {
+        "ratio_score": 3.25,
+        "time_bucket": 2,
+        "total_engagement": 103,
+        "post_age_minutes": 44.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-24T18:49:55.022968+00:00",
+      "last_updated": "2025-08-24T18:49:55.022968+00:00",
+      "analysis_windows": [
+        "2025-08-24T18:49:55.022968+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "new"
+    },
+    {
       "rank": 9,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.0,
+      "change": "+1.3",
+      "change_type": "positive",
+      "post": {
+        "text": "Ultra-Orthodox Israelis, who had been exempt from military service to focus on religious study since the founding of Israel, are now being drafted. Their rage is deepening divisions in the country.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lx5qazj3qt2u",
+        "created_at": "2025-08-24T14:50:05.372046Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lx5qazj3qt2u"
+      },
+      "engagement": {
+        "likes": 101,
+        "replies": 30,
+        "reposts": 22,
+        "quotes": 10,
+        "formatted": {
+          "likes": "101",
+          "replies": "30",
+          "reposts": "22",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "They want others to do their genocidal work for them. Fuck them!",
+        "🤷‍♂️",
+        "oops, they embraced fascism to deal with fascists. Kinda' silly.",
+        "religion is a bane on humanity!"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 0,
+        "total_engagement": 61,
+        "post_age_minutes": 12.9
+      },
+      "previous_analysis": {
+        "controversy": 1.7,
+        "rank": 18
+      },
+      "first_detected": "2025-08-24T15:18:06.732922+00:00",
+      "last_updated": "2025-08-24T15:18:06.732922+00:00",
+      "analysis_windows": [
+        "2025-08-24T15:18:06.732922+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -526,7 +583,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user": {
         "handle": "psychobob4q2.bsky.social",
         "display_name": "Bob",
@@ -582,7 +639,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user": {
         "handle": "solomonmissouri.bsky.social",
         "display_name": "Solomon",
@@ -638,7 +695,63 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "user": {
+        "handle": "fintwitter.bsky.social",
+        "display_name": "FinTwitter",
+        "initials": "FI",
+        "did": "did:plc:43fdk46qa5gsokzygzildsaq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:43fdk46qa5gsokzygzildsaq/bafkreigxwcjdzgntm6s332v2tl45ewhrajz57qhnwfxuujxsemfvuiuhgu@jpeg",
+        "profile_url": "https://bsky.app/profile/fintwitter.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "*HASSETT: POSSIBLE THAT GOVT TAKES MORE EQUITY STAKE FROM FIRMS",
+        "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3lx7ye73eip2g",
+        "created_at": "2025-08-25T12:20:20.973181+00:00",
+        "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3lx7ye73eip2g"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 2,
+        "reposts": 6,
+        "quotes": 15,
+        "formatted": {
+          "likes": "17",
+          "replies": "2",
+          "reposts": "6",
+          "quotes": "15"
+        }
+      },
+      "sample_replies": [
+        "Good! The USG should have a piece of every company that lives off government contracts, handouts,...",
+        "COMMUNISM?  IN MURICA?",
+        "That’s not communism",
+        "Lol, I know that.  Derp."
+      ],
+      "metrics": {
+        "ratio_score": 2.43,
+        "time_bucket": 1,
+        "total_engagement": 40,
+        "post_age_minutes": 27.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T12:59:14.829778+00:00",
+      "last_updated": "2025-08-25T12:59:14.829778+00:00",
+      "analysis_windows": [
+        "2025-08-25T12:59:14.829778+00:00"
+      ],
+      "peak_controversy": 1.6,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
       "user": {
         "handle": "benrothenberg.bsky.social",
         "display_name": "Ben Rothenberg",
@@ -694,7 +807,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "user": {
         "handle": "huffpost.com",
         "display_name": "HuffPost",
@@ -750,7 +863,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "user": {
         "handle": "hagenilda.bsky.social",
         "display_name": "Jo  🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -806,7 +919,118 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 17,
+      "user": {
+        "handle": "reuters.com",
+        "display_name": "Reuters",
+        "initials": "RE",
+        "did": "did:plc:jbvnehrrdqoulco4rf5gxg5r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreibl5cibo6e7epl3pomyqeu7pkvb6yo7zg6q3wf2o4syej5yycrepy@jpeg",
+        "profile_url": "https://bsky.app/profile/reuters.com"
+      },
+      "ratio": "4:1",
+      "controversy": 1.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trump to sign executive order on flag desecration, Fox News reports reut.rs/3JvkCQg",
+        "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3lx7z6q3uwz2o",
+        "created_at": "2025-08-25T12:35:11Z",
+        "url": "https://bsky.app/profile/reuters.com/post/3lx7z6q3uwz2o"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 7,
+        "reposts": 2,
+        "quotes": 9,
+        "formatted": {
+          "likes": "4",
+          "replies": "7",
+          "reposts": "2",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "Executive orders are not laws.",
+        "There is a 100% chance that all the tacky US Flag themed clothing is exempt, even though every...",
+        "🤣🤣🤣🤣🤣 The irony of who’s desecrating the entire United States of America.",
+        "Hmm. The only flag desecration event I can remember if January 6th 2021 when thousands of criminal..."
+      ],
+      "metrics": {
+        "ratio_score": 5.33,
+        "time_bucket": 0,
+        "total_engagement": 22,
+        "post_age_minutes": 12.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T12:59:14.237494+00:00",
+      "last_updated": "2025-08-25T12:59:14.237494+00:00",
+      "analysis_windows": [
+        "2025-08-25T12:59:14.237494+00:00"
+      ],
+      "peak_controversy": 1.1,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
+      "user": {
+        "handle": "dennycarter.bsky.social",
+        "display_name": "Denny Carter",
+        "initials": "DC",
+        "did": "did:plc:ahcborosqrfchi3iiyhoixch",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ahcborosqrfchi3iiyhoixch/bafkreidscbejnnjzmmq7nqdndvu5h73dqby7xafqgogt5wxhg3f6jiqhvy@jpeg",
+        "profile_url": "https://bsky.app/profile/dennycarter.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 1.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The analytics of dog having",
+        "uri": "at://did:plc:ahcborosqrfchi3iiyhoixch/app.bsky.feed.post/3lx7wplzwis2r",
+        "created_at": "2025-08-25T11:50:56.526Z",
+        "url": "https://bsky.app/profile/dennycarter.bsky.social/post/3lx7wplzwis2r"
+      },
+      "engagement": {
+        "likes": 43,
+        "replies": 3,
+        "reposts": 4,
+        "quotes": 5,
+        "formatted": {
+          "likes": "43",
+          "replies": "3",
+          "reposts": "4",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Got that dawg with him.",
+        "Incels HATE him! \n\nNormal guy gets women’s numbers using this ONE WEIRD TRICK.",
+        "24 hour “news” needs to stop. The anchors have all clearly gone insane no matter the network."
+      ],
+      "metrics": {
+        "ratio_score": 1.6,
+        "time_bucket": 3,
+        "total_engagement": 55,
+        "post_age_minutes": 56.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T12:59:15.287413+00:00",
+      "last_updated": "2025-08-25T12:59:15.287413+00:00",
+      "analysis_windows": [
+        "2025-08-25T12:59:15.287413+00:00"
+      ],
+      "peak_controversy": 1.1,
+      "trend": "new"
+    },
+    {
+      "rank": 19,
       "user": {
         "handle": "korndoggychub.bsky.social",
         "display_name": "KORNdoggychub",
@@ -862,7 +1086,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 20,
       "user": {
         "handle": "notfriedgehnic.bsky.social",
         "display_name": "Elliotte Friedman (Bot)",
@@ -918,7 +1142,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 21,
       "user": {
         "handle": "deemarleyy.bsky.social",
         "display_name": "DeeMarleyy😶‍🌫️🍃",
@@ -974,7 +1198,63 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 22,
+      "user": {
+        "handle": "theathletic.com",
+        "display_name": "The Athletic",
+        "initials": "TA",
+        "did": "did:plc:b2kutgxqlltwc6lhs724cfwr",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2kutgxqlltwc6lhs724cfwr/bafkreidtcbmryuwpaxyaaexazmibozi7oakpn6x4ktdow227xky7dnmfa4@jpeg",
+        "profile_url": "https://bsky.app/profile/theathletic.com"
+      },
+      "ratio": "2:1",
+      "controversy": 0.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Three months after applying pressure that helped lead to a rule change making the late Pete Rose eligible for the Baseball Hall of Fame, President Donald Trump has turned his attention to Roger Clemens.\n\nhttp://dlvr.it/TMggl4",
+        "uri": "at://did:plc:b2kutgxqlltwc6lhs724cfwr/app.bsky.feed.post/3lx7yzbz66a2f",
+        "created_at": "2025-08-25T12:32:08Z",
+        "url": "https://bsky.app/profile/theathletic.com/post/3lx7yzbz66a2f"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 9,
+        "reposts": 2,
+        "quotes": 5,
+        "formatted": {
+          "likes": "6",
+          "replies": "9",
+          "reposts": "2",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Randy Johnson won 5 Cy Youngs, just 2 less than Roidger Clemens did. That’s not “by a lot!” And...",
+        "This Red Sox fan has never been so proud to be anti-Roger for 35+ years. He was a shitbird then,...",
+        "Nobody cares what that rapist thinks.",
+        "So screwing with the country isn't enough for donnie, he's got to screw with sports, too?"
+      ],
+      "metrics": {
+        "ratio_score": 4.67,
+        "time_bucket": 1,
+        "total_engagement": 22,
+        "post_age_minutes": 15.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T12:59:14.973246+00:00",
+      "last_updated": "2025-08-25T12:59:14.973246+00:00",
+      "analysis_windows": [
+        "2025-08-25T12:59:14.973246+00:00"
+      ],
+      "peak_controversy": 0.9,
+      "trend": "new"
+    },
+    {
+      "rank": 23,
       "user": {
         "handle": "newsweek.com",
         "display_name": "Newsweek",
@@ -1030,7 +1310,62 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 24,
+      "user": {
+        "handle": "freshlogic.bsky.social",
+        "display_name": "⚜️New Logic",
+        "initials": "⚜L",
+        "did": "did:plc:es4kaek6ligemold3w7b6cng",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
+        "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
+      },
+      "ratio": "6:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "What y’all know about 5 part harmony? 😂\n\nmusic.apple.com/us/album/all...",
+        "uri": "at://did:plc:es4kaek6ligemold3w7b6cng/app.bsky.feed.post/3lx7xz6c26s2r",
+        "created_at": "2025-08-25T12:14:11.407Z",
+        "url": "https://bsky.app/profile/freshlogic.bsky.social/post/3lx7xz6c26s2r"
+      },
+      "engagement": {
+        "likes": 9,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 6,
+        "formatted": {
+          "likes": "9",
+          "replies": "5",
+          "reposts": "1",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "I can wait to get to school each day \n\nAnd wait for you to pass my way\n\nAnd bells start to ring...",
+        "Me 😭😭",
+        "Yes and they were dancing their asses off while doing it."
+      ],
+      "metrics": {
+        "ratio_score": 5.5,
+        "time_bucket": 2,
+        "total_engagement": 21,
+        "post_age_minutes": 33.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T12:59:15.136476+00:00",
+      "last_updated": "2025-08-25T12:59:15.136476+00:00",
+      "analysis_windows": [
+        "2025-08-25T12:59:15.136476+00:00"
+      ],
+      "peak_controversy": 0.6,
+      "trend": "new"
+    },
+    {
+      "rank": 25,
       "user": {
         "handle": "deadasdreams05.bsky.social",
         "display_name": "War Metal Enjoyer",
@@ -1086,7 +1421,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 26,
       "user": {
         "handle": "loveeternal.blacksky.app",
         "display_name": "Skeetocratic Oath ♊ 5/26",
@@ -1142,7 +1477,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 27,
       "user": {
         "handle": "jimicardoor.bsky.social",
         "display_name": "Jimi Cardoor",
@@ -1198,7 +1533,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 28,
       "user": {
         "handle": "keeksreal.bsky.social",
         "display_name": "🇹🇹Menacing Keeks",
