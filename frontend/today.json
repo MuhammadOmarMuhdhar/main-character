@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-26T03:17:52.496426+00:00",
-    "last_metrics_update": "2025-08-26T05:32:48.385322+00:00",
+    "last_metrics_update": "2025-08-26T05:47:51.855691+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 35,
@@ -91,12 +91,12 @@
         "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxb3u237ak2g"
       },
       "engagement": {
-        "likes": 471,
+        "likes": 472,
         "replies": 34,
         "reposts": 26,
         "quotes": 10,
         "formatted": {
-          "likes": "471",
+          "likes": "472",
           "replies": "34",
           "reposts": "26",
           "quotes": "10"
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 2562,
-        "replies": 704,
-        "reposts": 619,
-        "quotes": 125,
+        "likes": 2626,
+        "replies": 721,
+        "reposts": 635,
+        "quotes": 130,
         "formatted": {
           "likes": "2.6K",
-          "replies": "704",
-          "reposts": "619",
-          "quotes": "125"
+          "replies": "721",
+          "reposts": "635",
+          "quotes": "130"
         }
       },
       "sample_replies": [
@@ -202,12 +202,12 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxadqqhbgy2i"
       },
       "engagement": {
-        "likes": 859,
+        "likes": 860,
         "replies": 163,
         "reposts": 190,
         "quotes": 95,
         "formatted": {
-          "likes": "859",
+          "likes": "860",
           "replies": "163",
           "reposts": "190",
           "quotes": "95"
@@ -262,12 +262,12 @@
         "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lxb5b7rfuk2o"
       },
       "engagement": {
-        "likes": 165,
+        "likes": 167,
         "replies": 169,
         "reposts": 38,
         "quotes": 19,
         "formatted": {
-          "likes": "165",
+          "likes": "167",
           "replies": "169",
           "reposts": "38",
           "quotes": "19"
@@ -319,12 +319,12 @@
         "url": "https://bsky.app/profile/mrsbettybowers.bsky.social/post/3lxaeba2v6s27"
       },
       "engagement": {
-        "likes": 393,
+        "likes": 394,
         "replies": 117,
         "reposts": 52,
         "quotes": 20,
         "formatted": {
-          "likes": "393",
+          "likes": "394",
           "replies": "117",
           "reposts": "52",
           "quotes": "20"
@@ -375,12 +375,12 @@
         "url": "https://bsky.app/profile/georgetakei.bsky.social/post/3lxb2msd4ga2a"
       },
       "engagement": {
-        "likes": 207,
+        "likes": 208,
         "replies": 236,
         "reposts": 12,
         "quotes": 17,
         "formatted": {
-          "likes": "207",
+          "likes": "208",
           "replies": "236",
           "reposts": "12",
           "quotes": "17"
@@ -487,12 +487,12 @@
         "url": "https://bsky.app/profile/npr.org/post/3lxaqsj6lbx2u"
       },
       "engagement": {
-        "likes": 138,
+        "likes": 139,
         "replies": 62,
         "reposts": 31,
         "quotes": 9,
         "formatted": {
-          "likes": "138",
+          "likes": "139",
           "replies": "62",
           "reposts": "31",
           "quotes": "9"
@@ -655,12 +655,12 @@
       },
       "engagement": {
         "likes": 130,
-        "replies": 43,
+        "replies": 44,
         "reposts": 23,
         "quotes": 12,
         "formatted": {
           "likes": "130",
-          "replies": "43",
+          "replies": "44",
           "reposts": "23",
           "quotes": "12"
         }
@@ -867,7 +867,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreicqe453w2txy6eyooe4a6dbtvmflmfp7ydzunwjxuulvmgvntp42a@jpeg",
         "profile_url": "https://bsky.app/profile/apnews.com"
       },
-      "ratio": "1:1",
+      "ratio": "1:2",
       "controversy": 2.2,
       "change": "NEW",
       "change_type": "new",
@@ -878,14 +878,14 @@
         "url": "https://bsky.app/profile/apnews.com/post/3lxb45bpvez2z"
       },
       "engagement": {
-        "likes": 77,
-        "replies": 16,
-        "reposts": 11,
+        "likes": 78,
+        "replies": 17,
+        "reposts": 12,
         "quotes": 8,
         "formatted": {
-          "likes": "77",
-          "replies": "16",
-          "reposts": "11",
+          "likes": "78",
+          "replies": "17",
+          "reposts": "12",
           "quotes": "8"
         }
       },
@@ -1047,12 +1047,12 @@
       },
       "engagement": {
         "likes": 77,
-        "replies": 14,
+        "replies": 15,
         "reposts": 6,
         "quotes": 21,
         "formatted": {
           "likes": "77",
-          "replies": "14",
+          "replies": "15",
           "reposts": "6",
           "quotes": "21"
         }
@@ -1271,12 +1271,12 @@
       },
       "engagement": {
         "likes": 27,
-        "replies": 31,
+        "replies": 32,
         "reposts": 22,
         "quotes": 11,
         "formatted": {
           "likes": "27",
-          "replies": "31",
+          "replies": "32",
           "reposts": "22",
           "quotes": "11"
         }
@@ -1382,12 +1382,12 @@
         "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
       },
       "engagement": {
-        "likes": 28,
+        "likes": 29,
         "replies": 24,
         "reposts": 14,
         "quotes": 6,
         "formatted": {
-          "likes": "28",
+          "likes": "29",
           "replies": "24",
           "reposts": "14",
           "quotes": "6"
@@ -1607,12 +1607,12 @@
         "url": "https://bsky.app/profile/japantimes.co.jp/post/3lxbhu2ff4p25"
       },
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "replies": 17,
         "reposts": 11,
         "quotes": 8,
         "formatted": {
-          "likes": "18",
+          "likes": "19",
           "replies": "17",
           "reposts": "11",
           "quotes": "8"
