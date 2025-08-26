@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-26T03:17:52.496426+00:00",
-    "last_metrics_update": "2025-08-26T06:17:49.367072+00:00",
+    "last_full_analysis": "2025-08-26T06:43:29.617721+00:00",
+    "last_metrics_update": "2025-08-26T06:43:29.617721+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 35,
+    "main_characters_count": 34,
     "rolling_window": {
-      "last_update": "2025-08-26T03:17:52.496426+00:00",
-      "new_entries_added": 5,
-      "total_in_window": 35,
+      "last_update": "2025-08-26T06:43:29.617721+00:00",
+      "new_entries_added": 3,
+      "total_in_window": 34,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -692,62 +692,6 @@
     {
       "rank": 13,
       "user": {
-        "handle": "cjzero.bsky.social",
-        "display_name": "CJ Fogler",
-        "initials": "CF",
-        "did": "did:plc:4vziktoq7p6jd3i5l3wtmfab",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4vziktoq7p6jd3i5l3wtmfab/bafkreicuo25577cf4m4b2zbwzlrwiqdvogbkgmkpcg25uttwsiqlcuhype@jpeg",
-        "profile_url": "https://bsky.app/profile/cjzero.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 3.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Medvedev absolutely annihilates a racquet",
-        "uri": "at://did:plc:4vziktoq7p6jd3i5l3wtmfab/app.bsky.feed.post/3lx77kwuhi22c",
-        "created_at": "2025-08-25T04:56:44.057Z",
-        "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
-      },
-      "engagement": {
-        "likes": 176,
-        "replies": 43,
-        "reposts": 22,
-        "quotes": 71,
-        "formatted": {
-          "likes": "176",
-          "replies": "43",
-          "reposts": "22",
-          "quotes": "71"
-        }
-      },
-      "sample_replies": [
-        "What a $hithead and poor sport. Should have been dq’ed  for his display in the third set.",
-        "that was just weird and kinda pathetic to watch",
-        "While his opponent and the winner, after 5 sets, waits to start his interview…go do that BS in the...",
-        "Seek help"
-      ],
-      "metrics": {
-        "ratio_score": 3.44,
-        "time_bucket": 1,
-        "total_engagement": 87,
-        "post_age_minutes": 21.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T05:29:35.733946+00:00",
-      "last_updated": "2025-08-25T05:29:35.733946+00:00",
-      "analysis_windows": [
-        "2025-08-25T05:29:35.733946+00:00"
-      ],
-      "peak_controversy": 3.5,
-      "trend": "new"
-    },
-    {
-      "rank": 14,
-      "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
         "initials": "TW",
@@ -802,7 +746,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user": {
         "handle": "schwarz.bsky.social",
         "display_name": "☀️ Jon Schwarz ☀️",
@@ -858,7 +802,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user": {
         "handle": "apnews.com",
         "display_name": "The Associated Press",
@@ -911,6 +855,61 @@
         "2025-08-25T23:50:15.219451+00:00"
       ],
       "peak_controversy": 2.2,
+      "trend": "new"
+    },
+    {
+      "rank": 16,
+      "user": {
+        "handle": "kyivindependent.com",
+        "display_name": "The Kyiv Independent",
+        "initials": "TK",
+        "did": "did:plc:yazbevg3wkzp5llnzb44tqgh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
+        "profile_url": "https://bsky.app/profile/kyivindependent.com"
+      },
+      "ratio": "1:1",
+      "controversy": 2.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "⚡️Trump says he discussed Russia’s nuclear disarmament with Putin.\n\n\"Russia is willing to do it, and I think China is going to be willing to do it. We can’t let nuclear weapons proliferate,\" U.S. President Donald Trump said.",
+        "uri": "at://did:plc:yazbevg3wkzp5llnzb44tqgh/app.bsky.feed.post/3lxbuzurnbk2h",
+        "created_at": "2025-08-26T06:26:13.237Z",
+        "url": "https://bsky.app/profile/kyivindependent.com/post/3lxbuzurnbk2h"
+      },
+      "engagement": {
+        "likes": 16,
+        "replies": 15,
+        "reposts": 4,
+        "quotes": 5,
+        "formatted": {
+          "likes": "16",
+          "replies": "15",
+          "reposts": "4",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "He's really going all out in his campaign to \"win\" a Nobel Peace Prize, isn't he!  Expect him to...",
+        "from the idiot who believes that putin wants peace and is willing to negotiate.\n\n🤡😄",
+        "Pure delusion"
+      ],
+      "metrics": {
+        "ratio_score": 4.0,
+        "time_bucket": 0,
+        "total_engagement": 40,
+        "post_age_minutes": 6.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T06:43:29.357301+00:00",
+      "last_updated": "2025-08-26T06:43:29.357301+00:00",
+      "analysis_windows": [
+        "2025-08-26T06:43:29.357301+00:00"
+      ],
+      "peak_controversy": 2.0,
       "trend": "new"
     },
     {
@@ -1196,58 +1195,60 @@
     {
       "rank": 22,
       "user": {
-        "handle": "benrothenberg.bsky.social",
-        "display_name": "Ben Rothenberg",
-        "initials": "BR",
-        "did": "did:plc:v6qlczlagkgpcpvdbnahevw5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v6qlczlagkgpcpvdbnahevw5/bafkreib3pwplrjuhdi2c7xphb6usa6o4wee4jag2bq7kgkjo67w4arzl3a@jpeg",
-        "profile_url": "https://bsky.app/profile/benrothenberg.bsky.social"
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
       },
       "ratio": "1:1",
-      "controversy": 1.5,
-      "change": "NEW",
-      "change_type": "new",
+      "controversy": 1.1,
+      "change": "-1.5",
+      "change_type": "negative",
       "post": {
-        "text": "Breaking:\n\nBounces can report, confirmed by USTA, that the photographer was escorted from the court by US Open security. \n\nHis credential has been revoked for the 2025 US Open.",
-        "uri": "at://did:plc:v6qlczlagkgpcpvdbnahevw5/app.bsky.feed.post/3lx76qjb5222w",
-        "created_at": "2025-08-25T04:41:57.376Z",
-        "url": "https://bsky.app/profile/benrothenberg.bsky.social/post/3lx76qjb5222w"
+        "text": "George Herman Ruth, a Tennessee man with the same full name as the celebrated Yankees slugger Babe Ruth, used the names of retired and dead baseball players to file fraudulent class-action settlement claims, prosecutors said.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxbgpt3dnw2x",
+        "created_at": "2025-08-26T02:10:03.481838Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lxbgpt3dnw2x"
       },
       "engagement": {
-        "likes": 66,
-        "replies": 11,
-        "reposts": 8,
-        "quotes": 10,
+        "likes": 51,
+        "replies": 10,
+        "reposts": 10,
+        "quotes": 9,
         "formatted": {
-          "likes": "66",
-          "replies": "11",
-          "reposts": "8",
-          "quotes": "10"
+          "likes": "51",
+          "replies": "10",
+          "reposts": "10",
+          "quotes": "9"
         }
       },
       "sample_replies": [
-        "now give medvedev a $250k fine. he was beyond disgusting. so happy bonzi pulled through.",
-        "So he’s been penalised but Medvedev’s vile antics will go unpunished?",
-        "Ok, but was it his first time at a tennis event or was he impaired or what?",
-        "They showed him being escorted out on TV"
+        "bsky.app/profile/edhi...\nFunny how 'The New York Biden Is Old Times'\nnever mentions Donald Trump's...",
+        "Has trump hired him yet?",
+        "Will he be represented by Ty Cobb?",
+        "Gonna take a wild guess: he’s a Republican."
       ],
       "metrics": {
-        "ratio_score": 3.4,
-        "time_bucket": 2,
-        "total_engagement": 50,
-        "post_age_minutes": 36.0
+        "ratio_score": 2.33,
+        "time_bucket": 3,
+        "total_engagement": 56,
+        "post_age_minutes": 52.4
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T05:29:35.851769+00:00",
-      "last_updated": "2025-08-25T05:29:35.851769+00:00",
+      "first_detected": "2025-08-25T20:21:21.298573+00:00",
+      "last_updated": "2025-08-26T03:17:52.496353+00:00",
       "analysis_windows": [
-        "2025-08-25T05:29:35.851769+00:00"
+        "2025-08-25T20:21:21.298573+00:00",
+        "2025-08-25T20:21:22.027664+00:00",
+        "2025-08-26T03:17:52.496353+00:00"
       ],
-      "peak_controversy": 1.5,
-      "trend": "new"
+      "peak_controversy": 2.6,
+      "trend": "rising"
     },
     {
       "rank": 23,
@@ -1420,64 +1421,6 @@
     {
       "rank": 26,
       "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:1",
-      "controversy": 1.1,
-      "change": "-1.5",
-      "change_type": "negative",
-      "post": {
-        "text": "George Herman Ruth, a Tennessee man with the same full name as the celebrated Yankees slugger Babe Ruth, used the names of retired and dead baseball players to file fraudulent class-action settlement claims, prosecutors said.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxbgpt3dnw2x",
-        "created_at": "2025-08-26T02:10:03.481838Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lxbgpt3dnw2x"
-      },
-      "engagement": {
-        "likes": 51,
-        "replies": 10,
-        "reposts": 10,
-        "quotes": 9,
-        "formatted": {
-          "likes": "51",
-          "replies": "10",
-          "reposts": "10",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "bsky.app/profile/edhi...\nFunny how 'The New York Biden Is Old Times'\nnever mentions Donald Trump's...",
-        "Has trump hired him yet?",
-        "Will he be represented by Ty Cobb?",
-        "Gonna take a wild guess: he’s a Republican."
-      ],
-      "metrics": {
-        "ratio_score": 2.33,
-        "time_bucket": 3,
-        "total_engagement": 56,
-        "post_age_minutes": 52.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T20:21:21.298573+00:00",
-      "last_updated": "2025-08-26T03:17:52.496353+00:00",
-      "analysis_windows": [
-        "2025-08-25T20:21:21.298573+00:00",
-        "2025-08-25T20:21:22.027664+00:00",
-        "2025-08-26T03:17:52.496353+00:00"
-      ],
-      "peak_controversy": 2.6,
-      "trend": "rising"
-    },
-    {
-      "rank": 27,
-      "user": {
         "handle": "reuters.com",
         "display_name": "Reuters",
         "initials": "RE",
@@ -1532,7 +1475,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "dennycarter.bsky.social",
         "display_name": "Denny Carter",
@@ -1582,6 +1525,62 @@
       "last_updated": "2025-08-25T12:59:15.287413+00:00",
       "analysis_windows": [
         "2025-08-25T12:59:15.287413+00:00"
+      ],
+      "peak_controversy": 1.1,
+      "trend": "new"
+    },
+    {
+      "rank": 28,
+      "user": {
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
+      },
+      "ratio": "8:0",
+      "controversy": 1.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxbuxdzpdw2t",
+        "created_at": "2025-08-26T06:24:48.308Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lxbuxdzpdw2t"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 8,
+        "formatted": {
+          "likes": "6",
+          "replies": "8",
+          "reposts": "0",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "I felt my IQ drop about 50 points just reading this headline.",
+        "The answer is no, and it's ridiculous to even ask. You might as well ask a calculator.",
+        "\"Can an investment get the sads?\"",
+        "I think it's obvious that people with interest in AI being viewed as \"sentient\"--\"intelligence\" as..."
+      ],
+      "metrics": {
+        "ratio_score": 16.0,
+        "time_bucket": 0,
+        "total_engagement": 22,
+        "post_age_minutes": 8.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T06:43:29.485894+00:00",
+      "last_updated": "2025-08-26T06:43:29.485894+00:00",
+      "analysis_windows": [
+        "2025-08-26T06:43:29.485894+00:00"
       ],
       "peak_controversy": 1.1,
       "trend": "new"
@@ -1645,62 +1644,6 @@
     {
       "rank": 30,
       "user": {
-        "handle": "deemarleyy.bsky.social",
-        "display_name": "DeeMarleyy😶‍🌫️🍃",
-        "initials": "DE",
-        "did": "did:plc:vrgu6zwmbtatfohzhabru7n4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrgu6zwmbtatfohzhabru7n4/bafkreidlgewzjghp57j6xh4j5baontm4moe3o2wpxi4gf5kwncjipokkqe@jpeg",
-        "profile_url": "https://bsky.app/profile/deemarleyy.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "But are you gonna call me pretty while your dick is down my throat and I got tears in my eyes looking like I’m tryna off myself?👀👀👀",
-        "uri": "at://did:plc:vrgu6zwmbtatfohzhabru7n4/app.bsky.feed.post/3lx76k4mxzk23",
-        "created_at": "2025-08-25T04:38:22.806Z",
-        "url": "https://bsky.app/profile/deemarleyy.bsky.social/post/3lx76k4mxzk23"
-      },
-      "engagement": {
-        "likes": 26,
-        "replies": 7,
-        "reposts": 3,
-        "quotes": 7,
-        "formatted": {
-          "likes": "26",
-          "replies": "7",
-          "reposts": "3",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "Keep goin👀",
-        "… *writes down add tears* 😌",
-        "Bouta hack your account and repost it loudly🙂‍↕️😭",
-        "😍😍😍😍😍😍😍😍😍"
-      ],
-      "metrics": {
-        "ratio_score": 7.5,
-        "time_bucket": 2,
-        "total_engagement": 31,
-        "post_age_minutes": 39.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T05:29:35.972116+00:00",
-      "last_updated": "2025-08-25T05:29:35.972116+00:00",
-      "analysis_windows": [
-        "2025-08-25T05:29:35.972116+00:00"
-      ],
-      "peak_controversy": 0.9,
-      "trend": "new"
-    },
-    {
-      "rank": 31,
-      "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
         "initials": "TA",
@@ -1755,7 +1698,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
@@ -1806,6 +1749,60 @@
       "last_updated": "2025-08-25T16:20:17.854354+00:00",
       "analysis_windows": [
         "2025-08-25T16:20:17.854354+00:00"
+      ],
+      "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 32,
+      "user": {
+        "handle": "paigeyspice.bsky.social",
+        "display_name": "Paige",
+        "initials": "PA",
+        "did": "did:plc:iwfbanoozhsnztagl2aqc76v",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwfbanoozhsnztagl2aqc76v/bafkreifhtdohmak6afp3okw2djzp4eovz7gie32jqnh3emkup32l2ji6zy@jpeg",
+        "profile_url": "https://bsky.app/profile/paigeyspice.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ok this girl just go right off & fck herself. \n\nProving to us all day long why she has no friends in this house. #BB27",
+        "uri": "at://did:plc:iwfbanoozhsnztagl2aqc76v/app.bsky.feed.post/3lxbs3jk3z22t",
+        "created_at": "2025-08-26T05:33:27.341Z",
+        "url": "https://bsky.app/profile/paigeyspice.bsky.social/post/3lxbs3jk3z22t"
+      },
+      "engagement": {
+        "likes": 27,
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 6,
+        "formatted": {
+          "likes": "27",
+          "replies": "3",
+          "reposts": "2",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "As if anyone would believe it. As if we haven't been watching Rachel for FIFTEEN YEARS.",
+        "She looks at the camera 3 times praying for her big TV moment.\nShe’s a pretty vile girl actually…..."
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "time_bucket": 3,
+        "total_engagement": 38,
+        "post_age_minutes": 59.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T06:43:29.617569+00:00",
+      "last_updated": "2025-08-26T06:43:29.617569+00:00",
+      "analysis_windows": [
+        "2025-08-26T06:43:29.617569+00:00"
       ],
       "peak_controversy": 0.8,
       "trend": "new"
@@ -1919,62 +1916,6 @@
         "2025-08-26T03:17:52.496268+00:00"
       ],
       "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 35,
-      "user": {
-        "handle": "keeksreal.bsky.social",
-        "display_name": "🇹🇹Menacing Keeks",
-        "initials": "🇹K",
-        "did": "did:plc:hur5kz4omzpee5kh5i6qifdp",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hur5kz4omzpee5kh5i6qifdp/bafkreifi3xmfnwzg35onezx34enj3xzcunajpra6n4bt3bkhdjflbnjyru@jpeg",
-        "profile_url": "https://bsky.app/profile/keeksreal.bsky.social"
-      },
-      "ratio": "8:0",
-      "controversy": 0.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "If you have duck nails and you touch my next step, it is biting you HARDDDDDD\n\nThis lady just stroked my leg with some duck nails. I almost screamed",
-        "uri": "at://did:plc:hur5kz4omzpee5kh5i6qifdp/app.bsky.feed.post/3lx763g2nss2n",
-        "created_at": "2025-08-25T04:30:09.376Z",
-        "url": "https://bsky.app/profile/keeksreal.bsky.social/post/3lx763g2nss2n"
-      },
-      "engagement": {
-        "likes": 7,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 8,
-        "formatted": {
-          "likes": "7",
-          "replies": "3",
-          "reposts": "0",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "I HATE IT like ok you put them ugly ass shit on. I don't trust your decision-making skills off...",
-        "They’re so ugly 😭😭😭😭😭😭😭 like pls don’t fuckin touch me with your questionable choices",
-        "😭 I seen this video and this lady struggling to put rings on 😭😭😭",
-        "😭😭 I never got them when they were a trend bc I thought they were hideous 😭"
-      ],
-      "metrics": {
-        "ratio_score": 11.0,
-        "time_bucket": 3,
-        "total_engagement": 14,
-        "post_age_minutes": 47.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T05:29:36.089871+00:00",
-      "last_updated": "2025-08-25T05:29:36.089871+00:00",
-      "analysis_windows": [
-        "2025-08-25T05:29:36.089871+00:00"
-      ],
-      "peak_controversy": 0.3,
       "trend": "new"
     }
   ]
