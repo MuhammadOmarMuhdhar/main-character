@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-26T06:43:29.617721+00:00",
-    "last_metrics_update": "2025-08-26T09:17:44.529921+00:00",
+    "last_metrics_update": "2025-08-26T09:32:35.017117+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 34,
@@ -35,7 +35,7 @@
         "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
       },
       "engagement": {
-        "likes": 1259,
+        "likes": 1261,
         "replies": 303,
         "reposts": 327,
         "quotes": 52,
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 3231,
-        "replies": 832,
-        "reposts": 776,
-        "quotes": 154,
+        "likes": 3265,
+        "replies": 837,
+        "reposts": 785,
+        "quotes": 156,
         "formatted": {
-          "likes": "3.2K",
-          "replies": "832",
-          "reposts": "776",
-          "quotes": "154"
+          "likes": "3.3K",
+          "replies": "837",
+          "reposts": "785",
+          "quotes": "156"
         }
       },
       "sample_replies": [
@@ -319,12 +319,12 @@
         "url": "https://bsky.app/profile/mrsbettybowers.bsky.social/post/3lxaeba2v6s27"
       },
       "engagement": {
-        "likes": 395,
+        "likes": 396,
         "replies": 117,
         "reposts": 52,
         "quotes": 20,
         "formatted": {
-          "likes": "395",
+          "likes": "396",
           "replies": "117",
           "reposts": "52",
           "quotes": "20"
@@ -375,13 +375,13 @@
         "url": "https://bsky.app/profile/georgetakei.bsky.social/post/3lxb2msd4ga2a"
       },
       "engagement": {
-        "likes": 222,
-        "replies": 239,
+        "likes": 223,
+        "replies": 242,
         "reposts": 12,
         "quotes": 17,
         "formatted": {
-          "likes": "222",
-          "replies": "239",
+          "likes": "223",
+          "replies": "242",
           "reposts": "12",
           "quotes": "17"
         }
@@ -601,12 +601,12 @@
         "likes": 142,
         "replies": 120,
         "reposts": 41,
-        "quotes": 30,
+        "quotes": 31,
         "formatted": {
           "likes": "142",
           "replies": "120",
           "reposts": "41",
-          "quotes": "30"
+          "quotes": "31"
         }
       },
       "sample_replies": [
@@ -879,12 +879,12 @@
       },
       "engagement": {
         "likes": 80,
-        "replies": 61,
+        "replies": 62,
         "reposts": 14,
         "quotes": 18,
         "formatted": {
           "likes": "80",
-          "replies": "61",
+          "replies": "62",
           "reposts": "14",
           "quotes": "18"
         }
@@ -1539,7 +1539,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "53:1",
+      "ratio": "55:1",
       "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
@@ -1550,15 +1550,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxbuxdzpdw2t"
       },
       "engagement": {
-        "likes": 28,
-        "replies": 200,
+        "likes": 30,
+        "replies": 212,
         "reposts": 6,
-        "quotes": 317,
+        "quotes": 332,
         "formatted": {
-          "likes": "28",
-          "replies": "200",
+          "likes": "30",
+          "replies": "212",
           "reposts": "6",
-          "quotes": "317"
+          "quotes": "332"
         }
       },
       "sample_replies": [
