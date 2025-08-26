@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-26T14:32:58.863191+00:00",
-    "last_metrics_update": "2025-08-26T17:32:51.980397+00:00",
+    "last_full_analysis": "2025-08-26T18:05:42.232906+00:00",
+    "last_metrics_update": "2025-08-26T18:05:42.232906+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 37,
+    "main_characters_count": 34,
     "rolling_window": {
-      "last_update": "2025-08-26T14:32:58.863191+00:00",
+      "last_update": "2025-08-26T18:05:42.232906+00:00",
       "new_entries_added": 9,
-      "total_in_window": 37,
+      "total_in_window": 34,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,62 +16,6 @@
   "main_characters": [
     {
       "rank": 1,
-      "user": {
-        "handle": "meidastouch.com",
-        "display_name": "MeidasTouch",
-        "initials": "ME",
-        "did": "did:plc:xjc7mkotpenvhh6ffewkdpyn",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjc7mkotpenvhh6ffewkdpyn/bafkreifmocqyainrhqyrla3lewf7xb6mj3vqchd73iefmumh6hs6jtdcmy@jpeg",
-        "profile_url": "https://bsky.app/profile/meidastouch.com"
-      },
-      "ratio": "1:6",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "???",
-        "uri": "at://did:plc:xjc7mkotpenvhh6ffewkdpyn/app.bsky.feed.post/3lxadzb4lr22s",
-        "created_at": "2025-08-25T15:48:59.270Z",
-        "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
-      },
-      "engagement": {
-        "likes": 1281,
-        "replies": 306,
-        "reposts": 328,
-        "quotes": 53,
-        "formatted": {
-          "likes": "1.3K",
-          "replies": "306",
-          "reposts": "328",
-          "quotes": "53"
-        }
-      },
-      "sample_replies": [
-        "Must be one of those MS-13 tattoos he loves so much",
-        "Please let him be near death’s door",
-        "whatever lives in there is trying to escape",
-        "His soul is rotten and he’s rotting from the inside out."
-      ],
-      "metrics": {
-        "ratio_score": 1.77,
-        "time_bucket": 0,
-        "total_engagement": 525,
-        "post_age_minutes": 13.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T16:20:14.577584+00:00",
-      "last_updated": "2025-08-25T16:20:14.577584+00:00",
-      "analysis_windows": [
-        "2025-08-25T16:20:14.577584+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 2,
       "user": {
         "handle": "brendelbored.bsky.social",
         "display_name": "Brendel",
@@ -127,7 +71,7 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "user": {
         "handle": "gtconway.bsky.social",
         "display_name": "George Conway  👊🇺🇸🔥",
@@ -182,7 +126,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "user": {
         "handle": "atrupar.com",
         "display_name": "Aaron Rupar",
@@ -196,109 +140,111 @@
       "change": "=",
       "change_type": "neutral",
       "post": {
-        "text": "Trump calls Gretchen Whitmer \"Kristi -- uh, Kristi Whitman. Whitmer.\"",
-        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lxadqqhbgy2i",
-        "created_at": "2025-08-25T15:44:13.345Z",
-        "url": "https://bsky.app/profile/atrupar.com/post/3lxadqqhbgy2i"
+        "text": "TRUMP: You've also found many bags of information -- I think they call them burn bags. They're supposed to be burned & didn't get burned having to do with how corrupt the 2020 election was. When will it be coming out?\n\nGABBARD: I will be the first to brief you once we have that information collected",
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lxd2735s652f",
+        "created_at": "2025-08-26T17:31:16.127Z",
+        "url": "https://bsky.app/profile/atrupar.com/post/3lxd2735s652f"
       },
       "engagement": {
-        "likes": 883,
-        "replies": 165,
-        "reposts": 194,
-        "quotes": 96,
+        "likes": 201,
+        "replies": 115,
+        "reposts": 50,
+        "quotes": 28,
         "formatted": {
-          "likes": "883",
-          "replies": "165",
-          "reposts": "194",
-          "quotes": "96"
+          "likes": "201",
+          "replies": "115",
+          "reposts": "50",
+          "quotes": "28"
         }
       },
       "sample_replies": [
-        "Has anyone else noticed that he is usually just parked behind the Resolute Desk these days?",
-        "Remember way back when a president being old, feeble, and senile was something Republicans were...",
-        "If only Jake Tapper were alive to see this",
-        "And hiding his hands."
+        "So…never because THERE IS NO EVIDENCE SINCE THE ELECTION WASN’T FUCKING STOLEN!!!!!!!",
+        "That's what they are going to use to demonize and imprison members of the Democratic Party. It will...",
+        "Will they be released sooner than the Epstein files?",
+        "Can you say \"manufacturing a crisis like the Reichstag.\""
       ],
       "metrics": {
-        "ratio_score": 1.73,
+        "ratio_score": 2.8,
         "time_bucket": 1,
-        "total_engagement": 616,
-        "post_age_minutes": 18.5
+        "total_engagement": 394,
+        "post_age_minutes": 16.6
       },
       "previous_analysis": {
         "controversy": 10.0,
-        "rank": 1
+        "rank": 4
       },
-      "first_detected": "2025-08-25T16:20:16.867513+00:00",
-      "last_updated": "2025-08-25T16:20:18.001158+00:00",
+      "first_detected": "2025-08-26T18:05:41.142160+00:00",
+      "last_updated": "2025-08-26T18:05:42.232828+00:00",
       "analysis_windows": [
-        "2025-08-25T16:20:16.867513+00:00",
-        "2025-08-25T16:20:18.001158+00:00",
-        "2025-08-25T16:20:18.001158+00:00",
-        "2025-08-25T16:20:18.001158+00:00",
-        "2025-08-25T16:20:18.001158+00:00"
+        "2025-08-26T18:05:41.142160+00:00",
+        "2025-08-26T18:05:42.232828+00:00",
+        "2025-08-26T18:05:42.232828+00:00",
+        "2025-08-26T18:05:42.232828+00:00",
+        "2025-08-26T18:05:42.232828+00:00",
+        "2025-08-26T18:05:42.232828+00:00",
+        "2025-08-26T18:05:42.232828+00:00"
       ],
       "peak_controversy": 10.0,
       "trend": "stable"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "user": {
-        "handle": "mrsbettybowers.bsky.social",
-        "display_name": "Mrs. Betty Bowers",
-        "initials": "MB",
-        "did": "did:plc:uayevtgtbwot25zhocjzb6lv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uayevtgtbwot25zhocjzb6lv/bafkreih3p5qdx4eya6dz6s5qwemy4mdfdewm23kxcyj3vm4ipfto33xmni@jpeg",
-        "profile_url": "https://bsky.app/profile/mrsbettybowers.bsky.social"
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
       },
-      "ratio": "1:3",
-      "controversy": 7.4,
+      "ratio": "1:1",
+      "controversy": 7.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "I went to a movie with my child, and there was a Peruvian couple in it, and this led to questions from my child, and it messed me up and threw me for a loop. These are kids! We have to show that at this age? They’re going to ask questions. I don’t have the answer.",
-        "uri": "at://did:plc:uayevtgtbwot25zhocjzb6lv/app.bsky.feed.post/3lxaeba2v6s27",
-        "created_at": "2025-08-25T15:53:26.607Z",
-        "url": "https://bsky.app/profile/mrsbettybowers.bsky.social/post/3lxaeba2v6s27"
+        "text": "JUST IN: Taylor Swift and Travis Kelce announce their engagement on social media. https://cnn.it/3VhjD8O",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxd2hxi7my25",
+        "created_at": "2025-08-26T17:36:14.171097653Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lxd2hxi7my25"
       },
       "engagement": {
-        "likes": 403,
-        "replies": 120,
-        "reposts": 53,
-        "quotes": 21,
+        "likes": 105,
+        "replies": 17,
+        "reposts": 14,
+        "quotes": 11,
         "formatted": {
-          "likes": "403",
-          "replies": "120",
-          "reposts": "53",
-          "quotes": "21"
+          "likes": "105",
+          "replies": "17",
+          "reposts": "14",
+          "quotes": "11"
         }
       },
       "sample_replies": [
-        "Totally OK to have two women acting like they’re lesbians rubbing on watch other IN SNOOPS video...",
-        "The \"I don't know how answer simple questions about two people in love\" is ridiculous. When my kid...",
-        "It’s such a strange thing, to imagine that a child, who doesn’t even consider how people procreate,...",
-        "Hey Grampa Snoop... what are hoes and bitches?"
+        "who cares? You should be talking about the #epstein files.",
+        "There is nothing wrong with taking pleasure in something good and positive. They seem like they are...",
+        "And trump is destroying democracy. How 'bout keeping your eye on the ball @cnn.com",
+        "ENGAGED IN WHAT"
       ],
       "metrics": {
-        "ratio_score": 4.56,
+        "ratio_score": 1.87,
         "time_bucket": 0,
-        "total_engagement": 148,
-        "post_age_minutes": 9.3
+        "total_engagement": 147,
+        "post_age_minutes": 11.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T16:20:17.147145+00:00",
-      "last_updated": "2025-08-25T16:20:17.147145+00:00",
+      "first_detected": "2025-08-26T18:05:41.291540+00:00",
+      "last_updated": "2025-08-26T18:05:41.291540+00:00",
       "analysis_windows": [
-        "2025-08-25T16:20:17.147145+00:00"
+        "2025-08-26T18:05:41.291540+00:00"
       ],
-      "peak_controversy": 7.4,
+      "peak_controversy": 7.3,
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "user": {
         "handle": "adambienkov.bsky.social",
         "display_name": "Adam Bienkov",
@@ -354,7 +300,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "user": {
         "handle": "georgetakei.bsky.social",
         "display_name": "George Takei",
@@ -410,7 +356,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "patriottakes.bsky.social",
         "display_name": "PatriotTakes 🇺🇸",
@@ -466,7 +412,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "user": {
         "handle": "kenmartin.bsky.social",
         "display_name": "Ken Martin",
@@ -522,7 +468,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "user": {
         "handle": "npr.org",
         "display_name": "NPR",
@@ -578,7 +524,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -635,7 +581,7 @@
       "trend": "rising"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "prof-hinkley.bsky.social",
         "display_name": "Travis comma bitch",
@@ -690,63 +636,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
-      "user": {
-        "handle": "antongerashchenko.bsky.social",
-        "display_name": "Anton Gerashchenko",
-        "initials": "AG",
-        "did": "did:plc:5jbj2wzit57tfjmmwocupfs7",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5jbj2wzit57tfjmmwocupfs7/bafkreiczdq3dlnnvhnc5nyn7ciyput5n7la63x2wh42zp7zjpvxcnrekum@jpeg",
-        "profile_url": "https://bsky.app/profile/antongerashchenko.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trump:\nI think our nation now is the most respected nation anywhere in the world by far.You saw that with the European leaders,you saw that with NATO,where they respect your president to a level that they jokingly call me the president of Europe.They call me the president of Europe,which is an honor",
-        "uri": "at://did:plc:5jbj2wzit57tfjmmwocupfs7/app.bsky.feed.post/3lxaeefm2t22d",
-        "created_at": "2025-08-25T15:55:13.075Z",
-        "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lxaeefm2t22d"
-      },
-      "engagement": {
-        "likes": 171,
-        "replies": 139,
-        "reposts": 44,
-        "quotes": 38,
-        "formatted": {
-          "likes": "171",
-          "replies": "139",
-          "reposts": "44",
-          "quotes": "38"
-        }
-      },
-      "sample_replies": [
-        "He is an idiot. Europe hates him, those leaders just appeal to his narcissism because they know...",
-        "Delusional",
-        "IF they actually said that, they were clearly mocking him, not praising him, but he's too stupid to...",
-        "European here. We hate him"
-      ],
-      "metrics": {
-        "ratio_score": 3.1,
-        "time_bucket": 0,
-        "total_engagement": 73,
-        "post_age_minutes": 7.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T16:20:17.570934+00:00",
-      "last_updated": "2025-08-25T16:20:17.570934+00:00",
-      "analysis_windows": [
-        "2025-08-25T16:20:17.570934+00:00"
-      ],
-      "peak_controversy": 3.6,
-      "trend": "new"
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "user": {
         "handle": "chadbourn.bsky.social",
         "display_name": "Mark Chadbourn",
@@ -802,7 +692,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 13,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -858,7 +748,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 14,
       "user": {
         "handle": "timobrien.bsky.social",
         "display_name": "Tim O’Brien",
@@ -914,7 +804,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "user": {
         "handle": "schwarz.bsky.social",
         "display_name": "☀️ Jon Schwarz ☀️",
@@ -970,7 +860,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "user": {
         "handle": "apnews.com",
         "display_name": "The Associated Press",
@@ -1026,7 +916,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1082,7 +972,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -1137,7 +1027,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -1193,7 +1083,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "user": {
         "handle": "violanorth.bsky.social",
         "display_name": "Sam Bergman",
@@ -1249,7 +1139,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "user": {
         "handle": "igotyoedges.blacksky.app",
         "display_name": "ᴾᵃᵖⁱ ᴄʜɪᴄʜᴏꜱ ᴅᴀʏ | 9/5|  🥷⃤",
@@ -1305,7 +1195,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "user": {
         "handle": "awfulannouncing.bsky.social",
         "display_name": "Awful Announcing",
@@ -1361,7 +1251,7 @@
       "trend": "rising"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "user": {
         "handle": "mollyploofkins.bsky.social",
         "display_name": "Molly Ploofkins",
@@ -1417,7 +1307,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 24,
       "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
@@ -1472,119 +1362,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
-      "user": {
-        "handle": "nbcnews.com",
-        "display_name": "NBC News",
-        "initials": "NN",
-        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
-        "profile_url": "https://bsky.app/profile/nbcnews.com"
-      },
-      "ratio": "1:2",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The U.S. government could take equity stakes in more companies going forward, potentially through an American sovereign wealth fund, according to one of President Trump's top economic advisers.",
-        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxb2ynwwq22a",
-        "created_at": "2025-08-25T22:40:15Z",
-        "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
-      },
-      "engagement": {
-        "likes": 29,
-        "replies": 35,
-        "reposts": 22,
-        "quotes": 11,
-        "formatted": {
-          "likes": "29",
-          "replies": "35",
-          "reposts": "22",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "So the gov double dipping? \n\nTaxes on companies AND taking an equity stake??\n\nWay to kill off...",
-        "Stop promoting fascism. They're extorting companies",
-        "Doubt you’d be framing this in such a blasé way if a Democrat was doing this.",
-        "Socialism."
-      ],
-      "metrics": {
-        "ratio_score": 2.43,
-        "time_bucket": 3,
-        "total_engagement": 67,
-        "post_age_minutes": 52.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.628483+00:00",
-      "last_updated": "2025-08-25T23:50:15.628483+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.628483+00:00"
-      ],
-      "peak_controversy": 1.3,
-      "trend": "new"
-    },
-    {
-      "rank": 28,
-      "user": {
-        "handle": "the-independent.com",
-        "display_name": "The Independent",
-        "initials": "TI",
-        "did": "did:plc:yc54nj2zlnqrdotewpkbrauy",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yc54nj2zlnqrdotewpkbrauy/bafkreihgzzeqj4wbsknmnpjue6zd6nzd3rubakgjv4wrcuaqzhwlrj2t3i@jpeg",
-        "profile_url": "https://bsky.app/profile/the-independent.com"
-      },
-      "ratio": "1:2",
-      "controversy": 1.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "BREAKING | Trump says he is not a dictator but insists many people think the US could use one",
-        "uri": "at://did:plc:yc54nj2zlnqrdotewpkbrauy/app.bsky.feed.post/3lxae6r7aef2k",
-        "created_at": "2025-08-25T15:52:03.745Z",
-        "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
-      },
-      "engagement": {
-        "likes": 32,
-        "replies": 25,
-        "reposts": 15,
-        "quotes": 6,
-        "formatted": {
-          "likes": "32",
-          "replies": "25",
-          "reposts": "15",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "aka he's a dictator",
-        "Over half of Republicans strongly support Trump’s performance as he exerts dictatorial powers and...",
-        "Dick",
-        "Thats them and good for those fucked up republicans. Most are white racist assholes and just want a..."
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 0,
-        "total_engagement": 25,
-        "post_age_minutes": 10.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T16:20:17.712006+00:00",
-      "last_updated": "2025-08-25T16:20:17.712006+00:00",
-      "analysis_windows": [
-        "2025-08-25T16:20:17.712006+00:00"
-      ],
-      "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
-      "rank": 29,
+      "rank": 25,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -1642,7 +1420,119 @@
       "trend": "rising"
     },
     {
-      "rank": 30,
+      "rank": 26,
+      "user": {
+        "handle": "nbcnews.com",
+        "display_name": "NBC News",
+        "initials": "NN",
+        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
+        "profile_url": "https://bsky.app/profile/nbcnews.com"
+      },
+      "ratio": "1:2",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The U.S. government could take equity stakes in more companies going forward, potentially through an American sovereign wealth fund, according to one of President Trump's top economic advisers.",
+        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxb2ynwwq22a",
+        "created_at": "2025-08-25T22:40:15Z",
+        "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
+      },
+      "engagement": {
+        "likes": 29,
+        "replies": 35,
+        "reposts": 22,
+        "quotes": 11,
+        "formatted": {
+          "likes": "29",
+          "replies": "35",
+          "reposts": "22",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "So the gov double dipping? \n\nTaxes on companies AND taking an equity stake??\n\nWay to kill off...",
+        "Stop promoting fascism. They're extorting companies",
+        "Doubt you’d be framing this in such a blasé way if a Democrat was doing this.",
+        "Socialism."
+      ],
+      "metrics": {
+        "ratio_score": 2.43,
+        "time_bucket": 3,
+        "total_engagement": 67,
+        "post_age_minutes": 52.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T23:50:15.628483+00:00",
+      "last_updated": "2025-08-25T23:50:15.628483+00:00",
+      "analysis_windows": [
+        "2025-08-25T23:50:15.628483+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 27,
+      "user": {
+        "handle": "onestpress.onestnetwork.com",
+        "display_name": "Olga Nesterova",
+        "initials": "ON",
+        "did": "did:plc:nb6uhiglzowsdcbgwv2itwa7",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nb6uhiglzowsdcbgwv2itwa7/bafkreigdro2lze2zrxo6kad2keulx7wuqu5eieo7vh2n5rfjwknh3t6loa@jpeg",
+        "profile_url": "https://bsky.app/profile/onestpress.onestnetwork.com"
+      },
+      "ratio": "2:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Trump: “We stopped 3 wars. Go to Africa. They like to say, Oh, you know, I love black people. I did great with the vote of the black people. But they say 'He's a racist, he's a racist.' Really?…The Congo, that's deep into deepest, darkest Africa.\"",
+        "uri": "at://did:plc:nb6uhiglzowsdcbgwv2itwa7/app.bsky.feed.post/3lxd2vftqpk2j",
+        "created_at": "2025-08-26T17:43:45.551Z",
+        "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxd2vftqpk2j"
+      },
+      "engagement": {
+        "likes": 13,
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 5,
+        "formatted": {
+          "likes": "13",
+          "replies": "2",
+          "reposts": "3",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Ha.  Now he’s Joseph Conrad.",
+        "I don't even know if quotes like this are parody or not any more. \n\nI'm going to guess this one is...",
+        "Not a chance in hell he knows who that is.\n\nHe probably saw this on like TBS at 2 in the morning...",
+        "All real. I just decide not to include videos per public request"
+      ],
+      "metrics": {
+        "ratio_score": 1.75,
+        "time_bucket": 0,
+        "total_engagement": 23,
+        "post_age_minutes": 4.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T18:05:41.693825+00:00",
+      "last_updated": "2025-08-26T18:05:41.693825+00:00",
+      "analysis_windows": [
+        "2025-08-26T18:05:41.693825+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 28,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1698,7 +1588,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "user": {
         "handle": "japantimes.co.jp",
         "display_name": "The Japan Times",
@@ -1754,7 +1644,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "user": {
         "handle": "missakemi.bsky.social",
         "display_name": "ItsAkemi",
@@ -1810,63 +1700,7 @@
       "trend": "new"
     },
     {
-      "rank": 33,
-      "user": {
-        "handle": "blackranga.blacksky.app",
-        "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
-        "initials": "GI",
-        "did": "did:plc:tom67pr2zmkziputghvxoe34",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreig32yjhwzcziwutr3ve4ptq6vuycbsl4apd3rcaf7ljiu73pevb5q@jpeg",
-        "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
-      },
-      "ratio": "68:0",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "You only get to choose two and the rest go in the trash what are you choosing? | #BlackSky",
-        "uri": "at://did:plc:tom67pr2zmkziputghvxoe34/app.bsky.feed.post/3lxae4laln22t",
-        "created_at": "2025-08-25T15:50:50.547Z",
-        "url": "https://bsky.app/profile/blackranga.blacksky.app/post/3lxae4laln22t"
-      },
-      "engagement": {
-        "likes": 25,
-        "replies": 17,
-        "reposts": 0,
-        "quotes": 68,
-        "formatted": {
-          "likes": "25",
-          "replies": "17",
-          "reposts": "0",
-          "quotes": "68"
-        }
-      },
-      "sample_replies": [
-        "Two handfuls.",
-        "First handful is going to be centered on them Reece's while the second handful is aiming for the...",
-        "🤭",
-        "Delete lol"
-      ],
-      "metrics": {
-        "ratio_score": 10.0,
-        "time_bucket": 0,
-        "total_engagement": 15,
-        "post_age_minutes": 11.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T16:20:17.854354+00:00",
-      "last_updated": "2025-08-25T16:20:17.854354+00:00",
-      "analysis_windows": [
-        "2025-08-25T16:20:17.854354+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 34,
+      "rank": 31,
       "user": {
         "handle": "paigeyspice.bsky.social",
         "display_name": "Paige",
@@ -1920,7 +1754,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 32,
       "user": {
         "handle": "chaclo.blacksky.app",
         "display_name": "ᴛʜᴇ ɴɪɴᴊᴀ ᴀɢᴇɴᴅᴀ",
@@ -1975,7 +1809,7 @@
       "trend": "new"
     },
     {
-      "rank": 36,
+      "rank": 33,
       "user": {
         "handle": "cherfan75.bsky.social",
         "display_name": "Cherfan75.Bsky.Social",
@@ -2031,7 +1865,7 @@
       "trend": "new"
     },
     {
-      "rank": 37,
+      "rank": 34,
       "user": {
         "handle": "dyeager64.bsky.social",
         "display_name": "donaldyeager  🏳️‍🌈💙",
