@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-26T06:43:29.617721+00:00",
-    "last_metrics_update": "2025-08-26T07:47:35.502041+00:00",
+    "last_metrics_update": "2025-08-26T08:02:21.103699+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 34,
@@ -35,7 +35,7 @@
         "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
       },
       "engagement": {
-        "likes": 1255,
+        "likes": 1256,
         "replies": 303,
         "reposts": 326,
         "quotes": 52,
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 3025,
-        "replies": 796,
-        "reposts": 728,
-        "quotes": 147,
+        "likes": 3055,
+        "replies": 801,
+        "reposts": 734,
+        "quotes": 148,
         "formatted": {
-          "likes": "3.0K",
-          "replies": "796",
-          "reposts": "728",
-          "quotes": "147"
+          "likes": "3.1K",
+          "replies": "801",
+          "reposts": "734",
+          "quotes": "148"
         }
       },
       "sample_replies": [
@@ -375,12 +375,12 @@
         "url": "https://bsky.app/profile/georgetakei.bsky.social/post/3lxb2msd4ga2a"
       },
       "engagement": {
-        "likes": 219,
+        "likes": 220,
         "replies": 237,
         "reposts": 12,
         "quotes": 17,
         "formatted": {
-          "likes": "219",
+          "likes": "220",
           "replies": "237",
           "reposts": "12",
           "quotes": "17"
@@ -598,12 +598,12 @@
         "url": "https://bsky.app/profile/antongerashchenko.bsky.social/post/3lxaeefm2t22d"
       },
       "engagement": {
-        "likes": 138,
+        "likes": 139,
         "replies": 117,
         "reposts": 41,
         "quotes": 25,
         "formatted": {
-          "likes": "138",
+          "likes": "139",
           "replies": "117",
           "reposts": "41",
           "quotes": "25"
@@ -654,14 +654,14 @@
         "url": "https://bsky.app/profile/chadbourn.bsky.social/post/3lxapvz2bkk24"
       },
       "engagement": {
-        "likes": 135,
+        "likes": 138,
         "replies": 45,
-        "reposts": 23,
+        "reposts": 24,
         "quotes": 12,
         "formatted": {
-          "likes": "135",
+          "likes": "138",
           "replies": "45",
-          "reposts": "23",
+          "reposts": "24",
           "quotes": "12"
         }
       },
@@ -878,15 +878,15 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lxbuzurnbk2h"
       },
       "engagement": {
-        "likes": 70,
-        "replies": 53,
-        "reposts": 13,
-        "quotes": 15,
+        "likes": 74,
+        "replies": 54,
+        "reposts": 14,
+        "quotes": 17,
         "formatted": {
-          "likes": "70",
-          "replies": "53",
-          "reposts": "13",
-          "quotes": "15"
+          "likes": "74",
+          "replies": "54",
+          "reposts": "14",
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -1539,7 +1539,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "113:1",
+      "ratio": "70:1",
       "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
@@ -1550,15 +1550,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxbuxdzpdw2t"
       },
       "engagement": {
-        "likes": 16,
-        "replies": 91,
-        "reposts": 1,
-        "quotes": 113,
+        "likes": 18,
+        "replies": 109,
+        "reposts": 2,
+        "quotes": 141,
         "formatted": {
-          "likes": "16",
-          "replies": "91",
-          "reposts": "1",
-          "quotes": "113"
+          "likes": "18",
+          "replies": "109",
+          "reposts": "2",
+          "quotes": "141"
         }
       },
       "sample_replies": [
