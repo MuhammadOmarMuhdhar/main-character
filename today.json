@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-26T06:43:29.617721+00:00",
-    "last_metrics_update": "2025-08-26T08:17:37.566810+00:00",
+    "last_metrics_update": "2025-08-26T08:32:59.628934+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 34,
@@ -35,7 +35,7 @@
         "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
       },
       "engagement": {
-        "likes": 1257,
+        "likes": 1258,
         "replies": 303,
         "reposts": 327,
         "quotes": 52,
@@ -91,12 +91,12 @@
         "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxb3u237ak2g"
       },
       "engagement": {
-        "likes": 474,
+        "likes": 475,
         "replies": 34,
         "reposts": 26,
         "quotes": 10,
         "formatted": {
-          "likes": "474",
+          "likes": "475",
           "replies": "34",
           "reposts": "26",
           "quotes": "10"
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 3089,
-        "replies": 804,
-        "reposts": 742,
-        "quotes": 149,
+        "likes": 3124,
+        "replies": 815,
+        "reposts": 749,
+        "quotes": 151,
         "formatted": {
           "likes": "3.1K",
-          "replies": "804",
-          "reposts": "742",
-          "quotes": "149"
+          "replies": "815",
+          "reposts": "749",
+          "quotes": "151"
         }
       },
       "sample_replies": [
@@ -376,12 +376,12 @@
       },
       "engagement": {
         "likes": 220,
-        "replies": 237,
+        "replies": 238,
         "reposts": 12,
         "quotes": 17,
         "formatted": {
           "likes": "220",
-          "replies": "237",
+          "replies": "238",
           "reposts": "12",
           "quotes": "17"
         }
@@ -655,12 +655,12 @@
       },
       "engagement": {
         "likes": 139,
-        "replies": 45,
+        "replies": 46,
         "reposts": 24,
         "quotes": 12,
         "formatted": {
           "likes": "139",
-          "replies": "45",
+          "replies": "46",
           "reposts": "24",
           "quotes": "12"
         }
@@ -878,13 +878,13 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lxbuzurnbk2h"
       },
       "engagement": {
-        "likes": 76,
-        "replies": 57,
+        "likes": 78,
+        "replies": 58,
         "reposts": 14,
         "quotes": 18,
         "formatted": {
-          "likes": "76",
-          "replies": "57",
+          "likes": "78",
+          "replies": "58",
           "reposts": "14",
           "quotes": "18"
         }
@@ -1381,12 +1381,12 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lxbgpt3dnw2x"
       },
       "engagement": {
-        "likes": 52,
+        "likes": 53,
         "replies": 10,
         "reposts": 10,
         "quotes": 9,
         "formatted": {
-          "likes": "52",
+          "likes": "53",
           "replies": "10",
           "reposts": "10",
           "quotes": "9"
@@ -1539,7 +1539,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "45:1",
+      "ratio": "58:1",
       "controversy": 1.1,
       "change": "NEW",
       "change_type": "new",
@@ -1550,15 +1550,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxbuxdzpdw2t"
       },
       "engagement": {
-        "likes": 21,
-        "replies": 129,
+        "likes": 24,
+        "replies": 157,
         "reposts": 4,
-        "quotes": 181,
+        "quotes": 233,
         "formatted": {
-          "likes": "21",
-          "replies": "129",
+          "likes": "24",
+          "replies": "157",
           "reposts": "4",
-          "quotes": "181"
+          "quotes": "233"
         }
       },
       "sample_replies": [
@@ -1606,12 +1606,12 @@
         "url": "https://bsky.app/profile/japantimes.co.jp/post/3lxbhu2ff4p25"
       },
       "engagement": {
-        "likes": 19,
+        "likes": 20,
         "replies": 17,
         "reposts": 11,
         "quotes": 8,
         "formatted": {
-          "likes": "19",
+          "likes": "20",
           "replies": "17",
           "reposts": "11",
           "quotes": "8"
