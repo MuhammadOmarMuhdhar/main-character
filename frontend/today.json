@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-26T11:12:00.440921+00:00",
-    "last_metrics_update": "2025-08-26T14:02:26.769014+00:00",
+    "last_full_analysis": "2025-08-26T14:32:58.863191+00:00",
+    "last_metrics_update": "2025-08-26T14:32:58.863191+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 35,
+    "main_characters_count": 37,
     "rolling_window": {
-      "last_update": "2025-08-26T11:12:00.440921+00:00",
-      "new_entries_added": 2,
-      "total_in_window": 35,
+      "last_update": "2025-08-26T14:32:58.863191+00:00",
+      "new_entries_added": 9,
+      "total_in_window": 37,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -244,63 +244,6 @@
     {
       "rank": 5,
       "user": {
-        "handle": "patriottakes.bsky.social",
-        "display_name": "PatriotTakes 🇺🇸",
-        "initials": "P🇺",
-        "did": "did:plc:7upoypvlxudsiv4pzbi5jtwf",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7upoypvlxudsiv4pzbi5jtwf/bafkreicziennxjeomrpoo5nftmwsngk4qfebago7tnbt5cmskn6arznh7i@jpeg",
-        "profile_url": "https://bsky.app/profile/patriottakes.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 8.1,
-      "change": "+2.5",
-      "change_type": "positive",
-      "post": {
-        "text": "Charlie Kirk: “…I’m drawn to President Trump despite all his vices and shortcomings.”",
-        "uri": "at://did:plc:7upoypvlxudsiv4pzbi5jtwf/app.bsky.feed.post/3lxb5b7rfuk2o",
-        "created_at": "2025-08-25T23:20:49.843Z",
-        "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lxb5b7rfuk2o"
-      },
-      "engagement": {
-        "likes": 191,
-        "replies": 186,
-        "reposts": 44,
-        "quotes": 22,
-        "formatted": {
-          "likes": "191",
-          "replies": "186",
-          "reposts": "44",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "It’s a cult of stupids and pedophiles.",
-        "You forgot the crazies, the greedies and the weirdos.",
-        "Of course - he’s given people permission to be the absolute worst version of themselves and take...",
-        "All these people who support Trump, despite his convictions for rape and fraud, disgust me"
-      ],
-      "metrics": {
-        "ratio_score": 5.0,
-        "time_bucket": 0,
-        "total_engagement": 161,
-        "post_age_minutes": 11.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T12:59:14.682387+00:00",
-      "last_updated": "2025-08-25T23:50:15.760354+00:00",
-      "analysis_windows": [
-        "2025-08-25T12:59:14.682387+00:00",
-        "2025-08-25T23:50:15.760354+00:00"
-      ],
-      "peak_controversy": 8.1,
-      "trend": "rising"
-    },
-    {
-      "rank": 6,
-      "user": {
         "handle": "mrsbettybowers.bsky.social",
         "display_name": "Mrs. Betty Bowers",
         "initials": "MB",
@@ -355,7 +298,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "user": {
         "handle": "adambienkov.bsky.social",
         "display_name": "Adam Bienkov",
@@ -411,7 +354,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "georgetakei.bsky.social",
         "display_name": "George Takei",
@@ -464,6 +407,62 @@
         "2025-08-25T23:50:15.360435+00:00"
       ],
       "peak_controversy": 6.6,
+      "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "patriottakes.bsky.social",
+        "display_name": "PatriotTakes 🇺🇸",
+        "initials": "P🇺",
+        "did": "did:plc:7upoypvlxudsiv4pzbi5jtwf",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7upoypvlxudsiv4pzbi5jtwf/bafkreicziennxjeomrpoo5nftmwsngk4qfebago7tnbt5cmskn6arznh7i@jpeg",
+        "profile_url": "https://bsky.app/profile/patriottakes.bsky.social"
+      },
+      "ratio": "1:3",
+      "controversy": 6.4,
+      "change": "-1.7",
+      "change_type": "negative",
+      "post": {
+        "text": "Trump Fundraising Email: “I Want to Try to Get to Heaven”\n\nTrump invokes eternal life in plea for campaign cash\n\nmeidasnews.com/news/trump-f...",
+        "uri": "at://did:plc:7upoypvlxudsiv4pzbi5jtwf/app.bsky.feed.post/3lxcmw26ao22i",
+        "created_at": "2025-08-26T13:33:34.481Z",
+        "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lxcmw26ao22i"
+      },
+      "engagement": {
+        "likes": 102,
+        "replies": 72,
+        "reposts": 30,
+        "quotes": 9,
+        "formatted": {
+          "likes": "102",
+          "replies": "72",
+          "reposts": "30",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "Can't buy your way in there...",
+        "Good luck with that…",
+        "You know what. I think he recently got some real bad news from his MD.",
+        "NEWS FLASH: DICTATORS WHO ARE VILE SOCIOPATHIC HUMANS DON'T GO TO HEAVEN..BETTER PREPARE FOR..."
+      ],
+      "metrics": {
+        "ratio_score": 2.61,
+        "time_bucket": 2,
+        "total_engagement": 213,
+        "post_age_minutes": 41.5
+      },
+      "previous_analysis": {
+        "controversy": 8.1,
+        "rank": 5
+      },
+      "first_detected": "2025-08-26T14:32:58.776495+00:00",
+      "last_updated": "2025-08-26T14:32:58.776495+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.776495+00:00"
+      ],
+      "peak_controversy": 6.4,
       "trend": "new"
     },
     {
@@ -581,6 +580,63 @@
     {
       "rank": 11,
       "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "8:1",
+      "controversy": 4.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Spotify is launching DMs on their platform for users 16 and older 💬",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lxcnzzftu22w",
+        "created_at": "2025-08-26T13:53:41.630Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lxcnzzftu22w"
+      },
+      "engagement": {
+        "likes": 54,
+        "replies": 21,
+        "reposts": 5,
+        "quotes": 42,
+        "formatted": {
+          "likes": "54",
+          "replies": "21",
+          "reposts": "5",
+          "quotes": "42"
+        }
+      },
+      "sample_replies": [
+        "Sounds really unnecessary for a streaming service",
+        "Oh good more places bots can message me phishing scams. Hopefully you can disable it.",
+        "A nice way for Drake to connect with his 16 and 17 year old fans to provide \"guidance.\"",
+        "Funny thing is, you used to be able to DM on Spotify back in the day before they removed it."
+      ],
+      "metrics": {
+        "ratio_score": 10.5,
+        "time_bucket": 1,
+        "total_engagement": 122,
+        "post_age_minutes": 18.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T14:32:58.159595+00:00",
+      "last_updated": "2025-08-26T14:32:58.863090+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.159595+00:00",
+        "2025-08-26T14:32:58.863090+00:00"
+      ],
+      "peak_controversy": 4.9,
+      "trend": "rising"
+    },
+    {
+      "rank": 12,
+      "user": {
         "handle": "prof-hinkley.bsky.social",
         "display_name": "Travis comma bitch",
         "initials": "TC",
@@ -634,7 +690,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "antongerashchenko.bsky.social",
         "display_name": "Anton Gerashchenko",
@@ -690,7 +746,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "chadbourn.bsky.social",
         "display_name": "Mark Chadbourn",
@@ -746,7 +802,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -802,7 +858,63 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "user": {
+        "handle": "timobrien.bsky.social",
+        "display_name": "Tim O’Brien",
+        "initials": "TO",
+        "did": "did:plc:pjsvqgx5c5orisjsiexxtqwm",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pjsvqgx5c5orisjsiexxtqwm/bafkreigpnjhxylzvmsl4smnsiywa2vma6i7jrfs3azsj4bt4t4lkrzrbwm@jpeg",
+        "profile_url": "https://bsky.app/profile/timobrien.bsky.social"
+      },
+      "ratio": "1:3",
+      "controversy": 2.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "\"A lot of people are saying maybe we like a dictator,\" Trump added. \"I don’t like a dictator. I’m not a dictator. I'm a man with great common sense and a smart person.\" www.usatoday.com/story/news/p...",
+        "uri": "at://did:plc:pjsvqgx5c5orisjsiexxtqwm/app.bsky.feed.post/3lxcm33ouy22l",
+        "created_at": "2025-08-26T13:18:30.105Z",
+        "url": "https://bsky.app/profile/timobrien.bsky.social/post/3lxcm33ouy22l"
+      },
+      "engagement": {
+        "likes": 77,
+        "replies": 24,
+        "reposts": 19,
+        "quotes": 6,
+        "formatted": {
+          "likes": "77",
+          "replies": "24",
+          "reposts": "19",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Only issues Executive Orders\nSends military into cities even though there is no emergency\nLevies...",
+        "When you have to tell people you are “a smart person,” it is pretty telling that you’re not-and you...",
+        "\"I'm smart!\"",
+        "If you (Trump) have to proclaim, you’re not a dictator and that you are a smart person then I guess..."
+      ],
+      "metrics": {
+        "ratio_score": 1.5,
+        "time_bucket": 3,
+        "total_engagement": 126,
+        "post_age_minutes": 58.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T14:32:58.862986+00:00",
+      "last_updated": "2025-08-26T14:32:58.862986+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.862986+00:00"
+      ],
+      "peak_controversy": 2.5,
+      "trend": "new"
+    },
+    {
+      "rank": 17,
       "user": {
         "handle": "schwarz.bsky.social",
         "display_name": "☀️ Jon Schwarz ☀️",
@@ -858,7 +970,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "user": {
         "handle": "apnews.com",
         "display_name": "The Associated Press",
@@ -914,7 +1026,63 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 19,
+      "user": {
+        "handle": "wario64.bsky.social",
+        "display_name": "Wario64",
+        "initials": "WA",
+        "did": "did:plc:knj5sw5al3sukl6vhkpi7637",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:knj5sw5al3sukl6vhkpi7637/bafkreibyyspgkbm3xrgbu4qsemkjkphzfg2lcy6pa6zcdeverzmmtfbsuq@jpeg",
+        "profile_url": "https://bsky.app/profile/wario64.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 2.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "LEGO Icons - Captain Jack Sparrow's Pirate Ship goes up on LEGO Store on Sept 15h ($379.99), early access for members buff.ly/6hvXRAS",
+        "uri": "at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3lxcopufozi2m",
+        "created_at": "2025-08-26T14:05:54.577Z",
+        "url": "https://bsky.app/profile/wario64.bsky.social/post/3lxcopufozi2m"
+      },
+      "engagement": {
+        "likes": 31,
+        "replies": 4,
+        "reposts": 4,
+        "quotes": 6,
+        "formatted": {
+          "likes": "31",
+          "replies": "4",
+          "reposts": "4",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Captain Jack Sparrow is on the Epstein List",
+        "It's called the Black Pearl!",
+        "Why isn't it branded as the \"Black Pearl\"?",
+        "The Black Pearl. For only the cost of an actual black pearl."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 0,
+        "total_engagement": 45,
+        "post_age_minutes": 12.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T14:32:58.247234+00:00",
+      "last_updated": "2025-08-26T14:32:58.247234+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.247234+00:00"
+      ],
+      "peak_controversy": 2.2,
+      "trend": "new"
+    },
+    {
+      "rank": 20,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -969,7 +1137,63 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 21,
+      "user": {
+        "handle": "sophianyx.bsky.social",
+        "display_name": "Sophia_Nyx 🏳️‍⚧️",
+        "initials": "S🏳",
+        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreicfufjlquqhdsypjd5cefoz3i6erci7a7xucx3xyxtw2dzvksthmi@jpeg",
+        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+      },
+      "ratio": "4:1",
+      "controversy": 2.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Without saying Your Song, fav Elton John Song?",
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lxcnukmfmk2e",
+        "created_at": "2025-08-26T13:50:38.313Z",
+        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lxcnukmfmk2e"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 14,
+        "reposts": 3,
+        "quotes": 12,
+        "formatted": {
+          "likes": "20",
+          "replies": "14",
+          "reposts": "3",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "Tiny dancer",
+        "Goodbye Yellow Brick Road",
+        "Levon",
+        "Funeral For A Friend."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "time_bucket": 1,
+        "total_engagement": 49,
+        "post_age_minutes": 19.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T14:32:58.421183+00:00",
+      "last_updated": "2025-08-26T14:32:58.421183+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.421183+00:00"
+      ],
+      "peak_controversy": 2.0,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
       "user": {
         "handle": "violanorth.bsky.social",
         "display_name": "Sam Bergman",
@@ -1025,7 +1249,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 23,
       "user": {
         "handle": "igotyoedges.blacksky.app",
         "display_name": "ᴾᵃᵖⁱ ᴄʜɪᴄʜᴏꜱ ᴅᴀʏ | 9/5|  🥷⃤",
@@ -1081,7 +1305,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 24,
       "user": {
         "handle": "awfulannouncing.bsky.social",
         "display_name": "Awful Announcing",
@@ -1137,63 +1361,7 @@
       "trend": "rising"
     },
     {
-      "rank": 21,
-      "user": {
-        "handle": "fintwitter.bsky.social",
-        "display_name": "FinTwitter",
-        "initials": "FI",
-        "did": "did:plc:43fdk46qa5gsokzygzildsaq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:43fdk46qa5gsokzygzildsaq/bafkreigxwcjdzgntm6s332v2tl45ewhrajz57qhnwfxuujxsemfvuiuhgu@jpeg",
-        "profile_url": "https://bsky.app/profile/fintwitter.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 1.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "*HASSETT: POSSIBLE THAT GOVT TAKES MORE EQUITY STAKE FROM FIRMS",
-        "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3lx7ye73eip2g",
-        "created_at": "2025-08-25T12:20:20.973181+00:00",
-        "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3lx7ye73eip2g"
-      },
-      "engagement": {
-        "likes": 76,
-        "replies": 14,
-        "reposts": 23,
-        "quotes": 50,
-        "formatted": {
-          "likes": "76",
-          "replies": "14",
-          "reposts": "23",
-          "quotes": "50"
-        }
-      },
-      "sample_replies": [
-        "Good! The USG should have a piece of every company that lives off government contracts, handouts,...",
-        "COMMUNISM?  IN MURICA?",
-        "That’s not communism",
-        "Lol, I know that.  Derp."
-      ],
-      "metrics": {
-        "ratio_score": 2.43,
-        "time_bucket": 1,
-        "total_engagement": 40,
-        "post_age_minutes": 27.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T12:59:14.829778+00:00",
-      "last_updated": "2025-08-25T12:59:14.829778+00:00",
-      "analysis_windows": [
-        "2025-08-25T12:59:14.829778+00:00"
-      ],
-      "peak_controversy": 1.6,
-      "trend": "new"
-    },
-    {
-      "rank": 22,
+      "rank": 25,
       "user": {
         "handle": "mollyploofkins.bsky.social",
         "display_name": "Molly Ploofkins",
@@ -1249,119 +1417,62 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 26,
       "user": {
-        "handle": "nbcnews.com",
-        "display_name": "NBC News",
-        "initials": "NN",
-        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
-        "profile_url": "https://bsky.app/profile/nbcnews.com"
+        "handle": "rapsheet.bsky.social",
+        "display_name": "Ian Rapoport",
+        "initials": "IR",
+        "did": "did:plc:hlvr2omhnmvdmfnvmcuhyevz",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlvr2omhnmvdmfnvmcuhyevz/bafkreigfqyg46veq74vxajiwot2dbtjkcuzch6tmr52h7errnpbs7loofy@jpeg",
+        "profile_url": "https://bsky.app/profile/rapsheet.bsky.social"
       },
-      "ratio": "1:2",
-      "controversy": 1.3,
+      "ratio": "5:0",
+      "controversy": 1.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "The U.S. government could take equity stakes in more companies going forward, potentially through an American sovereign wealth fund, according to one of President Trump's top economic advisers.",
-        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxb2ynwwq22a",
-        "created_at": "2025-08-25T22:40:15Z",
-        "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
+        "text": "The Jaguars are releasing LB Chad Muma, source said, a bit of a surprise. A third-rounder from 2022, he should get claimed.",
+        "uri": "at://did:plc:hlvr2omhnmvdmfnvmcuhyevz/app.bsky.feed.post/3lxcnv5hkfk2q",
+        "created_at": "2025-08-26T13:50:58.119Z",
+        "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3lxcnv5hkfk2q"
       },
       "engagement": {
-        "likes": 29,
-        "replies": 35,
-        "reposts": 22,
-        "quotes": 11,
+        "likes": 33,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 5,
         "formatted": {
-          "likes": "29",
-          "replies": "35",
-          "reposts": "22",
-          "quotes": "11"
+          "likes": "33",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "So the gov double dipping? \n\nTaxes on companies AND taking an equity stake??\n\nWay to kill off...",
-        "Stop promoting fascism. They're extorting companies",
-        "Doubt you’d be framing this in such a blasé way if a Democrat was doing this.",
-        "Socialism."
+        "Not a surprise at all actually.",
+        "Not a surprise to Jaguars fans.  At all.",
+        "Yeah that’s a Panther I fear"
       ],
       "metrics": {
-        "ratio_score": 2.43,
-        "time_bucket": 3,
-        "total_engagement": 67,
-        "post_age_minutes": 52.4
+        "ratio_score": 7.0,
+        "time_bucket": 1,
+        "total_engagement": 40,
+        "post_age_minutes": 19.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T23:50:15.628483+00:00",
-      "last_updated": "2025-08-25T23:50:15.628483+00:00",
+      "first_detected": "2025-08-26T14:32:58.507510+00:00",
+      "last_updated": "2025-08-26T14:32:58.507510+00:00",
       "analysis_windows": [
-        "2025-08-25T23:50:15.628483+00:00"
+        "2025-08-26T14:32:58.507510+00:00"
       ],
-      "peak_controversy": 1.3,
+      "peak_controversy": 1.6,
       "trend": "new"
     },
     {
-      "rank": 24,
-      "user": {
-        "handle": "the-independent.com",
-        "display_name": "The Independent",
-        "initials": "TI",
-        "did": "did:plc:yc54nj2zlnqrdotewpkbrauy",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yc54nj2zlnqrdotewpkbrauy/bafkreihgzzeqj4wbsknmnpjue6zd6nzd3rubakgjv4wrcuaqzhwlrj2t3i@jpeg",
-        "profile_url": "https://bsky.app/profile/the-independent.com"
-      },
-      "ratio": "1:2",
-      "controversy": 1.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "BREAKING | Trump says he is not a dictator but insists many people think the US could use one",
-        "uri": "at://did:plc:yc54nj2zlnqrdotewpkbrauy/app.bsky.feed.post/3lxae6r7aef2k",
-        "created_at": "2025-08-25T15:52:03.745Z",
-        "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
-      },
-      "engagement": {
-        "likes": 31,
-        "replies": 24,
-        "reposts": 15,
-        "quotes": 6,
-        "formatted": {
-          "likes": "31",
-          "replies": "24",
-          "reposts": "15",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "aka he's a dictator",
-        "Over half of Republicans strongly support Trump’s performance as he exerts dictatorial powers and...",
-        "Dick",
-        "Thats them and good for those fucked up republicans. Most are white racist assholes and just want a..."
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 0,
-        "total_engagement": 25,
-        "post_age_minutes": 10.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T16:20:17.712006+00:00",
-      "last_updated": "2025-08-25T16:20:17.712006+00:00",
-      "analysis_windows": [
-        "2025-08-25T16:20:17.712006+00:00"
-      ],
-      "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
+      "rank": 27,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -1419,118 +1530,119 @@
       "trend": "rising"
     },
     {
-      "rank": 26,
-      "user": {
-        "handle": "reuters.com",
-        "display_name": "Reuters",
-        "initials": "RE",
-        "did": "did:plc:jbvnehrrdqoulco4rf5gxg5r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreibl5cibo6e7epl3pomyqeu7pkvb6yo7zg6q3wf2o4syej5yycrepy@jpeg",
-        "profile_url": "https://bsky.app/profile/reuters.com"
-      },
-      "ratio": "4:1",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Trump to sign executive order on flag desecration, Fox News reports reut.rs/3JvkCQg",
-        "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3lx7z6q3uwz2o",
-        "created_at": "2025-08-25T12:35:11Z",
-        "url": "https://bsky.app/profile/reuters.com/post/3lx7z6q3uwz2o"
-      },
-      "engagement": {
-        "likes": 13,
-        "replies": 25,
-        "reposts": 5,
-        "quotes": 22,
-        "formatted": {
-          "likes": "13",
-          "replies": "25",
-          "reposts": "5",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "Executive orders are not laws.",
-        "There is a 100% chance that all the tacky US Flag themed clothing is exempt, even though every...",
-        "🤣🤣🤣🤣🤣 The irony of who’s desecrating the entire United States of America.",
-        "Hmm. The only flag desecration event I can remember if January 6th 2021 when thousands of criminal..."
-      ],
-      "metrics": {
-        "ratio_score": 5.33,
-        "time_bucket": 0,
-        "total_engagement": 22,
-        "post_age_minutes": 12.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T12:59:14.237494+00:00",
-      "last_updated": "2025-08-25T12:59:14.237494+00:00",
-      "analysis_windows": [
-        "2025-08-25T12:59:14.237494+00:00"
-      ],
-      "peak_controversy": 1.1,
-      "trend": "new"
-    },
-    {
-      "rank": 27,
-      "user": {
-        "handle": "dennycarter.bsky.social",
-        "display_name": "Denny Carter",
-        "initials": "DC",
-        "did": "did:plc:ahcborosqrfchi3iiyhoixch",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ahcborosqrfchi3iiyhoixch/bafkreidscbejnnjzmmq7nqdndvu5h73dqby7xafqgogt5wxhg3f6jiqhvy@jpeg",
-        "profile_url": "https://bsky.app/profile/dennycarter.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The analytics of dog having",
-        "uri": "at://did:plc:ahcborosqrfchi3iiyhoixch/app.bsky.feed.post/3lx7wplzwis2r",
-        "created_at": "2025-08-25T11:50:56.526Z",
-        "url": "https://bsky.app/profile/dennycarter.bsky.social/post/3lx7wplzwis2r"
-      },
-      "engagement": {
-        "likes": 63,
-        "replies": 4,
-        "reposts": 4,
-        "quotes": 5,
-        "formatted": {
-          "likes": "63",
-          "replies": "4",
-          "reposts": "4",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "Got that dawg with him.",
-        "Incels HATE him! \n\nNormal guy gets women’s numbers using this ONE WEIRD TRICK.",
-        "24 hour “news” needs to stop. The anchors have all clearly gone insane no matter the network."
-      ],
-      "metrics": {
-        "ratio_score": 1.6,
-        "time_bucket": 3,
-        "total_engagement": 55,
-        "post_age_minutes": 56.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T12:59:15.287413+00:00",
-      "last_updated": "2025-08-25T12:59:15.287413+00:00",
-      "analysis_windows": [
-        "2025-08-25T12:59:15.287413+00:00"
-      ],
-      "peak_controversy": 1.1,
-      "trend": "new"
-    },
-    {
       "rank": 28,
+      "user": {
+        "handle": "nbcnews.com",
+        "display_name": "NBC News",
+        "initials": "NN",
+        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
+        "profile_url": "https://bsky.app/profile/nbcnews.com"
+      },
+      "ratio": "1:2",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The U.S. government could take equity stakes in more companies going forward, potentially through an American sovereign wealth fund, according to one of President Trump's top economic advisers.",
+        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxb2ynwwq22a",
+        "created_at": "2025-08-25T22:40:15Z",
+        "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
+      },
+      "engagement": {
+        "likes": 29,
+        "replies": 35,
+        "reposts": 22,
+        "quotes": 11,
+        "formatted": {
+          "likes": "29",
+          "replies": "35",
+          "reposts": "22",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "So the gov double dipping? \n\nTaxes on companies AND taking an equity stake??\n\nWay to kill off...",
+        "Stop promoting fascism. They're extorting companies",
+        "Doubt you’d be framing this in such a blasé way if a Democrat was doing this.",
+        "Socialism."
+      ],
+      "metrics": {
+        "ratio_score": 2.43,
+        "time_bucket": 3,
+        "total_engagement": 67,
+        "post_age_minutes": 52.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T23:50:15.628483+00:00",
+      "last_updated": "2025-08-25T23:50:15.628483+00:00",
+      "analysis_windows": [
+        "2025-08-25T23:50:15.628483+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 29,
+      "user": {
+        "handle": "the-independent.com",
+        "display_name": "The Independent",
+        "initials": "TI",
+        "did": "did:plc:yc54nj2zlnqrdotewpkbrauy",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yc54nj2zlnqrdotewpkbrauy/bafkreihgzzeqj4wbsknmnpjue6zd6nzd3rubakgjv4wrcuaqzhwlrj2t3i@jpeg",
+        "profile_url": "https://bsky.app/profile/the-independent.com"
+      },
+      "ratio": "1:2",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "BREAKING | Trump says he is not a dictator but insists many people think the US could use one",
+        "uri": "at://did:plc:yc54nj2zlnqrdotewpkbrauy/app.bsky.feed.post/3lxae6r7aef2k",
+        "created_at": "2025-08-25T15:52:03.745Z",
+        "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
+      },
+      "engagement": {
+        "likes": 31,
+        "replies": 24,
+        "reposts": 15,
+        "quotes": 6,
+        "formatted": {
+          "likes": "31",
+          "replies": "24",
+          "reposts": "15",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "aka he's a dictator",
+        "Over half of Republicans strongly support Trump’s performance as he exerts dictatorial powers and...",
+        "Dick",
+        "Thats them and good for those fucked up republicans. Most are white racist assholes and just want a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 0,
+        "total_engagement": 25,
+        "post_age_minutes": 10.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:17.712006+00:00",
+      "last_updated": "2025-08-25T16:20:17.712006+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:17.712006+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 30,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1586,7 +1698,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 31,
       "user": {
         "handle": "japantimes.co.jp",
         "display_name": "The Japan Times",
@@ -1642,63 +1754,63 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 32,
       "user": {
-        "handle": "theathletic.com",
-        "display_name": "The Athletic",
-        "initials": "TA",
-        "did": "did:plc:b2kutgxqlltwc6lhs724cfwr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2kutgxqlltwc6lhs724cfwr/bafkreidtcbmryuwpaxyaaexazmibozi7oakpn6x4ktdow227xky7dnmfa4@jpeg",
-        "profile_url": "https://bsky.app/profile/theathletic.com"
+        "handle": "missakemi.bsky.social",
+        "display_name": "ItsAkemi",
+        "initials": "IT",
+        "did": "did:plc:jpdpl56byaay5jfvdvng5jft",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jpdpl56byaay5jfvdvng5jft/bafkreihyodaotrdcn4euvmqdu7oyq6iaqzbiykhayibp2homlqeq3uv6ue@jpeg",
+        "profile_url": "https://bsky.app/profile/missakemi.bsky.social"
       },
-      "ratio": "3:1",
-      "controversy": 0.9,
+      "ratio": "9:0",
+      "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Three months after applying pressure that helped lead to a rule change making the late Pete Rose eligible for the Baseball Hall of Fame, President Donald Trump has turned his attention to Roger Clemens.\n\nhttp://dlvr.it/TMggl4",
-        "uri": "at://did:plc:b2kutgxqlltwc6lhs724cfwr/app.bsky.feed.post/3lx7yzbz66a2f",
-        "created_at": "2025-08-25T12:32:08Z",
-        "url": "https://bsky.app/profile/theathletic.com/post/3lx7yzbz66a2f"
+        "text": "Remember fellas you need to have TOWELS if you want a girl to spend the night. Don't say I never did nothing for ya",
+        "uri": "at://did:plc:jpdpl56byaay5jfvdvng5jft/app.bsky.feed.post/3lxcnpbadac27",
+        "created_at": "2025-08-26T13:47:40.749Z",
+        "url": "https://bsky.app/profile/missakemi.bsky.social/post/3lxcnpbadac27"
       },
       "engagement": {
-        "likes": 14,
-        "replies": 23,
-        "reposts": 2,
-        "quotes": 6,
+        "likes": 13,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 9,
         "formatted": {
-          "likes": "14",
-          "replies": "23",
-          "reposts": "2",
-          "quotes": "6"
+          "likes": "13",
+          "replies": "3",
+          "reposts": "0",
+          "quotes": "9"
         }
       },
       "sample_replies": [
-        "Randy Johnson won 5 Cy Youngs, just 2 less than Roidger Clemens did. That’s not “by a lot!” And...",
-        "This Red Sox fan has never been so proud to be anti-Roger for 35+ years. He was a shitbird then,...",
-        "Nobody cares what that rapist thinks.",
-        "So screwing with the country isn't enough for donnie, he's got to screw with sports, too?"
+        "AND NOT THE SMALL DAINTY LITTLE ONES.\n\nYOU NEED BIG ONES. MASSIVE ONES.",
+        "no lol",
+        "I have one. For me. Does that count?",
+        "Exactly, fluffy towels"
       ],
       "metrics": {
-        "ratio_score": 4.67,
+        "ratio_score": 12.0,
         "time_bucket": 1,
-        "total_engagement": 22,
-        "post_age_minutes": 15.3
+        "total_engagement": 25,
+        "post_age_minutes": 20.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T12:59:14.973246+00:00",
-      "last_updated": "2025-08-25T12:59:14.973246+00:00",
+      "first_detected": "2025-08-26T14:32:58.600826+00:00",
+      "last_updated": "2025-08-26T14:32:58.600826+00:00",
       "analysis_windows": [
-        "2025-08-25T12:59:14.973246+00:00"
+        "2025-08-26T14:32:58.600826+00:00"
       ],
-      "peak_controversy": 0.9,
+      "peak_controversy": 1.0,
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 33,
       "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
@@ -1754,7 +1866,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "user": {
         "handle": "paigeyspice.bsky.social",
         "display_name": "Paige",
@@ -1808,62 +1920,62 @@
       "trend": "new"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "user": {
-        "handle": "freshlogic.bsky.social",
-        "display_name": "⚜️New Logic",
-        "initials": "⚜L",
-        "did": "did:plc:es4kaek6ligemold3w7b6cng",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:es4kaek6ligemold3w7b6cng/bafkreib5nuytwxnlqpkzciosolwzramitnglbvckoqtxbtxhbiadcwjfrm@jpeg",
-        "profile_url": "https://bsky.app/profile/freshlogic.bsky.social"
+        "handle": "chaclo.blacksky.app",
+        "display_name": "ᴛʜᴇ ɴɪɴᴊᴀ ᴀɢᴇɴᴅᴀ",
+        "initials": "ᴛɴ",
+        "did": "did:plc:5qu6fzha5r54pts54n4n3rp2",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5qu6fzha5r54pts54n4n3rp2/bafkreif4vengvm5c2a3crqo3v3ffwucjexj7rq4aoa2pntnzbqnndftku4@jpeg",
+        "profile_url": "https://bsky.app/profile/chaclo.blacksky.app"
       },
-      "ratio": "4:1",
-      "controversy": 0.6,
+      "ratio": "2:1",
+      "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "What y’all know about 5 part harmony? 😂\n\nmusic.apple.com/us/album/all...",
-        "uri": "at://did:plc:es4kaek6ligemold3w7b6cng/app.bsky.feed.post/3lx7xz6c26s2r",
-        "created_at": "2025-08-25T12:14:11.407Z",
-        "url": "https://bsky.app/profile/freshlogic.bsky.social/post/3lx7xz6c26s2r"
+        "text": "DM me on Spotify and see what happen.",
+        "uri": "at://did:plc:5qu6fzha5r54pts54n4n3rp2/app.bsky.feed.post/3lxcnl6iy2c2q",
+        "created_at": "2025-08-26T13:45:23.670Z",
+        "url": "https://bsky.app/profile/chaclo.blacksky.app/post/3lxcnl6iy2c2q"
       },
       "engagement": {
-        "likes": 12,
-        "replies": 5,
-        "reposts": 2,
+        "likes": 7,
+        "replies": 2,
+        "reposts": 4,
         "quotes": 7,
         "formatted": {
-          "likes": "12",
-          "replies": "5",
-          "reposts": "2",
+          "likes": "7",
+          "replies": "2",
+          "reposts": "4",
           "quotes": "7"
         }
       },
       "sample_replies": [
-        "I can wait to get to school each day \n\nAnd wait for you to pass my way\n\nAnd bells start to ring...",
-        "Me 😭😭",
-        "Yes and they were dancing their asses off while doing it."
+        "The brat in me😭😭😭:",
+        "I also felt it was a challenge",
+        "Now why would you invite these shenanigans into your life? 😂"
       ],
       "metrics": {
-        "ratio_score": 5.5,
-        "time_bucket": 2,
-        "total_engagement": 21,
-        "post_age_minutes": 33.4
+        "ratio_score": 1.8,
+        "time_bucket": 1,
+        "total_engagement": 20,
+        "post_age_minutes": 21.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T12:59:15.136476+00:00",
-      "last_updated": "2025-08-25T12:59:15.136476+00:00",
+      "first_detected": "2025-08-26T14:32:58.687037+00:00",
+      "last_updated": "2025-08-26T14:32:58.687037+00:00",
       "analysis_windows": [
-        "2025-08-25T12:59:15.136476+00:00"
+        "2025-08-26T14:32:58.687037+00:00"
       ],
-      "peak_controversy": 0.6,
+      "peak_controversy": 0.8,
       "trend": "new"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "user": {
         "handle": "cherfan75.bsky.social",
         "display_name": "Cherfan75.Bsky.Social",
@@ -1919,7 +2031,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "user": {
         "handle": "dyeager64.bsky.social",
         "display_name": "donaldyeager  🏳️‍🌈💙",
