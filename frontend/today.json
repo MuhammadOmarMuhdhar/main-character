@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-26T06:43:29.617721+00:00",
-    "last_metrics_update": "2025-08-26T09:32:35.017117+00:00",
+    "last_full_analysis": "2025-08-26T11:12:00.440921+00:00",
+    "last_metrics_update": "2025-08-26T11:12:00.440921+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 34,
+    "main_characters_count": 35,
     "rolling_window": {
-      "last_update": "2025-08-26T06:43:29.617721+00:00",
-      "new_entries_added": 3,
-      "total_in_window": 34,
+      "last_update": "2025-08-26T11:12:00.440921+00:00",
+      "new_entries_added": 2,
+      "total_in_window": 35,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -357,6 +357,62 @@
     {
       "rank": 7,
       "user": {
+        "handle": "adambienkov.bsky.social",
+        "display_name": "Adam Bienkov",
+        "initials": "AB",
+        "did": "did:plc:le3snqzui22uenjjk7v4btfb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:le3snqzui22uenjjk7v4btfb/bafkreihpu2ws7g4ye3uwsz6xcjnhelucmpqgyvuqdjqbycmy3qnxhbskfi@jpeg",
+        "profile_url": "https://bsky.app/profile/adambienkov.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 6.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Nigel Farage says he would renegotiate the Good Friday Agreement in order to take the UK out of the ECHR.\n\nWhat could possibly go wrong?",
+        "uri": "at://did:plc:le3snqzui22uenjjk7v4btfb/app.bsky.feed.post/3lxcdfb6fbs25",
+        "created_at": "2025-08-26T10:43:07.723Z",
+        "url": "https://bsky.app/profile/adambienkov.bsky.social/post/3lxcdfb6fbs25"
+      },
+      "engagement": {
+        "likes": 120,
+        "replies": 16,
+        "reposts": 20,
+        "quotes": 16,
+        "formatted": {
+          "likes": "120",
+          "replies": "16",
+          "reposts": "20",
+          "quotes": "16"
+        }
+      },
+      "sample_replies": [
+        "Will he end the war in Ukraine in 24 hours too? 🤣🤩",
+        "Sounding more Donny the Nonce every day",
+        "How can you renegotiate with a partner unwilling to renegotiate because they have zero incentive to...",
+        "He has 4 MPs"
+      ],
+      "metrics": {
+        "ratio_score": 1.52,
+        "time_bucket": 1,
+        "total_engagement": 172,
+        "post_age_minutes": 19.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T11:12:00.352989+00:00",
+      "last_updated": "2025-08-26T11:12:00.352989+00:00",
+      "analysis_windows": [
+        "2025-08-26T11:12:00.352989+00:00"
+      ],
+      "peak_controversy": 6.9,
+      "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
         "handle": "georgetakei.bsky.social",
         "display_name": "George Takei",
         "initials": "GT",
@@ -411,7 +467,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user": {
         "handle": "kenmartin.bsky.social",
         "display_name": "Ken Martin",
@@ -467,7 +523,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user": {
         "handle": "npr.org",
         "display_name": "NPR",
@@ -523,7 +579,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user": {
         "handle": "prof-hinkley.bsky.social",
         "display_name": "Travis comma bitch",
@@ -578,7 +634,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user": {
         "handle": "antongerashchenko.bsky.social",
         "display_name": "Anton Gerashchenko",
@@ -634,7 +690,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user": {
         "handle": "chadbourn.bsky.social",
         "display_name": "Mark Chadbourn",
@@ -690,7 +746,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -746,7 +802,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user": {
         "handle": "schwarz.bsky.social",
         "display_name": "☀️ Jon Schwarz ☀️",
@@ -802,7 +858,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user": {
         "handle": "apnews.com",
         "display_name": "The Associated Press",
@@ -858,7 +914,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -913,7 +969,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user": {
         "handle": "violanorth.bsky.social",
         "display_name": "Sam Bergman",
@@ -969,7 +1025,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user": {
         "handle": "igotyoedges.blacksky.app",
         "display_name": "ᴾᵃᵖⁱ ᴄʜɪᴄʜᴏꜱ ᴅᴀʏ | 9/5|  🥷⃤",
@@ -1025,7 +1081,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user": {
         "handle": "awfulannouncing.bsky.social",
         "display_name": "Awful Announcing",
@@ -1081,7 +1137,7 @@
       "trend": "rising"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "fintwitter.bsky.social",
         "display_name": "FinTwitter",
@@ -1137,7 +1193,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user": {
         "handle": "mollyploofkins.bsky.social",
         "display_name": "Molly Ploofkins",
@@ -1193,175 +1249,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
-      "user": {
-        "handle": "nbcnews.com",
-        "display_name": "NBC News",
-        "initials": "NN",
-        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
-        "profile_url": "https://bsky.app/profile/nbcnews.com"
-      },
-      "ratio": "1:2",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The U.S. government could take equity stakes in more companies going forward, potentially through an American sovereign wealth fund, according to one of President Trump's top economic advisers.",
-        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxb2ynwwq22a",
-        "created_at": "2025-08-25T22:40:15Z",
-        "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
-      },
-      "engagement": {
-        "likes": 28,
-        "replies": 34,
-        "reposts": 22,
-        "quotes": 11,
-        "formatted": {
-          "likes": "28",
-          "replies": "34",
-          "reposts": "22",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "So the gov double dipping? \n\nTaxes on companies AND taking an equity stake??\n\nWay to kill off...",
-        "Stop promoting fascism. They're extorting companies",
-        "Doubt you’d be framing this in such a blasé way if a Democrat was doing this.",
-        "Socialism."
-      ],
-      "metrics": {
-        "ratio_score": 2.43,
-        "time_bucket": 3,
-        "total_engagement": 67,
-        "post_age_minutes": 52.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.628483+00:00",
-      "last_updated": "2025-08-25T23:50:15.628483+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.628483+00:00"
-      ],
-      "peak_controversy": 1.3,
-      "trend": "new"
-    },
-    {
       "rank": 23,
-      "user": {
-        "handle": "hagenilda.bsky.social",
-        "display_name": "Jo  🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-        "initials": "J🏴",
-        "did": "did:plc:hpd52e4qfn6nu3uegetepyyk",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hpd52e4qfn6nu3uegetepyyk/bafkreidrs236xqzj6np6z72opnidlbj4hmcsasytiihnap5cdncyehj6oq@jpeg",
-        "profile_url": "https://bsky.app/profile/hagenilda.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 1.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Still sad that Nicaea: the movie never came into fruition. \n\nWhat super bureaucratic episodes in history would you like to see dramatised?\n\nI want a six part epic on Domesday survey.",
-        "uri": "at://did:plc:hpd52e4qfn6nu3uegetepyyk/app.bsky.feed.post/3lx7kwd3wys24",
-        "created_at": "2025-08-25T08:19:57.144Z",
-        "url": "https://bsky.app/profile/hagenilda.bsky.social/post/3lx7kwd3wys24"
-      },
-      "engagement": {
-        "likes": 103,
-        "replies": 23,
-        "reposts": 11,
-        "quotes": 22,
-        "formatted": {
-          "likes": "103",
-          "replies": "23",
-          "reposts": "11",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "Nicaea: The Movie would be very dry up until the point at which Santa punches a heretic.\n\nDid it...",
-        "Also, it can be a Christmas movie! Like Die Hard but with bishops.",
-        "\"The executive producer and driving force behind Nicaea is American Catholic layman Charles...",
-        "I reckon peace conferences are under-used as historical drama (certainly compared to war).\n\nI..."
-      ],
-      "metrics": {
-        "ratio_score": 6.5,
-        "time_bucket": 2,
-        "total_engagement": 40,
-        "post_age_minutes": 40.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T09:11:21.742446+00:00",
-      "last_updated": "2025-08-25T09:11:21.742446+00:00",
-      "analysis_windows": [
-        "2025-08-25T09:11:21.742446+00:00"
-      ],
-      "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
-      "user": {
-        "handle": "the-independent.com",
-        "display_name": "The Independent",
-        "initials": "TI",
-        "did": "did:plc:yc54nj2zlnqrdotewpkbrauy",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yc54nj2zlnqrdotewpkbrauy/bafkreihgzzeqj4wbsknmnpjue6zd6nzd3rubakgjv4wrcuaqzhwlrj2t3i@jpeg",
-        "profile_url": "https://bsky.app/profile/the-independent.com"
-      },
-      "ratio": "1:2",
-      "controversy": 1.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "BREAKING | Trump says he is not a dictator but insists many people think the US could use one",
-        "uri": "at://did:plc:yc54nj2zlnqrdotewpkbrauy/app.bsky.feed.post/3lxae6r7aef2k",
-        "created_at": "2025-08-25T15:52:03.745Z",
-        "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
-      },
-      "engagement": {
-        "likes": 29,
-        "replies": 24,
-        "reposts": 14,
-        "quotes": 6,
-        "formatted": {
-          "likes": "29",
-          "replies": "24",
-          "reposts": "14",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "aka he's a dictator",
-        "Over half of Republicans strongly support Trump’s performance as he exerts dictatorial powers and...",
-        "Dick",
-        "Thats them and good for those fucked up republicans. Most are white racist assholes and just want a..."
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 0,
-        "total_engagement": 25,
-        "post_age_minutes": 10.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T16:20:17.712006+00:00",
-      "last_updated": "2025-08-25T16:20:17.712006+00:00",
-      "analysis_windows": [
-        "2025-08-25T16:20:17.712006+00:00"
-      ],
-      "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -1417,6 +1305,118 @@
       ],
       "peak_controversy": 2.6,
       "trend": "rising"
+    },
+    {
+      "rank": 24,
+      "user": {
+        "handle": "nbcnews.com",
+        "display_name": "NBC News",
+        "initials": "NN",
+        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
+        "profile_url": "https://bsky.app/profile/nbcnews.com"
+      },
+      "ratio": "1:2",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The U.S. government could take equity stakes in more companies going forward, potentially through an American sovereign wealth fund, according to one of President Trump's top economic advisers.",
+        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxb2ynwwq22a",
+        "created_at": "2025-08-25T22:40:15Z",
+        "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
+      },
+      "engagement": {
+        "likes": 28,
+        "replies": 34,
+        "reposts": 22,
+        "quotes": 11,
+        "formatted": {
+          "likes": "28",
+          "replies": "34",
+          "reposts": "22",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "So the gov double dipping? \n\nTaxes on companies AND taking an equity stake??\n\nWay to kill off...",
+        "Stop promoting fascism. They're extorting companies",
+        "Doubt you’d be framing this in such a blasé way if a Democrat was doing this.",
+        "Socialism."
+      ],
+      "metrics": {
+        "ratio_score": 2.43,
+        "time_bucket": 3,
+        "total_engagement": 67,
+        "post_age_minutes": 52.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T23:50:15.628483+00:00",
+      "last_updated": "2025-08-25T23:50:15.628483+00:00",
+      "analysis_windows": [
+        "2025-08-25T23:50:15.628483+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 25,
+      "user": {
+        "handle": "the-independent.com",
+        "display_name": "The Independent",
+        "initials": "TI",
+        "did": "did:plc:yc54nj2zlnqrdotewpkbrauy",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yc54nj2zlnqrdotewpkbrauy/bafkreihgzzeqj4wbsknmnpjue6zd6nzd3rubakgjv4wrcuaqzhwlrj2t3i@jpeg",
+        "profile_url": "https://bsky.app/profile/the-independent.com"
+      },
+      "ratio": "1:2",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "BREAKING | Trump says he is not a dictator but insists many people think the US could use one",
+        "uri": "at://did:plc:yc54nj2zlnqrdotewpkbrauy/app.bsky.feed.post/3lxae6r7aef2k",
+        "created_at": "2025-08-25T15:52:03.745Z",
+        "url": "https://bsky.app/profile/the-independent.com/post/3lxae6r7aef2k"
+      },
+      "engagement": {
+        "likes": 29,
+        "replies": 24,
+        "reposts": 14,
+        "quotes": 6,
+        "formatted": {
+          "likes": "29",
+          "replies": "24",
+          "reposts": "14",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "aka he's a dictator",
+        "Over half of Republicans strongly support Trump’s performance as he exerts dictatorial powers and...",
+        "Dick",
+        "Thats them and good for those fucked up republicans. Most are white racist assholes and just want a..."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 0,
+        "total_engagement": 25,
+        "post_age_minutes": 10.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T16:20:17.712006+00:00",
+      "last_updated": "2025-08-25T16:20:17.712006+00:00",
+      "analysis_windows": [
+        "2025-08-25T16:20:17.712006+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
     },
     {
       "rank": 26,
@@ -1914,6 +1914,62 @@
       "last_updated": "2025-08-26T03:17:52.496268+00:00",
       "analysis_windows": [
         "2025-08-26T03:17:52.496268+00:00"
+      ],
+      "peak_controversy": 0.5,
+      "trend": "new"
+    },
+    {
+      "rank": 35,
+      "user": {
+        "handle": "dyeager64.bsky.social",
+        "display_name": "donaldyeager  🏳️‍🌈💙",
+        "initials": "D🏳",
+        "did": "did:plc:k2afr5eitt5zjikvhloaxxam",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k2afr5eitt5zjikvhloaxxam/bafkreictpzhjm3noqqwa7gswmwhxevvyioxk4g72smyult2raestgqn5pu@jpeg",
+        "profile_url": "https://bsky.app/profile/dyeager64.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "we are NOT a christian nation we are a nation that has freedom of religion that means you can practice/follow any religion you want to including ... NONE",
+        "uri": "at://did:plc:k2afr5eitt5zjikvhloaxxam/app.bsky.feed.post/3lxccfs7mes27",
+        "created_at": "2025-08-26T10:25:31.845Z",
+        "url": "https://bsky.app/profile/dyeager64.bsky.social/post/3lxccfs7mes27"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 6,
+        "reposts": 2,
+        "quotes": 6,
+        "formatted": {
+          "likes": "4",
+          "replies": "6",
+          "reposts": "2",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "There's absolutely nothin wrong with christianity becos the christian symbol is where i draw the...",
+        "attack hypocrisy, corruption, and exploitation. Not any faiths itself. Otherwise, they risk losing...",
+        "Meanwhile, grocery bills, housing, medical debt, and yes, transparency scandals like the Epstein...",
+        "If these idiots keep hammering Christianity itself instead of separating faith from the bad actors..."
+      ],
+      "metrics": {
+        "ratio_score": 4.0,
+        "time_bucket": 2,
+        "total_engagement": 18,
+        "post_age_minutes": 35.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T11:12:00.440732+00:00",
+      "last_updated": "2025-08-26T11:12:00.440732+00:00",
+      "analysis_windows": [
+        "2025-08-26T11:12:00.440732+00:00"
       ],
       "peak_controversy": 0.5,
       "trend": "new"
