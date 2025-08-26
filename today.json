@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-25T23:50:15.760421+00:00",
-    "last_metrics_update": "2025-08-26T02:47:28.175161+00:00",
+    "last_full_analysis": "2025-08-26T03:17:52.496426+00:00",
+    "last_metrics_update": "2025-08-26T03:17:52.496426+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 35,
     "rolling_window": {
-      "last_update": "2025-08-25T23:50:15.760421+00:00",
-      "new_entries_added": 8,
+      "last_update": "2025-08-26T03:17:52.496426+00:00",
+      "new_entries_added": 5,
       "total_in_window": 35,
       "window_hours": 24,
       "update_interval_hours": 3
@@ -129,59 +129,57 @@
     {
       "rank": 3,
       "user": {
-        "handle": "kenklippenstein.bsky.social",
-        "display_name": "Ken Klippenstein",
-        "initials": "KK",
-        "did": "did:plc:4k6dakv7cskxttdvfpzadq7e",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4k6dakv7cskxttdvfpzadq7e/bafkreifjsyqrczareetiqhlt3duygpigdx26lstd2hsfive5oaqb6nfqk4@jpeg",
-        "profile_url": "https://bsky.app/profile/kenklippenstein.bsky.social"
+        "handle": "gtconway.bsky.social",
+        "display_name": "George Conway  👊🇺🇸🔥",
+        "initials": "GC",
+        "did": "did:plc:4lx6nur5wstwoc4wtgj56kyu",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4lx6nur5wstwoc4wtgj56kyu/bafkreihbchxrwqxmvvnhkpvbbgnhrinybygl5b7ommglbny7p5p4ifanue@jpeg",
+        "profile_url": "https://bsky.app/profile/gtconway.bsky.social"
       },
-      "ratio": "1:1",
-      "controversy": 8.7,
+      "ratio": "1:6",
+      "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Asked how Mamdani could secure his endorsement, Hakeem Jeffries replies: \"We had a very candid and constructive and community-centered conversation a few weeks ago—before he went off to Africa.\"",
-        "uri": "at://did:plc:4k6dakv7cskxttdvfpzadq7e/app.bsky.feed.post/3lx6uniwuhk2c",
-        "created_at": "2025-08-25T01:41:18.958Z",
-        "url": "https://bsky.app/profile/kenklippenstein.bsky.social/post/3lx6uniwuhk2c"
+        "text": "",
+        "uri": "at://did:plc:4lx6nur5wstwoc4wtgj56kyu/app.bsky.feed.post/3lxbibaspac2g",
+        "created_at": "2025-08-26T02:37:42.085Z",
+        "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 487,
-        "replies": 112,
-        "reposts": 47,
-        "quotes": 41,
+        "likes": 880,
+        "replies": 270,
+        "reposts": 185,
+        "quotes": 30,
         "formatted": {
-          "likes": "487",
-          "replies": "112",
-          "reposts": "47",
-          "quotes": "41"
+          "likes": "880",
+          "replies": "270",
+          "reposts": "185",
+          "quotes": "30"
         }
       },
       "sample_replies": [
-        "Y'know what? Fuck Hakeem Jeffries.",
-        "lmao what the fuck man, just completely inept leadership, embarassing",
-        "lmao holy SHIT this guy"
+        "Don't threaten me with a good time",
+        "I don't know if any of this imagery is real. You never know these days. All I will say is: The arc...",
+        "Except people love trump. I know, I know, puke puke puke. But they do. I have FAMILY who love him...."
       ],
       "metrics": {
-        "ratio_score": 3.44,
+        "ratio_score": 1.61,
         "time_bucket": 1,
-        "total_engagement": 218,
-        "post_age_minutes": 16.9
+        "total_engagement": 1365,
+        "post_age_minutes": 24.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T02:17:28.621528+00:00",
-      "last_updated": "2025-08-25T02:17:29.009213+00:00",
+      "first_detected": "2025-08-26T03:17:51.733708+00:00",
+      "last_updated": "2025-08-26T03:17:51.733708+00:00",
       "analysis_windows": [
-        "2025-08-25T02:17:28.621528+00:00",
-        "2025-08-25T02:17:29.009213+00:00",
-        "2025-08-25T02:17:29.009213+00:00"
+        "2025-08-26T03:17:51.733708+00:00"
       ],
       "peak_controversy": 10.0,
-      "trend": "rising"
+      "trend": "new"
     },
     {
       "rank": 4,
@@ -750,118 +748,6 @@
     {
       "rank": 14,
       "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "A certain flavor of advice is dominating the self-help book genre. Draw boundaries. Protect your peace. Worry less about pleasing others.\n\nShould we be alarmed that the prevailing advice of 2025 seems to be: It’s OK to be a little bit of a jerk?",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxaquujfgk2q",
-        "created_at": "2025-08-25T19:39:10.490Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lxaquujfgk2q"
-      },
-      "engagement": {
-        "likes": 64,
-        "replies": 25,
-        "reposts": 8,
-        "quotes": 8,
-        "formatted": {
-          "likes": "64",
-          "replies": "25",
-          "reposts": "8",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "Just fyi. You can set boundaries without being a jerk.",
-        "No. And if you think drawing and maintaining boundaries makes you a jerk, then you’re the problem.",
-        "Didn't ask any therapists, did ya?",
-        "No, we shouldn’t be alarmed about that, but we should be alarmed about the NYT gaslighting..."
-      ],
-      "metrics": {
-        "ratio_score": 4.33,
-        "time_bucket": 1,
-        "total_engagement": 64,
-        "post_age_minutes": 24.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T20:21:21.298573+00:00",
-      "last_updated": "2025-08-25T20:21:22.027664+00:00",
-      "analysis_windows": [
-        "2025-08-25T20:21:21.298573+00:00",
-        "2025-08-25T20:21:22.027664+00:00"
-      ],
-      "peak_controversy": 2.6,
-      "trend": "rising"
-    },
-    {
-      "rank": 15,
-      "user": {
-        "handle": "kyivindependent.com",
-        "display_name": "The Kyiv Independent",
-        "initials": "TK",
-        "did": "did:plc:yazbevg3wkzp5llnzb44tqgh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
-        "profile_url": "https://bsky.app/profile/kyivindependent.com"
-      },
-      "ratio": "2:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "⚡️Russia has made 'significant concessions' amid Trump-led peace talks, Vance says.\n\nIn an exclusive interview with NBC News on Aug. 24, US Vice President JD Vance expressed optimism about diplomatic efforts to end the war in Ukraine and claimed that Russia has made \"significant concessions.\"",
-        "uri": "at://did:plc:yazbevg3wkzp5llnzb44tqgh/app.bsky.feed.post/3lx6soqcipk2e",
-        "created_at": "2025-08-25T01:06:12.751Z",
-        "url": "https://bsky.app/profile/kyivindependent.com/post/3lx6soqcipk2e"
-      },
-      "engagement": {
-        "likes": 157,
-        "replies": 96,
-        "reposts": 13,
-        "quotes": 26,
-        "formatted": {
-          "likes": "157",
-          "replies": "96",
-          "reposts": "13",
-          "quotes": "26"
-        }
-      },
-      "sample_replies": [
-        "I’m not sure who is more dangerous to Ukraine, Trump or Vance.",
-        "He's lying, as usual. Lavrov stated the opposite, which is pretty sad because the Russian...",
-        "The only concession the Russians should make and that should be acceptable is to get out of..."
-      ],
-      "metrics": {
-        "ratio_score": 5.55,
-        "time_bucket": 3,
-        "total_engagement": 133,
-        "post_age_minutes": 56.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T02:17:28.899111+00:00",
-      "last_updated": "2025-08-25T02:17:28.899111+00:00",
-      "analysis_windows": [
-        "2025-08-25T02:17:28.899111+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
-      "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
         "initials": "TW",
@@ -916,7 +802,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "user": {
         "handle": "schwarz.bsky.social",
         "display_name": "☀️ Jon Schwarz ☀️",
@@ -972,7 +858,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "user": {
         "handle": "apnews.com",
         "display_name": "The Associated Press",
@@ -1028,7 +914,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "user": {
         "handle": "violanorth.bsky.social",
         "display_name": "Sam Bergman",
@@ -1084,7 +970,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "user": {
         "handle": "igotyoedges.blacksky.app",
         "display_name": "ᴾᵃᵖⁱ ᴄʜɪᴄʜᴏꜱ ᴅᴀʏ | 9/5|  🥷⃤",
@@ -1140,7 +1026,63 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 19,
+      "user": {
+        "handle": "awfulannouncing.bsky.social",
+        "display_name": "Awful Announcing",
+        "initials": "AA",
+        "did": "did:plc:f5oj3h5yslnl5ymnvya5aecv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5oj3h5yslnl5ymnvya5aecv/bafkreiey3opf5eqzwuscafvddutyqdyxi24wvroaqt2t3fctrbwq7f7ty4@jpeg",
+        "profile_url": "https://bsky.app/profile/awfulannouncing.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 1.7,
+      "change": "+0.9",
+      "change_type": "positive",
+      "post": {
+        "text": "",
+        "uri": "at://did:plc:f5oj3h5yslnl5ymnvya5aecv/app.bsky.feed.post/3lxbgw3tbln2c",
+        "created_at": "2025-08-26T02:13:33Z",
+        "url": "https://bsky.app/profile/awfulannouncing.bsky.social/post/3lxbgw3tbln2c"
+      },
+      "engagement": {
+        "likes": 57,
+        "replies": 10,
+        "reposts": 5,
+        "quotes": 15,
+        "formatted": {
+          "likes": "57",
+          "replies": "10",
+          "reposts": "5",
+          "quotes": "15"
+        }
+      },
+      "sample_replies": [
+        "Great!  Now do the rest of the weekends, too!",
+        "Imagine being such a fuckass you get banned from OHIO",
+        "I think Fox Sports is going to regret hiring Portnoy by the first day of autumn."
+      ],
+      "metrics": {
+        "ratio_score": 4.17,
+        "time_bucket": 3,
+        "total_engagement": 87,
+        "post_age_minutes": 47.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T23:50:15.760261+00:00",
+      "last_updated": "2025-08-26T03:17:52.496353+00:00",
+      "analysis_windows": [
+        "2025-08-25T23:50:15.760261+00:00",
+        "2025-08-26T03:17:52.496353+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "rising"
+    },
+    {
+      "rank": 20,
       "user": {
         "handle": "fintwitter.bsky.social",
         "display_name": "FinTwitter",
@@ -1196,7 +1138,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "user": {
         "handle": "mollyploofkins.bsky.social",
         "display_name": "Molly Ploofkins",
@@ -1252,7 +1194,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "user": {
         "handle": "benrothenberg.bsky.social",
         "display_name": "Ben Rothenberg",
@@ -1306,6 +1248,64 @@
       ],
       "peak_controversy": 1.5,
       "trend": "new"
+    },
+    {
+      "rank": 23,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "2:1",
+      "controversy": 1.1,
+      "change": "-1.5",
+      "change_type": "negative",
+      "post": {
+        "text": "George Herman Ruth, a Tennessee man with the same full name as the celebrated Yankees slugger Babe Ruth, used the names of retired and dead baseball players to file fraudulent class-action settlement claims, prosecutors said.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxbgpt3dnw2x",
+        "created_at": "2025-08-26T02:10:03.481838Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lxbgpt3dnw2x"
+      },
+      "engagement": {
+        "likes": 37,
+        "replies": 6,
+        "reposts": 5,
+        "quotes": 8,
+        "formatted": {
+          "likes": "37",
+          "replies": "6",
+          "reposts": "5",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "bsky.app/profile/edhi...\nFunny how 'The New York Biden Is Old Times'\nnever mentions Donald Trump's...",
+        "Has trump hired him yet?",
+        "Will he be represented by Ty Cobb?",
+        "Gonna take a wild guess: he’s a Republican."
+      ],
+      "metrics": {
+        "ratio_score": 2.33,
+        "time_bucket": 3,
+        "total_engagement": 56,
+        "post_age_minutes": 52.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T20:21:21.298573+00:00",
+      "last_updated": "2025-08-26T03:17:52.496353+00:00",
+      "analysis_windows": [
+        "2025-08-25T20:21:21.298573+00:00",
+        "2025-08-25T20:21:22.027664+00:00",
+        "2025-08-26T03:17:52.496353+00:00"
+      ],
+      "peak_controversy": 2.6,
+      "trend": "rising"
     },
     {
       "rank": 24,
@@ -1589,6 +1589,62 @@
     {
       "rank": 29,
       "user": {
+        "handle": "japantimes.co.jp",
+        "display_name": "The Japan Times",
+        "initials": "TJ",
+        "did": "did:plc:rddeinqb45gzem3n3zyma7im",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rddeinqb45gzem3n3zyma7im/bafkreiekbofstt5gbd74skigbabmh4lsn4hiodzkplqchgrw4vhlu7ulai@jpeg",
+        "profile_url": "https://bsky.app/profile/japantimes.co.jp"
+      },
+      "ratio": "1:2",
+      "controversy": 1.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "U.S. President Donald Trump suggested many Americans would like a dictator as he signed orders to tighten his federal clampdown on Washington.",
+        "uri": "at://did:plc:rddeinqb45gzem3n3zyma7im/app.bsky.feed.post/3lxbhu2ff4p25",
+        "created_at": "2025-08-26T02:30:18.671Z",
+        "url": "https://bsky.app/profile/japantimes.co.jp/post/3lxbhu2ff4p25"
+      },
+      "engagement": {
+        "likes": 10,
+        "replies": 10,
+        "reposts": 8,
+        "quotes": 5,
+        "formatted": {
+          "likes": "10",
+          "replies": "10",
+          "reposts": "8",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "He's such a low IQ diaper load",
+        "As an American citizen myself I can tell you most of us don't want him as President, never did. He...",
+        "As an Oregonian, I will say “Does it look like we want one?” We know we have major targets on our...",
+        "www.redbubble.com/i/magnet/Fig..."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "time_bucket": 2,
+        "total_engagement": 33,
+        "post_age_minutes": 32.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T03:17:52.059102+00:00",
+      "last_updated": "2025-08-26T03:17:52.059102+00:00",
+      "analysis_windows": [
+        "2025-08-26T03:17:52.059102+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 30,
+      "user": {
         "handle": "deemarleyy.bsky.social",
         "display_name": "DeeMarleyy😶‍🌫️🍃",
         "initials": "DE",
@@ -1643,7 +1699,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "user": {
         "handle": "theathletic.com",
         "display_name": "The Athletic",
@@ -1699,7 +1755,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "user": {
         "handle": "blackranga.blacksky.app",
         "display_name": "Give it up Deelishis you look like a man..🧍🏾‍♂️",
@@ -1750,62 +1806,6 @@
       "last_updated": "2025-08-25T16:20:17.854354+00:00",
       "analysis_windows": [
         "2025-08-25T16:20:17.854354+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 32,
-      "user": {
-        "handle": "awfulannouncing.bsky.social",
-        "display_name": "Awful Announcing",
-        "initials": "AA",
-        "did": "did:plc:f5oj3h5yslnl5ymnvya5aecv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5oj3h5yslnl5ymnvya5aecv/bafkreiey3opf5eqzwuscafvddutyqdyxi24wvroaqt2t3fctrbwq7f7ty4@jpeg",
-        "profile_url": "https://bsky.app/profile/awfulannouncing.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "",
-        "uri": "at://did:plc:f5oj3h5yslnl5ymnvya5aecv/app.bsky.feed.post/3lxb2m2iv5f2w",
-        "created_at": "2025-08-25T22:33:12Z",
-        "url": "https://bsky.app/profile/awfulannouncing.bsky.social/post/3lxb2m2iv5f2w"
-      },
-      "engagement": {
-        "likes": 30,
-        "replies": 8,
-        "reposts": 3,
-        "quotes": 9,
-        "formatted": {
-          "likes": "30",
-          "replies": "8",
-          "reposts": "3",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "I’m still not happy about it.",
-        "One of the worst decisions the Red Sox have ever made and that is saying a lot. What a treasure Don...",
-        "Padres fans have. Very happy lol",
-        "Don is a treasure, glad to have him in San Diego"
-      ],
-      "metrics": {
-        "ratio_score": 3.75,
-        "time_bucket": 3,
-        "total_engagement": 42,
-        "post_age_minutes": 59.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.760261+00:00",
-      "last_updated": "2025-08-25T23:50:15.760261+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.760261+00:00"
       ],
       "peak_controversy": 0.8,
       "trend": "new"
@@ -1868,57 +1868,57 @@
     {
       "rank": 34,
       "user": {
-        "handle": "jimicardoor.bsky.social",
-        "display_name": "Jimi Cardoor",
-        "initials": "JC",
-        "did": "did:plc:d57sd7qpxjw5z6mxw43gguab",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d57sd7qpxjw5z6mxw43gguab/bafkreib4mwqr34nhw5ka635oiseowg5i3vypaedcqee4636tzlz6a3zqhe@jpeg",
-        "profile_url": "https://bsky.app/profile/jimicardoor.bsky.social"
+        "handle": "cherfan75.bsky.social",
+        "display_name": "Cherfan75.Bsky.Social",
+        "initials": "CH",
+        "did": "did:plc:utipn7txb4omhfjwcfhczwnu",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:utipn7txb4omhfjwcfhczwnu/bafkreig34hjggbbfwdrowt6m2vmp6imgs66p2kuyfpajjsiviwtxct2aiy@jpeg",
+        "profile_url": "https://bsky.app/profile/cherfan75.bsky.social"
       },
-      "ratio": "6:0",
-      "controversy": 0.3,
+      "ratio": "5:1",
+      "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Can you name this Movie 🎬 from just this shot? Hmm  🤔 ?¿",
-        "uri": "at://did:plc:d57sd7qpxjw5z6mxw43gguab/app.bsky.feed.post/3lx6splgzok2y",
-        "created_at": "2025-08-25T01:06:41.193Z",
-        "url": "https://bsky.app/profile/jimicardoor.bsky.social/post/3lx6splgzok2y"
+        "text": "yarvin worked to create this mess the USA is in ~ only to try to push his own dystopian, disturbing agenda as an alternative to what he coached trump to do!!  \nHis books contain his incessant verbal diarrhea which is just the precise bs to baffle conservative brains… if they had brains.",
+        "uri": "at://did:plc:utipn7txb4omhfjwcfhczwnu/app.bsky.feed.post/3lxbh3vl2gk2f",
+        "created_at": "2025-08-26T02:16:48.794Z",
+        "url": "https://bsky.app/profile/cherfan75.bsky.social/post/3lxbh3vl2gk2f"
       },
       "engagement": {
-        "likes": 8,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 6,
+        "likes": 4,
+        "replies": 3,
+        "reposts": 3,
+        "quotes": 16,
         "formatted": {
-          "likes": "8",
-          "replies": "5",
-          "reposts": "0",
-          "quotes": "6"
+          "likes": "4",
+          "replies": "3",
+          "reposts": "3",
+          "quotes": "16"
         }
       },
       "sample_replies": [
-        "🎶For mEEE For MEEE🎵 😂",
-        "Wayne's World! Wayne's World! It's Party Time! Excellent! \n\n🎵sick guitar riff🎵\n\nThat car was also...",
-        "Wayne's World 😊",
-        "💯 correct"
+        "lawliberty.org/the-mediocri...",
+        "I punched him in his face my senior year for making racist comments + almost got suspended for it",
+        "I went to college with this vile asshat 💀",
+        "Ewwwwww!!!"
       ],
       "metrics": {
-        "ratio_score": 9.0,
+        "ratio_score": 4.75,
         "time_bucket": 3,
-        "total_engagement": 16,
-        "post_age_minutes": 56.4
+        "total_engagement": 26,
+        "post_age_minutes": 45.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T02:17:29.009087+00:00",
-      "last_updated": "2025-08-25T02:17:29.009087+00:00",
+      "first_detected": "2025-08-26T03:17:52.496268+00:00",
+      "last_updated": "2025-08-26T03:17:52.496268+00:00",
       "analysis_windows": [
-        "2025-08-25T02:17:29.009087+00:00"
+        "2025-08-26T03:17:52.496268+00:00"
       ],
-      "peak_controversy": 0.3,
+      "peak_controversy": 0.5,
       "trend": "new"
     },
     {
