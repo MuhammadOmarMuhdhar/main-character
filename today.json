@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-26T03:17:52.496426+00:00",
-    "last_metrics_update": "2025-08-26T03:17:52.496426+00:00",
+    "last_metrics_update": "2025-08-26T03:32:45.743162+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 35,
@@ -35,14 +35,14 @@
         "url": "https://bsky.app/profile/meidastouch.com/post/3lxadzb4lr22s"
       },
       "engagement": {
-        "likes": 1236,
-        "replies": 299,
-        "reposts": 319,
+        "likes": 1238,
+        "replies": 300,
+        "reposts": 320,
         "quotes": 52,
         "formatted": {
           "likes": "1.2K",
-          "replies": "299",
-          "reposts": "319",
+          "replies": "300",
+          "reposts": "320",
           "quotes": "52"
         }
       },
@@ -91,12 +91,12 @@
         "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxb3u237ak2g"
       },
       "engagement": {
-        "likes": 462,
+        "likes": 466,
         "replies": 34,
         "reposts": 26,
         "quotes": 10,
         "formatted": {
-          "likes": "462",
+          "likes": "466",
           "replies": "34",
           "reposts": "26",
           "quotes": "10"
@@ -136,7 +136,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4lx6nur5wstwoc4wtgj56kyu/bafkreihbchxrwqxmvvnhkpvbbgnhrinybygl5b7ommglbny7p5p4ifanue@jpeg",
         "profile_url": "https://bsky.app/profile/gtconway.bsky.social"
       },
-      "ratio": "1:6",
+      "ratio": "1:5",
       "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 880,
-        "replies": 270,
-        "reposts": 185,
-        "quotes": 30,
+        "likes": 1414,
+        "replies": 418,
+        "reposts": 315,
+        "quotes": 59,
         "formatted": {
-          "likes": "880",
-          "replies": "270",
-          "reposts": "185",
-          "quotes": "30"
+          "likes": "1.4K",
+          "replies": "418",
+          "reposts": "315",
+          "quotes": "59"
         }
       },
       "sample_replies": [
@@ -202,14 +202,14 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxadqqhbgy2i"
       },
       "engagement": {
-        "likes": 844,
-        "replies": 163,
-        "reposts": 187,
+        "likes": 855,
+        "replies": 164,
+        "reposts": 190,
         "quotes": 95,
         "formatted": {
-          "likes": "844",
-          "replies": "163",
-          "reposts": "187",
+          "likes": "855",
+          "replies": "164",
+          "reposts": "190",
           "quotes": "95"
         }
       },
@@ -262,14 +262,14 @@
         "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lxb5b7rfuk2o"
       },
       "engagement": {
-        "likes": 150,
-        "replies": 157,
-        "reposts": 34,
+        "likes": 155,
+        "replies": 165,
+        "reposts": 36,
         "quotes": 19,
         "formatted": {
-          "likes": "150",
-          "replies": "157",
-          "reposts": "34",
+          "likes": "155",
+          "replies": "165",
+          "reposts": "36",
           "quotes": "19"
         }
       },
@@ -320,12 +320,12 @@
       },
       "engagement": {
         "likes": 388,
-        "replies": 117,
+        "replies": 116,
         "reposts": 52,
         "quotes": 20,
         "formatted": {
           "likes": "388",
-          "replies": "117",
+          "replies": "116",
           "reposts": "52",
           "quotes": "20"
         }
@@ -375,13 +375,13 @@
         "url": "https://bsky.app/profile/georgetakei.bsky.social/post/3lxb2msd4ga2a"
       },
       "engagement": {
-        "likes": 188,
-        "replies": 225,
+        "likes": 198,
+        "replies": 229,
         "reposts": 12,
         "quotes": 15,
         "formatted": {
-          "likes": "188",
-          "replies": "225",
+          "likes": "198",
+          "replies": "229",
           "reposts": "12",
           "quotes": "15"
         }
@@ -432,12 +432,12 @@
       },
       "engagement": {
         "likes": 169,
-        "replies": 75,
+        "replies": 76,
         "reposts": 42,
         "quotes": 14,
         "formatted": {
           "likes": "169",
-          "replies": "75",
+          "replies": "76",
           "reposts": "42",
           "quotes": "14"
         }
@@ -487,13 +487,13 @@
         "url": "https://bsky.app/profile/npr.org/post/3lxaqsj6lbx2u"
       },
       "engagement": {
-        "likes": 135,
-        "replies": 61,
+        "likes": 137,
+        "replies": 62,
         "reposts": 30,
         "quotes": 9,
         "formatted": {
-          "likes": "135",
-          "replies": "61",
+          "likes": "137",
+          "replies": "62",
           "reposts": "30",
           "quotes": "9"
         }
@@ -543,12 +543,12 @@
         "url": "https://bsky.app/profile/prof-hinkley.bsky.social/post/3lxb5aviao224"
       },
       "engagement": {
-        "likes": 196,
+        "likes": 204,
         "replies": 36,
         "reposts": 29,
         "quotes": 9,
         "formatted": {
-          "likes": "196",
+          "likes": "204",
           "replies": "36",
           "reposts": "29",
           "quotes": "9"
@@ -654,12 +654,12 @@
         "url": "https://bsky.app/profile/chadbourn.bsky.social/post/3lxapvz2bkk24"
       },
       "engagement": {
-        "likes": 127,
+        "likes": 128,
         "replies": 43,
         "reposts": 23,
         "quotes": 12,
         "formatted": {
-          "likes": "127",
+          "likes": "128",
           "replies": "43",
           "reposts": "23",
           "quotes": "12"
@@ -710,12 +710,12 @@
         "url": "https://bsky.app/profile/cjzero.bsky.social/post/3lx77kwuhi22c"
       },
       "engagement": {
-        "likes": 172,
+        "likes": 173,
         "replies": 43,
         "reposts": 22,
         "quotes": 71,
         "formatted": {
-          "likes": "172",
+          "likes": "173",
           "replies": "43",
           "reposts": "22",
           "quotes": "71"
@@ -822,14 +822,14 @@
         "url": "https://bsky.app/profile/schwarz.bsky.social/post/3lxaqpkebc22b"
       },
       "engagement": {
-        "likes": 98,
+        "likes": 99,
         "replies": 10,
-        "reposts": 16,
+        "reposts": 17,
         "quotes": 14,
         "formatted": {
-          "likes": "98",
+          "likes": "99",
           "replies": "10",
-          "reposts": "16",
+          "reposts": "17",
           "quotes": "14"
         }
       },
@@ -878,12 +878,12 @@
         "url": "https://bsky.app/profile/apnews.com/post/3lxb45bpvez2z"
       },
       "engagement": {
-        "likes": 73,
+        "likes": 76,
         "replies": 14,
         "reposts": 10,
         "quotes": 8,
         "formatted": {
-          "likes": "73",
+          "likes": "76",
           "replies": "14",
           "reposts": "10",
           "quotes": "8"
@@ -934,12 +934,12 @@
         "url": "https://bsky.app/profile/violanorth.bsky.social/post/3lxaqodhhck22"
       },
       "engagement": {
-        "likes": 60,
+        "likes": 61,
         "replies": 27,
         "reposts": 5,
         "quotes": 19,
         "formatted": {
-          "likes": "60",
+          "likes": "61",
           "replies": "27",
           "reposts": "5",
           "quotes": "19"
@@ -990,15 +990,15 @@
         "url": "https://bsky.app/profile/igotyoedges.blacksky.app/post/3lxb3762aqk25"
       },
       "engagement": {
-        "likes": 77,
+        "likes": 78,
         "replies": 7,
-        "reposts": 25,
-        "quotes": 65,
+        "reposts": 27,
+        "quotes": 68,
         "formatted": {
-          "likes": "77",
+          "likes": "78",
           "replies": "7",
-          "reposts": "25",
-          "quotes": "65"
+          "reposts": "27",
+          "quotes": "68"
         }
       },
       "sample_replies": [
@@ -1035,7 +1035,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5oj3h5yslnl5ymnvya5aecv/bafkreiey3opf5eqzwuscafvddutyqdyxi24wvroaqt2t3fctrbwq7f7ty4@jpeg",
         "profile_url": "https://bsky.app/profile/awfulannouncing.bsky.social"
       },
-      "ratio": "3:1",
+      "ratio": "4:1",
       "controversy": 1.7,
       "change": "+0.9",
       "change_type": "positive",
@@ -1046,15 +1046,15 @@
         "url": "https://bsky.app/profile/awfulannouncing.bsky.social/post/3lxbgw3tbln2c"
       },
       "engagement": {
-        "likes": 57,
-        "replies": 10,
+        "likes": 67,
+        "replies": 12,
         "reposts": 5,
-        "quotes": 15,
+        "quotes": 20,
         "formatted": {
-          "likes": "57",
-          "replies": "10",
+          "likes": "67",
+          "replies": "12",
           "reposts": "5",
-          "quotes": "15"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -1102,12 +1102,12 @@
         "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3lx7ye73eip2g"
       },
       "engagement": {
-        "likes": 70,
+        "likes": 72,
         "replies": 12,
         "reposts": 21,
         "quotes": 50,
         "formatted": {
-          "likes": "70",
+          "likes": "72",
           "replies": "12",
           "reposts": "21",
           "quotes": "50"
@@ -1252,64 +1252,6 @@
     {
       "rank": 23,
       "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "2:1",
-      "controversy": 1.1,
-      "change": "-1.5",
-      "change_type": "negative",
-      "post": {
-        "text": "George Herman Ruth, a Tennessee man with the same full name as the celebrated Yankees slugger Babe Ruth, used the names of retired and dead baseball players to file fraudulent class-action settlement claims, prosecutors said.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxbgpt3dnw2x",
-        "created_at": "2025-08-26T02:10:03.481838Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lxbgpt3dnw2x"
-      },
-      "engagement": {
-        "likes": 37,
-        "replies": 6,
-        "reposts": 5,
-        "quotes": 8,
-        "formatted": {
-          "likes": "37",
-          "replies": "6",
-          "reposts": "5",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "bsky.app/profile/edhi...\nFunny how 'The New York Biden Is Old Times'\nnever mentions Donald Trump's...",
-        "Has trump hired him yet?",
-        "Will he be represented by Ty Cobb?",
-        "Gonna take a wild guess: he’s a Republican."
-      ],
-      "metrics": {
-        "ratio_score": 2.33,
-        "time_bucket": 3,
-        "total_engagement": 56,
-        "post_age_minutes": 52.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T20:21:21.298573+00:00",
-      "last_updated": "2025-08-26T03:17:52.496353+00:00",
-      "analysis_windows": [
-        "2025-08-25T20:21:21.298573+00:00",
-        "2025-08-25T20:21:22.027664+00:00",
-        "2025-08-26T03:17:52.496353+00:00"
-      ],
-      "peak_controversy": 2.6,
-      "trend": "rising"
-    },
-    {
-      "rank": 24,
-      "user": {
         "handle": "nbcnews.com",
         "display_name": "NBC News",
         "initials": "NN",
@@ -1328,13 +1270,13 @@
         "url": "https://bsky.app/profile/nbcnews.com/post/3lxb2ynwwq22a"
       },
       "engagement": {
-        "likes": 25,
-        "replies": 30,
+        "likes": 26,
+        "replies": 31,
         "reposts": 21,
         "quotes": 11,
         "formatted": {
-          "likes": "25",
-          "replies": "30",
+          "likes": "26",
+          "replies": "31",
           "reposts": "21",
           "quotes": "11"
         }
@@ -1364,7 +1306,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "user": {
         "handle": "hagenilda.bsky.social",
         "display_name": "Jo  🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -1420,7 +1362,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "the-independent.com",
         "display_name": "The Independent",
@@ -1474,6 +1416,64 @@
       ],
       "peak_controversy": 1.2,
       "trend": "new"
+    },
+    {
+      "rank": 26,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:1",
+      "controversy": 1.1,
+      "change": "-1.5",
+      "change_type": "negative",
+      "post": {
+        "text": "George Herman Ruth, a Tennessee man with the same full name as the celebrated Yankees slugger Babe Ruth, used the names of retired and dead baseball players to file fraudulent class-action settlement claims, prosecutors said.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxbgpt3dnw2x",
+        "created_at": "2025-08-26T02:10:03.481838Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lxbgpt3dnw2x"
+      },
+      "engagement": {
+        "likes": 46,
+        "replies": 9,
+        "reposts": 8,
+        "quotes": 8,
+        "formatted": {
+          "likes": "46",
+          "replies": "9",
+          "reposts": "8",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "bsky.app/profile/edhi...\nFunny how 'The New York Biden Is Old Times'\nnever mentions Donald Trump's...",
+        "Has trump hired him yet?",
+        "Will he be represented by Ty Cobb?",
+        "Gonna take a wild guess: he’s a Republican."
+      ],
+      "metrics": {
+        "ratio_score": 2.33,
+        "time_bucket": 3,
+        "total_engagement": 56,
+        "post_age_minutes": 52.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-25T20:21:21.298573+00:00",
+      "last_updated": "2025-08-26T03:17:52.496353+00:00",
+      "analysis_windows": [
+        "2025-08-25T20:21:21.298573+00:00",
+        "2025-08-25T20:21:22.027664+00:00",
+        "2025-08-26T03:17:52.496353+00:00"
+      ],
+      "peak_controversy": 2.6,
+      "trend": "rising"
     },
     {
       "rank": 27,
@@ -1596,7 +1596,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rddeinqb45gzem3n3zyma7im/bafkreiekbofstt5gbd74skigbabmh4lsn4hiodzkplqchgrw4vhlu7ulai@jpeg",
         "profile_url": "https://bsky.app/profile/japantimes.co.jp"
       },
-      "ratio": "1:2",
+      "ratio": "1:1",
       "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
@@ -1607,15 +1607,15 @@
         "url": "https://bsky.app/profile/japantimes.co.jp/post/3lxbhu2ff4p25"
       },
       "engagement": {
-        "likes": 10,
-        "replies": 10,
-        "reposts": 8,
-        "quotes": 5,
+        "likes": 13,
+        "replies": 14,
+        "reposts": 9,
+        "quotes": 7,
         "formatted": {
-          "likes": "10",
-          "replies": "10",
-          "reposts": "8",
-          "quotes": "5"
+          "likes": "13",
+          "replies": "14",
+          "reposts": "9",
+          "quotes": "7"
         }
       },
       "sample_replies": [
@@ -1719,12 +1719,12 @@
         "url": "https://bsky.app/profile/theathletic.com/post/3lx7yzbz66a2f"
       },
       "engagement": {
-        "likes": 13,
+        "likes": 14,
         "replies": 23,
         "reposts": 2,
         "quotes": 6,
         "formatted": {
-          "likes": "13",
+          "likes": "14",
           "replies": "23",
           "reposts": "2",
           "quotes": "6"
@@ -1764,7 +1764,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tom67pr2zmkziputghvxoe34/bafkreig32yjhwzcziwutr3ve4ptq6vuycbsl4apd3rcaf7ljiu73pevb5q@jpeg",
         "profile_url": "https://bsky.app/profile/blackranga.blacksky.app"
       },
-      "ratio": "62:0",
+      "ratio": "65:0",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -1778,12 +1778,12 @@
         "likes": 25,
         "replies": 17,
         "reposts": 0,
-        "quotes": 62,
+        "quotes": 65,
         "formatted": {
           "likes": "25",
           "replies": "17",
           "reposts": "0",
-          "quotes": "62"
+          "quotes": "65"
         }
       },
       "sample_replies": [
@@ -1875,7 +1875,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:utipn7txb4omhfjwcfhczwnu/bafkreig34hjggbbfwdrowt6m2vmp6imgs66p2kuyfpajjsiviwtxct2aiy@jpeg",
         "profile_url": "https://bsky.app/profile/cherfan75.bsky.social"
       },
-      "ratio": "5:1",
+      "ratio": "7:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -1886,15 +1886,15 @@
         "url": "https://bsky.app/profile/cherfan75.bsky.social/post/3lxbh3vl2gk2f"
       },
       "engagement": {
-        "likes": 4,
-        "replies": 3,
+        "likes": 5,
+        "replies": 4,
         "reposts": 3,
-        "quotes": 16,
+        "quotes": 22,
         "formatted": {
-          "likes": "4",
-          "replies": "3",
+          "likes": "5",
+          "replies": "4",
           "reposts": "3",
-          "quotes": "16"
+          "quotes": "22"
         }
       },
       "sample_replies": [
