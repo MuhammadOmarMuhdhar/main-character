@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-26T21:35:48.263051+00:00",
-    "last_metrics_update": "2025-08-27T00:32:37.135807+00:00",
+    "last_full_analysis": "2025-08-27T01:03:38.811011+00:00",
+    "last_metrics_update": "2025-08-27T01:03:38.811011+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 31,
+    "main_characters_count": 30,
     "rolling_window": {
-      "last_update": "2025-08-26T21:35:48.263051+00:00",
-      "new_entries_added": 10,
-      "total_in_window": 31,
+      "last_update": "2025-08-27T01:03:38.811011+00:00",
+      "new_entries_added": 9,
+      "total_in_window": 30,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -17,58 +17,57 @@
     {
       "rank": 1,
       "user": {
-        "handle": "brendelbored.bsky.social",
-        "display_name": "Brendel",
-        "initials": "BR",
-        "did": "did:plc:of56nmyuqzvjta7qlf7gwht6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:of56nmyuqzvjta7qlf7gwht6/bafkreictblhdtse26aiwqiv62ng4kjybdcl53ypic3u4nwxjhwov7mblfi@jpeg",
-        "profile_url": "https://bsky.app/profile/brendelbored.bsky.social"
+        "handle": "ronfilipkowski.bsky.social",
+        "display_name": "Ron Filipkowski",
+        "initials": "RF",
+        "did": "did:plc:t6ubj2wlhc34awzcymh3qpur",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6ubj2wlhc34awzcymh3qpur/bafkreifqp5wczyswtq4g45yi73ivgtlhctw2jj3ghjfsve53k4tvli62cy@jpeg",
+        "profile_url": "https://bsky.app/profile/ronfilipkowski.bsky.social"
       },
-      "ratio": "1:3",
+      "ratio": "1:5",
       "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "It’s a fucking restaurant you eat chicken at \n\nwww.cnbc.com/2025/08/25/c...",
-        "uri": "at://did:plc:of56nmyuqzvjta7qlf7gwht6/app.bsky.feed.post/3lxb3u237ak2g",
-        "created_at": "2025-08-25T22:55:33.913Z",
-        "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxb3u237ak2g"
+        "text": "He saved Cracker Barrel and College Football today. Amazing!",
+        "uri": "at://did:plc:t6ubj2wlhc34awzcymh3qpur/app.bsky.feed.post/3lxdqjlcz622a",
+        "created_at": "2025-08-27T00:10:50.958Z",
+        "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 491,
-        "replies": 34,
-        "reposts": 28,
+        "likes": 481,
+        "replies": 130,
+        "reposts": 47,
         "quotes": 10,
         "formatted": {
-          "likes": "491",
-          "replies": "34",
-          "reposts": "28",
+          "likes": "481",
+          "replies": "130",
+          "reposts": "47",
           "quotes": "10"
         }
       },
       "sample_replies": [
-        "Benjamin Franklin: huzzah the Time Machine worked, tell me good sir, what have you made of our...",
-        "If there’s one thing we’ve learned through this weeks long debate about a company logo it’s that...",
-        "Like fucking read a book or learn a musical instrument who gives a fuck what the hell",
-        "What’s my main form of political activism? You guessed it: yelling at the people who make hot dog..."
+        "But still isn't capable of releasing the Epstein files",
+        "The 21st century.  Modernization.  Change.  Anything positive and forward-thinking."
       ],
       "metrics": {
-        "ratio_score": 1.94,
+        "ratio_score": 2.92,
         "time_bucket": 2,
-        "total_engagement": 395,
+        "total_engagement": 668,
         "post_age_minutes": 37.1
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-25T23:50:15.083422+00:00",
-      "last_updated": "2025-08-25T23:50:15.083422+00:00",
+      "first_detected": "2025-08-27T01:03:38.447278+00:00",
+      "last_updated": "2025-08-27T01:03:38.810938+00:00",
       "analysis_windows": [
-        "2025-08-25T23:50:15.083422+00:00"
+        "2025-08-27T01:03:38.447278+00:00",
+        "2025-08-27T01:03:38.810938+00:00"
       ],
       "peak_controversy": 10.0,
-      "trend": "new"
+      "trend": "rising"
     },
     {
       "rank": 2,
@@ -304,62 +303,6 @@
     {
       "rank": 6,
       "user": {
-        "handle": "georgetakei.bsky.social",
-        "display_name": "George Takei",
-        "initials": "GT",
-        "did": "did:plc:y4zs4cabaezzwx3bz2e5nnj2",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4zs4cabaezzwx3bz2e5nnj2/bafkreihyuljtklac6pgvt4kbndezofm23wswyhdqmh77bgedrxhuigwbh4@jpeg",
-        "profile_url": "https://bsky.app/profile/georgetakei.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 6.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What do you make of her argument, folks?",
-        "uri": "at://did:plc:y4zs4cabaezzwx3bz2e5nnj2/app.bsky.feed.post/3lxb2msd4ga2a",
-        "created_at": "2025-08-25T22:33:36.697Z",
-        "url": "https://bsky.app/profile/georgetakei.bsky.social/post/3lxb2msd4ga2a"
-      },
-      "engagement": {
-        "likes": 246,
-        "replies": 256,
-        "reposts": 13,
-        "quotes": 17,
-        "formatted": {
-          "likes": "246",
-          "replies": "256",
-          "reposts": "13",
-          "quotes": "17"
-        }
-      },
-      "sample_replies": [
-        "Honestly don't give a shit whatever this is about. \n\nRelease the Epstein files. \n\nImpeach the...",
-        "Seriously whoever TF this is, her 15 minutes is up",
-        "I think soap made from used bath water is gross. Don’t care whose name is on it. And if she thought...",
-        "Honestly, who cares?  This is so low on list of things to think about that it's just a waste of..."
-      ],
-      "metrics": {
-        "ratio_score": 24.0,
-        "time_bucket": 3,
-        "total_engagement": 332,
-        "post_age_minutes": 59.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.360435+00:00",
-      "last_updated": "2025-08-25T23:50:15.360435+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.360435+00:00"
-      ],
-      "peak_controversy": 6.6,
-      "trend": "new"
-    },
-    {
-      "rank": 7,
-      "user": {
         "handle": "patriottakes.bsky.social",
         "display_name": "PatriotTakes 🇺🇸",
         "initials": "P🇺",
@@ -411,6 +354,61 @@
         "2025-08-26T14:32:58.776495+00:00"
       ],
       "peak_controversy": 6.4,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
+        "handle": "ivanasstaircam.bsky.social",
+        "display_name": "Lynda Will Not Obey",
+        "initials": "LW",
+        "did": "did:plc:bamk3vfncdwawvmdkq4um2fw",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bamk3vfncdwawvmdkq4um2fw/bafkreig6ne3rqjtykstwhk4vujugmcfvfzezbxkxluvr7w4nqclvggjtcq@jpeg",
+        "profile_url": "https://bsky.app/profile/ivanasstaircam.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 6.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Just wanted to remind everyone that Charlie Kirk and Kellyanne Conway used to date. Way before the plastic surgery.\n\nYou can use this image to help suppress your appetite if you’re cutting calories.",
+        "uri": "at://did:plc:bamk3vfncdwawvmdkq4um2fw/app.bsky.feed.post/3lxdrhiuap22l",
+        "created_at": "2025-08-27T00:27:35.001Z",
+        "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
+      },
+      "engagement": {
+        "likes": 94,
+        "replies": 35,
+        "reposts": 15,
+        "quotes": 6,
+        "formatted": {
+          "likes": "94",
+          "replies": "35",
+          "reposts": "15",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Also let us not forget that she posted her own daughter’s nudes to Twitter and he liked and...",
+        "He looks like he’s been put together using spare body parts.",
+        "Thanks, I made copies for the fridge."
+      ],
+      "metrics": {
+        "ratio_score": 2.56,
+        "time_bucket": 1,
+        "total_engagement": 150,
+        "post_age_minutes": 20.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.163518+00:00",
+      "last_updated": "2025-08-27T01:03:38.163518+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.163518+00:00"
+      ],
+      "peak_controversy": 6.0,
       "trend": "new"
     },
     {
@@ -472,61 +470,6 @@
     {
       "rank": 9,
       "user": {
-        "handle": "prof-hinkley.bsky.social",
-        "display_name": "Travis comma bitch",
-        "initials": "TC",
-        "did": "did:plc:np2qjm35nzxvtznrfofxhwr6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:np2qjm35nzxvtznrfofxhwr6/bafkreiasd66mnhk7xwpnpd7ngjmsxb3fn4kcjlmnsmbdyypx237r4ox6wm@jpeg",
-        "profile_url": "https://bsky.app/profile/prof-hinkley.bsky.social"
-      },
-      "ratio": "1:3",
-      "controversy": 4.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "What do you call this? \nA) turn signal\nB) indicator\nC) blinker\nD) idk I drive a BMW",
-        "uri": "at://did:plc:np2qjm35nzxvtznrfofxhwr6/app.bsky.feed.post/3lxb5aviao224",
-        "created_at": "2025-08-25T23:20:39.051Z",
-        "url": "https://bsky.app/profile/prof-hinkley.bsky.social/post/3lxb5aviao224"
-      },
-      "engagement": {
-        "likes": 241,
-        "replies": 39,
-        "reposts": 31,
-        "quotes": 9,
-        "formatted": {
-          "likes": "241",
-          "replies": "39",
-          "reposts": "31",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "do BMWs even have those?",
-        "Because BMWs can only go straight?",
-        "Lmao! D) was originally going to be something along those lines 🤣"
-      ],
-      "metrics": {
-        "ratio_score": 2.71,
-        "time_bucket": 0,
-        "total_engagement": 85,
-        "post_age_minutes": 12.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:14.939223+00:00",
-      "last_updated": "2025-08-25T23:50:14.939223+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:14.939223+00:00"
-      ],
-      "peak_controversy": 4.2,
-      "trend": "new"
-    },
-    {
-      "rank": 10,
-      "user": {
         "handle": "popcrave.com",
         "display_name": "Pop Crave",
         "initials": "PC",
@@ -581,64 +524,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
-      "user": {
-        "handle": "nbcnews.com",
-        "display_name": "NBC News",
-        "initials": "NN",
-        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreifjfoaox34dlcdm4dxje7x7awyyzqcw4jiv4x4i3lrxtyx63qdzru@jpeg",
-        "profile_url": "https://bsky.app/profile/nbcnews.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.8,
-      "change": "+1.5",
-      "change_type": "positive",
-      "post": {
-        "text": "Health Secretary Robert F. Kennedy Jr. says Americans will soon have access to their full health records on their cellphones.",
-        "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3lxderkanvh2p",
-        "created_at": "2025-08-26T20:40:33Z",
-        "url": "https://bsky.app/profile/nbcnews.com/post/3lxderkanvh2p"
-      },
-      "engagement": {
-        "likes": 21,
-        "replies": 74,
-        "reposts": 12,
-        "quotes": 16,
-        "formatted": {
-          "likes": "21",
-          "replies": "74",
-          "reposts": "12",
-          "quotes": "16"
-        }
-      },
-      "sample_replies": [
-        "I already do",
-        "Right? I mean… these folks ever heard of the MyChart app? lol",
-        "We will have access to our records but no access to vaccines or modern medicine. Neat.",
-        "Fuck NBC! Report on real news like where are the Epstein documents?"
-      ],
-      "metrics": {
-        "ratio_score": 4.85,
-        "time_bucket": 2,
-        "total_engagement": 93,
-        "post_age_minutes": 37.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.628483+00:00",
-      "last_updated": "2025-08-26T21:35:48.262965+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.628483+00:00",
-        "2025-08-26T21:35:48.262965+00:00"
-      ],
-      "peak_controversy": 2.8,
-      "trend": "rising"
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -696,7 +582,63 @@
       "trend": "rising"
     },
     {
-      "rank": 13,
+      "rank": 11,
+      "user": {
+        "handle": "taniel.bsky.social",
+        "display_name": "Taniel",
+        "initials": "TA",
+        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
+        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
+        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
+        "created_at": "2025-08-27T00:34:25.614Z",
+        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
+      },
+      "engagement": {
+        "likes": 26,
+        "replies": 21,
+        "reposts": 11,
+        "quotes": 9,
+        "formatted": {
+          "likes": "26",
+          "replies": "21",
+          "reposts": "11",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "That’s disgusting.",
+        "Ohio, come on man. Are you really this far gone?",
+        "This is so depressing.",
+        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
+      ],
+      "metrics": {
+        "ratio_score": 2.5,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 13.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.070006+00:00",
+      "last_updated": "2025-08-27T01:03:38.070006+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.070006+00:00"
+      ],
+      "peak_controversy": 3.4,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
       "user": {
         "handle": "timobrien.bsky.social",
         "display_name": "Tim O’Brien",
@@ -752,119 +694,63 @@
       "trend": "new"
     },
     {
+      "rank": 13,
+      "user": {
+        "handle": "unusualwhales.bsky.social",
+        "display_name": "Unusual Whales",
+        "initials": "UW",
+        "did": "did:plc:7l75ck5g4b5k6gxqaq5rejit",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7l75ck5g4b5k6gxqaq5rejit/bafkreia2gyds76c6uk5szzdxvsfcvnm4nh5nvudchuu3tqc6nlkwetcjai@jpeg",
+        "profile_url": "https://bsky.app/profile/unusualwhales.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "BREAKING: Cracker Barrel reverts back to their old logo",
+        "uri": "at://did:plc:7l75ck5g4b5k6gxqaq5rejit/app.bsky.feed.post/3lxdrbbn4s22d",
+        "created_at": "2025-08-27T00:24:06.113Z",
+        "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lxdrbbn4s22d"
+      },
+      "engagement": {
+        "likes": 31,
+        "replies": 20,
+        "reposts": 5,
+        "quotes": 7,
+        "formatted": {
+          "likes": "31",
+          "replies": "20",
+          "reposts": "5",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "This is the dumbest timeline.",
+        "So dumb",
+        "And no one cares.",
+        "Free publicity in triggering maga"
+      ],
+      "metrics": {
+        "ratio_score": 4.5,
+        "time_bucket": 1,
+        "total_engagement": 63,
+        "post_age_minutes": 23.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.250441+00:00",
+      "last_updated": "2025-08-27T01:03:38.250441+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.250441+00:00"
+      ],
+      "peak_controversy": 2.5,
+      "trend": "new"
+    },
+    {
       "rank": 14,
-      "user": {
-        "handle": "apnews.com",
-        "display_name": "The Associated Press",
-        "initials": "TA",
-        "did": "did:plc:a67zdrt4nl2tv2qojpngogbq",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreicqe453w2txy6eyooe4a6dbtvmflmfp7ydzunwjxuulvmgvntp42a@jpeg",
-        "profile_url": "https://bsky.app/profile/apnews.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Southwest Airlines will soon require plus-size travelers to pay for an extra seat in advance if they can't fit within the armrests of one seat.",
-        "uri": "at://did:plc:a67zdrt4nl2tv2qojpngogbq/app.bsky.feed.post/3lxb45bpvez2z",
-        "created_at": "2025-08-25T23:00:43Z",
-        "url": "https://bsky.app/profile/apnews.com/post/3lxb45bpvez2z"
-      },
-      "engagement": {
-        "likes": 83,
-        "replies": 17,
-        "reposts": 12,
-        "quotes": 10,
-        "formatted": {
-          "likes": "83",
-          "replies": "17",
-          "reposts": "12",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "Next year the new seats will be 12 inches wide and everyone pays double.",
-        "Ha! MAGA has to pay double.",
-        "I thought they tried that before and it was ruled as discrimination.  Many obese people have...",
-        "As they should. Not fair to the passenger next to them to be squished."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 2,
-        "total_engagement": 75,
-        "post_age_minutes": 32.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.219451+00:00",
-      "last_updated": "2025-08-25T23:50:15.219451+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.219451+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 15,
-      "user": {
-        "handle": "wario64.bsky.social",
-        "display_name": "Wario64",
-        "initials": "WA",
-        "did": "did:plc:knj5sw5al3sukl6vhkpi7637",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:knj5sw5al3sukl6vhkpi7637/bafkreibyyspgkbm3xrgbu4qsemkjkphzfg2lcy6pa6zcdeverzmmtfbsuq@jpeg",
-        "profile_url": "https://bsky.app/profile/wario64.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 2.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "LEGO Icons - Captain Jack Sparrow's Pirate Ship goes up on LEGO Store on Sept 15h ($379.99), early access for members buff.ly/6hvXRAS",
-        "uri": "at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3lxcopufozi2m",
-        "created_at": "2025-08-26T14:05:54.577Z",
-        "url": "https://bsky.app/profile/wario64.bsky.social/post/3lxcopufozi2m"
-      },
-      "engagement": {
-        "likes": 81,
-        "replies": 13,
-        "reposts": 13,
-        "quotes": 16,
-        "formatted": {
-          "likes": "81",
-          "replies": "13",
-          "reposts": "13",
-          "quotes": "16"
-        }
-      },
-      "sample_replies": [
-        "Captain Jack Sparrow is on the Epstein List",
-        "It's called the Black Pearl!",
-        "Why isn't it branded as the \"Black Pearl\"?",
-        "The Black Pearl. For only the cost of an actual black pearl."
-      ],
-      "metrics": {
-        "ratio_score": 2.0,
-        "time_bucket": 0,
-        "total_engagement": 45,
-        "post_age_minutes": 12.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T14:32:58.247234+00:00",
-      "last_updated": "2025-08-26T14:32:58.247234+00:00",
-      "analysis_windows": [
-        "2025-08-26T14:32:58.247234+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -919,7 +805,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -975,7 +861,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -1031,119 +917,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
-      "user": {
-        "handle": "igotyoedges.blacksky.app",
-        "display_name": "ᴾᵃᵖⁱ ᴄʜɪᴄʜᴏꜱ ᴅᴀʏ | 9/5|  🥷⃤",
-        "initials": "ᴾᴄ",
-        "did": "did:plc:d43hh5iuwmn6d2jyykltsg7u",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d43hh5iuwmn6d2jyykltsg7u/bafkreid2nx4y5ajbwbkn5qewh6l3b4e3jcletsj626ztwnss4ck4zon6ju@jpeg",
-        "profile_url": "https://bsky.app/profile/igotyoedges.blacksky.app"
-      },
-      "ratio": "2:1",
-      "controversy": 1.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "No matter how attractive you may feel you are, remember this… EVERYBODY DON’T WANT YOU!",
-        "uri": "at://did:plc:d43hh5iuwmn6d2jyykltsg7u/app.bsky.feed.post/3lxb3762aqk25",
-        "created_at": "2025-08-25T22:43:53.442Z",
-        "url": "https://bsky.app/profile/igotyoedges.blacksky.app/post/3lxb3762aqk25"
-      },
-      "engagement": {
-        "likes": 109,
-        "replies": 6,
-        "reposts": 32,
-        "quotes": 75,
-        "formatted": {
-          "likes": "109",
-          "replies": "6",
-          "reposts": "32",
-          "quotes": "75"
-        }
-      },
-      "sample_replies": [
-        "🤔",
-        "😂😂😂",
-        "😭😭",
-        "Hmm debatable 🤣 just jokey jokes"
-      ],
-      "metrics": {
-        "ratio_score": 2.29,
-        "time_bucket": 3,
-        "total_engagement": 90,
-        "post_age_minutes": 48.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.494028+00:00",
-      "last_updated": "2025-08-25T23:50:15.494028+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.494028+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 20,
-      "user": {
-        "handle": "awfulannouncing.bsky.social",
-        "display_name": "Awful Announcing",
-        "initials": "AA",
-        "did": "did:plc:f5oj3h5yslnl5ymnvya5aecv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5oj3h5yslnl5ymnvya5aecv/bafkreiey3opf5eqzwuscafvddutyqdyxi24wvroaqt2t3fctrbwq7f7ty4@jpeg",
-        "profile_url": "https://bsky.app/profile/awfulannouncing.bsky.social"
-      },
-      "ratio": "5:1",
-      "controversy": 1.7,
-      "change": "+0.9",
-      "change_type": "positive",
-      "post": {
-        "text": "",
-        "uri": "at://did:plc:f5oj3h5yslnl5ymnvya5aecv/app.bsky.feed.post/3lxbgw3tbln2c",
-        "created_at": "2025-08-26T02:13:33Z",
-        "url": "https://bsky.app/profile/awfulannouncing.bsky.social/post/3lxbgw3tbln2c"
-      },
-      "engagement": {
-        "likes": 83,
-        "replies": 16,
-        "reposts": 6,
-        "quotes": 28,
-        "formatted": {
-          "likes": "83",
-          "replies": "16",
-          "reposts": "6",
-          "quotes": "28"
-        }
-      },
-      "sample_replies": [
-        "Great!  Now do the rest of the weekends, too!",
-        "Imagine being such a fuckass you get banned from OHIO",
-        "I think Fox Sports is going to regret hiring Portnoy by the first day of autumn."
-      ],
-      "metrics": {
-        "ratio_score": 4.17,
-        "time_bucket": 3,
-        "total_engagement": 87,
-        "post_age_minutes": 47.3
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-25T23:50:15.760261+00:00",
-      "last_updated": "2025-08-26T03:17:52.496353+00:00",
-      "analysis_windows": [
-        "2025-08-25T23:50:15.760261+00:00",
-        "2025-08-26T03:17:52.496353+00:00"
-      ],
-      "peak_controversy": 1.7,
-      "trend": "rising"
-    },
-    {
-      "rank": 21,
+      "rank": 17,
       "user": {
         "handle": "tryvns.writes.fyi",
         "display_name": "Treywop. 🌬️🪼",
@@ -1197,7 +971,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 18,
       "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
@@ -1252,7 +1026,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 19,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -1308,7 +1082,120 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 20,
+      "user": {
+        "handle": "wario64.bsky.social",
+        "display_name": "Wario64",
+        "initials": "WA",
+        "did": "did:plc:knj5sw5al3sukl6vhkpi7637",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:knj5sw5al3sukl6vhkpi7637/bafkreibyyspgkbm3xrgbu4qsemkjkphzfg2lcy6pa6zcdeverzmmtfbsuq@jpeg",
+        "profile_url": "https://bsky.app/profile/wario64.bsky.social"
+      },
+      "ratio": "3:1",
+      "controversy": 1.3,
+      "change": "-0.9",
+      "change_type": "negative",
+      "post": {
+        "text": "Ys X: Proud Nordics: Deluxe Edition (Switch 2 KC) up for preorder on Amazon ($69.99) buff.ly/YpZ9MyW #ad",
+        "uri": "at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3lxdq6vnxvb2f",
+        "created_at": "2025-08-27T00:04:52.685Z",
+        "url": "https://bsky.app/profile/wario64.bsky.social/post/3lxdq6vnxvb2f"
+      },
+      "engagement": {
+        "likes": 24,
+        "replies": 11,
+        "reposts": 2,
+        "quotes": 6,
+        "formatted": {
+          "likes": "24",
+          "replies": "11",
+          "reposts": "2",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "If Playtonic and PM studios can release a full physical of Yooka-Re-Playee on Switch 2 for $50,...",
+        "Game Key Card.",
+        "@nisamerica.bsky.social",
+        "Ugh, a game key card? What a disappointment."
+      ],
+      "metrics": {
+        "ratio_score": 5.67,
+        "time_bucket": 2,
+        "total_engagement": 43,
+        "post_age_minutes": 43.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T14:32:58.247234+00:00",
+      "last_updated": "2025-08-27T01:03:38.810938+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.247234+00:00",
+        "2025-08-27T01:03:38.810938+00:00",
+        "2025-08-27T01:03:38.810938+00:00"
+      ],
+      "peak_controversy": 2.2,
+      "trend": "rising"
+    },
+    {
+      "rank": 21,
+      "user": {
+        "handle": "authorwinifred.blacksky.app",
+        "display_name": "Winifred \"Goody\" Burton",
+        "initials": "W\"",
+        "did": "did:plc:7q7e2iqpxrtkmmajqbbbtfo3",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7q7e2iqpxrtkmmajqbbbtfo3/bafkreigi37o5to7xjkifuyudrjrdab7ui72qjaeccnmzxeczmmemeh53wy@jpeg",
+        "profile_url": "https://bsky.app/profile/authorwinifred.blacksky.app"
+      },
+      "ratio": "4:1",
+      "controversy": 1.3,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "If I had to guess I'd say the average Blacksky user is 27-33 (don't know why I'm guessing but now I'm curious.\n\nAsking as an Auntie of Advanced Age.",
+        "uri": "at://did:plc:7q7e2iqpxrtkmmajqbbbtfo3/app.bsky.feed.post/3lxdqa5mewc2r",
+        "created_at": "2025-08-27T00:05:34.598Z",
+        "url": "https://bsky.app/profile/authorwinifred.blacksky.app/post/3lxdqa5mewc2r"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 12,
+        "reposts": 2,
+        "quotes": 9,
+        "formatted": {
+          "likes": "20",
+          "replies": "12",
+          "reposts": "2",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "The part of my brain that's always trying to sort things into patterns has REASONS for guessing...",
+        "I'm 46, as I have been for the last 40 years, for reference.",
+        "I'm 37, and I feel like most of the people I'm interacting with are 30-45."
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "time_bucket": 2,
+        "total_engagement": 43,
+        "post_age_minutes": 42.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.810838+00:00",
+      "last_updated": "2025-08-27T01:03:38.810838+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.810838+00:00"
+      ],
+      "peak_controversy": 1.3,
+      "trend": "new"
+    },
+    {
+      "rank": 22,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -1364,7 +1251,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1420,7 +1307,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 24,
       "user": {
         "handle": "japantimes.co.jp",
         "display_name": "The Japan Times",
@@ -1476,7 +1363,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 25,
       "user": {
         "handle": "missakemi.bsky.social",
         "display_name": "ItsAkemi",
@@ -1532,7 +1419,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 26,
       "user": {
         "handle": "paigeyspice.bsky.social",
         "display_name": "Paige",
@@ -1586,7 +1473,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 27,
       "user": {
         "handle": "chaclo.blacksky.app",
         "display_name": "ᴛʜᴇ ɴɪɴᴊᴀ ᴀɢᴇɴᴅᴀ",
@@ -1643,7 +1530,62 @@
       "trend": "rising"
     },
     {
-      "rank": 30,
+      "rank": 28,
+      "user": {
+        "handle": "frankwunderli13.bsky.social",
+        "display_name": "Frank Wunderlich-Pfeiffer",
+        "initials": "FW",
+        "did": "did:plc:eypwu6jlj32bidsvog2urfzt",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eypwu6jlj32bidsvog2urfzt/bafkreifxqa25lw4nxmfilj4i4ar3gar6wtfpe4kldiravcfdhi6iqf3fqe@jpeg",
+        "profile_url": "https://bsky.app/profile/frankwunderli13.bsky.social"
+      },
+      "ratio": "5:1",
+      "controversy": 0.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Starship suffers explosion during reentry. Yet another fuel leak in this disaster of a space ship construction.",
+        "uri": "at://did:plc:eypwu6jlj32bidsvog2urfzt/app.bsky.feed.post/3lxdqwvhdhs2d",
+        "created_at": "2025-08-27T00:18:17.796Z",
+        "url": "https://bsky.app/profile/frankwunderli13.bsky.social/post/3lxdqwvhdhs2d"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 5,
+        "formatted": {
+          "likes": "7",
+          "replies": "2",
+          "reposts": "1",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "There were several signs of fire before that already, just no directly visible flames as last time....",
+        "Every damned time this happens, this is all I can think of.",
+        "They literally explained it on the broadcast? It was the aft skirt."
+      ],
+      "metrics": {
+        "ratio_score": 3.5,
+        "time_bucket": 1,
+        "total_engagement": 15,
+        "post_age_minutes": 29.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.343048+00:00",
+      "last_updated": "2025-08-27T01:03:38.343048+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.343048+00:00"
+      ],
+      "peak_controversy": 0.6,
+      "trend": "new"
+    },
+    {
+      "rank": 29,
       "user": {
         "handle": "cherfan75.bsky.social",
         "display_name": "Cherfan75.Bsky.Social",
@@ -1699,7 +1641,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "user": {
         "handle": "dyeager64.bsky.social",
         "display_name": "donaldyeager  🏳️‍🌈💙",
