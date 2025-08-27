@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T04:30:50.546073+00:00",
-    "last_metrics_update": "2025-08-27T05:47:22.344277+00:00",
+    "last_metrics_update": "2025-08-27T06:02:41.203632+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 27,
@@ -35,13 +35,13 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 831,
-        "replies": 180,
+        "likes": 833,
+        "replies": 181,
         "reposts": 85,
         "quotes": 21,
         "formatted": {
-          "likes": "831",
-          "replies": "180",
+          "likes": "833",
+          "replies": "181",
           "reposts": "85",
           "quotes": "21"
         }
@@ -154,12 +154,12 @@
         "url": "https://bsky.app/profile/adambienkov.bsky.social/post/3lxcdfb6fbs25"
       },
       "engagement": {
-        "likes": 699,
+        "likes": 701,
         "replies": 100,
         "reposts": 162,
         "quotes": 58,
         "formatted": {
-          "likes": "699",
+          "likes": "701",
           "replies": "100",
           "reposts": "162",
           "quotes": "58"
@@ -268,12 +268,12 @@
       "engagement": {
         "likes": 346,
         "replies": 114,
-        "reposts": 78,
+        "reposts": 79,
         "quotes": 20,
         "formatted": {
           "likes": "346",
           "replies": "114",
-          "reposts": "78",
+          "reposts": "79",
           "quotes": "20"
         }
       },
@@ -433,12 +433,12 @@
         "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
       },
       "engagement": {
-        "likes": 106,
+        "likes": 107,
         "replies": 37,
         "reposts": 29,
         "quotes": 22,
         "formatted": {
-          "likes": "106",
+          "likes": "107",
           "replies": "37",
           "reposts": "29",
           "quotes": "22"
@@ -478,7 +478,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
         "profile_url": "https://bsky.app/profile/culturecrave.co"
       },
-      "ratio": "4:1",
+      "ratio": "3:1",
       "controversy": 2.7,
       "change": "-2.2",
       "change_type": "negative",
@@ -489,14 +489,14 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lxdf5mvmkc2e"
       },
       "engagement": {
-        "likes": 85,
-        "replies": 53,
-        "reposts": 6,
+        "likes": 86,
+        "replies": 54,
+        "reposts": 7,
         "quotes": 21,
         "formatted": {
-          "likes": "85",
-          "replies": "53",
-          "reposts": "6",
+          "likes": "86",
+          "replies": "54",
+          "reposts": "7",
           "quotes": "21"
         }
       },
@@ -659,12 +659,12 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
       },
       "engagement": {
-        "likes": 48,
+        "likes": 49,
         "replies": 64,
         "reposts": 11,
         "quotes": 9,
         "formatted": {
-          "likes": "48",
+          "likes": "49",
           "replies": "64",
           "reposts": "11",
           "quotes": "9"
@@ -1049,12 +1049,12 @@
       },
       "engagement": {
         "likes": 35,
-        "replies": 16,
+        "replies": 15,
         "reposts": 4,
         "quotes": 10,
         "formatted": {
           "likes": "35",
-          "replies": "16",
+          "replies": "15",
           "reposts": "4",
           "quotes": "10"
         }
@@ -1220,7 +1220,7 @@
         "likes": 140,
         "replies": 1219,
         "reposts": 21,
-        "quotes": 1811,
+        "quotes": 1813,
         "formatted": {
           "likes": "140",
           "replies": "1.2K",
@@ -1383,12 +1383,12 @@
         "url": "https://bsky.app/profile/chaclo.blacksky.app/post/3lxdfbwj4ns2w"
       },
       "engagement": {
-        "likes": 10,
+        "likes": 11,
         "replies": 11,
         "reposts": 2,
         "quotes": 31,
         "formatted": {
-          "likes": "10",
+          "likes": "11",
           "replies": "11",
           "reposts": "2",
           "quotes": "31"
