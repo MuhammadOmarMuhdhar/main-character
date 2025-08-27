@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T04:30:50.546073+00:00",
-    "last_metrics_update": "2025-08-27T05:32:51.052844+00:00",
+    "last_metrics_update": "2025-08-27T05:47:22.344277+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 27,
@@ -35,13 +35,13 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 828,
-        "replies": 179,
+        "likes": 831,
+        "replies": 180,
         "reposts": 85,
         "quotes": 21,
         "formatted": {
-          "likes": "828",
-          "replies": "179",
+          "likes": "831",
+          "replies": "180",
           "reposts": "85",
           "quotes": "21"
         }
@@ -154,14 +154,14 @@
         "url": "https://bsky.app/profile/adambienkov.bsky.social/post/3lxcdfb6fbs25"
       },
       "engagement": {
-        "likes": 697,
+        "likes": 699,
         "replies": 100,
-        "reposts": 161,
+        "reposts": 162,
         "quotes": 58,
         "formatted": {
-          "likes": "697",
+          "likes": "699",
           "replies": "100",
-          "reposts": "161",
+          "reposts": "162",
           "quotes": "58"
         }
       },
@@ -266,15 +266,15 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 341,
-        "replies": 112,
+        "likes": 346,
+        "replies": 114,
         "reposts": 78,
-        "quotes": 19,
+        "quotes": 20,
         "formatted": {
-          "likes": "341",
-          "replies": "112",
+          "likes": "346",
+          "replies": "114",
           "reposts": "78",
-          "quotes": "19"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -433,12 +433,12 @@
         "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
       },
       "engagement": {
-        "likes": 105,
+        "likes": 106,
         "replies": 37,
         "reposts": 29,
         "quotes": 22,
         "formatted": {
-          "likes": "105",
+          "likes": "106",
           "replies": "37",
           "reposts": "29",
           "quotes": "22"
@@ -490,12 +490,12 @@
       },
       "engagement": {
         "likes": 85,
-        "replies": 52,
+        "replies": 53,
         "reposts": 6,
         "quotes": 21,
         "formatted": {
           "likes": "85",
-          "replies": "52",
+          "replies": "53",
           "reposts": "6",
           "quotes": "21"
         }
@@ -659,14 +659,14 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
       },
       "engagement": {
-        "likes": 47,
+        "likes": 48,
         "replies": 64,
-        "reposts": 10,
+        "reposts": 11,
         "quotes": 9,
         "formatted": {
-          "likes": "47",
+          "likes": "48",
           "replies": "64",
-          "reposts": "10",
+          "reposts": "11",
           "quotes": "9"
         }
       },
@@ -716,12 +716,12 @@
         "url": "https://bsky.app/profile/kyivindependent.com/post/3lxbuzurnbk2h"
       },
       "engagement": {
-        "likes": 115,
+        "likes": 116,
         "replies": 75,
         "reposts": 17,
         "quotes": 20,
         "formatted": {
-          "likes": "115",
+          "likes": "116",
           "replies": "75",
           "reposts": "17",
           "quotes": "20"
@@ -1218,9 +1218,9 @@
       },
       "engagement": {
         "likes": 140,
-        "replies": 1217,
+        "replies": 1219,
         "reposts": 21,
-        "quotes": 1809,
+        "quotes": 1811,
         "formatted": {
           "likes": "140",
           "replies": "1.2K",
