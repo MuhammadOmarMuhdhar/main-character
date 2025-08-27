@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T04:30:50.546073+00:00",
-    "last_metrics_update": "2025-08-27T06:47:33.923937+00:00",
+    "last_metrics_update": "2025-08-27T07:02:47.968699+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 27,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 840,
+        "likes": 841,
         "replies": 181,
         "reposts": 86,
         "quotes": 21,
         "formatted": {
-          "likes": "840",
+          "likes": "841",
           "replies": "181",
           "reposts": "86",
           "quotes": "21"
@@ -90,12 +90,12 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxdfi5qgyh2b"
       },
       "engagement": {
-        "likes": 334,
+        "likes": 335,
         "replies": 190,
         "reposts": 69,
         "quotes": 43,
         "formatted": {
-          "likes": "334",
+          "likes": "335",
           "replies": "190",
           "reposts": "69",
           "quotes": "43"
@@ -154,14 +154,14 @@
         "url": "https://bsky.app/profile/adambienkov.bsky.social/post/3lxcdfb6fbs25"
       },
       "engagement": {
-        "likes": 705,
+        "likes": 706,
         "replies": 100,
-        "reposts": 162,
+        "reposts": 163,
         "quotes": 58,
         "formatted": {
-          "likes": "705",
+          "likes": "706",
           "replies": "100",
-          "reposts": "162",
+          "reposts": "163",
           "quotes": "58"
         }
       },
@@ -211,12 +211,12 @@
       },
       "engagement": {
         "likes": 229,
-        "replies": 157,
+        "replies": 158,
         "reposts": 72,
         "quotes": 26,
         "formatted": {
           "likes": "229",
-          "replies": "157",
+          "replies": "158",
           "reposts": "72",
           "quotes": "26"
         }
@@ -266,12 +266,12 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 353,
+        "likes": 355,
         "replies": 115,
         "reposts": 81,
         "quotes": 23,
         "formatted": {
-          "likes": "353",
+          "likes": "355",
           "replies": "115",
           "reposts": "81",
           "quotes": "23"
@@ -321,12 +321,12 @@
         "url": "https://bsky.app/profile/lee-in-iowa.bsky.social/post/3lxdefyvrus2y"
       },
       "engagement": {
-        "likes": 362,
+        "likes": 363,
         "replies": 76,
         "reposts": 110,
         "quotes": 13,
         "formatted": {
-          "likes": "362",
+          "likes": "363",
           "replies": "76",
           "reposts": "110",
           "quotes": "13"
@@ -435,12 +435,12 @@
       "engagement": {
         "likes": 108,
         "replies": 36,
-        "reposts": 29,
+        "reposts": 30,
         "quotes": 23,
         "formatted": {
           "likes": "108",
           "replies": "36",
-          "reposts": "29",
+          "reposts": "30",
           "quotes": "23"
         }
       },
@@ -490,12 +490,12 @@
       },
       "engagement": {
         "likes": 88,
-        "replies": 54,
+        "replies": 55,
         "reposts": 7,
         "quotes": 21,
         "formatted": {
           "likes": "88",
-          "replies": "54",
+          "replies": "55",
           "reposts": "7",
           "quotes": "21"
         }
@@ -660,12 +660,12 @@
       },
       "engagement": {
         "likes": 53,
-        "replies": 65,
+        "replies": 66,
         "reposts": 12,
         "quotes": 9,
         "formatted": {
           "likes": "53",
-          "replies": "65",
+          "replies": "66",
           "reposts": "12",
           "quotes": "9"
         }
@@ -1218,7 +1218,7 @@
       },
       "engagement": {
         "likes": 140,
-        "replies": 1220,
+        "replies": 1221,
         "reposts": 21,
         "quotes": 1812,
         "formatted": {
