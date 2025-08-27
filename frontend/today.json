@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T07:57:07.891032+00:00",
-    "last_metrics_update": "2025-08-27T07:57:07.891032+00:00",
+    "last_metrics_update": "2025-08-27T08:02:36.299972+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -35,14 +35,14 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 842,
+        "likes": 852,
         "replies": 181,
-        "reposts": 86,
+        "reposts": 87,
         "quotes": 21,
         "formatted": {
-          "likes": "842",
+          "likes": "852",
           "replies": "181",
-          "reposts": "86",
+          "reposts": "87",
           "quotes": "21"
         }
       },
@@ -90,13 +90,13 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxdfi5qgyh2b"
       },
       "engagement": {
-        "likes": 335,
-        "replies": 190,
+        "likes": 339,
+        "replies": 191,
         "reposts": 69,
         "quotes": 43,
         "formatted": {
-          "likes": "335",
-          "replies": "190",
+          "likes": "339",
+          "replies": "191",
           "reposts": "69",
           "quotes": "43"
         }
@@ -154,13 +154,13 @@
         "url": "https://bsky.app/profile/adambienkov.bsky.social/post/3lxcdfb6fbs25"
       },
       "engagement": {
-        "likes": 707,
-        "replies": 100,
+        "likes": 714,
+        "replies": 101,
         "reposts": 163,
         "quotes": 58,
         "formatted": {
-          "likes": "707",
-          "replies": "100",
+          "likes": "714",
+          "replies": "101",
           "reposts": "163",
           "quotes": "58"
         }
@@ -266,14 +266,14 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 355,
-        "replies": 115,
-        "reposts": 81,
+        "likes": 367,
+        "replies": 117,
+        "reposts": 84,
         "quotes": 23,
         "formatted": {
-          "likes": "355",
-          "replies": "115",
-          "reposts": "81",
+          "likes": "367",
+          "replies": "117",
+          "reposts": "84",
           "quotes": "23"
         }
       },
@@ -321,15 +321,15 @@
         "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
       },
       "engagement": {
-        "likes": 61,
-        "replies": 11,
-        "reposts": 23,
-        "quotes": 27,
+        "likes": 97,
+        "replies": 24,
+        "reposts": 45,
+        "quotes": 47,
         "formatted": {
-          "likes": "61",
-          "replies": "11",
-          "reposts": "23",
-          "quotes": "27"
+          "likes": "97",
+          "replies": "24",
+          "reposts": "45",
+          "quotes": "47"
         }
       },
       "sample_replies": [
@@ -377,12 +377,12 @@
         "url": "https://bsky.app/profile/lee-in-iowa.bsky.social/post/3lxdefyvrus2y"
       },
       "engagement": {
-        "likes": 364,
+        "likes": 365,
         "replies": 76,
         "reposts": 110,
         "quotes": 13,
         "formatted": {
-          "likes": "364",
+          "likes": "365",
           "replies": "76",
           "reposts": "110",
           "quotes": "13"
@@ -471,59 +471,58 @@
     {
       "rank": 9,
       "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
+        "handle": "taniel.bsky.social",
+        "display_name": "Taniel",
+        "initials": "TA",
+        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
+        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
       },
       "ratio": "1:1",
-      "controversy": 2.3,
-      "change": "-5.0",
-      "change_type": "negative",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
       "post": {
-        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
-        "created_at": "2025-08-27T03:27:01.498169735Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
+        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
+        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
+        "created_at": "2025-08-27T00:34:25.614Z",
+        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
       },
       "engagement": {
-        "likes": 53,
-        "replies": 66,
-        "reposts": 12,
-        "quotes": 9,
+        "likes": 109,
+        "replies": 36,
+        "reposts": 30,
+        "quotes": 24,
         "formatted": {
-          "likes": "53",
-          "replies": "66",
-          "reposts": "12",
-          "quotes": "9"
+          "likes": "109",
+          "replies": "36",
+          "reposts": "30",
+          "quotes": "24"
         }
       },
       "sample_replies": [
-        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
-        "You guys should really stop putting liars on TV. No wonder no one watches you.",
-        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
-        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
+        "That’s disgusting.",
+        "Ohio, come on man. Are you really this far gone?",
+        "This is so depressing.",
+        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
       ],
       "metrics": {
-        "ratio_score": 6.5,
-        "time_bucket": 3,
-        "total_engagement": 116,
-        "post_age_minutes": 50.6
+        "ratio_score": 2.5,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 13.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-26T18:05:41.291540+00:00",
-      "last_updated": "2025-08-27T04:30:50.546016+00:00",
+      "first_detected": "2025-08-27T01:03:38.070006+00:00",
+      "last_updated": "2025-08-27T01:03:38.070006+00:00",
       "analysis_windows": [
-        "2025-08-26T18:05:41.291540+00:00",
-        "2025-08-27T04:30:50.546016+00:00"
+        "2025-08-27T01:03:38.070006+00:00"
       ],
-      "peak_controversy": 7.3,
-      "trend": "rising"
+      "peak_controversy": 3.4,
+      "trend": "new"
     },
     {
       "rank": 10,
@@ -547,12 +546,12 @@
       },
       "engagement": {
         "likes": 88,
-        "replies": 55,
+        "replies": 56,
         "reposts": 7,
         "quotes": 21,
         "formatted": {
           "likes": "88",
-          "replies": "55",
+          "replies": "56",
           "reposts": "7",
           "quotes": "21"
         }
@@ -586,62 +585,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "taniel.bsky.social",
-        "display_name": "Taniel",
-        "initials": "TA",
-        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
-        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
-        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
-        "created_at": "2025-08-27T00:34:25.614Z",
-        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
-      },
-      "engagement": {
-        "likes": 108,
-        "replies": 36,
-        "reposts": 30,
-        "quotes": 23,
-        "formatted": {
-          "likes": "108",
-          "replies": "36",
-          "reposts": "30",
-          "quotes": "23"
-        }
-      },
-      "sample_replies": [
-        "That’s disgusting.",
-        "Ohio, come on man. Are you really this far gone?",
-        "This is so depressing.",
-        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
-      ],
-      "metrics": {
-        "ratio_score": 2.5,
-        "time_bucket": 0,
-        "total_engagement": 67,
-        "post_age_minutes": 13.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T01:03:38.070006+00:00",
-      "last_updated": "2025-08-27T01:03:38.070006+00:00",
-      "analysis_windows": [
-        "2025-08-27T01:03:38.070006+00:00"
-      ],
-      "peak_controversy": 3.4,
-      "trend": "new"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "timobrien.bsky.social",
         "display_name": "Tim O’Brien",
         "initials": "TO",
@@ -660,13 +603,13 @@
         "url": "https://bsky.app/profile/timobrien.bsky.social/post/3lxcm33ouy22l"
       },
       "engagement": {
-        "likes": 98,
-        "replies": 26,
+        "likes": 99,
+        "replies": 27,
         "reposts": 24,
         "quotes": 8,
         "formatted": {
-          "likes": "98",
-          "replies": "26",
+          "likes": "99",
+          "replies": "27",
           "reposts": "24",
           "quotes": "8"
         }
@@ -696,7 +639,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
@@ -718,12 +661,12 @@
       "engagement": {
         "likes": 61,
         "replies": 30,
-        "reposts": 7,
+        "reposts": 8,
         "quotes": 9,
         "formatted": {
           "likes": "61",
           "replies": "30",
-          "reposts": "7",
+          "reposts": "8",
           "quotes": "9"
         }
       },
@@ -750,6 +693,63 @@
       ],
       "peak_controversy": 2.5,
       "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 2.3,
+      "change": "-5.0",
+      "change_type": "negative",
+      "post": {
+        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
+        "created_at": "2025-08-27T03:27:01.498169735Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
+      },
+      "engagement": {
+        "likes": 55,
+        "replies": 68,
+        "reposts": 13,
+        "quotes": 10,
+        "formatted": {
+          "likes": "55",
+          "replies": "68",
+          "reposts": "13",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
+        "You guys should really stop putting liars on TV. No wonder no one watches you.",
+        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
+        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "time_bucket": 3,
+        "total_engagement": 116,
+        "post_age_minutes": 50.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T18:05:41.291540+00:00",
+      "last_updated": "2025-08-27T04:30:50.546016+00:00",
+      "analysis_windows": [
+        "2025-08-26T18:05:41.291540+00:00",
+        "2025-08-27T04:30:50.546016+00:00"
+      ],
+      "peak_controversy": 7.3,
+      "trend": "rising"
     },
     {
       "rank": 14,
@@ -828,12 +828,12 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lxdfjqmbzx2r"
       },
       "engagement": {
-        "likes": 71,
+        "likes": 72,
         "replies": 8,
         "reposts": 5,
         "quotes": 11,
         "formatted": {
-          "likes": "71",
+          "likes": "72",
           "replies": "8",
           "reposts": "5",
           "quotes": "11"
@@ -927,7 +927,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "1:1",
+      "ratio": "2:1",
       "controversy": 1.7,
       "change": "+0.6",
       "change_type": "positive",
@@ -938,15 +938,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxeixgku3v22"
       },
       "engagement": {
-        "likes": 17,
-        "replies": 9,
+        "likes": 16,
+        "replies": 10,
         "reposts": 8,
-        "quotes": 9,
+        "quotes": 13,
         "formatted": {
-          "likes": "17",
-          "replies": "9",
+          "likes": "16",
+          "replies": "10",
           "reposts": "8",
-          "quotes": "9"
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -1105,12 +1105,12 @@
         "url": "https://bsky.app/profile/wario64.bsky.social/post/3lxdq6vnxvb2f"
       },
       "engagement": {
-        "likes": 35,
+        "likes": 36,
         "replies": 15,
         "reposts": 4,
         "quotes": 11,
         "formatted": {
-          "likes": "35",
+          "likes": "36",
           "replies": "15",
           "reposts": "4",
           "quotes": "11"
@@ -1166,12 +1166,12 @@
         "likes": 40,
         "replies": 19,
         "reposts": 2,
-        "quotes": 39,
+        "quotes": 40,
         "formatted": {
           "likes": "40",
           "replies": "19",
           "reposts": "2",
-          "quotes": "39"
+          "quotes": "40"
         }
       },
       "sample_replies": [
