@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-27T17:50:58.117536+00:00",
-    "last_metrics_update": "2025-08-27T20:47:20.663418+00:00",
+    "last_full_analysis": "2025-08-27T21:21:15.765122+00:00",
+    "last_metrics_update": "2025-08-27T21:21:15.765122+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 30,
+    "main_characters_count": 37,
     "rolling_window": {
-      "last_update": "2025-08-27T17:50:58.117536+00:00",
-      "new_entries_added": 9,
-      "total_in_window": 30,
+      "last_update": "2025-08-27T21:21:15.765122+00:00",
+      "new_entries_added": 10,
+      "total_in_window": 37,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -131,6 +131,62 @@
     {
       "rank": 3,
       "user": {
+        "handle": "brendelbored.bsky.social",
+        "display_name": "Brendel",
+        "initials": "BR",
+        "did": "did:plc:of56nmyuqzvjta7qlf7gwht6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:of56nmyuqzvjta7qlf7gwht6/bafkreictblhdtse26aiwqiv62ng4kjybdcl53ypic3u4nwxjhwov7mblfi@jpeg",
+        "profile_url": "https://bsky.app/profile/brendelbored.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 9.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Very cool that anti-drug ads are still as embarrassing as ever",
+        "uri": "at://did:plc:of56nmyuqzvjta7qlf7gwht6/app.bsky.feed.post/3lxfusplmdk2j",
+        "created_at": "2025-08-27T20:32:51.865Z",
+        "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxfusplmdk2j"
+      },
+      "engagement": {
+        "likes": 198,
+        "replies": 19,
+        "reposts": 11,
+        "quotes": 8,
+        "formatted": {
+          "likes": "198",
+          "replies": "19",
+          "reposts": "11",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "I smoke weed precisely to become an NPC: Not Particularly Concerned",
+        "I assure you, CDC, I am the main character",
+        "It's just a bummer we have AI now so the government no longer has to pay artists to take drugs and...",
+        "There seems to be an implication that they’ll let you know where the “real pills” are…"
+      ],
+      "metrics": {
+        "ratio_score": 2.25,
+        "time_bucket": 1,
+        "total_engagement": 236,
+        "post_age_minutes": 29.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:14.384818+00:00",
+      "last_updated": "2025-08-27T21:21:14.384818+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:14.384818+00:00"
+      ],
+      "peak_controversy": 9.4,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
+      "user": {
         "handle": "duckvalentine.bsky.social",
         "display_name": "Rebekah Valentine",
         "initials": "RV",
@@ -185,7 +241,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user": {
         "handle": "taylorlorenz.bsky.social",
         "display_name": "Taylor Lorenz",
@@ -241,7 +297,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user": {
         "handle": "nytpitchbot.bsky.social",
         "display_name": "NY Times Pitchbot",
@@ -295,70 +351,6 @@
       ],
       "peak_controversy": 9.1,
       "trend": "new"
-    },
-    {
-      "rank": 6,
-      "user": {
-        "handle": "atrupar.com",
-        "display_name": "Aaron Rupar",
-        "initials": "AR",
-        "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
-        "profile_url": "https://bsky.app/profile/atrupar.com"
-      },
-      "ratio": "1:2",
-      "controversy": 10.0,
-      "change": "=",
-      "change_type": "neutral",
-      "post": {
-        "text": "Kristi Noem: \"President Trump reiterated today over and over again that he will keep America safe, that he will continue to do what he needs to do in these cities that are overridden with criminals and terrorists. He's going to go there and help them keep as safe as they possibly can.\"",
-        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3lxdfi5qgyh2b",
-        "created_at": "2025-08-26T20:53:11.978Z",
-        "url": "https://bsky.app/profile/atrupar.com/post/3lxdfi5qgyh2b"
-      },
-      "engagement": {
-        "likes": 382,
-        "replies": 202,
-        "reposts": 76,
-        "quotes": 44,
-        "formatted": {
-          "likes": "382",
-          "replies": "202",
-          "reposts": "76",
-          "quotes": "44"
-        }
-      },
-      "sample_replies": [
-        "As safe as a dog in a gravel pit.",
-        "How many terrorists has the Masked Mafia arrested?",
-        "We went through this song and dance before with Bush Jr after 9-11: “JUST GIVE UP YOUR RIGHTS AND...",
-        "Gestapo is at his disposal and I will be in the front row at your Nuremberg trial."
-      ],
-      "metrics": {
-        "ratio_score": 4.71,
-        "time_bucket": 1,
-        "total_engagement": 325,
-        "post_age_minutes": 24.7
-      },
-      "previous_analysis": {
-        "controversy": 10.0,
-        "rank": 4
-      },
-      "first_detected": "2025-08-26T18:05:41.142160+00:00",
-      "last_updated": "2025-08-26T21:35:48.262965+00:00",
-      "analysis_windows": [
-        "2025-08-26T18:05:41.142160+00:00",
-        "2025-08-26T18:05:42.232828+00:00",
-        "2025-08-26T18:05:42.232828+00:00",
-        "2025-08-26T18:05:42.232828+00:00",
-        "2025-08-26T18:05:42.232828+00:00",
-        "2025-08-26T18:05:42.232828+00:00",
-        "2025-08-26T18:05:42.232828+00:00",
-        "2025-08-26T21:35:48.262965+00:00",
-        "2025-08-26T21:35:48.262965+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "stable"
     },
     {
       "rank": 7,
@@ -980,6 +972,62 @@
     {
       "rank": 18,
       "user": {
+        "handle": "osinttechnical.bsky.social",
+        "display_name": "OSINTtechnical",
+        "initials": "OS",
+        "did": "did:plc:2ywby725qcwv7rqdotimk7mp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ywby725qcwv7rqdotimk7mp/bafkreicjgizo36i2yb435xsgigvqofikieboyeq2ujk5vir5cyvuipwxxy@jpeg",
+        "profile_url": "https://bsky.app/profile/osinttechnical.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 2.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "New from @truth.bsky.social, the U.S. is massing reconnaissance aircraft near Venezuela as the U.S. deploys nearly a dozen ships into the region. \n\nPuerto Rico now hosts a detachment of Navy P-8A Poseidons conducting surveillance and gathering intelligence across the Caribbean.",
+        "uri": "at://did:plc:2ywby725qcwv7rqdotimk7mp/app.bsky.feed.post/3lxfvloiboc2s",
+        "created_at": "2025-08-27T20:46:49.563Z",
+        "url": "https://bsky.app/profile/osinttechnical.bsky.social/post/3lxfvloiboc2s"
+      },
+      "engagement": {
+        "likes": 43,
+        "replies": 3,
+        "reposts": 8,
+        "quotes": 12,
+        "formatted": {
+          "likes": "43",
+          "replies": "3",
+          "reposts": "8",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "The moves come as Venezuela and its partner nations, including Russia, grow increasingly paranoid....",
+        "And late yesterday, the Ticonderoga-class guided missile cruiser USS Lake Erie and Los...",
+        "By last week, the U.S moved a trio of Arleigh-Burke-class destroyers, the USS Gravely, USS Jason...",
+        "Over the weekend, the Iwo Jima Amphibious Ready Group, consisting of the USS Iwo Jima,..."
+      ],
+      "metrics": {
+        "ratio_score": 1.67,
+        "time_bucket": 1,
+        "total_engagement": 66,
+        "post_age_minutes": 15.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:14.524449+00:00",
+      "last_updated": "2025-08-27T21:21:14.524449+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:14.524449+00:00"
+      ],
+      "peak_controversy": 2.6,
+      "trend": "new"
+    },
+    {
+      "rank": 19,
+      "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
         "initials": "UW",
@@ -1032,63 +1080,6 @@
       ],
       "peak_controversy": 2.5,
       "trend": "new"
-    },
-    {
-      "rank": 19,
-      "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.3,
-      "change": "-5.0",
-      "change_type": "negative",
-      "post": {
-        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
-        "created_at": "2025-08-27T03:27:01.498169735Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
-      },
-      "engagement": {
-        "likes": 63,
-        "replies": 72,
-        "reposts": 16,
-        "quotes": 11,
-        "formatted": {
-          "likes": "63",
-          "replies": "72",
-          "reposts": "16",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
-        "You guys should really stop putting liars on TV. No wonder no one watches you.",
-        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
-        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
-      ],
-      "metrics": {
-        "ratio_score": 6.5,
-        "time_bucket": 3,
-        "total_engagement": 116,
-        "post_age_minutes": 50.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T18:05:41.291540+00:00",
-      "last_updated": "2025-08-27T04:30:50.546016+00:00",
-      "analysis_windows": [
-        "2025-08-26T18:05:41.291540+00:00",
-        "2025-08-27T04:30:50.546016+00:00"
-      ],
-      "peak_controversy": 7.3,
-      "trend": "rising"
     },
     {
       "rank": 20,
@@ -1372,6 +1363,62 @@
     {
       "rank": 25,
       "user": {
+        "handle": "peark.es",
+        "display_name": "George Pearkes",
+        "initials": "GP",
+        "did": "did:plc:pnx2fjuannbdpy3337ggthpp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreidzvakiwbiqaj324i3grmh3efa6uq7jk3kudi7ill3j362exktwbe@jpeg",
+        "profile_url": "https://bsky.app/profile/peark.es"
+      },
+      "ratio": "2:1",
+      "controversy": 1.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Chip stock out\n\n*NVIDIA 2Q REV. $46.7B, EST. $46.23B\n*NVIDIA 2Q DATA CENTER REVENUE $41.1B, EST. $41.29B\n*NVIDIA SEES 3Q REVENUE $54B PLUS OR MINUS 2%, EST. $53.46B",
+        "uri": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3lxfu6hcfns2t",
+        "created_at": "2025-08-27T20:21:32.092Z",
+        "url": "https://bsky.app/profile/peark.es/post/3lxfu6hcfns2t"
+      },
+      "engagement": {
+        "likes": 40,
+        "replies": 6,
+        "reposts": 3,
+        "quotes": 6,
+        "formatted": {
+          "likes": "40",
+          "replies": "6",
+          "reposts": "3",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Data center revenues missed by they had zero H20 sales in the quarter, I think that's way less than...",
+        "Probably not going to be any H20 sales in 3Q either.",
+        "yeah all China though I think.",
+        "Ruh roh. Needed to be a blowout. No worries, Jensen will spin it."
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "time_bucket": 2,
+        "total_engagement": 55,
+        "post_age_minutes": 41.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:14.955826+00:00",
+      "last_updated": "2025-08-27T21:21:14.955826+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:14.955826+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 26,
+      "user": {
         "handle": "authorwinifred.blacksky.app",
         "display_name": "Winifred \"Goody\" Burton",
         "initials": "W\"",
@@ -1425,63 +1472,63 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "user": {
-        "handle": "onestpress.onestnetwork.com",
-        "display_name": "Olga Nesterova",
-        "initials": "ON",
-        "did": "did:plc:nb6uhiglzowsdcbgwv2itwa7",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nb6uhiglzowsdcbgwv2itwa7/bafkreigdro2lze2zrxo6kad2keulx7wuqu5eieo7vh2n5rfjwknh3t6loa@jpeg",
-        "profile_url": "https://bsky.app/profile/onestpress.onestnetwork.com"
+        "handle": "opensketchbook.bsky.social",
+        "display_name": "Erika Chappell 🏳️‍⚧️ Stop Asking For STLs",
+        "initials": "EC",
+        "did": "did:plc:m4hhz6bkx4czs62mdjfzlq2p",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:m4hhz6bkx4czs62mdjfzlq2p/bafkreicy2nov3ukke5fwqqktlq6mwbbzkwqnyl6lhdy7vueoxtl74qyqdu@jpeg",
+        "profile_url": "https://bsky.app/profile/opensketchbook.bsky.social"
       },
-      "ratio": "1:2",
-      "controversy": 1.2,
+      "ratio": "2:1",
+      "controversy": 1.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Trump: “We stopped 3 wars. Go to Africa. They like to say, Oh, you know, I love black people. I did great with the vote of the black people. But they say 'He's a racist, he's a racist.' Really?…The Congo, that's deep into deepest, darkest Africa.\"",
-        "uri": "at://did:plc:nb6uhiglzowsdcbgwv2itwa7/app.bsky.feed.post/3lxd2vftqpk2j",
-        "created_at": "2025-08-26T17:43:45.551Z",
-        "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxd2vftqpk2j"
+        "text": "Tom Clancy’s Alpha Centauri",
+        "uri": "at://did:plc:m4hhz6bkx4czs62mdjfzlq2p/app.bsky.feed.post/3lxfu53eeik2o",
+        "created_at": "2025-08-27T20:20:46.017Z",
+        "url": "https://bsky.app/profile/opensketchbook.bsky.social/post/3lxfu53eeik2o"
       },
       "engagement": {
-        "likes": 93,
-        "replies": 23,
-        "reposts": 26,
-        "quotes": 15,
+        "likes": 30,
+        "replies": 4,
+        "reposts": 3,
+        "quotes": 6,
         "formatted": {
-          "likes": "93",
-          "replies": "23",
-          "reposts": "26",
-          "quotes": "15"
+          "likes": "30",
+          "replies": "4",
+          "reposts": "3",
+          "quotes": "6"
         }
       },
       "sample_replies": [
-        "Ha.  Now he’s Joseph Conrad.",
-        "I don't even know if quotes like this are parody or not any more. \n\nI'm going to guess this one is...",
-        "Not a chance in hell he knows who that is.\n\nHe probably saw this on like TBS at 2 in the morning...",
-        "All real. I just decide not to include videos per public request"
+        "Thanks, I fucking hate it.",
+        "now envisioning \"Tom Clancy's The State And Revolution\"",
+        "Nooooo",
+        "Tom Clancy's Leadership And The Sea"
       ],
       "metrics": {
-        "ratio_score": 1.75,
-        "time_bucket": 0,
-        "total_engagement": 23,
-        "post_age_minutes": 4.1
+        "ratio_score": 2.5,
+        "time_bucket": 2,
+        "total_engagement": 43,
+        "post_age_minutes": 41.9
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-26T18:05:41.693825+00:00",
-      "last_updated": "2025-08-26T18:05:41.693825+00:00",
+      "first_detected": "2025-08-27T21:21:15.104648+00:00",
+      "last_updated": "2025-08-27T21:21:15.104648+00:00",
       "analysis_windows": [
-        "2025-08-26T18:05:41.693825+00:00"
+        "2025-08-27T21:21:15.104648+00:00"
       ],
-      "peak_controversy": 1.2,
+      "peak_controversy": 1.3,
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "user": {
         "handle": "melodyschreiber.com",
         "display_name": "Melody Schreiber",
@@ -1537,7 +1584,118 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 29,
+      "user": {
+        "handle": "maustermuhle.bsky.social",
+        "display_name": "Martin Austermuhle",
+        "initials": "MA",
+        "did": "did:plc:ytp5tjyifctp7ewazhdasteb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ytp5tjyifctp7ewazhdasteb/bafkreifmwzxmkcakupogf63wc5wc75fqcyowbednwkm2eo37dfq2xqjhoi@jpeg",
+        "profile_url": "https://bsky.app/profile/maustermuhle.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.2,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Earlier this afternoon D.C. Mayor Muriel Bowser held a press conference on the federal surge in the city. \"We greatly appreciate the surge of officers that enhance what MPD has been able to do in this city,\" she said, noting that crime is generally down. (Carjackings, she highlighted, are down 80%.)",
+        "uri": "at://did:plc:ytp5tjyifctp7ewazhdasteb/app.bsky.feed.post/3lxfut6lhsk2q",
+        "created_at": "2025-08-27T20:33:07.595Z",
+        "url": "https://bsky.app/profile/maustermuhle.bsky.social/post/3lxfut6lhsk2q"
+      },
+      "engagement": {
+        "likes": 9,
+        "replies": 7,
+        "reposts": 4,
+        "quotes": 10,
+        "formatted": {
+          "likes": "9",
+          "replies": "7",
+          "reposts": "4",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "\"She said she appreciates the federal surge and that it's having positive results. That's not the...",
+        "Some members of the D.C. Council have responded to Bowser's press conference. @cmzparker5.bsky.socia...",
+        "Chief Smith said residents had been asking for more traffic stops, and since those are now...",
+        "Great! So we’ve found a solution—a final solution—to crime. Permanent military occupation!\n\nSoulless..."
+      ],
+      "metrics": {
+        "ratio_score": 3.4,
+        "time_bucket": 1,
+        "total_engagement": 30,
+        "post_age_minutes": 29.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:14.666604+00:00",
+      "last_updated": "2025-08-27T21:21:14.666604+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:14.666604+00:00"
+      ],
+      "peak_controversy": 1.2,
+      "trend": "new"
+    },
+    {
+      "rank": 30,
+      "user": {
+        "handle": "theathleticfc.bsky.social",
+        "display_name": "The Athletic | Football",
+        "initials": "TA",
+        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
+        "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
+      },
+      "ratio": "6:1",
+      "controversy": 1.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ruben Amorim now has less than 20 minutes to save Manchester United from a humiliating defeat against League Two side Grimsby Town.\n\nWhat can he do to save United's blushes, and Carabao Cup campaign, at Blundell Park?\n\n📸 ITV Football",
+        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lxfurbnalc22",
+        "created_at": "2025-08-27T20:32:03.663Z",
+        "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lxfurbnalc22"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 6,
+        "formatted": {
+          "likes": "20",
+          "replies": "5",
+          "reposts": "1",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Subbuteo",
+        "WTF  was he doing ?\n*umbrella",
+        "😂😂😂😂"
+      ],
+      "metrics": {
+        "ratio_score": 5.5,
+        "time_bucket": 2,
+        "total_engagement": 32,
+        "post_age_minutes": 30.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:15.249297+00:00",
+      "last_updated": "2025-08-27T21:21:15.249297+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:15.249297+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 31,
       "user": {
         "handle": "justinbaragona.bsky.social",
         "display_name": "Justin Baragona",
@@ -1592,7 +1750,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 32,
       "user": {
         "handle": "professorpash.bsky.social",
         "display_name": "Dr. Frisky Whiskey McThicky, Ball Knower",
@@ -1648,7 +1806,175 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 33,
+      "user": {
+        "handle": "sophianyx.bsky.social",
+        "display_name": "Sophia_Nyx 🏳️‍⚧️",
+        "initials": "S🏳",
+        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidzsebnbnc3anmeauisbfxpaqsy55hpgrhfsveng4g5fgtoco7csa@jpeg",
+        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+      },
+      "ratio": "6:0",
+      "controversy": 0.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Without saying Rhinestone Eyes, fav Gorillaz Song?",
+        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lxfu2d3vok2a",
+        "created_at": "2025-08-27T20:19:13.426Z",
+        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lxfu2d3vok2a"
+      },
+      "engagement": {
+        "likes": 13,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 6,
+        "formatted": {
+          "likes": "13",
+          "replies": "7",
+          "reposts": "0",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Clint Eastwood",
+        "On Melancholy Hill.",
+        "Clint Eastwood",
+        "Clint Eastwood"
+      ],
+      "metrics": {
+        "ratio_score": 13.0,
+        "time_bucket": 2,
+        "total_engagement": 26,
+        "post_age_minutes": 43.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:15.398984+00:00",
+      "last_updated": "2025-08-27T21:21:15.398984+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:15.398984+00:00"
+      ],
+      "peak_controversy": 0.8,
+      "trend": "new"
+    },
+    {
+      "rank": 34,
+      "user": {
+        "handle": "arrogantade.blacksky.app",
+        "display_name": "Arrogant Esquire",
+        "initials": "AE",
+        "did": "did:plc:ewu3vljnyhiokyqfd6gimq7y",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewu3vljnyhiokyqfd6gimq7y/bafkreiavwoweggqc5ihkizarlxnkakklgessih6l6kzkgmqbsdbjlxiwcq@jpeg",
+        "profile_url": "https://bsky.app/profile/arrogantade.blacksky.app"
+      },
+      "ratio": "2:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "You can leave nut in the sheets at the hotel without them charging you extra.\n\nCan’t try that at an AirBNB.",
+        "uri": "at://did:plc:ewu3vljnyhiokyqfd6gimq7y/app.bsky.feed.post/3lxfvbvsvsc2p",
+        "created_at": "2025-08-27T20:41:21.718Z",
+        "url": "https://bsky.app/profile/arrogantade.blacksky.app/post/3lxfvbvsvsc2p"
+      },
+      "engagement": {
+        "likes": 4,
+        "replies": 6,
+        "reposts": 3,
+        "quotes": 5,
+        "formatted": {
+          "likes": "4",
+          "replies": "6",
+          "reposts": "3",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "I’m pragmatic.",
+        "I know there is a filing or some paperwork SOMEWHERE that needs to be attended to.",
+        "Say man😂😂",
+        "Ain’t nobody called me a liar for this take yet… That’s all I’m saying."
+      ],
+      "metrics": {
+        "ratio_score": 2.75,
+        "time_bucket": 1,
+        "total_engagement": 18,
+        "post_age_minutes": 21.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:14.807487+00:00",
+      "last_updated": "2025-08-27T21:21:14.807487+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:14.807487+00:00"
+      ],
+      "peak_controversy": 0.7,
+      "trend": "new"
+    },
+    {
+      "rank": 35,
+      "user": {
+        "handle": "cerromerussell.bsky.social",
+        "display_name": "MonsterKing",
+        "initials": "MO",
+        "did": "did:plc:gea43dvjdqehvtuewqvlq3df",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gea43dvjdqehvtuewqvlq3df/bafkreid5tmx4ebxazbc2ssfizmgb4ql4vloold4ertkjgjj375ysfoiov4@jpeg",
+        "profile_url": "https://bsky.app/profile/cerromerussell.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The Motel 6 in Iowa? The Knights Inn in Charlotte? The American Motel in Kansas City?! I'm lucky to be here",
+        "uri": "at://did:plc:gea43dvjdqehvtuewqvlq3df/app.bsky.feed.post/3lxfuaollpc2q",
+        "created_at": "2025-08-27T20:22:46.842Z",
+        "url": "https://bsky.app/profile/cerromerussell.bsky.social/post/3lxfuaollpc2q"
+      },
+      "engagement": {
+        "likes": 7,
+        "replies": 4,
+        "reposts": 4,
+        "quotes": 7,
+        "formatted": {
+          "likes": "7",
+          "replies": "4",
+          "reposts": "4",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "you gotta fight whoever put you in the knights fr. not even gon hold you.",
+        "YES YOU ARE. I been past that American Motel, omg 😭",
+        "Inside is worst that you can imagine lmao",
+        "I have a story abt a bad experience staying in Jacksonville at Days Inn. Almost to embarrassing to..."
+      ],
+      "metrics": {
+        "ratio_score": 2.2,
+        "time_bucket": 2,
+        "total_engagement": 22,
+        "post_age_minutes": 39.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:15.619489+00:00",
+      "last_updated": "2025-08-27T21:21:15.619489+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:15.619489+00:00"
+      ],
+      "peak_controversy": 0.7,
+      "trend": "new"
+    },
+    {
+      "rank": 36,
       "user": {
         "handle": "frankwunderli13.bsky.social",
         "display_name": "Frank Wunderlich-Pfeiffer",
@@ -1700,6 +2026,61 @@
         "2025-08-27T01:03:38.343048+00:00"
       ],
       "peak_controversy": 0.6,
+      "trend": "new"
+    },
+    {
+      "rank": 37,
+      "user": {
+        "handle": "reverendjesus.com",
+        "display_name": "Reverend Jesus \"H\" Christ",
+        "initials": "RJ",
+        "did": "did:plc:m6xkmqx5vgor7t6h2fsh4aj3",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6xkmqx5vgor7t6h2fsh4aj3/bafkreiggegquupcywobfp3olck5hbfqlicnonstbmiizsohpcytnv5ffwa@jpeg",
+        "profile_url": "https://bsky.app/profile/reverendjesus.com"
+      },
+      "ratio": "5:0",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ruin a book by adding “Tom Clancy’s” to the title\n\nTom Clancy's A Wrinkle in Time",
+        "uri": "at://did:plc:m6xkmqx5vgor7t6h2fsh4aj3/app.bsky.feed.post/3lxfuamyuns2i",
+        "created_at": "2025-08-27T20:22:45.177Z",
+        "url": "https://bsky.app/profile/reverendjesus.com/post/3lxfuamyuns2i"
+      },
+      "engagement": {
+        "likes": 9,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 5,
+        "formatted": {
+          "likes": "9",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Make a book better by adding Stephen King’s to the title\n\nStephen King’s The Hunt for Red October",
+        "Tom Clancy’s Selected Poems by Emily Dickenson",
+        "Tom Clancy’s Passage to India"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "time_bucket": 2,
+        "total_engagement": 16,
+        "post_age_minutes": 40.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:15.764957+00:00",
+      "last_updated": "2025-08-27T21:21:15.764957+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:15.764957+00:00"
+      ],
+      "peak_controversy": 0.5,
       "trend": "new"
     }
   ]
