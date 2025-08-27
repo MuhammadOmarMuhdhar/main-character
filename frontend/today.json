@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T01:03:38.811011+00:00",
-    "last_metrics_update": "2025-08-27T02:47:22.040957+00:00",
+    "last_metrics_update": "2025-08-27T03:02:48.520755+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 30,
@@ -35,13 +35,13 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 758,
-        "replies": 169,
+        "likes": 774,
+        "replies": 171,
         "reposts": 79,
         "quotes": 20,
         "formatted": {
-          "likes": "758",
-          "replies": "169",
+          "likes": "774",
+          "replies": "171",
           "reposts": "79",
           "quotes": "20"
         }
@@ -90,7 +90,7 @@
         "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
       },
       "engagement": {
-        "likes": 4700,
+        "likes": 4707,
         "replies": 1164,
         "reposts": 1125,
         "quotes": 216,
@@ -145,12 +145,12 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxdfi5qgyh2b"
       },
       "engagement": {
-        "likes": 320,
+        "likes": 323,
         "replies": 185,
         "reposts": 68,
         "quotes": 43,
         "formatted": {
-          "likes": "320",
+          "likes": "323",
           "replies": "185",
           "reposts": "68",
           "quotes": "43"
@@ -377,13 +377,13 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 286,
-        "replies": 101,
+        "likes": 296,
+        "replies": 104,
         "reposts": 64,
         "quotes": 17,
         "formatted": {
-          "likes": "286",
-          "replies": "101",
+          "likes": "296",
+          "replies": "104",
           "reposts": "64",
           "quotes": "17"
         }
@@ -544,15 +544,15 @@
         "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
       },
       "engagement": {
-        "likes": 80,
+        "likes": 84,
         "replies": 35,
-        "reposts": 23,
-        "quotes": 16,
+        "reposts": 24,
+        "quotes": 17,
         "formatted": {
-          "likes": "80",
+          "likes": "84",
           "replies": "35",
-          "reposts": "23",
-          "quotes": "16"
+          "reposts": "24",
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -601,12 +601,12 @@
       },
       "engagement": {
         "likes": 80,
-        "replies": 48,
+        "replies": 49,
         "reposts": 6,
         "quotes": 21,
         "formatted": {
           "likes": "80",
-          "replies": "48",
+          "replies": "49",
           "reposts": "6",
           "quotes": "21"
         }
@@ -714,13 +714,13 @@
         "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lxdrbbn4s22d"
       },
       "engagement": {
-        "likes": 53,
-        "replies": 25,
+        "likes": 55,
+        "replies": 26,
         "reposts": 7,
         "quotes": 8,
         "formatted": {
-          "likes": "53",
-          "replies": "25",
+          "likes": "55",
+          "replies": "26",
           "reposts": "7",
           "quotes": "8"
         }
@@ -826,12 +826,12 @@
       },
       "engagement": {
         "likes": 46,
-        "replies": 42,
+        "replies": 43,
         "reposts": 5,
         "quotes": 80,
         "formatted": {
           "likes": "46",
-          "replies": "42",
+          "replies": "43",
           "reposts": "5",
           "quotes": "80"
         }
@@ -881,12 +881,12 @@
         "url": "https://bsky.app/profile/nytimes.com/post/3lxdfjqmbzx2r"
       },
       "engagement": {
-        "likes": 67,
+        "likes": 68,
         "replies": 7,
         "reposts": 5,
         "quotes": 11,
         "formatted": {
-          "likes": "67",
+          "likes": "68",
           "replies": "7",
           "reposts": "5",
           "quotes": "11"
@@ -1163,12 +1163,12 @@
         "likes": 36,
         "replies": 17,
         "reposts": 2,
-        "quotes": 32,
+        "quotes": 33,
         "formatted": {
           "likes": "36",
           "replies": "17",
           "reposts": "2",
-          "quotes": "32"
+          "quotes": "33"
         }
       },
       "sample_replies": [
@@ -1272,9 +1272,9 @@
       },
       "engagement": {
         "likes": 140,
-        "replies": 1208,
+        "replies": 1210,
         "reposts": 20,
-        "quotes": 1797,
+        "quotes": 1800,
         "formatted": {
           "likes": "140",
           "replies": "1.2K",
