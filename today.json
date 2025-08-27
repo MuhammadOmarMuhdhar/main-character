@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-27T04:30:50.546073+00:00",
-    "last_metrics_update": "2025-08-27T07:17:23.230332+00:00",
+    "last_full_analysis": "2025-08-27T07:57:07.891032+00:00",
+    "last_metrics_update": "2025-08-27T07:57:07.891032+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 27,
+    "main_characters_count": 26,
     "rolling_window": {
-      "last_update": "2025-08-27T04:30:50.546073+00:00",
-      "new_entries_added": 1,
-      "total_in_window": 27,
+      "last_update": "2025-08-27T07:57:07.891032+00:00",
+      "new_entries_added": 2,
+      "total_in_window": 26,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -303,6 +303,62 @@
     {
       "rank": 6,
       "user": {
+        "handle": "jdportes.bsky.social",
+        "display_name": "Jonathan Portes",
+        "initials": "JP",
+        "did": "did:plc:td7ymvnnntooulzpovf6u6sd",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:td7ymvnnntooulzpovf6u6sd/bafkreialivh3mjv46ctcpja7jky7p5bmlfkwr5ftnu53ylxbqfjhl5jcly@jpeg",
+        "profile_url": "https://bsky.app/profile/jdportes.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 4.9,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The Times editorial line: \"sieve\" the entire population so we can put 100s of thousands of people into camps.\n\n\"Removing a city’s worth of people would be an extended exercise. Identity cards would be a must if the population was to be sieved into legitimate and illegitimate camps\"\n\narchive.ph/78dcP",
+        "uri": "at://did:plc:td7ymvnnntooulzpovf6u6sd/app.bsky.feed.post/3lxeih2nzlk25",
+        "created_at": "2025-08-27T07:18:56.190Z",
+        "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
+      },
+      "engagement": {
+        "likes": 61,
+        "replies": 11,
+        "reposts": 23,
+        "quotes": 27,
+        "formatted": {
+          "likes": "61",
+          "replies": "11",
+          "reposts": "23",
+          "quotes": "27"
+        }
+      },
+      "sample_replies": [
+        "As Rafael Behr says, “are we really going to spend the next four years watching Farage leaf...",
+        "‘Sieve’ - such a banal word for evil",
+        "Farage I am meeting the Supreme Leader of Iran to work out a deal to send escaped Iranians to their...",
+        "Wouldnt yellow stars be quicker for the Times?"
+      ],
+      "metrics": {
+        "ratio_score": 1.58,
+        "time_bucket": 1,
+        "total_engagement": 122,
+        "post_age_minutes": 29.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T07:57:07.794976+00:00",
+      "last_updated": "2025-08-27T07:57:07.794976+00:00",
+      "analysis_windows": [
+        "2025-08-27T07:57:07.794976+00:00"
+      ],
+      "peak_controversy": 4.9,
+      "trend": "new"
+    },
+    {
+      "rank": 7,
+      "user": {
         "handle": "lee-in-iowa.bsky.social",
         "display_name": "Lee-in-Iowa 💙",
         "initials": "L💙",
@@ -357,7 +413,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user": {
         "handle": "popcrave.com",
         "display_name": "Pop Crave",
@@ -413,63 +469,64 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user": {
-        "handle": "taniel.bsky.social",
-        "display_name": "Taniel",
-        "initials": "TA",
-        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
-        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
       },
       "ratio": "1:1",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
+      "controversy": 2.3,
+      "change": "-5.0",
+      "change_type": "negative",
       "post": {
-        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
-        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
-        "created_at": "2025-08-27T00:34:25.614Z",
-        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
+        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
+        "created_at": "2025-08-27T03:27:01.498169735Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
       },
       "engagement": {
-        "likes": 108,
-        "replies": 36,
-        "reposts": 30,
-        "quotes": 23,
+        "likes": 53,
+        "replies": 66,
+        "reposts": 12,
+        "quotes": 9,
         "formatted": {
-          "likes": "108",
-          "replies": "36",
-          "reposts": "30",
-          "quotes": "23"
+          "likes": "53",
+          "replies": "66",
+          "reposts": "12",
+          "quotes": "9"
         }
       },
       "sample_replies": [
-        "That’s disgusting.",
-        "Ohio, come on man. Are you really this far gone?",
-        "This is so depressing.",
-        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
+        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
+        "You guys should really stop putting liars on TV. No wonder no one watches you.",
+        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
+        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
       ],
       "metrics": {
-        "ratio_score": 2.5,
-        "time_bucket": 0,
-        "total_engagement": 67,
-        "post_age_minutes": 13.5
+        "ratio_score": 6.5,
+        "time_bucket": 3,
+        "total_engagement": 116,
+        "post_age_minutes": 50.6
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T01:03:38.070006+00:00",
-      "last_updated": "2025-08-27T01:03:38.070006+00:00",
+      "first_detected": "2025-08-26T18:05:41.291540+00:00",
+      "last_updated": "2025-08-27T04:30:50.546016+00:00",
       "analysis_windows": [
-        "2025-08-27T01:03:38.070006+00:00"
+        "2025-08-26T18:05:41.291540+00:00",
+        "2025-08-27T04:30:50.546016+00:00"
       ],
-      "peak_controversy": 3.4,
-      "trend": "new"
+      "peak_controversy": 7.3,
+      "trend": "rising"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -527,7 +584,63 @@
       "trend": "rising"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "user": {
+        "handle": "taniel.bsky.social",
+        "display_name": "Taniel",
+        "initials": "TA",
+        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
+        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
+        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
+        "created_at": "2025-08-27T00:34:25.614Z",
+        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
+      },
+      "engagement": {
+        "likes": 108,
+        "replies": 36,
+        "reposts": 30,
+        "quotes": 23,
+        "formatted": {
+          "likes": "108",
+          "replies": "36",
+          "reposts": "30",
+          "quotes": "23"
+        }
+      },
+      "sample_replies": [
+        "That’s disgusting.",
+        "Ohio, come on man. Are you really this far gone?",
+        "This is so depressing.",
+        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
+      ],
+      "metrics": {
+        "ratio_score": 2.5,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 13.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.070006+00:00",
+      "last_updated": "2025-08-27T01:03:38.070006+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.070006+00:00"
+      ],
+      "peak_controversy": 3.4,
+      "trend": "new"
+    },
+    {
+      "rank": 12,
       "user": {
         "handle": "timobrien.bsky.social",
         "display_name": "Tim O’Brien",
@@ -583,7 +696,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
@@ -636,118 +749,6 @@
         "2025-08-27T01:03:38.250441+00:00"
       ],
       "peak_controversy": 2.5,
-      "trend": "new"
-    },
-    {
-      "rank": 12,
-      "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.3,
-      "change": "-5.0",
-      "change_type": "negative",
-      "post": {
-        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
-        "created_at": "2025-08-27T03:27:01.498169735Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
-      },
-      "engagement": {
-        "likes": 53,
-        "replies": 66,
-        "reposts": 12,
-        "quotes": 9,
-        "formatted": {
-          "likes": "53",
-          "replies": "66",
-          "reposts": "12",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
-        "You guys should really stop putting liars on TV. No wonder no one watches you.",
-        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
-        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
-      ],
-      "metrics": {
-        "ratio_score": 6.5,
-        "time_bucket": 3,
-        "total_engagement": 116,
-        "post_age_minutes": 50.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T18:05:41.291540+00:00",
-      "last_updated": "2025-08-27T04:30:50.546016+00:00",
-      "analysis_windows": [
-        "2025-08-26T18:05:41.291540+00:00",
-        "2025-08-27T04:30:50.546016+00:00"
-      ],
-      "peak_controversy": 7.3,
-      "trend": "rising"
-    },
-    {
-      "rank": 13,
-      "user": {
-        "handle": "kyivindependent.com",
-        "display_name": "The Kyiv Independent",
-        "initials": "TK",
-        "did": "did:plc:yazbevg3wkzp5llnzb44tqgh",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
-        "profile_url": "https://bsky.app/profile/kyivindependent.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "⚡️Trump says he discussed Russia’s nuclear disarmament with Putin.\n\n\"Russia is willing to do it, and I think China is going to be willing to do it. We can’t let nuclear weapons proliferate,\" U.S. President Donald Trump said.",
-        "uri": "at://did:plc:yazbevg3wkzp5llnzb44tqgh/app.bsky.feed.post/3lxbuzurnbk2h",
-        "created_at": "2025-08-26T06:26:13.237Z",
-        "url": "https://bsky.app/profile/kyivindependent.com/post/3lxbuzurnbk2h"
-      },
-      "engagement": {
-        "likes": 116,
-        "replies": 75,
-        "reposts": 17,
-        "quotes": 20,
-        "formatted": {
-          "likes": "116",
-          "replies": "75",
-          "reposts": "17",
-          "quotes": "20"
-        }
-      },
-      "sample_replies": [
-        "He's really going all out in his campaign to \"win\" a Nobel Peace Prize, isn't he!  Expect him to...",
-        "from the idiot who believes that putin wants peace and is willing to negotiate.\n\n🤡😄",
-        "Pure delusion"
-      ],
-      "metrics": {
-        "ratio_score": 4.0,
-        "time_bucket": 0,
-        "total_engagement": 40,
-        "post_age_minutes": 6.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T06:43:29.357301+00:00",
-      "last_updated": "2025-08-26T06:43:29.357301+00:00",
-      "analysis_windows": [
-        "2025-08-26T06:43:29.357301+00:00"
-      ],
-      "peak_controversy": 2.0,
       "trend": "new"
     },
     {
@@ -919,6 +920,62 @@
     {
       "rank": 17,
       "user": {
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
+      },
+      "ratio": "1:1",
+      "controversy": 1.7,
+      "change": "+0.6",
+      "change_type": "positive",
+      "post": {
+        "text": "Tory chair says party would consider deal with Taliban to return Afghan migrants – UK politics live",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxeixgku3v22",
+        "created_at": "2025-08-27T07:28:05Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lxeixgku3v22"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 9,
+        "reposts": 8,
+        "quotes": 9,
+        "formatted": {
+          "likes": "17",
+          "replies": "9",
+          "reposts": "8",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "This tells us everything we need to know about the Tories, anyone with any moral decency should not...",
+        "“We can work with the worst humans on Earth” say the Taliban",
+        "The moral of the story to brown people around the world is never help Britain and never trust them....",
+        "Good.\n\nThe age of arrogant empires, moral imperialism and spreading democracy ( stealing oil, rare..."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 1,
+        "total_engagement": 43,
+        "post_age_minutes": 19.9
+      },
+      "previous_analysis": {
+        "controversy": 1.1,
+        "rank": 22
+      },
+      "first_detected": "2025-08-27T07:57:07.882768+00:00",
+      "last_updated": "2025-08-27T07:57:07.882768+00:00",
+      "analysis_windows": [
+        "2025-08-27T07:57:07.882768+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
+      "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
         "initials": "IR",
@@ -972,7 +1029,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -1028,7 +1085,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1086,7 +1143,7 @@
       "trend": "rising"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "authorwinifred.blacksky.app",
         "display_name": "Winifred \"Goody\" Burton",
@@ -1141,7 +1198,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -1194,62 +1251,6 @@
         "2025-08-26T18:05:41.693825+00:00"
       ],
       "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
-      "rank": 22,
-      "user": {
-        "handle": "theguardian.com",
-        "display_name": "The Guardian",
-        "initials": "TG",
-        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
-        "profile_url": "https://bsky.app/profile/theguardian.com"
-      },
-      "ratio": "86:1",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times",
-        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxbuxdzpdw2t",
-        "created_at": "2025-08-26T06:24:48.308Z",
-        "url": "https://bsky.app/profile/theguardian.com/post/3lxbuxdzpdw2t"
-      },
-      "engagement": {
-        "likes": 140,
-        "replies": 1221,
-        "reposts": 21,
-        "quotes": 1811,
-        "formatted": {
-          "likes": "140",
-          "replies": "1.2K",
-          "reposts": "21",
-          "quotes": "1.8K"
-        }
-      },
-      "sample_replies": [
-        "I felt my IQ drop about 50 points just reading this headline.",
-        "The answer is no, and it's ridiculous to even ask. You might as well ask a calculator.",
-        "\"Can an investment get the sads?\"",
-        "I think it's obvious that people with interest in AI being viewed as \"sentient\"--\"intelligence\" as..."
-      ],
-      "metrics": {
-        "ratio_score": 16.0,
-        "time_bucket": 0,
-        "total_engagement": 22,
-        "post_age_minutes": 8.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T06:43:29.485894+00:00",
-      "last_updated": "2025-08-26T06:43:29.485894+00:00",
-      "analysis_windows": [
-        "2025-08-26T06:43:29.485894+00:00"
-      ],
-      "peak_controversy": 1.1,
       "trend": "new"
     },
     {
@@ -1311,60 +1312,6 @@
     {
       "rank": 24,
       "user": {
-        "handle": "paigeyspice.bsky.social",
-        "display_name": "Paige",
-        "initials": "PA",
-        "did": "did:plc:iwfbanoozhsnztagl2aqc76v",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwfbanoozhsnztagl2aqc76v/bafkreifhtdohmak6afp3okw2djzp4eovz7gie32jqnh3emkup32l2ji6zy@jpeg",
-        "profile_url": "https://bsky.app/profile/paigeyspice.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 0.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Ok this girl just go right off & fck herself. \n\nProving to us all day long why she has no friends in this house. #BB27",
-        "uri": "at://did:plc:iwfbanoozhsnztagl2aqc76v/app.bsky.feed.post/3lxbs3jk3z22t",
-        "created_at": "2025-08-26T05:33:27.341Z",
-        "url": "https://bsky.app/profile/paigeyspice.bsky.social/post/3lxbs3jk3z22t"
-      },
-      "engagement": {
-        "likes": 45,
-        "replies": 4,
-        "reposts": 3,
-        "quotes": 8,
-        "formatted": {
-          "likes": "45",
-          "replies": "4",
-          "reposts": "3",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "As if anyone would believe it. As if we haven't been watching Rachel for FIFTEEN YEARS.",
-        "She looks at the camera 3 times praying for her big TV moment.\nShe’s a pretty vile girl actually…..."
-      ],
-      "metrics": {
-        "ratio_score": 3.0,
-        "time_bucket": 3,
-        "total_engagement": 38,
-        "post_age_minutes": 59.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T06:43:29.617569+00:00",
-      "last_updated": "2025-08-26T06:43:29.617569+00:00",
-      "analysis_windows": [
-        "2025-08-26T06:43:29.617569+00:00"
-      ],
-      "peak_controversy": 0.8,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
-      "user": {
         "handle": "chaclo.blacksky.app",
         "display_name": "ᴛʜᴇ ɴɪɴᴊᴀ ᴀɢᴇɴᴅᴀ",
         "initials": "ᴛɴ",
@@ -1420,7 +1367,7 @@
       "trend": "rising"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "frankwunderli13.bsky.social",
         "display_name": "Frank Wunderlich-Pfeiffer",
@@ -1475,7 +1422,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "dyeager64.bsky.social",
         "display_name": "donaldyeager  🏳️‍🌈💙",
