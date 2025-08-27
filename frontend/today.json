@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T17:50:58.117536+00:00",
-    "last_metrics_update": "2025-08-27T17:50:58.117536+00:00",
+    "last_metrics_update": "2025-08-27T18:02:21.887001+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 30,
@@ -35,15 +35,15 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxf5qbprz22y"
       },
       "engagement": {
-        "likes": 1000,
-        "replies": 365,
-        "reposts": 334,
-        "quotes": 96,
+        "likes": 1050,
+        "replies": 384,
+        "reposts": 348,
+        "quotes": 101,
         "formatted": {
-          "likes": "1.0K",
-          "replies": "365",
-          "reposts": "334",
-          "quotes": "96"
+          "likes": "1.1K",
+          "replies": "384",
+          "reposts": "348",
+          "quotes": "101"
         }
       },
       "sample_replies": [
@@ -93,15 +93,15 @@
         "url": "https://bsky.app/profile/parkermolloy.com/post/3lxfilmi7lk26"
       },
       "engagement": {
-        "likes": 405,
-        "replies": 33,
-        "reposts": 43,
-        "quotes": 46,
+        "likes": 527,
+        "replies": 41,
+        "reposts": 66,
+        "quotes": 70,
         "formatted": {
-          "likes": "405",
-          "replies": "33",
-          "reposts": "43",
-          "quotes": "46"
+          "likes": "527",
+          "replies": "41",
+          "reposts": "66",
+          "quotes": "70"
         }
       },
       "sample_replies": [
@@ -138,7 +138,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zzhksncw5azsuog6pfrvor3g/bafkreiapbdemtjjttxc3i6nl4yhjiqqw3bhgqjtpaitncugpdw53lt5hwa@jpeg",
         "profile_url": "https://bsky.app/profile/duckvalentine.bsky.social"
       },
-      "ratio": "1:2",
+      "ratio": "1:1",
       "controversy": 9.3,
       "change": "NEW",
       "change_type": "new",
@@ -149,15 +149,15 @@
         "url": "https://bsky.app/profile/duckvalentine.bsky.social/post/3lxf6jqvqyc2f"
       },
       "engagement": {
-        "likes": 616,
-        "replies": 121,
-        "reposts": 36,
-        "quotes": 22,
+        "likes": 677,
+        "replies": 128,
+        "reposts": 37,
+        "quotes": 25,
         "formatted": {
-          "likes": "616",
-          "replies": "121",
-          "reposts": "36",
-          "quotes": "22"
+          "likes": "677",
+          "replies": "128",
+          "reposts": "37",
+          "quotes": "25"
         }
       },
       "sample_replies": [
@@ -205,15 +205,15 @@
         "url": "https://bsky.app/profile/taylorlorenz.bsky.social/post/3lxfifr2xi22j"
       },
       "engagement": {
-        "likes": 175,
-        "replies": 50,
-        "reposts": 41,
-        "quotes": 40,
+        "likes": 195,
+        "replies": 54,
+        "reposts": 44,
+        "quotes": 43,
         "formatted": {
-          "likes": "175",
-          "replies": "50",
-          "reposts": "41",
-          "quotes": "40"
+          "likes": "195",
+          "replies": "54",
+          "reposts": "44",
+          "quotes": "43"
         }
       },
       "sample_replies": [
@@ -261,15 +261,15 @@
         "url": "https://bsky.app/profile/nytpitchbot.bsky.social/post/3lxfia3c2u223"
       },
       "engagement": {
-        "likes": 238,
-        "replies": 37,
-        "reposts": 21,
-        "quotes": 8,
+        "likes": 285,
+        "replies": 42,
+        "reposts": 29,
+        "quotes": 10,
         "formatted": {
-          "likes": "238",
-          "replies": "37",
-          "reposts": "21",
-          "quotes": "8"
+          "likes": "285",
+          "replies": "42",
+          "reposts": "29",
+          "quotes": "10"
         }
       },
       "sample_replies": [
@@ -317,13 +317,13 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxdfi5qgyh2b"
       },
       "engagement": {
-        "likes": 373,
-        "replies": 196,
+        "likes": 375,
+        "replies": 197,
         "reposts": 74,
         "quotes": 44,
         "formatted": {
-          "likes": "373",
-          "replies": "196",
+          "likes": "375",
+          "replies": "197",
           "reposts": "74",
           "quotes": "44"
         }
@@ -381,15 +381,15 @@
         "url": "https://bsky.app/profile/nbcnews.com/post/3lxfk2lxkne2p"
       },
       "engagement": {
-        "likes": 92,
-        "replies": 17,
-        "reposts": 14,
-        "quotes": 8,
+        "likes": 182,
+        "replies": 33,
+        "reposts": 31,
+        "quotes": 18,
         "formatted": {
-          "likes": "92",
-          "replies": "17",
-          "reposts": "14",
-          "quotes": "8"
+          "likes": "182",
+          "replies": "33",
+          "reposts": "31",
+          "quotes": "18"
         }
       },
       "sample_replies": [
@@ -437,13 +437,13 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 462,
-        "replies": 138,
+        "likes": 464,
+        "replies": 140,
         "reposts": 105,
         "quotes": 25,
         "formatted": {
-          "likes": "462",
-          "replies": "138",
+          "likes": "464",
+          "replies": "140",
           "reposts": "105",
           "quotes": "25"
         }
@@ -492,15 +492,15 @@
         "url": "https://bsky.app/profile/washingtonpost.com/post/3lxf6vqahgs24"
       },
       "engagement": {
-        "likes": 155,
-        "replies": 92,
-        "reposts": 64,
-        "quotes": 74,
+        "likes": 162,
+        "replies": 97,
+        "reposts": 68,
+        "quotes": 78,
         "formatted": {
-          "likes": "155",
-          "replies": "92",
-          "reposts": "64",
-          "quotes": "74"
+          "likes": "162",
+          "replies": "97",
+          "reposts": "68",
+          "quotes": "78"
         }
       },
       "sample_replies": [
@@ -549,15 +549,15 @@
         "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
       },
       "engagement": {
-        "likes": 551,
+        "likes": 553,
         "replies": 131,
         "reposts": 222,
-        "quotes": 199,
+        "quotes": 200,
         "formatted": {
-          "likes": "551",
+          "likes": "553",
           "replies": "131",
           "reposts": "222",
-          "quotes": "199"
+          "quotes": "200"
         }
       },
       "sample_replies": [
@@ -605,15 +605,15 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lxfiwzowde22"
       },
       "engagement": {
-        "likes": 127,
-        "replies": 21,
-        "reposts": 7,
-        "quotes": 5,
+        "likes": 156,
+        "replies": 20,
+        "reposts": 8,
+        "quotes": 6,
         "formatted": {
-          "likes": "127",
-          "replies": "21",
-          "reposts": "7",
-          "quotes": "5"
+          "likes": "156",
+          "replies": "20",
+          "reposts": "8",
+          "quotes": "6"
         }
       },
       "sample_replies": [
@@ -650,7 +650,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ljkat57jxyjr7zp7vmfkko3n/bafkreido4furz4awzgaq27xexfgl2v4luskomxkg6n4bvvve6eklf7v3cu@jpeg",
         "profile_url": "https://bsky.app/profile/lee-in-iowa.bsky.social"
       },
-      "ratio": "1:8",
+      "ratio": "1:7",
       "controversy": 4.4,
       "change": "NEW",
       "change_type": "new",
@@ -664,12 +664,12 @@
         "likes": 384,
         "replies": 77,
         "reposts": 113,
-        "quotes": 15,
+        "quotes": 16,
         "formatted": {
           "likes": "384",
           "replies": "77",
           "reposts": "113",
-          "quotes": "15"
+          "quotes": "16"
         }
       },
       "sample_replies": [
@@ -755,6 +755,287 @@
     {
       "rank": 14,
       "user": {
+        "handle": "taniel.bsky.social",
+        "display_name": "Taniel",
+        "initials": "TA",
+        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
+        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
+        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
+        "created_at": "2025-08-27T00:34:25.614Z",
+        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
+      },
+      "engagement": {
+        "likes": 117,
+        "replies": 38,
+        "reposts": 31,
+        "quotes": 25,
+        "formatted": {
+          "likes": "117",
+          "replies": "38",
+          "reposts": "31",
+          "quotes": "25"
+        }
+      },
+      "sample_replies": [
+        "That’s disgusting.",
+        "Ohio, come on man. Are you really this far gone?",
+        "This is so depressing.",
+        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
+      ],
+      "metrics": {
+        "ratio_score": 2.5,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 13.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.070006+00:00",
+      "last_updated": "2025-08-27T01:03:38.070006+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.070006+00:00"
+      ],
+      "peak_controversy": 3.4,
+      "trend": "new"
+    },
+    {
+      "rank": 15,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.1,
+      "change": "+1.1",
+      "change_type": "positive",
+      "post": {
+        "text": "President Trump said Tuesday that his administration would seek the death penalty for all murder cases in Washington, D.C., the latest escalation of his show of force in the U.S. capital.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxestsowgj2g",
+        "created_at": "2025-08-27T10:25:01.405264Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lxestsowgj2g"
+      },
+      "engagement": {
+        "likes": 81,
+        "replies": 59,
+        "reposts": 28,
+        "quotes": 14,
+        "formatted": {
+          "likes": "81",
+          "replies": "59",
+          "reposts": "28",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "Does he mean the Jan 6 murderers who killed a cop?",
+        "Why not shoot suspects before trial? That’s what he really wants.",
+        "It’s Trump pushing for the death penalty in every murder case in Washington, D.C., intensifying his...",
+        "But Bill Clinton talking to Loretta Lynch for 10 minutes at an airport in a coincidental encounter..."
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "time_bucket": 2,
+        "total_engagement": 104,
+        "post_age_minutes": 37.9
+      },
+      "previous_analysis": {
+        "controversy": 1.1,
+        "rank": 27
+      },
+      "first_detected": "2025-08-26T21:35:47.353843+00:00",
+      "last_updated": "2025-08-27T11:12:23.135246+00:00",
+      "analysis_windows": [
+        "2025-08-26T21:35:47.353843+00:00",
+        "2025-08-27T11:12:23.135246+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "rising"
+    },
+    {
+      "rank": 16,
+      "user": {
+        "handle": "thefilmupdates.bsky.social",
+        "display_name": "Film Updates",
+        "initials": "FU",
+        "did": "did:plc:ylyj3ddttowr3cqpcqbrav2c",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylyj3ddttowr3cqpcqbrav2c/bafkreif6hkrnnyqc43re6gcrv7uucfcaxud3hyyqh4m2whflhlon2scjpi@jpeg",
+        "profile_url": "https://bsky.app/profile/thefilmupdates.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 3.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Original ‘HARRY POTTER’ director Chris Columbus on the upcoming HBO reboot series:\n\n“I’m seeing these photographs… and he’s wearing the exact same costume that we designed for Hagrid. Part of me was like: What’s the point?”\n\n(Via @restisents)",
+        "uri": "at://did:plc:ylyj3ddttowr3cqpcqbrav2c/app.bsky.feed.post/3lxf6h4fsc22m",
+        "created_at": "2025-08-27T13:50:35.000Z",
+        "url": "https://bsky.app/profile/thefilmupdates.bsky.social/post/3lxf6h4fsc22m"
+      },
+      "engagement": {
+        "likes": 193,
+        "replies": 11,
+        "reposts": 27,
+        "quotes": 33,
+        "formatted": {
+          "likes": "193",
+          "replies": "11",
+          "reposts": "27",
+          "quotes": "33"
+        }
+      },
+      "sample_replies": [
+        "the point is rowling now has new actors to promote bc the \"old\" ones are loud and proud about...",
+        "isn't the point reboots recycle the same dreck to cash in on a new generation of children?",
+        "i dont care and have never liked harry potter but are people excited about this? the bits i've seen...",
+        "It's called money, Chris."
+      ],
+      "metrics": {
+        "ratio_score": 2.71,
+        "time_bucket": 1,
+        "total_engagement": 74,
+        "post_age_minutes": 24.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T14:32:04.127147+00:00",
+      "last_updated": "2025-08-27T14:32:04.127147+00:00",
+      "analysis_windows": [
+        "2025-08-27T14:32:04.127147+00:00"
+      ],
+      "peak_controversy": 3.0,
+      "trend": "new"
+    },
+    {
+      "rank": 17,
+      "user": {
+        "handle": "wired.com",
+        "display_name": "WIRED",
+        "initials": "WI",
+        "did": "did:plc:inz4fkbbp7ms3ixufw6xuvdi",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreifrsmtmuymsd7trfqapt6rj32cjmq4yqahgrgmfck3rh2xbgfeh64@jpeg",
+        "profile_url": "https://bsky.app/profile/wired.com"
+      },
+      "ratio": "1:1",
+      "controversy": 2.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "An initiative aimed at boosting Democrats online offers influencers up to $8,000 a month to push the party line. All they have to do is keep it secret—and agree to restrictions on their content. www.wired.com/story/dark-m...",
+        "uri": "at://did:plc:inz4fkbbp7ms3ixufw6xuvdi/app.bsky.feed.post/3lxeroyaujx2h",
+        "created_at": "2025-08-27T10:04:24.589Z",
+        "url": "https://bsky.app/profile/wired.com/post/3lxeroyaujx2h"
+      },
+      "engagement": {
+        "likes": 266,
+        "replies": 58,
+        "reposts": 108,
+        "quotes": 98,
+        "formatted": {
+          "likes": "266",
+          "replies": "58",
+          "reposts": "108",
+          "quotes": "98"
+        }
+      },
+      "sample_replies": [
+        "I imagine those restrictions involve not saying anything positive about Bernie, AOC, Crockett, or...",
+        "“Propaganda and disinformation is good when my team does it.” Why do takes like yours always seem...",
+        "Democratic dark money but Russian blood money flows through republicunts claws daily...yeah. FUCK...",
+        "Their content is great.  Maga has legions of paid  influencers.  But we must remain “pure ?”..."
+      ],
+      "metrics": {
+        "ratio_score": 1.63,
+        "time_bucket": 3,
+        "total_engagement": 136,
+        "post_age_minutes": 58.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T11:12:23.132858+00:00",
+      "last_updated": "2025-08-27T11:12:23.132858+00:00",
+      "analysis_windows": [
+        "2025-08-27T11:12:23.132858+00:00"
+      ],
+      "peak_controversy": 2.7,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
+      "user": {
+        "handle": "unusualwhales.bsky.social",
+        "display_name": "Unusual Whales",
+        "initials": "UW",
+        "did": "did:plc:7l75ck5g4b5k6gxqaq5rejit",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7l75ck5g4b5k6gxqaq5rejit/bafkreia2gyds76c6uk5szzdxvsfcvnm4nh5nvudchuu3tqc6nlkwetcjai@jpeg",
+        "profile_url": "https://bsky.app/profile/unusualwhales.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "BREAKING: Cracker Barrel reverts back to their old logo",
+        "uri": "at://did:plc:7l75ck5g4b5k6gxqaq5rejit/app.bsky.feed.post/3lxdrbbn4s22d",
+        "created_at": "2025-08-27T00:24:06.113Z",
+        "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lxdrbbn4s22d"
+      },
+      "engagement": {
+        "likes": 72,
+        "replies": 34,
+        "reposts": 10,
+        "quotes": 9,
+        "formatted": {
+          "likes": "72",
+          "replies": "34",
+          "reposts": "10",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "This is the dumbest timeline.",
+        "So dumb",
+        "And no one cares.",
+        "Free publicity in triggering maga"
+      ],
+      "metrics": {
+        "ratio_score": 4.5,
+        "time_bucket": 1,
+        "total_engagement": 63,
+        "post_age_minutes": 23.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T01:03:38.250441+00:00",
+      "last_updated": "2025-08-27T01:03:38.250441+00:00",
+      "analysis_windows": [
+        "2025-08-27T01:03:38.250441+00:00"
+      ],
+      "peak_controversy": 2.5,
+      "trend": "new"
+    },
+    {
+      "rank": 19,
+      "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
         "initials": "CN",
@@ -808,287 +1089,6 @@
       ],
       "peak_controversy": 7.3,
       "trend": "rising"
-    },
-    {
-      "rank": 15,
-      "user": {
-        "handle": "taniel.bsky.social",
-        "display_name": "Taniel",
-        "initials": "TA",
-        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
-        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
-        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
-        "created_at": "2025-08-27T00:34:25.614Z",
-        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
-      },
-      "engagement": {
-        "likes": 116,
-        "replies": 38,
-        "reposts": 31,
-        "quotes": 25,
-        "formatted": {
-          "likes": "116",
-          "replies": "38",
-          "reposts": "31",
-          "quotes": "25"
-        }
-      },
-      "sample_replies": [
-        "That’s disgusting.",
-        "Ohio, come on man. Are you really this far gone?",
-        "This is so depressing.",
-        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
-      ],
-      "metrics": {
-        "ratio_score": 2.5,
-        "time_bucket": 0,
-        "total_engagement": 67,
-        "post_age_minutes": 13.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T01:03:38.070006+00:00",
-      "last_updated": "2025-08-27T01:03:38.070006+00:00",
-      "analysis_windows": [
-        "2025-08-27T01:03:38.070006+00:00"
-      ],
-      "peak_controversy": 3.4,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:2",
-      "controversy": 3.1,
-      "change": "+1.1",
-      "change_type": "positive",
-      "post": {
-        "text": "President Trump said Tuesday that his administration would seek the death penalty for all murder cases in Washington, D.C., the latest escalation of his show of force in the U.S. capital.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxestsowgj2g",
-        "created_at": "2025-08-27T10:25:01.405264Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lxestsowgj2g"
-      },
-      "engagement": {
-        "likes": 81,
-        "replies": 58,
-        "reposts": 28,
-        "quotes": 14,
-        "formatted": {
-          "likes": "81",
-          "replies": "58",
-          "reposts": "28",
-          "quotes": "14"
-        }
-      },
-      "sample_replies": [
-        "Does he mean the Jan 6 murderers who killed a cop?",
-        "Why not shoot suspects before trial? That’s what he really wants.",
-        "It’s Trump pushing for the death penalty in every murder case in Washington, D.C., intensifying his...",
-        "But Bill Clinton talking to Loretta Lynch for 10 minutes at an airport in a coincidental encounter..."
-      ],
-      "metrics": {
-        "ratio_score": 3.0,
-        "time_bucket": 2,
-        "total_engagement": 104,
-        "post_age_minutes": 37.9
-      },
-      "previous_analysis": {
-        "controversy": 1.1,
-        "rank": 27
-      },
-      "first_detected": "2025-08-26T21:35:47.353843+00:00",
-      "last_updated": "2025-08-27T11:12:23.135246+00:00",
-      "analysis_windows": [
-        "2025-08-26T21:35:47.353843+00:00",
-        "2025-08-27T11:12:23.135246+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "rising"
-    },
-    {
-      "rank": 17,
-      "user": {
-        "handle": "thefilmupdates.bsky.social",
-        "display_name": "Film Updates",
-        "initials": "FU",
-        "did": "did:plc:ylyj3ddttowr3cqpcqbrav2c",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylyj3ddttowr3cqpcqbrav2c/bafkreif6hkrnnyqc43re6gcrv7uucfcaxud3hyyqh4m2whflhlon2scjpi@jpeg",
-        "profile_url": "https://bsky.app/profile/thefilmupdates.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Original ‘HARRY POTTER’ director Chris Columbus on the upcoming HBO reboot series:\n\n“I’m seeing these photographs… and he’s wearing the exact same costume that we designed for Hagrid. Part of me was like: What’s the point?”\n\n(Via @restisents)",
-        "uri": "at://did:plc:ylyj3ddttowr3cqpcqbrav2c/app.bsky.feed.post/3lxf6h4fsc22m",
-        "created_at": "2025-08-27T13:50:35.000Z",
-        "url": "https://bsky.app/profile/thefilmupdates.bsky.social/post/3lxf6h4fsc22m"
-      },
-      "engagement": {
-        "likes": 183,
-        "replies": 10,
-        "reposts": 27,
-        "quotes": 33,
-        "formatted": {
-          "likes": "183",
-          "replies": "10",
-          "reposts": "27",
-          "quotes": "33"
-        }
-      },
-      "sample_replies": [
-        "the point is rowling now has new actors to promote bc the \"old\" ones are loud and proud about...",
-        "isn't the point reboots recycle the same dreck to cash in on a new generation of children?",
-        "i dont care and have never liked harry potter but are people excited about this? the bits i've seen...",
-        "It's called money, Chris."
-      ],
-      "metrics": {
-        "ratio_score": 2.71,
-        "time_bucket": 1,
-        "total_engagement": 74,
-        "post_age_minutes": 24.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T14:32:04.127147+00:00",
-      "last_updated": "2025-08-27T14:32:04.127147+00:00",
-      "analysis_windows": [
-        "2025-08-27T14:32:04.127147+00:00"
-      ],
-      "peak_controversy": 3.0,
-      "trend": "new"
-    },
-    {
-      "rank": 18,
-      "user": {
-        "handle": "wired.com",
-        "display_name": "WIRED",
-        "initials": "WI",
-        "did": "did:plc:inz4fkbbp7ms3ixufw6xuvdi",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreifrsmtmuymsd7trfqapt6rj32cjmq4yqahgrgmfck3rh2xbgfeh64@jpeg",
-        "profile_url": "https://bsky.app/profile/wired.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "An initiative aimed at boosting Democrats online offers influencers up to $8,000 a month to push the party line. All they have to do is keep it secret—and agree to restrictions on their content. www.wired.com/story/dark-m...",
-        "uri": "at://did:plc:inz4fkbbp7ms3ixufw6xuvdi/app.bsky.feed.post/3lxeroyaujx2h",
-        "created_at": "2025-08-27T10:04:24.589Z",
-        "url": "https://bsky.app/profile/wired.com/post/3lxeroyaujx2h"
-      },
-      "engagement": {
-        "likes": 263,
-        "replies": 56,
-        "reposts": 108,
-        "quotes": 94,
-        "formatted": {
-          "likes": "263",
-          "replies": "56",
-          "reposts": "108",
-          "quotes": "94"
-        }
-      },
-      "sample_replies": [
-        "I imagine those restrictions involve not saying anything positive about Bernie, AOC, Crockett, or...",
-        "“Propaganda and disinformation is good when my team does it.” Why do takes like yours always seem...",
-        "Democratic dark money but Russian blood money flows through republicunts claws daily...yeah. FUCK...",
-        "Their content is great.  Maga has legions of paid  influencers.  But we must remain “pure ?”..."
-      ],
-      "metrics": {
-        "ratio_score": 1.63,
-        "time_bucket": 3,
-        "total_engagement": 136,
-        "post_age_minutes": 58.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T11:12:23.132858+00:00",
-      "last_updated": "2025-08-27T11:12:23.132858+00:00",
-      "analysis_windows": [
-        "2025-08-27T11:12:23.132858+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 19,
-      "user": {
-        "handle": "unusualwhales.bsky.social",
-        "display_name": "Unusual Whales",
-        "initials": "UW",
-        "did": "did:plc:7l75ck5g4b5k6gxqaq5rejit",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7l75ck5g4b5k6gxqaq5rejit/bafkreia2gyds76c6uk5szzdxvsfcvnm4nh5nvudchuu3tqc6nlkwetcjai@jpeg",
-        "profile_url": "https://bsky.app/profile/unusualwhales.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 2.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "BREAKING: Cracker Barrel reverts back to their old logo",
-        "uri": "at://did:plc:7l75ck5g4b5k6gxqaq5rejit/app.bsky.feed.post/3lxdrbbn4s22d",
-        "created_at": "2025-08-27T00:24:06.113Z",
-        "url": "https://bsky.app/profile/unusualwhales.bsky.social/post/3lxdrbbn4s22d"
-      },
-      "engagement": {
-        "likes": 71,
-        "replies": 34,
-        "reposts": 10,
-        "quotes": 9,
-        "formatted": {
-          "likes": "71",
-          "replies": "34",
-          "reposts": "10",
-          "quotes": "9"
-        }
-      },
-      "sample_replies": [
-        "This is the dumbest timeline.",
-        "So dumb",
-        "And no one cares.",
-        "Free publicity in triggering maga"
-      ],
-      "metrics": {
-        "ratio_score": 4.5,
-        "time_bucket": 1,
-        "total_engagement": 63,
-        "post_age_minutes": 23.8
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T01:03:38.250441+00:00",
-      "last_updated": "2025-08-27T01:03:38.250441+00:00",
-      "analysis_windows": [
-        "2025-08-27T01:03:38.250441+00:00"
-      ],
-      "peak_controversy": 2.5,
-      "trend": "new"
     },
     {
       "rank": 20,
@@ -1167,14 +1167,14 @@
         "url": "https://bsky.app/profile/thedailybeast.bsky.social/post/3lxeuistsnx2d"
       },
       "engagement": {
-        "likes": 105,
-        "replies": 73,
-        "reposts": 16,
+        "likes": 109,
+        "replies": 74,
+        "reposts": 17,
         "quotes": 61,
         "formatted": {
-          "likes": "105",
-          "replies": "73",
-          "reposts": "16",
+          "likes": "109",
+          "replies": "74",
+          "reposts": "17",
           "quotes": "61"
         }
       },
@@ -1223,15 +1223,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxfj5itaku22"
       },
       "engagement": {
-        "likes": 19,
-        "replies": 23,
-        "reposts": 6,
-        "quotes": 6,
+        "likes": 24,
+        "replies": 27,
+        "reposts": 7,
+        "quotes": 8,
         "formatted": {
-          "likes": "19",
-          "replies": "23",
-          "reposts": "6",
-          "quotes": "6"
+          "likes": "24",
+          "replies": "27",
+          "reposts": "7",
+          "quotes": "8"
         }
       },
       "sample_replies": [
@@ -1280,15 +1280,15 @@
         "url": "https://bsky.app/profile/letterboxd.social/post/3lxfinkoqu22n"
       },
       "engagement": {
-        "likes": 50,
-        "replies": 9,
-        "reposts": 4,
-        "quotes": 8,
+        "likes": 65,
+        "replies": 10,
+        "reposts": 6,
+        "quotes": 10,
         "formatted": {
-          "likes": "50",
-          "replies": "9",
-          "reposts": "4",
-          "quotes": "8"
+          "likes": "65",
+          "replies": "10",
+          "reposts": "6",
+          "quotes": "10"
         }
       },
       "sample_replies": [
@@ -1390,12 +1390,12 @@
         "url": "https://bsky.app/profile/authorwinifred.blacksky.app/post/3lxdqa5mewc2r"
       },
       "engagement": {
-        "likes": 43,
+        "likes": 44,
         "replies": 21,
         "reposts": 2,
         "quotes": 41,
         "formatted": {
-          "likes": "43",
+          "likes": "44",
           "replies": "21",
           "reposts": "2",
           "quotes": "41"
@@ -1445,14 +1445,14 @@
         "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxd2vftqpk2j"
       },
       "engagement": {
-        "likes": 92,
-        "replies": 22,
-        "reposts": 24,
+        "likes": 93,
+        "replies": 23,
+        "reposts": 26,
         "quotes": 15,
         "formatted": {
-          "likes": "92",
-          "replies": "22",
-          "reposts": "24",
+          "likes": "93",
+          "replies": "23",
+          "reposts": "26",
           "quotes": "15"
         }
       },
@@ -1501,15 +1501,15 @@
         "url": "https://bsky.app/profile/melodyschreiber.com/post/3lxfiyhyjdc2h"
       },
       "engagement": {
-        "likes": 17,
+        "likes": 18,
         "replies": 4,
         "reposts": 7,
-        "quotes": 12,
+        "quotes": 15,
         "formatted": {
-          "likes": "17",
+          "likes": "18",
           "replies": "4",
           "reposts": "7",
-          "quotes": "12"
+          "quotes": "15"
         }
       },
       "sample_replies": [
@@ -1557,12 +1557,12 @@
         "url": "https://bsky.app/profile/justinbaragona.bsky.social/post/3lxf6fvuqmc2a"
       },
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "replies": 8,
         "reposts": 8,
         "quotes": 5,
         "formatted": {
-          "likes": "18",
+          "likes": "19",
           "replies": "8",
           "reposts": "8",
           "quotes": "5"
@@ -1601,7 +1601,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6zooptvlf54ja6a6o4j46fab/bafkreie6iqxzjq57fdptmmbldrc4h2mw5rpcswmtv3usgbzlq5qdrbvnum@jpeg",
         "profile_url": "https://bsky.app/profile/professorpash.bsky.social"
       },
-      "ratio": "15:0",
+      "ratio": "22:0",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -1612,15 +1612,15 @@
         "url": "https://bsky.app/profile/professorpash.bsky.social/post/3lxfjt5icuk26"
       },
       "engagement": {
-        "likes": 3,
+        "likes": 4,
         "replies": 3,
         "reposts": 0,
-        "quotes": 15,
+        "quotes": 22,
         "formatted": {
-          "likes": "3",
+          "likes": "4",
           "replies": "3",
           "reposts": "0",
-          "quotes": "15"
+          "quotes": "22"
         }
       },
       "sample_replies": [
