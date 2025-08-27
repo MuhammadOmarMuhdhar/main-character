@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-27T01:03:38.811011+00:00",
-    "last_metrics_update": "2025-08-27T04:02:24.171654+00:00",
+    "last_full_analysis": "2025-08-27T04:30:50.546073+00:00",
+    "last_metrics_update": "2025-08-27T04:30:50.546073+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 30,
+    "main_characters_count": 27,
     "rolling_window": {
-      "last_update": "2025-08-27T01:03:38.811011+00:00",
-      "new_entries_added": 9,
-      "total_in_window": 30,
+      "last_update": "2025-08-27T04:30:50.546073+00:00",
+      "new_entries_added": 1,
+      "total_in_window": 27,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -72,61 +72,6 @@
     {
       "rank": 2,
       "user": {
-        "handle": "gtconway.bsky.social",
-        "display_name": "George Conway  👊🇺🇸🔥",
-        "initials": "GC",
-        "did": "did:plc:4lx6nur5wstwoc4wtgj56kyu",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4lx6nur5wstwoc4wtgj56kyu/bafkreihbchxrwqxmvvnhkpvbbgnhrinybygl5b7ommglbny7p5p4ifanue@jpeg",
-        "profile_url": "https://bsky.app/profile/gtconway.bsky.social"
-      },
-      "ratio": "1:5",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "",
-        "uri": "at://did:plc:4lx6nur5wstwoc4wtgj56kyu/app.bsky.feed.post/3lxbibaspac2g",
-        "created_at": "2025-08-26T02:37:42.085Z",
-        "url": "https://bsky.app/profile/gtconway.bsky.social/post/3lxbibaspac2g"
-      },
-      "engagement": {
-        "likes": 4722,
-        "replies": 1165,
-        "reposts": 1127,
-        "quotes": 217,
-        "formatted": {
-          "likes": "4.7K",
-          "replies": "1.2K",
-          "reposts": "1.1K",
-          "quotes": "217"
-        }
-      },
-      "sample_replies": [
-        "Don't threaten me with a good time",
-        "I don't know if any of this imagery is real. You never know these days. All I will say is: The arc...",
-        "Except people love trump. I know, I know, puke puke puke. But they do. I have FAMILY who love him...."
-      ],
-      "metrics": {
-        "ratio_score": 1.61,
-        "time_bucket": 1,
-        "total_engagement": 1365,
-        "post_age_minutes": 24.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T03:17:51.733708+00:00",
-      "last_updated": "2025-08-26T03:17:51.733708+00:00",
-      "analysis_windows": [
-        "2025-08-26T03:17:51.733708+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 3,
-      "user": {
         "handle": "atrupar.com",
         "display_name": "Aaron Rupar",
         "initials": "AR",
@@ -189,63 +134,7 @@
       "trend": "stable"
     },
     {
-      "rank": 4,
-      "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
-      },
-      "ratio": "1:1",
-      "controversy": 7.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "JUST IN: Taylor Swift and Travis Kelce announce their engagement on social media. https://cnn.it/3VhjD8O",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxd2hxi7my25",
-        "created_at": "2025-08-26T17:36:14.171097653Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lxd2hxi7my25"
-      },
-      "engagement": {
-        "likes": 244,
-        "replies": 40,
-        "reposts": 26,
-        "quotes": 19,
-        "formatted": {
-          "likes": "244",
-          "replies": "40",
-          "reposts": "26",
-          "quotes": "19"
-        }
-      },
-      "sample_replies": [
-        "who cares? You should be talking about the #epstein files.",
-        "There is nothing wrong with taking pleasure in something good and positive. They seem like they are...",
-        "And trump is destroying democracy. How 'bout keeping your eye on the ball @cnn.com",
-        "ENGAGED IN WHAT"
-      ],
-      "metrics": {
-        "ratio_score": 1.87,
-        "time_bucket": 0,
-        "total_engagement": 147,
-        "post_age_minutes": 11.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T18:05:41.291540+00:00",
-      "last_updated": "2025-08-26T18:05:41.291540+00:00",
-      "analysis_windows": [
-        "2025-08-26T18:05:41.291540+00:00"
-      ],
-      "peak_controversy": 7.3,
-      "trend": "new"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "user": {
         "handle": "adambienkov.bsky.social",
         "display_name": "Adam Bienkov",
@@ -301,7 +190,7 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "user": {
         "handle": "patriottakes.bsky.social",
         "display_name": "PatriotTakes 🇺🇸",
@@ -357,7 +246,7 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "user": {
         "handle": "ivanasstaircam.bsky.social",
         "display_name": "Lynda Will Not Obey",
@@ -412,7 +301,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "user": {
         "handle": "lee-in-iowa.bsky.social",
         "display_name": "Lee-in-Iowa 💙",
@@ -468,7 +357,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "user": {
         "handle": "popcrave.com",
         "display_name": "Pop Crave",
@@ -522,6 +411,121 @@
       ],
       "peak_controversy": 4.0,
       "trend": "new"
+    },
+    {
+      "rank": 8,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:2",
+      "controversy": 2.3,
+      "change": "-5.0",
+      "change_type": "negative",
+      "post": {
+        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
+        "created_at": "2025-08-27T03:27:01.498169735Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
+      },
+      "engagement": {
+        "likes": 42,
+        "replies": 59,
+        "reposts": 9,
+        "quotes": 6,
+        "formatted": {
+          "likes": "42",
+          "replies": "59",
+          "reposts": "9",
+          "quotes": "6"
+        }
+      },
+      "sample_replies": [
+        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
+        "You guys should really stop putting liars on TV. No wonder no one watches you.",
+        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
+        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "time_bucket": 3,
+        "total_engagement": 116,
+        "post_age_minutes": 50.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T18:05:41.291540+00:00",
+      "last_updated": "2025-08-27T04:30:50.546016+00:00",
+      "analysis_windows": [
+        "2025-08-26T18:05:41.291540+00:00",
+        "2025-08-27T04:30:50.546016+00:00"
+      ],
+      "peak_controversy": 7.3,
+      "trend": "rising"
+    },
+    {
+      "rank": 9,
+      "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "4:1",
+      "controversy": 2.7,
+      "change": "-2.2",
+      "change_type": "negative",
+      "post": {
+        "text": "Which game will you be playing — 'Battlefield 6' or 'Black Ops 7' ? 🎮 \n\nYou can only buy one ⬇️",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lxdf5mvmkc2e",
+        "created_at": "2025-08-26T20:47:18.805Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lxdf5mvmkc2e"
+      },
+      "engagement": {
+        "likes": 83,
+        "replies": 51,
+        "reposts": 6,
+        "quotes": 21,
+        "formatted": {
+          "likes": "83",
+          "replies": "51",
+          "reposts": "6",
+          "quotes": "21"
+        }
+      },
+      "sample_replies": [
+        "Neither",
+        "Neither",
+        "Battlefield 6",
+        "sonic racing"
+      ],
+      "metrics": {
+        "ratio_score": 7.33,
+        "time_bucket": 2,
+        "total_engagement": 90,
+        "post_age_minutes": 30.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T14:32:58.159595+00:00",
+      "last_updated": "2025-08-26T21:35:48.262965+00:00",
+      "analysis_windows": [
+        "2025-08-26T14:32:58.159595+00:00",
+        "2025-08-26T14:32:58.863090+00:00",
+        "2025-08-26T21:35:48.262965+00:00"
+      ],
+      "peak_controversy": 4.9,
+      "trend": "rising"
     },
     {
       "rank": 10,
@@ -582,64 +586,6 @@
     {
       "rank": 11,
       "user": {
-        "handle": "culturecrave.co",
-        "display_name": "Culture Crave 🍿",
-        "initials": "CC",
-        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
-        "profile_url": "https://bsky.app/profile/culturecrave.co"
-      },
-      "ratio": "4:1",
-      "controversy": 2.7,
-      "change": "-2.2",
-      "change_type": "negative",
-      "post": {
-        "text": "Which game will you be playing — 'Battlefield 6' or 'Black Ops 7' ? 🎮 \n\nYou can only buy one ⬇️",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lxdf5mvmkc2e",
-        "created_at": "2025-08-26T20:47:18.805Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lxdf5mvmkc2e"
-      },
-      "engagement": {
-        "likes": 83,
-        "replies": 51,
-        "reposts": 6,
-        "quotes": 21,
-        "formatted": {
-          "likes": "83",
-          "replies": "51",
-          "reposts": "6",
-          "quotes": "21"
-        }
-      },
-      "sample_replies": [
-        "Neither",
-        "Neither",
-        "Battlefield 6",
-        "sonic racing"
-      ],
-      "metrics": {
-        "ratio_score": 7.33,
-        "time_bucket": 2,
-        "total_engagement": 90,
-        "post_age_minutes": 30.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T14:32:58.159595+00:00",
-      "last_updated": "2025-08-26T21:35:48.262965+00:00",
-      "analysis_windows": [
-        "2025-08-26T14:32:58.159595+00:00",
-        "2025-08-26T14:32:58.863090+00:00",
-        "2025-08-26T21:35:48.262965+00:00"
-      ],
-      "peak_controversy": 4.9,
-      "trend": "rising"
-    },
-    {
-      "rank": 12,
-      "user": {
         "handle": "timobrien.bsky.social",
         "display_name": "Tim O’Brien",
         "initials": "TO",
@@ -694,7 +640,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
@@ -750,7 +696,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -805,7 +751,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -861,7 +807,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -917,7 +863,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "user": {
         "handle": "tryvns.writes.fyi",
         "display_name": "Treywop. 🌬️🪼",
@@ -971,7 +917,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "user": {
         "handle": "rapsheet.bsky.social",
         "display_name": "Ian Rapoport",
@@ -1026,7 +972,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "user": {
         "handle": "washingtonpost.com",
         "display_name": "The Washington Post",
@@ -1082,7 +1028,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user": {
         "handle": "wario64.bsky.social",
         "display_name": "Wario64",
@@ -1140,7 +1086,7 @@
       "trend": "rising"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "user": {
         "handle": "authorwinifred.blacksky.app",
         "display_name": "Winifred \"Goody\" Burton",
@@ -1195,7 +1141,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -1251,7 +1197,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1307,63 +1253,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
-      "user": {
-        "handle": "japantimes.co.jp",
-        "display_name": "The Japan Times",
-        "initials": "TJ",
-        "did": "did:plc:rddeinqb45gzem3n3zyma7im",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rddeinqb45gzem3n3zyma7im/bafkreiekbofstt5gbd74skigbabmh4lsn4hiodzkplqchgrw4vhlu7ulai@jpeg",
-        "profile_url": "https://bsky.app/profile/japantimes.co.jp"
-      },
-      "ratio": "1:1",
-      "controversy": 1.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "U.S. President Donald Trump suggested many Americans would like a dictator as he signed orders to tighten his federal clampdown on Washington.",
-        "uri": "at://did:plc:rddeinqb45gzem3n3zyma7im/app.bsky.feed.post/3lxbhu2ff4p25",
-        "created_at": "2025-08-26T02:30:18.671Z",
-        "url": "https://bsky.app/profile/japantimes.co.jp/post/3lxbhu2ff4p25"
-      },
-      "engagement": {
-        "likes": 21,
-        "replies": 18,
-        "reposts": 12,
-        "quotes": 10,
-        "formatted": {
-          "likes": "21",
-          "replies": "18",
-          "reposts": "12",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "He's such a low IQ diaper load",
-        "As an American citizen myself I can tell you most of us don't want him as President, never did. He...",
-        "As an Oregonian, I will say “Does it look like we want one?” We know we have major targets on our...",
-        "www.redbubble.com/i/magnet/Fig..."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 2,
-        "total_engagement": 33,
-        "post_age_minutes": 32.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T03:17:52.059102+00:00",
-      "last_updated": "2025-08-26T03:17:52.059102+00:00",
-      "analysis_windows": [
-        "2025-08-26T03:17:52.059102+00:00"
-      ],
-      "peak_controversy": 1.0,
-      "trend": "new"
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "user": {
         "handle": "missakemi.bsky.social",
         "display_name": "ItsAkemi",
@@ -1419,7 +1309,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 24,
       "user": {
         "handle": "paigeyspice.bsky.social",
         "display_name": "Paige",
@@ -1473,7 +1363,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 25,
       "user": {
         "handle": "chaclo.blacksky.app",
         "display_name": "ᴛʜᴇ ɴɪɴᴊᴀ ᴀɢᴇɴᴅᴀ",
@@ -1530,7 +1420,7 @@
       "trend": "rising"
     },
     {
-      "rank": 28,
+      "rank": 26,
       "user": {
         "handle": "frankwunderli13.bsky.social",
         "display_name": "Frank Wunderlich-Pfeiffer",
@@ -1585,63 +1475,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
-      "user": {
-        "handle": "cherfan75.bsky.social",
-        "display_name": "Cherfan75.Bsky.Social",
-        "initials": "CH",
-        "did": "did:plc:utipn7txb4omhfjwcfhczwnu",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:utipn7txb4omhfjwcfhczwnu/bafkreig34hjggbbfwdrowt6m2vmp6imgs66p2kuyfpajjsiviwtxct2aiy@jpeg",
-        "profile_url": "https://bsky.app/profile/cherfan75.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "yarvin worked to create this mess the USA is in ~ only to try to push his own dystopian, disturbing agenda as an alternative to what he coached trump to do!!  \nHis books contain his incessant verbal diarrhea which is just the precise bs to baffle conservative brains… if they had brains.",
-        "uri": "at://did:plc:utipn7txb4omhfjwcfhczwnu/app.bsky.feed.post/3lxbh3vl2gk2f",
-        "created_at": "2025-08-26T02:16:48.794Z",
-        "url": "https://bsky.app/profile/cherfan75.bsky.social/post/3lxbh3vl2gk2f"
-      },
-      "engagement": {
-        "likes": 13,
-        "replies": 4,
-        "reposts": 5,
-        "quotes": 22,
-        "formatted": {
-          "likes": "13",
-          "replies": "4",
-          "reposts": "5",
-          "quotes": "22"
-        }
-      },
-      "sample_replies": [
-        "lawliberty.org/the-mediocri...",
-        "I punched him in his face my senior year for making racist comments + almost got suspended for it",
-        "I went to college with this vile asshat 💀",
-        "Ewwwwww!!!"
-      ],
-      "metrics": {
-        "ratio_score": 4.75,
-        "time_bucket": 3,
-        "total_engagement": 26,
-        "post_age_minutes": 45.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-26T03:17:52.496268+00:00",
-      "last_updated": "2025-08-26T03:17:52.496268+00:00",
-      "analysis_windows": [
-        "2025-08-26T03:17:52.496268+00:00"
-      ],
-      "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
+      "rank": 27,
       "user": {
         "handle": "dyeager64.bsky.social",
         "display_name": "donaldyeager  🏳️‍🌈💙",
