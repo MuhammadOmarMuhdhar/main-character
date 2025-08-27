@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T07:57:07.891032+00:00",
-    "last_metrics_update": "2025-08-27T09:32:47.909709+00:00",
+    "last_metrics_update": "2025-08-27T09:47:20.648395+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 864,
+        "likes": 868,
         "replies": 184,
         "reposts": 89,
         "quotes": 21,
         "formatted": {
-          "likes": "864",
+          "likes": "868",
           "replies": "184",
           "reposts": "89",
           "quotes": "21"
@@ -210,14 +210,14 @@
         "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lxcmw26ao22i"
       },
       "engagement": {
-        "likes": 232,
+        "likes": 234,
         "replies": 159,
-        "reposts": 72,
+        "reposts": 73,
         "quotes": 26,
         "formatted": {
-          "likes": "232",
+          "likes": "234",
           "replies": "159",
-          "reposts": "72",
+          "reposts": "73",
           "quotes": "26"
         }
       },
@@ -266,13 +266,13 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 385,
-        "replies": 120,
+        "likes": 386,
+        "replies": 121,
         "reposts": 90,
         "quotes": 23,
         "formatted": {
-          "likes": "385",
-          "replies": "120",
+          "likes": "386",
+          "replies": "121",
           "reposts": "90",
           "quotes": "23"
         }
@@ -321,15 +321,15 @@
         "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
       },
       "engagement": {
-        "likes": 269,
-        "replies": 66,
-        "reposts": 123,
-        "quotes": 127,
+        "likes": 295,
+        "replies": 70,
+        "reposts": 129,
+        "quotes": 136,
         "formatted": {
-          "likes": "269",
-          "replies": "66",
-          "reposts": "123",
-          "quotes": "127"
+          "likes": "295",
+          "replies": "70",
+          "reposts": "129",
+          "quotes": "136"
         }
       },
       "sample_replies": [
@@ -489,14 +489,14 @@
         "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
       },
       "engagement": {
-        "likes": 111,
+        "likes": 112,
         "replies": 36,
-        "reposts": 30,
+        "reposts": 31,
         "quotes": 24,
         "formatted": {
-          "likes": "111",
+          "likes": "112",
           "replies": "36",
-          "reposts": "30",
+          "reposts": "31",
           "quotes": "24"
         }
       },
@@ -715,12 +715,12 @@
         "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
       },
       "engagement": {
-        "likes": 56,
+        "likes": 57,
         "replies": 68,
         "reposts": 13,
         "quotes": 10,
         "formatted": {
-          "likes": "56",
+          "likes": "57",
           "replies": "68",
           "reposts": "13",
           "quotes": "10"
