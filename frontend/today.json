@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-27T11:12:23.135308+00:00",
-    "last_metrics_update": "2025-08-27T11:12:23.135308+00:00",
+    "last_metrics_update": "2025-08-27T11:18:07.960471+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 26,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxdqjlcz622a"
       },
       "engagement": {
-        "likes": 878,
+        "likes": 881,
         "replies": 183,
         "reposts": 90,
         "quotes": 21,
         "formatted": {
-          "likes": "878",
+          "likes": "881",
           "replies": "183",
           "reposts": "90",
           "quotes": "21"
@@ -90,12 +90,12 @@
         "url": "https://bsky.app/profile/atrupar.com/post/3lxdfi5qgyh2b"
       },
       "engagement": {
-        "likes": 344,
+        "likes": 346,
         "replies": 191,
         "reposts": 70,
         "quotes": 43,
         "formatted": {
-          "likes": "344",
+          "likes": "346",
           "replies": "191",
           "reposts": "70",
           "quotes": "43"
@@ -154,15 +154,15 @@
         "url": "https://bsky.app/profile/patriottakes.bsky.social/post/3lxesy3jd222n"
       },
       "engagement": {
-        "likes": 189,
-        "replies": 44,
-        "reposts": 35,
-        "quotes": 12,
+        "likes": 218,
+        "replies": 54,
+        "reposts": 41,
+        "quotes": 13,
         "formatted": {
-          "likes": "189",
-          "replies": "44",
-          "reposts": "35",
-          "quotes": "12"
+          "likes": "218",
+          "replies": "54",
+          "reposts": "41",
+          "quotes": "13"
         }
       },
       "sample_replies": [
@@ -211,13 +211,13 @@
         "url": "https://bsky.app/profile/ivanasstaircam.bsky.social/post/3lxdrhiuap22l"
       },
       "engagement": {
-        "likes": 397,
-        "replies": 124,
+        "likes": 402,
+        "replies": 126,
         "reposts": 92,
         "quotes": 23,
         "formatted": {
-          "likes": "397",
-          "replies": "124",
+          "likes": "402",
+          "replies": "126",
           "reposts": "92",
           "quotes": "23"
         }
@@ -266,15 +266,15 @@
         "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
       },
       "engagement": {
-        "likes": 388,
-        "replies": 102,
-        "reposts": 164,
-        "quotes": 166,
+        "likes": 414,
+        "replies": 111,
+        "reposts": 178,
+        "quotes": 172,
         "formatted": {
-          "likes": "388",
-          "replies": "102",
-          "reposts": "164",
-          "quotes": "166"
+          "likes": "414",
+          "replies": "111",
+          "reposts": "178",
+          "quotes": "172"
         }
       },
       "sample_replies": [
@@ -322,12 +322,12 @@
         "url": "https://bsky.app/profile/lee-in-iowa.bsky.social/post/3lxdefyvrus2y"
       },
       "engagement": {
-        "likes": 369,
+        "likes": 371,
         "replies": 76,
         "reposts": 111,
         "quotes": 13,
         "formatted": {
-          "likes": "369",
+          "likes": "371",
           "replies": "76",
           "reposts": "111",
           "quotes": "13"
@@ -416,62 +416,118 @@
     {
       "rank": 8,
       "user": {
-        "handle": "cnn.com",
-        "display_name": "CNN",
-        "initials": "CN",
-        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "profile_url": "https://bsky.app/profile/cnn.com"
+        "handle": "taniel.bsky.social",
+        "display_name": "Taniel",
+        "initials": "TA",
+        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
+        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
       },
       "ratio": "1:1",
-      "controversy": 2.3,
-      "change": "-5.0",
-      "change_type": "negative",
+      "controversy": 3.4,
+      "change": "NEW",
+      "change_type": "new",
       "post": {
-        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
-        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
-        "created_at": "2025-08-27T03:27:01.498169735Z",
-        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
+        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
+        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
+        "created_at": "2025-08-27T00:34:25.614Z",
+        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
       },
       "engagement": {
-        "likes": 58,
-        "replies": 68,
-        "reposts": 13,
-        "quotes": 10,
+        "likes": 113,
+        "replies": 36,
+        "reposts": 31,
+        "quotes": 24,
         "formatted": {
-          "likes": "58",
-          "replies": "68",
-          "reposts": "13",
-          "quotes": "10"
+          "likes": "113",
+          "replies": "36",
+          "reposts": "31",
+          "quotes": "24"
         }
       },
       "sample_replies": [
-        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
-        "You guys should really stop putting liars on TV. No wonder no one watches you.",
-        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
-        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
+        "That’s disgusting.",
+        "Ohio, come on man. Are you really this far gone?",
+        "This is so depressing.",
+        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
       ],
       "metrics": {
-        "ratio_score": 6.5,
-        "time_bucket": 3,
-        "total_engagement": 116,
-        "post_age_minutes": 50.6
+        "ratio_score": 2.5,
+        "time_bucket": 0,
+        "total_engagement": 67,
+        "post_age_minutes": 13.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-26T18:05:41.291540+00:00",
-      "last_updated": "2025-08-27T04:30:50.546016+00:00",
+      "first_detected": "2025-08-27T01:03:38.070006+00:00",
+      "last_updated": "2025-08-27T01:03:38.070006+00:00",
       "analysis_windows": [
-        "2025-08-26T18:05:41.291540+00:00",
-        "2025-08-27T04:30:50.546016+00:00"
+        "2025-08-27T01:03:38.070006+00:00"
       ],
-      "peak_controversy": 7.3,
-      "trend": "rising"
+      "peak_controversy": 3.4,
+      "trend": "new"
     },
     {
       "rank": 9,
+      "user": {
+        "handle": "nytimes.com",
+        "display_name": "The New York Times",
+        "initials": "TN",
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "profile_url": "https://bsky.app/profile/nytimes.com"
+      },
+      "ratio": "1:2",
+      "controversy": 3.1,
+      "change": "+1.1",
+      "change_type": "positive",
+      "post": {
+        "text": "President Trump said Tuesday that his administration would seek the death penalty for all murder cases in Washington, D.C., the latest escalation of his show of force in the U.S. capital.",
+        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxestsowgj2g",
+        "created_at": "2025-08-27T10:25:01.405264Z",
+        "url": "https://bsky.app/profile/nytimes.com/post/3lxestsowgj2g"
+      },
+      "engagement": {
+        "likes": 49,
+        "replies": 37,
+        "reposts": 18,
+        "quotes": 11,
+        "formatted": {
+          "likes": "49",
+          "replies": "37",
+          "reposts": "18",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "Does he mean the Jan 6 murderers who killed a cop?",
+        "Why not shoot suspects before trial? That’s what he really wants.",
+        "It’s Trump pushing for the death penalty in every murder case in Washington, D.C., intensifying his...",
+        "But Bill Clinton talking to Loretta Lynch for 10 minutes at an airport in a coincidental encounter..."
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "time_bucket": 2,
+        "total_engagement": 104,
+        "post_age_minutes": 37.9
+      },
+      "previous_analysis": {
+        "controversy": 1.1,
+        "rank": 27
+      },
+      "first_detected": "2025-08-26T21:35:47.353843+00:00",
+      "last_updated": "2025-08-27T11:12:23.135246+00:00",
+      "analysis_windows": [
+        "2025-08-26T21:35:47.353843+00:00",
+        "2025-08-27T11:12:23.135246+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "rising"
+    },
+    {
+      "rank": 10,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -529,120 +585,7 @@
       "trend": "rising"
     },
     {
-      "rank": 10,
-      "user": {
-        "handle": "taniel.bsky.social",
-        "display_name": "Taniel",
-        "initials": "TA",
-        "did": "did:plc:7vj2towokzui3hgna5u5u46f",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vj2towokzui3hgna5u5u46f/bafkreieybjgzkpx5ckc7bnizpkfwcn42whwfnzwz3xwsfahw4hs4pgbvca@jpeg",
-        "profile_url": "https://bsky.app/profile/taniel.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 3.4,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The first public poll of Ohio’s Senate race is from Emerson, and it has has Sherrod Brown, now a challenger rather than incumbent, down 6%. \n\nVivek leads a governor’s race by 10.\n\nohiocapitaljournal.com/2025/08/26/o...",
-        "uri": "at://did:plc:7vj2towokzui3hgna5u5u46f/app.bsky.feed.post/3lxdrtqgt7k2n",
-        "created_at": "2025-08-27T00:34:25.614Z",
-        "url": "https://bsky.app/profile/taniel.bsky.social/post/3lxdrtqgt7k2n"
-      },
-      "engagement": {
-        "likes": 113,
-        "replies": 36,
-        "reposts": 31,
-        "quotes": 24,
-        "formatted": {
-          "likes": "113",
-          "replies": "36",
-          "reposts": "31",
-          "quotes": "24"
-        }
-      },
-      "sample_replies": [
-        "That’s disgusting.",
-        "Ohio, come on man. Are you really this far gone?",
-        "This is so depressing.",
-        "Worth pointing out that Emerson is fairly R-leaning in their methodology. We'll see what shakes out."
-      ],
-      "metrics": {
-        "ratio_score": 2.5,
-        "time_bucket": 0,
-        "total_engagement": 67,
-        "post_age_minutes": 13.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T01:03:38.070006+00:00",
-      "last_updated": "2025-08-27T01:03:38.070006+00:00",
-      "analysis_windows": [
-        "2025-08-27T01:03:38.070006+00:00"
-      ],
-      "peak_controversy": 3.4,
-      "trend": "new"
-    },
-    {
       "rank": 11,
-      "user": {
-        "handle": "nytimes.com",
-        "display_name": "The New York Times",
-        "initials": "TN",
-        "did": "did:plc:eclio37ymobqex2ncko63h4r",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "profile_url": "https://bsky.app/profile/nytimes.com"
-      },
-      "ratio": "1:1",
-      "controversy": 3.1,
-      "change": "+1.1",
-      "change_type": "positive",
-      "post": {
-        "text": "President Trump said Tuesday that his administration would seek the death penalty for all murder cases in Washington, D.C., the latest escalation of his show of force in the U.S. capital.",
-        "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.feed.post/3lxestsowgj2g",
-        "created_at": "2025-08-27T10:25:01.405264Z",
-        "url": "https://bsky.app/profile/nytimes.com/post/3lxestsowgj2g"
-      },
-      "engagement": {
-        "likes": 45,
-        "replies": 35,
-        "reposts": 14,
-        "quotes": 10,
-        "formatted": {
-          "likes": "45",
-          "replies": "35",
-          "reposts": "14",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "Does he mean the Jan 6 murderers who killed a cop?",
-        "Why not shoot suspects before trial? That’s what he really wants.",
-        "It’s Trump pushing for the death penalty in every murder case in Washington, D.C., intensifying his...",
-        "But Bill Clinton talking to Loretta Lynch for 10 minutes at an airport in a coincidental encounter..."
-      ],
-      "metrics": {
-        "ratio_score": 3.0,
-        "time_bucket": 2,
-        "total_engagement": 104,
-        "post_age_minutes": 37.9
-      },
-      "previous_analysis": {
-        "controversy": 1.1,
-        "rank": 27
-      },
-      "first_detected": "2025-08-26T21:35:47.353843+00:00",
-      "last_updated": "2025-08-27T11:12:23.135246+00:00",
-      "analysis_windows": [
-        "2025-08-26T21:35:47.353843+00:00",
-        "2025-08-27T11:12:23.135246+00:00"
-      ],
-      "peak_controversy": 3.1,
-      "trend": "rising"
-    },
-    {
-      "rank": 12,
       "user": {
         "handle": "wired.com",
         "display_name": "WIRED",
@@ -662,15 +605,15 @@
         "url": "https://bsky.app/profile/wired.com/post/3lxeroyaujx2h"
       },
       "engagement": {
-        "likes": 66,
-        "replies": 26,
-        "reposts": 26,
-        "quotes": 18,
+        "likes": 69,
+        "replies": 25,
+        "reposts": 28,
+        "quotes": 20,
         "formatted": {
-          "likes": "66",
-          "replies": "26",
-          "reposts": "26",
-          "quotes": "18"
+          "likes": "69",
+          "replies": "25",
+          "reposts": "28",
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -698,7 +641,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "timobrien.bsky.social",
         "display_name": "Tim O’Brien",
@@ -719,12 +662,12 @@
       },
       "engagement": {
         "likes": 99,
-        "replies": 27,
+        "replies": 26,
         "reposts": 24,
         "quotes": 8,
         "formatted": {
           "likes": "99",
-          "replies": "27",
+          "replies": "26",
           "reposts": "24",
           "quotes": "8"
         }
@@ -754,7 +697,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user": {
         "handle": "unusualwhales.bsky.social",
         "display_name": "Unusual Whales",
@@ -810,6 +753,63 @@
       "trend": "new"
     },
     {
+      "rank": 14,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 2.3,
+      "change": "-5.0",
+      "change_type": "negative",
+      "post": {
+        "text": "Interior Secretary Doug Burgum said that President Donald Trump’s deploying the National Guard to Democratic-led cities across the country is not politically motivated, telling CNN’s Kaitlan Collins in an interview the Republican president is “not targeting anything.”",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxe3ieosxj2f",
+        "created_at": "2025-08-27T03:27:01.498169735Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lxe3ieosxj2f"
+      },
+      "engagement": {
+        "likes": 58,
+        "replies": 68,
+        "reposts": 14,
+        "quotes": 10,
+        "formatted": {
+          "likes": "58",
+          "replies": "68",
+          "reposts": "14",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "Tell me you have zero integrity without telling me…\n\nWe need to rid ourselves of these cancers....",
+        "You guys should really stop putting liars on TV. No wonder no one watches you.",
+        "Well, that's brilliant use of troops. Send them somewhere where you're not targeting anything... 🃏",
+        "Burgum is an asshole. Why don't you ask him about J6?\nHe called it a peaceful transfer of power."
+      ],
+      "metrics": {
+        "ratio_score": 6.5,
+        "time_bucket": 3,
+        "total_engagement": 116,
+        "post_age_minutes": 50.6
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-26T18:05:41.291540+00:00",
+      "last_updated": "2025-08-27T04:30:50.546016+00:00",
+      "analysis_windows": [
+        "2025-08-26T18:05:41.291540+00:00",
+        "2025-08-27T04:30:50.546016+00:00"
+      ],
+      "peak_controversy": 7.3,
+      "trend": "rising"
+    },
+    {
       "rank": 15,
       "user": {
         "handle": "thedailybeast.bsky.social",
@@ -819,7 +819,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xzlvsk4ty7ecwigbjpxah6yb/bafkreiep3ghegwdbsm3tr4m5dsbg5bahp3o5nbckkyccp475rz5piuajpy@jpeg",
         "profile_url": "https://bsky.app/profile/thedailybeast.bsky.social"
       },
-      "ratio": "1:1",
+      "ratio": "2:1",
       "controversy": 2.3,
       "change": "NEW",
       "change_type": "new",
@@ -830,15 +830,15 @@
         "url": "https://bsky.app/profile/thedailybeast.bsky.social/post/3lxeuistsnx2d"
       },
       "engagement": {
-        "likes": 22,
-        "replies": 12,
-        "reposts": 7,
-        "quotes": 6,
+        "likes": 36,
+        "replies": 24,
+        "reposts": 9,
+        "quotes": 17,
         "formatted": {
-          "likes": "22",
-          "replies": "12",
-          "reposts": "7",
-          "quotes": "6"
+          "likes": "36",
+          "replies": "24",
+          "reposts": "9",
+          "quotes": "17"
         }
       },
       "sample_replies": [
@@ -996,12 +996,12 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxeixgku3v22"
       },
       "engagement": {
-        "likes": 27,
+        "likes": 28,
         "replies": 22,
         "reposts": 10,
         "quotes": 16,
         "formatted": {
-          "likes": "27",
+          "likes": "28",
           "replies": "22",
           "reposts": "10",
           "quotes": "16"
@@ -1377,7 +1377,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5qu6fzha5r54pts54n4n3rp2/bafkreif4vengvm5c2a3crqo3v3ffwucjexj7rq4aoa2pntnzbqnndftku4@jpeg",
         "profile_url": "https://bsky.app/profile/chaclo.blacksky.app"
       },
-      "ratio": "2:1",
+      "ratio": "3:1",
       "controversy": 0.8,
       "change": "+0.2",
       "change_type": "positive",
@@ -1388,15 +1388,15 @@
         "url": "https://bsky.app/profile/chaclo.blacksky.app/post/3lxetcgkfkk2b"
       },
       "engagement": {
-        "likes": 8,
-        "replies": 4,
+        "likes": 10,
+        "replies": 5,
         "reposts": 3,
-        "quotes": 6,
+        "quotes": 9,
         "formatted": {
-          "likes": "8",
-          "replies": "4",
+          "likes": "10",
+          "replies": "5",
           "reposts": "3",
-          "quotes": "6"
+          "quotes": "9"
         }
       },
       "sample_replies": [
