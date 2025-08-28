@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T08:26:28.741636+00:00",
-    "last_metrics_update": "2025-08-28T09:32:38.059970+00:00",
+    "last_metrics_update": "2025-08-28T09:47:37.933782+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 36,
@@ -94,12 +94,12 @@
         "likes": 316,
         "replies": 123,
         "reposts": 16,
-        "quotes": 79,
+        "quotes": 80,
         "formatted": {
           "likes": "316",
           "replies": "123",
           "reposts": "16",
-          "quotes": "79"
+          "quotes": "80"
         }
       },
       "sample_replies": [
@@ -315,14 +315,14 @@
         "url": "https://bsky.app/profile/nytpitchbot.bsky.social/post/3lxfia3c2u223"
       },
       "engagement": {
-        "likes": 475,
+        "likes": 476,
         "replies": 67,
-        "reposts": 55,
+        "reposts": 56,
         "quotes": 12,
         "formatted": {
-          "likes": "475",
+          "likes": "476",
           "replies": "67",
-          "reposts": "55",
+          "reposts": "56",
           "quotes": "12"
         }
       },
@@ -874,13 +874,13 @@
         "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxgod7gdns2o"
       },
       "engagement": {
-        "likes": 96,
-        "replies": 29,
+        "likes": 97,
+        "replies": 30,
         "reposts": 13,
         "quotes": 6,
         "formatted": {
-          "likes": "96",
-          "replies": "29",
+          "likes": "97",
+          "replies": "30",
           "reposts": "13",
           "quotes": "6"
         }
@@ -1042,12 +1042,12 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxh2bzexux2i"
       },
       "engagement": {
-        "likes": 58,
+        "likes": 61,
         "replies": 9,
         "reposts": 8,
         "quotes": 9,
         "formatted": {
-          "likes": "58",
+          "likes": "61",
           "replies": "9",
           "reposts": "8",
           "quotes": "9"
@@ -1769,12 +1769,12 @@
         "likes": 146,
         "replies": 77,
         "reposts": 11,
-        "quotes": 360,
+        "quotes": 361,
         "formatted": {
           "likes": "146",
           "replies": "77",
           "reposts": "11",
-          "quotes": "360"
+          "quotes": "361"
         }
       },
       "sample_replies": [
