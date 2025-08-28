@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T08:26:28.741636+00:00",
-    "last_metrics_update": "2025-08-28T10:17:44.144689+00:00",
+    "last_metrics_update": "2025-08-28T10:32:24.731605+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 36,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/parkermolloy.com/post/3lxfilmi7lk26"
       },
       "engagement": {
-        "likes": 798,
+        "likes": 799,
         "replies": 56,
         "reposts": 102,
         "quotes": 94,
         "formatted": {
-          "likes": "798",
+          "likes": "799",
           "replies": "56",
           "reposts": "102",
           "quotes": "94"
@@ -92,12 +92,12 @@
       },
       "engagement": {
         "likes": 318,
-        "replies": 122,
+        "replies": 123,
         "reposts": 16,
         "quotes": 81,
         "formatted": {
           "likes": "318",
-          "replies": "122",
+          "replies": "123",
           "reposts": "16",
           "quotes": "81"
         }
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/duckvalentine.bsky.social/post/3lxf6jqvqyc2f"
       },
       "engagement": {
-        "likes": 826,
+        "likes": 827,
         "replies": 144,
         "reposts": 45,
         "quotes": 25,
         "formatted": {
-          "likes": "826",
+          "likes": "827",
           "replies": "144",
           "reposts": "45",
           "quotes": "25"
@@ -315,12 +315,12 @@
         "url": "https://bsky.app/profile/nytpitchbot.bsky.social/post/3lxfia3c2u223"
       },
       "engagement": {
-        "likes": 476,
+        "likes": 478,
         "replies": 67,
         "reposts": 56,
         "quotes": 12,
         "formatted": {
-          "likes": "476",
+          "likes": "478",
           "replies": "67",
           "reposts": "56",
           "quotes": "12"
@@ -538,12 +538,12 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lxfiwzowde22"
       },
       "engagement": {
-        "likes": 284,
+        "likes": 286,
         "replies": 43,
         "reposts": 12,
         "quotes": 8,
         "formatted": {
-          "likes": "284",
+          "likes": "286",
           "replies": "43",
           "reposts": "12",
           "quotes": "8"
@@ -874,12 +874,12 @@
         "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxgod7gdns2o"
       },
       "engagement": {
-        "likes": 99,
+        "likes": 100,
         "replies": 31,
         "reposts": 14,
         "quotes": 6,
         "formatted": {
-          "likes": "99",
+          "likes": "100",
           "replies": "31",
           "reposts": "14",
           "quotes": "6"
@@ -1042,15 +1042,15 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxh2bzexux2i"
       },
       "engagement": {
-        "likes": 63,
+        "likes": 64,
         "replies": 10,
-        "reposts": 8,
-        "quotes": 9,
+        "reposts": 9,
+        "quotes": 10,
         "formatted": {
-          "likes": "63",
+          "likes": "64",
           "replies": "10",
-          "reposts": "8",
-          "quotes": "9"
+          "reposts": "9",
+          "quotes": "10"
         }
       },
       "sample_replies": [
@@ -1098,12 +1098,12 @@
         "url": "https://bsky.app/profile/peark.es/post/3lxfu6hcfns2t"
       },
       "engagement": {
-        "likes": 51,
+        "likes": 52,
         "replies": 7,
         "reposts": 5,
         "quotes": 6,
         "formatted": {
-          "likes": "51",
+          "likes": "52",
           "replies": "7",
           "reposts": "5",
           "quotes": "6"
@@ -1655,12 +1655,12 @@
         "url": "https://bsky.app/profile/danacorn.bsky.social/post/3lxg7pp3xlk27"
       },
       "engagement": {
-        "likes": 35,
+        "likes": 36,
         "replies": 6,
         "reposts": 1,
         "quotes": 15,
         "formatted": {
-          "likes": "35",
+          "likes": "36",
           "replies": "6",
           "reposts": "1",
           "quotes": "15"
