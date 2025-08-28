@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-28T08:26:28.741636+00:00",
-    "last_metrics_update": "2025-08-28T11:17:20.236997+00:00",
+    "last_full_analysis": "2025-08-28T11:43:12.097618+00:00",
+    "last_metrics_update": "2025-08-28T11:43:12.097618+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 36,
+    "main_characters_count": 37,
     "rolling_window": {
-      "last_update": "2025-08-28T08:26:28.741636+00:00",
-      "new_entries_added": 1,
-      "total_in_window": 36,
+      "last_update": "2025-08-28T11:43:12.097618+00:00",
+      "new_entries_added": 5,
+      "total_in_window": 37,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -632,62 +632,6 @@
     {
       "rank": 12,
       "user": {
-        "handle": "wired.com",
-        "display_name": "WIRED",
-        "initials": "WI",
-        "did": "did:plc:inz4fkbbp7ms3ixufw6xuvdi",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreifrsmtmuymsd7trfqapt6rj32cjmq4yqahgrgmfck3rh2xbgfeh64@jpeg",
-        "profile_url": "https://bsky.app/profile/wired.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "An initiative aimed at boosting Democrats online offers influencers up to $8,000 a month to push the party line. All they have to do is keep it secret—and agree to restrictions on their content. www.wired.com/story/dark-m...",
-        "uri": "at://did:plc:inz4fkbbp7ms3ixufw6xuvdi/app.bsky.feed.post/3lxeroyaujx2h",
-        "created_at": "2025-08-27T10:04:24.589Z",
-        "url": "https://bsky.app/profile/wired.com/post/3lxeroyaujx2h"
-      },
-      "engagement": {
-        "likes": 320,
-        "replies": 66,
-        "reposts": 121,
-        "quotes": 112,
-        "formatted": {
-          "likes": "320",
-          "replies": "66",
-          "reposts": "121",
-          "quotes": "112"
-        }
-      },
-      "sample_replies": [
-        "I imagine those restrictions involve not saying anything positive about Bernie, AOC, Crockett, or...",
-        "“Propaganda and disinformation is good when my team does it.” Why do takes like yours always seem...",
-        "Democratic dark money but Russian blood money flows through republicunts claws daily...yeah. FUCK...",
-        "Their content is great.  Maga has legions of paid  influencers.  But we must remain “pure ?”..."
-      ],
-      "metrics": {
-        "ratio_score": 1.63,
-        "time_bucket": 3,
-        "total_engagement": 136,
-        "post_age_minutes": 58.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T11:12:23.132858+00:00",
-      "last_updated": "2025-08-27T11:12:23.132858+00:00",
-      "analysis_windows": [
-        "2025-08-27T11:12:23.132858+00:00"
-      ],
-      "peak_controversy": 2.7,
-      "trend": "new"
-    },
-    {
-      "rank": 13,
-      "user": {
         "handle": "osinttechnical.bsky.social",
         "display_name": "OSINTtechnical",
         "initials": "OS",
@@ -742,7 +686,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user": {
         "handle": "diannarussini.bsky.social",
         "display_name": "Dianna Russini",
@@ -798,63 +742,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
-      "user": {
-        "handle": "thedailybeast.bsky.social",
-        "display_name": "The Daily Beast",
-        "initials": "TD",
-        "did": "did:plc:xzlvsk4ty7ecwigbjpxah6yb",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xzlvsk4ty7ecwigbjpxah6yb/bafkreiep3ghegwdbsm3tr4m5dsbg5bahp3o5nbckkyccp475rz5piuajpy@jpeg",
-        "profile_url": "https://bsky.app/profile/thedailybeast.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 2.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Fox News’ Sean Hannity said part of the reason he left New York City was that people would stare at him “with daggers in their eyes” whenever he went out to restaurants.",
-        "uri": "at://did:plc:xzlvsk4ty7ecwigbjpxah6yb/app.bsky.feed.post/3lxeuistsnx2d",
-        "created_at": "2025-08-27T10:54:39.953177Z",
-        "url": "https://bsky.app/profile/thedailybeast.bsky.social/post/3lxeuistsnx2d"
-      },
-      "engagement": {
-        "likes": 115,
-        "replies": 81,
-        "reposts": 17,
-        "quotes": 65,
-        "formatted": {
-          "likes": "115",
-          "replies": "81",
-          "reposts": "17",
-          "quotes": "65"
-        }
-      },
-      "sample_replies": [
-        "Well, that’s a you problem, Sean.",
-        "“Daggers in their eyes”?   Wait till he hears what’s in his food.",
-        "it's crazy how often conservatives admit they want a safe space, they're actually not interested in...",
-        "That's what happens to public douchebags when they are among normal people that have a moral..."
-      ],
-      "metrics": {
-        "ratio_score": 2.25,
-        "time_bucket": 0,
-        "total_engagement": 47,
-        "post_age_minutes": 3.6
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T11:12:22.603369+00:00",
-      "last_updated": "2025-08-27T11:12:22.603369+00:00",
-      "analysis_windows": [
-        "2025-08-27T11:12:22.603369+00:00"
-      ],
-      "peak_controversy": 2.3,
-      "trend": "new"
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -910,7 +798,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "user": {
         "handle": "letterboxd.social",
         "display_name": "Letterboxd",
@@ -966,7 +854,64 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "user": {
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
+      },
+      "ratio": "2:1",
+      "controversy": 2.2,
+      "change": "+0.4",
+      "change_type": "positive",
+      "post": {
+        "text": "Is it wrong to throw a birthday party for my dog? | Frances Ryan",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxhflhplku2s",
+        "created_at": "2025-08-28T11:05:41.921Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lxhflhplku2s"
+      },
+      "engagement": {
+        "likes": 17,
+        "replies": 23,
+        "reposts": 4,
+        "quotes": 10,
+        "formatted": {
+          "likes": "17",
+          "replies": "23",
+          "reposts": "4",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "Each to their own but 7 parties a year is a bit much",
+        "if it makes you happy and you're not hurting anyone. no.",
+        "When my Toby was 16 we took him to the seaside. He had severe arthritis, cushins disease, tumours,...",
+        "Definitive answer: NO it is not wrong. What ever makes you and your pooch happy. You are not doing..."
+      ],
+      "metrics": {
+        "ratio_score": 6.6,
+        "time_bucket": 1,
+        "total_engagement": 54,
+        "post_age_minutes": 27.7
+      },
+      "previous_analysis": {
+        "controversy": 2.2,
+        "rank": 17
+      },
+      "first_detected": "2025-08-28T08:26:28.741484+00:00",
+      "last_updated": "2025-08-28T11:43:12.097523+00:00",
+      "analysis_windows": [
+        "2025-08-28T08:26:28.741484+00:00",
+        "2025-08-28T11:43:12.097523+00:00"
+      ],
+      "peak_controversy": 2.2,
+      "trend": "stable"
+    },
+    {
+      "rank": 17,
       "user": {
         "handle": "bredlove.bsky.social",
         "display_name": "BRedLove",
@@ -1022,63 +967,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
-      "user": {
-        "handle": "theguardian.com",
-        "display_name": "The Guardian",
-        "initials": "TG",
-        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
-        "profile_url": "https://bsky.app/profile/theguardian.com"
-      },
-      "ratio": "1:1",
-      "controversy": 1.8,
-      "change": "-0.4",
-      "change_type": "negative",
-      "post": {
-        "text": "UK landlords could face tax from rents that may raise £2bn",
-        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxh2bzexux2i",
-        "created_at": "2025-08-28T07:43:33Z",
-        "url": "https://bsky.app/profile/theguardian.com/post/3lxh2bzexux2i"
-      },
-      "engagement": {
-        "likes": 66,
-        "replies": 12,
-        "reposts": 10,
-        "quotes": 10,
-        "formatted": {
-          "likes": "66",
-          "replies": "12",
-          "reposts": "10",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "And if done without rent control it’ll push up rents as another uplift in the cost of living....",
-        "And they will stop landlords just passing the cost straight on to tenants, thus worsening the...",
-        "Pretty sure this will get pushed straight down to the renters.",
-        "Can't feel sorry for landlords.. and maybe this will force the return of many properties to the..."
-      ],
-      "metrics": {
-        "ratio_score": 1.62,
-        "time_bucket": 2,
-        "total_engagement": 61,
-        "post_age_minutes": 33.5
-      },
-      "previous_analysis": {
-        "controversy": 2.2,
-        "rank": 17
-      },
-      "first_detected": "2025-08-28T08:26:28.741484+00:00",
-      "last_updated": "2025-08-28T08:26:28.741484+00:00",
-      "analysis_windows": [
-        "2025-08-28T08:26:28.741484+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "user": {
         "handle": "peark.es",
         "display_name": "George Pearkes",
@@ -1131,6 +1020,118 @@
         "2025-08-27T21:21:14.955826+00:00"
       ],
       "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 19,
+      "user": {
+        "handle": "amikebloomtype.bsky.social",
+        "display_name": "Mike Bloom",
+        "initials": "MB",
+        "did": "did:plc:verpigb7tlutlyexfakibjno",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:verpigb7tlutlyexfakibjno/bafkreifg37mwazb3knokwfwjplg3wl6eiv7gd4btgpokdhsfjlrv5w75yu@jpeg",
+        "profile_url": "https://bsky.app/profile/amikebloomtype.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "While Rylie's #BB27 exit interviews were postponed on Friday, I got the chance to send him questions through email. This is what he had to say, from what happened in the Block Buster to his response to the controversy around his behavior in the house: parade.com/tv/big-broth...",
+        "uri": "at://did:plc:verpigb7tlutlyexfakibjno/app.bsky.feed.post/3lxhfdcbav226",
+        "created_at": "2025-08-28T11:01:07.932Z",
+        "url": "https://bsky.app/profile/amikebloomtype.bsky.social/post/3lxhfdcbav226"
+      },
+      "engagement": {
+        "likes": 32,
+        "replies": 6,
+        "reposts": 6,
+        "quotes": 9,
+        "formatted": {
+          "likes": "32",
+          "replies": "6",
+          "reposts": "6",
+          "quotes": "9"
+        }
+      },
+      "sample_replies": [
+        "This was funny asf lol",
+        "Y'all know damn well this man did not write these answers. The media is horrible. Trying to...",
+        "ThE eMoTiOnS iN tHe hOuSe rUn hOt",
+        "Inaccurate version of him? We saw it!!!"
+      ],
+      "metrics": {
+        "ratio_score": 2.14,
+        "time_bucket": 2,
+        "total_engagement": 53,
+        "post_age_minutes": 32.3
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T11:43:11.802084+00:00",
+      "last_updated": "2025-08-28T11:43:11.802084+00:00",
+      "analysis_windows": [
+        "2025-08-28T11:43:11.802084+00:00"
+      ],
+      "peak_controversy": 1.6,
+      "trend": "new"
+    },
+    {
+      "rank": 20,
+      "user": {
+        "handle": "stevepeers.bsky.social",
+        "display_name": "Steve Peers",
+        "initials": "SP",
+        "did": "did:plc:oazod3zfweyhy4cmyoa4yxqv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oazod3zfweyhy4cmyoa4yxqv/bafkreiazl7qw5vbswifqwnetcajhv2r76qnfviudgckpif5m57ulxiokzy@jpeg",
+        "profile_url": "https://bsky.app/profile/stevepeers.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 1.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Govt considers applying national insurance to rental income www.theguardian.com/money/2025/a...",
+        "uri": "at://did:plc:oazod3zfweyhy4cmyoa4yxqv/app.bsky.feed.post/3lxhedgpjh22q",
+        "created_at": "2025-08-28T10:43:18.852Z",
+        "url": "https://bsky.app/profile/stevepeers.bsky.social/post/3lxhedgpjh22q"
+      },
+      "engagement": {
+        "likes": 48,
+        "replies": 14,
+        "reposts": 6,
+        "quotes": 5,
+        "formatted": {
+          "likes": "48",
+          "replies": "14",
+          "reposts": "6",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "It will be passed straight on to the tenants.",
+        "How about taxing airbnbs instead?  Tenants will pick up the cost of this, holidays are...",
+        "Yep. With a little bit extra for their trouble.",
+        "Great way to inflate rents...how about just collecting from the corporations which avoid tax on..."
+      ],
+      "metrics": {
+        "ratio_score": 2.71,
+        "time_bucket": 3,
+        "total_engagement": 73,
+        "post_age_minutes": 56.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T11:43:11.949054+00:00",
+      "last_updated": "2025-08-28T11:43:11.949054+00:00",
+      "analysis_windows": [
+        "2025-08-28T11:43:11.949054+00:00"
+      ],
+      "peak_controversy": 1.5,
       "trend": "new"
     },
     {
@@ -1471,61 +1472,6 @@
     {
       "rank": 27,
       "user": {
-        "handle": "theathleticfc.bsky.social",
-        "display_name": "The Athletic | Football",
-        "initials": "TA",
-        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
-        "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
-      },
-      "ratio": "15:1",
-      "controversy": 1.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Ruben Amorim now has less than 20 minutes to save Manchester United from a humiliating defeat against League Two side Grimsby Town.\n\nWhat can he do to save United's blushes, and Carabao Cup campaign, at Blundell Park?\n\n📸 ITV Football",
-        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lxfurbnalc22",
-        "created_at": "2025-08-27T20:32:03.663Z",
-        "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lxfurbnalc22"
-      },
-      "engagement": {
-        "likes": 48,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 15,
-        "formatted": {
-          "likes": "48",
-          "replies": "6",
-          "reposts": "1",
-          "quotes": "15"
-        }
-      },
-      "sample_replies": [
-        "Subbuteo",
-        "WTF  was he doing ?\n*umbrella",
-        "😂😂😂😂"
-      ],
-      "metrics": {
-        "ratio_score": 5.5,
-        "time_bucket": 2,
-        "total_engagement": 32,
-        "post_age_minutes": 30.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:15.249297+00:00",
-      "last_updated": "2025-08-27T21:21:15.249297+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:15.249297+00:00"
-      ],
-      "peak_controversy": 1.0,
-      "trend": "new"
-    },
-    {
-      "rank": 28,
-      "user": {
         "handle": "notyournegro.bsky.social",
         "display_name": "Not Your Negress",
         "initials": "NY",
@@ -1575,6 +1521,62 @@
       "last_updated": "2025-08-28T00:48:13.434992+00:00",
       "analysis_windows": [
         "2025-08-28T00:48:13.434992+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "new"
+    },
+    {
+      "rank": 28,
+      "user": {
+        "handle": "thedailybeast.bsky.social",
+        "display_name": "The Daily Beast",
+        "initials": "TD",
+        "did": "did:plc:xzlvsk4ty7ecwigbjpxah6yb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xzlvsk4ty7ecwigbjpxah6yb/bafkreiep3ghegwdbsm3tr4m5dsbg5bahp3o5nbckkyccp475rz5piuajpy@jpeg",
+        "profile_url": "https://bsky.app/profile/thedailybeast.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 1.0,
+      "change": "-1.3",
+      "change_type": "negative",
+      "post": {
+        "text": "First lady Melania Trump shared in a social media post her suggestion for how best to prevent mass shootings like the attack in Minneapolis on Wednesday that claimed the lives of two children.",
+        "uri": "at://did:plc:xzlvsk4ty7ecwigbjpxah6yb/app.bsky.feed.post/3lxhfpypcw42v",
+        "created_at": "2025-08-28T11:08:14.076285Z",
+        "url": "https://bsky.app/profile/thedailybeast.bsky.social/post/3lxhfpypcw42v"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 10,
+        "reposts": 3,
+        "quotes": 5,
+        "formatted": {
+          "likes": "6",
+          "replies": "10",
+          "reposts": "3",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Why would anyone listen to what she has to say?? She's not totally useless anymore. She's...",
+        "I hope she feels the gaping hole where her soul used to be every single second of every day. She's...",
+        "The party her husband rules will always cut mental health funding.",
+        "We just need to BE BEST"
+      ],
+      "metrics": {
+        "ratio_score": 3.75,
+        "time_bucket": 1,
+        "total_engagement": 24,
+        "post_age_minutes": 25.2
+      },
+      "previous_analysis": {
+        "controversy": 2.3,
+        "rank": 15
+      },
+      "first_detected": "2025-08-28T11:43:11.633381+00:00",
+      "last_updated": "2025-08-28T11:43:11.633381+00:00",
+      "analysis_windows": [
+        "2025-08-28T11:43:11.633381+00:00"
       ],
       "peak_controversy": 1.0,
       "trend": "new"
@@ -1692,6 +1694,63 @@
     {
       "rank": 31,
       "user": {
+        "handle": "theathleticfc.bsky.social",
+        "display_name": "The Athletic | Football",
+        "initials": "TA",
+        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
+        "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
+      },
+      "ratio": "2:1",
+      "controversy": 0.8,
+      "change": "-0.2",
+      "change_type": "negative",
+      "post": {
+        "text": "Newcastle United target Jorgen Strand Larsen has informed Wolves that he wants to leave.\n\nMore from @david-ornstein.bsky.social ⤵️\n\n🔗 www.nytimes.com/athletic/657...",
+        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lxhe47cnfc25",
+        "created_at": "2025-08-28T10:39:16.192Z",
+        "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lxhe47cnfc25"
+      },
+      "engagement": {
+        "likes": 20,
+        "replies": 5,
+        "reposts": 5,
+        "quotes": 8,
+        "formatted": {
+          "likes": "20",
+          "replies": "5",
+          "reposts": "5",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "As a Mag I’m keen on us getting him, given our need, but also feel for Wolves fans. Transfers never...",
+        "Isak has been informed he isn’t moving this window either but that hasn’t stopped the likes of Orny...",
+        "In the gathering dark, the will of the agent grows strong. It works hard now to find its way back...",
+        "Oh"
+      ],
+      "metrics": {
+        "ratio_score": 2.17,
+        "time_bucket": 3,
+        "total_engagement": 38,
+        "post_age_minutes": 54.1
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-27T21:21:15.249297+00:00",
+      "last_updated": "2025-08-28T11:43:12.097523+00:00",
+      "analysis_windows": [
+        "2025-08-27T21:21:15.249297+00:00",
+        "2025-08-28T11:43:12.097523+00:00"
+      ],
+      "peak_controversy": 1.0,
+      "trend": "rising"
+    },
+    {
+      "rank": 32,
+      "user": {
         "handle": "professorpash.bsky.social",
         "display_name": "Dr. Frisky Whiskey McThicky, Ball Knower",
         "initials": "DF",
@@ -1746,7 +1805,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -1802,7 +1861,7 @@
       "trend": "new"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "user": {
         "handle": "australia.theguardian.com",
         "display_name": "Guardian Australia",
@@ -1858,7 +1917,7 @@
       "trend": "new"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "user": {
         "handle": "arrogantade.blacksky.app",
         "display_name": "Arrogant Esquire",
@@ -1914,7 +1973,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "user": {
         "handle": "cerromerussell.bsky.social",
         "display_name": "MonsterKing",
@@ -1970,7 +2029,7 @@
       "trend": "new"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "user": {
         "handle": "reverendjesus.com",
         "display_name": "Reverend Jesus \"H\" Christ",
