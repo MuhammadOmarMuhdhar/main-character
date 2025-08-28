@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T00:48:13.850663+00:00",
-    "last_metrics_update": "2025-08-28T02:17:20.738310+00:00",
+    "last_metrics_update": "2025-08-28T02:32:29.175488+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 41,
@@ -35,14 +35,14 @@
         "url": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lxf5qbprz22y"
       },
       "engagement": {
-        "likes": 1243,
+        "likes": 1248,
         "replies": 422,
-        "reposts": 411,
+        "reposts": 414,
         "quotes": 111,
         "formatted": {
           "likes": "1.2K",
           "replies": "422",
-          "reposts": "411",
+          "reposts": "414",
           "quotes": "111"
         }
       },
@@ -149,13 +149,13 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lxgbff4fok2r"
       },
       "engagement": {
-        "likes": 261,
-        "replies": 103,
+        "likes": 266,
+        "replies": 107,
         "reposts": 14,
         "quotes": 67,
         "formatted": {
-          "likes": "261",
-          "replies": "103",
+          "likes": "266",
+          "replies": "107",
           "reposts": "14",
           "quotes": "67"
         }
@@ -205,13 +205,13 @@
         "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxfusplmdk2j"
       },
       "engagement": {
-        "likes": 314,
-        "replies": 23,
+        "likes": 319,
+        "replies": 24,
         "reposts": 16,
         "quotes": 9,
         "formatted": {
-          "likes": "314",
-          "replies": "23",
+          "likes": "319",
+          "replies": "24",
           "reposts": "16",
           "quotes": "9"
         }
@@ -261,12 +261,12 @@
         "url": "https://bsky.app/profile/duckvalentine.bsky.social/post/3lxf6jqvqyc2f"
       },
       "engagement": {
-        "likes": 799,
+        "likes": 800,
         "replies": 139,
         "reposts": 43,
         "quotes": 25,
         "formatted": {
-          "likes": "799",
+          "likes": "800",
           "replies": "139",
           "reposts": "43",
           "quotes": "25"
@@ -317,13 +317,13 @@
         "url": "https://bsky.app/profile/taylorlorenz.bsky.social/post/3lxfifr2xi22j"
       },
       "engagement": {
-        "likes": 350,
-        "replies": 80,
+        "likes": 351,
+        "replies": 81,
         "reposts": 87,
         "quotes": 73,
         "formatted": {
-          "likes": "350",
-          "replies": "80",
+          "likes": "351",
+          "replies": "81",
           "reposts": "87",
           "quotes": "73"
         }
@@ -429,12 +429,12 @@
         "url": "https://bsky.app/profile/nbcnews.com/post/3lxfk2lxkne2p"
       },
       "engagement": {
-        "likes": 413,
+        "likes": 414,
         "replies": 94,
         "reposts": 80,
         "quotes": 53,
         "formatted": {
-          "likes": "413",
+          "likes": "414",
           "replies": "94",
           "reposts": "80",
           "quotes": "53"
@@ -485,13 +485,13 @@
         "url": "https://bsky.app/profile/daisygardner.bsky.social/post/3lxg75dr5yk2j"
       },
       "engagement": {
-        "likes": 320,
-        "replies": 49,
+        "likes": 322,
+        "replies": 50,
         "reposts": 25,
         "quotes": 6,
         "formatted": {
-          "likes": "320",
-          "replies": "49",
+          "likes": "322",
+          "replies": "50",
           "reposts": "25",
           "quotes": "6"
         }
@@ -707,12 +707,12 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lxfiwzowde22"
       },
       "engagement": {
-        "likes": 268,
+        "likes": 269,
         "replies": 39,
         "reposts": 12,
         "quotes": 8,
         "formatted": {
-          "likes": "268",
+          "likes": "269",
           "replies": "39",
           "reposts": "12",
           "quotes": "8"
@@ -875,12 +875,12 @@
         "url": "https://bsky.app/profile/wired.com/post/3lxeroyaujx2h"
       },
       "engagement": {
-        "likes": 316,
+        "likes": 317,
         "replies": 65,
         "reposts": 120,
         "quotes": 112,
         "formatted": {
-          "likes": "316",
+          "likes": "317",
           "replies": "65",
           "reposts": "120",
           "quotes": "112"
@@ -1100,12 +1100,12 @@
       },
       "engagement": {
         "likes": 114,
-        "replies": 79,
+        "replies": 80,
         "reposts": 17,
         "quotes": 64,
         "formatted": {
           "likes": "114",
-          "replies": "79",
+          "replies": "80",
           "reposts": "17",
           "quotes": "64"
         }
@@ -1212,15 +1212,15 @@
         "url": "https://bsky.app/profile/letterboxd.social/post/3lxfinkoqu22n"
       },
       "engagement": {
-        "likes": 104,
+        "likes": 105,
         "replies": 17,
         "reposts": 10,
-        "quotes": 27,
+        "quotes": 28,
         "formatted": {
-          "likes": "104",
+          "likes": "105",
           "replies": "17",
           "reposts": "10",
-          "quotes": "27"
+          "quotes": "28"
         }
       },
       "sample_replies": [
@@ -1603,13 +1603,13 @@
         "url": "https://bsky.app/profile/maustermuhle.bsky.social/post/3lxfut6lhsk2q"
       },
       "engagement": {
-        "likes": 20,
-        "replies": 9,
+        "likes": 21,
+        "replies": 10,
         "reposts": 9,
         "quotes": 33,
         "formatted": {
-          "likes": "20",
-          "replies": "9",
+          "likes": "21",
+          "replies": "10",
           "reposts": "9",
           "quotes": "33"
         }
@@ -1648,7 +1648,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tpg3qzw3niphci6ne5wdprfr/bafkreih4dbtlr53ablpx262fguxkjuqae4dozina37xypxma2fpyo3f45i@jpeg",
         "profile_url": "https://bsky.app/profile/moviessilently.bsky.social"
       },
-      "ratio": "11:1",
+      "ratio": "12:1",
       "controversy": 1.2,
       "change": "NEW",
       "change_type": "new",
@@ -1659,15 +1659,15 @@
         "url": "https://bsky.app/profile/moviessilently.bsky.social/post/3lxgawqlcf22c"
       },
       "engagement": {
-        "likes": 33,
+        "likes": 34,
         "replies": 8,
         "reposts": 1,
-        "quotes": 11,
+        "quotes": 12,
         "formatted": {
-          "likes": "33",
+          "likes": "34",
           "replies": "8",
           "reposts": "1",
-          "quotes": "11"
+          "quotes": "12"
         }
       },
       "sample_replies": [
@@ -1825,15 +1825,15 @@
         "url": "https://bsky.app/profile/notyournegro.bsky.social/post/3lxg7rcvmj22h"
       },
       "engagement": {
-        "likes": 32,
-        "replies": 3,
+        "likes": 36,
+        "replies": 4,
         "reposts": 6,
-        "quotes": 11,
+        "quotes": 14,
         "formatted": {
-          "likes": "32",
-          "replies": "3",
+          "likes": "36",
+          "replies": "4",
           "reposts": "6",
-          "quotes": "11"
+          "quotes": "14"
         }
       },
       "sample_replies": [
@@ -1936,12 +1936,12 @@
         "url": "https://bsky.app/profile/danacorn.bsky.social/post/3lxg7pp3xlk27"
       },
       "engagement": {
-        "likes": 30,
+        "likes": 31,
         "replies": 6,
         "reposts": 1,
         "quotes": 14,
         "formatted": {
-          "likes": "30",
+          "likes": "31",
           "replies": "6",
           "reposts": "1",
           "quotes": "14"
@@ -2047,15 +2047,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lxfu2d3vok2a"
       },
       "engagement": {
-        "likes": 98,
+        "likes": 99,
         "replies": 51,
         "reposts": 9,
-        "quotes": 206,
+        "quotes": 209,
         "formatted": {
-          "likes": "98",
+          "likes": "99",
           "replies": "51",
           "reposts": "9",
-          "quotes": "206"
+          "quotes": "209"
         }
       },
       "sample_replies": [
@@ -2270,12 +2270,12 @@
         "url": "https://bsky.app/profile/reverendjesus.com/post/3lxfuamyuns2i"
       },
       "engagement": {
-        "likes": 23,
+        "likes": 24,
         "replies": 3,
         "reposts": 2,
         "quotes": 8,
         "formatted": {
-          "likes": "23",
+          "likes": "24",
           "replies": "3",
           "reposts": "2",
           "quotes": "8"
