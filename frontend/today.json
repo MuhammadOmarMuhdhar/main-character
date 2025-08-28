@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-28T11:43:12.097618+00:00",
-    "last_metrics_update": "2025-08-28T14:32:55.251114+00:00",
+    "last_full_analysis": "2025-08-28T15:48:48.484102+00:00",
+    "last_metrics_update": "2025-08-28T15:48:48.484102+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 37,
+    "main_characters_count": 41,
     "rolling_window": {
-      "last_update": "2025-08-28T11:43:12.097618+00:00",
-      "new_entries_added": 5,
-      "total_in_window": 37,
+      "last_update": "2025-08-28T15:48:48.484102+00:00",
+      "new_entries_added": 8,
+      "total_in_window": 41,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -129,6 +129,62 @@
     {
       "rank": 3,
       "user": {
+        "handle": "annabower.bsky.social",
+        "display_name": "Anna Bower",
+        "initials": "AB",
+        "did": "did:plc:t4x2ruk2qmob2b2cx55h4v7r",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t4x2ruk2qmob2b2cx55h4v7r/bafkreicdapavja5viwr7nsqcawcc2s6ac77fhqeyus4ccgfmcncavrpffe@jpeg",
+        "profile_url": "https://bsky.app/profile/annabower.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 10.0,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I’m sorry, what???",
+        "uri": "at://did:plc:t4x2ruk2qmob2b2cx55h4v7r/app.bsky.feed.post/3lxhtwjzu7k25",
+        "created_at": "2025-08-28T15:22:25.986Z",
+        "url": "https://bsky.app/profile/annabower.bsky.social/post/3lxhtwjzu7k25"
+      },
+      "engagement": {
+        "likes": 190,
+        "replies": 43,
+        "reposts": 26,
+        "quotes": 22,
+        "formatted": {
+          "likes": "190",
+          "replies": "43",
+          "reposts": "26",
+          "quotes": "22"
+        }
+      },
+      "sample_replies": [
+        "“Why fight to the death on this?” asks man apparently unfamiliar with how democracy works",
+        "I can translate, he said \"I think we should placate the fascists because that's never gone wrong...",
+        "Forget it, Jake. It’s Matthew Yglecias.",
+        "Add it to the collection"
+      ],
+      "metrics": {
+        "ratio_score": 2.41,
+        "time_bucket": 0,
+        "total_engagement": 281,
+        "post_age_minutes": 10.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T15:48:47.466260+00:00",
+      "last_updated": "2025-08-28T15:48:47.466260+00:00",
+      "analysis_windows": [
+        "2025-08-28T15:48:47.466260+00:00"
+      ],
+      "peak_controversy": 10.0,
+      "trend": "new"
+    },
+    {
+      "rank": 4,
+      "user": {
         "handle": "brendelbored.bsky.social",
         "display_name": "Brendel",
         "initials": "BR",
@@ -180,62 +236,6 @@
         "2025-08-27T21:21:14.384818+00:00"
       ],
       "peak_controversy": 9.4,
-      "trend": "new"
-    },
-    {
-      "rank": 4,
-      "user": {
-        "handle": "duckvalentine.bsky.social",
-        "display_name": "Rebekah Valentine",
-        "initials": "RV",
-        "did": "did:plc:zzhksncw5azsuog6pfrvor3g",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zzhksncw5azsuog6pfrvor3g/bafkreiapbdemtjjttxc3i6nl4yhjiqqw3bhgqjtpaitncugpdw53lt5hwa@jpeg",
-        "profile_url": "https://bsky.app/profile/duckvalentine.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 9.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "got a delightful email this morning from someone who thinks I owe it to them, personally, to have a Twitter account (subject line was \"Go back to X)",
-        "uri": "at://did:plc:zzhksncw5azsuog6pfrvor3g/app.bsky.feed.post/3lxf6jqvqyc2f",
-        "created_at": "2025-08-27T13:54:08.899Z",
-        "url": "https://bsky.app/profile/duckvalentine.bsky.social/post/3lxf6jqvqyc2f"
-      },
-      "engagement": {
-        "likes": 838,
-        "replies": 147,
-        "reposts": 46,
-        "quotes": 25,
-        "formatted": {
-          "likes": "838",
-          "replies": "147",
-          "reposts": "46",
-          "quotes": "25"
-        }
-      },
-      "sample_replies": [
-        "genuinely one of the funniest emails I've ever gotten",
-        "Reading aloud this in Matt Berry’s voice really sells the message.",
-        "“You will not earn any respect from me” wow what a loss",
-        "Oh I see the mistake here\n\nThis email was meant for Rebecca, not you."
-      ],
-      "metrics": {
-        "ratio_score": 6.0,
-        "time_bucket": 1,
-        "total_engagement": 233,
-        "post_age_minutes": 23.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T14:32:03.697228+00:00",
-      "last_updated": "2025-08-27T14:32:03.697228+00:00",
-      "analysis_windows": [
-        "2025-08-27T14:32:03.697228+00:00"
-      ],
-      "peak_controversy": 9.3,
       "trend": "new"
     },
     {
@@ -464,6 +464,61 @@
     {
       "rank": 9,
       "user": {
+        "handle": "thebulwark.com",
+        "display_name": "The Bulwark",
+        "initials": "TB",
+        "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
+        "profile_url": "https://bsky.app/profile/thebulwark.com"
+      },
+      "ratio": "1:1",
+      "controversy": 5.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Homan: “Criminals have been wearing masks for a long time. I mean, I saw groups like Antifa commit thousands of crimes for the past few years wearing masks, and no one complained about it…The ICE officers need the masks because their families are being doxed.”",
+        "uri": "at://did:plc:aunpu65mdrhwfie7ynymlzeh/app.bsky.feed.post/3lxhtr4z6wl2j",
+        "created_at": "2025-08-28T15:19:24.252Z",
+        "url": "https://bsky.app/profile/thebulwark.com/post/3lxhtr4z6wl2j"
+      },
+      "engagement": {
+        "likes": 41,
+        "replies": 50,
+        "reposts": 10,
+        "quotes": 14,
+        "formatted": {
+          "likes": "41",
+          "replies": "50",
+          "reposts": "10",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "\"criminals have been wearing masks for a long time\"... Yeah bro, that's the point. We don't want...",
+        "Is the \"antifa\" group in the room with you???",
+        "1. I seem to have missed these thousands of antifa crimes.\n2. So, if criminals do it, ICE should be..."
+      ],
+      "metrics": {
+        "ratio_score": 5.82,
+        "time_bucket": 0,
+        "total_engagement": 115,
+        "post_age_minutes": 13.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T15:48:47.619062+00:00",
+      "last_updated": "2025-08-28T15:48:47.619062+00:00",
+      "analysis_windows": [
+        "2025-08-28T15:48:47.619062+00:00"
+      ],
+      "peak_controversy": 5.8,
+      "trend": "new"
+    },
+    {
+      "rank": 10,
+      "user": {
         "handle": "donmoyn.bsky.social",
         "display_name": "Don Moynihan",
         "initials": "DM",
@@ -518,7 +573,7 @@
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user": {
         "handle": "askaubry.com",
         "display_name": "AskAubry 🦝 🐆",
@@ -574,63 +629,175 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user": {
-        "handle": "thefilmupdates.bsky.social",
-        "display_name": "Film Updates",
-        "initials": "FU",
-        "did": "did:plc:ylyj3ddttowr3cqpcqbrav2c",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ylyj3ddttowr3cqpcqbrav2c/bafkreif6hkrnnyqc43re6gcrv7uucfcaxud3hyyqh4m2whflhlon2scjpi@jpeg",
-        "profile_url": "https://bsky.app/profile/thefilmupdates.bsky.social"
+        "handle": "altcdc.altgov.info",
+        "display_name": "Alt CDC (they/them)",
+        "initials": "AC",
+        "did": "did:plc:xtrzqicesfwterpbweugpl4u",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xtrzqicesfwterpbweugpl4u/bafkreid2qlxqmwis5lcu4nvquafv6pl6q3j2amfh4fqdpazaktu4cqhfre@jpeg",
+        "profile_url": "https://bsky.app/profile/altcdc.altgov.info"
       },
-      "ratio": "1:1",
-      "controversy": 3.0,
+      "ratio": "1:3",
+      "controversy": 4.1,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Original ‘HARRY POTTER’ director Chris Columbus on the upcoming HBO reboot series:\n\n“I’m seeing these photographs… and he’s wearing the exact same costume that we designed for Hagrid. Part of me was like: What’s the point?”\n\n(Via @restisents)",
-        "uri": "at://did:plc:ylyj3ddttowr3cqpcqbrav2c/app.bsky.feed.post/3lxf6h4fsc22m",
-        "created_at": "2025-08-27T13:50:35.000Z",
-        "url": "https://bsky.app/profile/thefilmupdates.bsky.social/post/3lxf6h4fsc22m"
+        "text": "Speechless.\nRFK Jr. should not be in charge of a traffic cone.",
+        "uri": "at://did:plc:xtrzqicesfwterpbweugpl4u/app.bsky.feed.post/3lxhso7ym7k2d",
+        "created_at": "2025-08-28T14:59:53.294Z",
+        "url": "https://bsky.app/profile/altcdc.altgov.info/post/3lxhso7ym7k2d"
       },
       "engagement": {
-        "likes": 226,
-        "replies": 13,
-        "reposts": 29,
-        "quotes": 40,
+        "likes": 102,
+        "replies": 16,
+        "reposts": 13,
+        "quotes": 5,
         "formatted": {
-          "likes": "226",
-          "replies": "13",
-          "reposts": "29",
-          "quotes": "40"
+          "likes": "102",
+          "replies": "16",
+          "reposts": "13",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "the point is rowling now has new actors to promote bc the \"old\" ones are loud and proud about...",
-        "isn't the point reboots recycle the same dreck to cash in on a new generation of children?",
-        "i dont care and have never liked harry potter but are people excited about this? the bits i've seen...",
-        "It's called money, Chris."
+        "Countries with high antidepressant use include Canada, Iceland, Portugal, and the United...",
+        "I depend on SSRIs to function without constant panic attacks. My nervous system was constantly...",
+        "maybe that's why \"traffic cone\" was the first thing that came to mind haha",
+        "Apologies for bypassing the latest \"blame mass shootings on anything but guns\" aspect, like, yes,..."
       ],
       "metrics": {
-        "ratio_score": 2.71,
-        "time_bucket": 1,
-        "total_engagement": 74,
-        "post_age_minutes": 24.9
+        "ratio_score": 1.5,
+        "time_bucket": 2,
+        "total_engagement": 136,
+        "post_age_minutes": 32.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T14:32:04.127147+00:00",
-      "last_updated": "2025-08-27T14:32:04.127147+00:00",
+      "first_detected": "2025-08-28T15:48:48.208789+00:00",
+      "last_updated": "2025-08-28T15:48:48.208789+00:00",
       "analysis_windows": [
-        "2025-08-27T14:32:04.127147+00:00"
+        "2025-08-28T15:48:48.208789+00:00"
       ],
-      "peak_controversy": 3.0,
+      "peak_controversy": 4.1,
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "user": {
+        "handle": "culturecrave.co",
+        "display_name": "Culture Crave 🍿",
+        "initials": "CC",
+        "did": "did:plc:vi2grzfali5xn5rh2ny2n4d4",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
+        "profile_url": "https://bsky.app/profile/culturecrave.co"
+      },
+      "ratio": "10:1",
+      "controversy": 3.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ridley Scott was asked about ‘Gladiator 3’ and another ‘Alien’ film\n\n“Gladiator is in process right now. Another Alien prequel – yeah, if I get an idea, for sure”\n\n(via The Guardian)",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lxhtxqcers2b",
+        "created_at": "2025-08-28T15:23:06.115Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lxhtxqcers2b"
+      },
+      "engagement": {
+        "likes": 55,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 10,
+        "formatted": {
+          "likes": "55",
+          "replies": "4",
+          "reposts": "1",
+          "quotes": "10"
+        }
+      },
+      "sample_replies": [
+        "Wait a minute! Alien VS Gladiator...",
+        "Alien vs Gladiator: The Gladiatoring.",
+        "🔗 \n\nwww.theguardian.com/film/2025/au...",
+        "NOOOOOOO! He’s done enough damage to the Alien IP"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "time_bucket": 0,
+        "total_engagement": 70,
+        "post_age_minutes": 9.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T15:48:47.767185+00:00",
+      "last_updated": "2025-08-28T15:48:47.767185+00:00",
+      "analysis_windows": [
+        "2025-08-28T15:48:47.767185+00:00"
+      ],
+      "peak_controversy": 3.5,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
+      "user": {
+        "handle": "colindickey.com",
+        "display_name": "Colin Dickey",
+        "initials": "CD",
+        "did": "did:plc:kqqqm4rtbbwi4pnoptlgxqoe",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kqqqm4rtbbwi4pnoptlgxqoe/bafkreibwigjquoel3jpsorehs2rxzzqaqlni5lkczmygdfegvohfxap4lu@jpeg",
+        "profile_url": "https://bsky.app/profile/colindickey.com"
+      },
+      "ratio": "1:1",
+      "controversy": 3.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "I could not fucking care less if my actual life depended on it",
+        "uri": "at://did:plc:kqqqm4rtbbwi4pnoptlgxqoe/app.bsky.feed.post/3lxhsbgkat22t",
+        "created_at": "2025-08-28T14:52:43.933Z",
+        "url": "https://bsky.app/profile/colindickey.com/post/3lxhsbgkat22t"
+      },
+      "engagement": {
+        "likes": 88,
+        "replies": 6,
+        "reposts": 10,
+        "quotes": 14,
+        "formatted": {
+          "likes": "88",
+          "replies": "6",
+          "reposts": "10",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "“Mom-and-Pop Landlords” is the funniest phrase I’ve heard in a WHILE",
+        "but the landlords, they are so smol. barely multimillionaires!",
+        "like, technically Trump and Melania are a mom and a pop, what are we doing here",
+        "Wall Street Journal, always looking out for the little guy!"
+      ],
+      "metrics": {
+        "ratio_score": 1.82,
+        "time_bucket": 2,
+        "total_engagement": 118,
+        "post_age_minutes": 39.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T15:48:48.346480+00:00",
+      "last_updated": "2025-08-28T15:48:48.346480+00:00",
+      "analysis_windows": [
+        "2025-08-28T15:48:48.346480+00:00"
+      ],
+      "peak_controversy": 3.5,
+      "trend": "new"
+    },
+    {
+      "rank": 15,
       "user": {
         "handle": "osinttechnical.bsky.social",
         "display_name": "OSINTtechnical",
@@ -686,63 +853,63 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "user": {
-        "handle": "diannarussini.bsky.social",
-        "display_name": "Dianna Russini",
-        "initials": "DR",
-        "did": "did:plc:bpamlmifux6wf7ryoykzlraf",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bpamlmifux6wf7ryoykzlraf/bafkreigcs6d5xm2p3dhkxkoz437la3rlyjd2ktr5e3img7drugzb5ydmoa@jpeg",
-        "profile_url": "https://bsky.app/profile/diannarussini.bsky.social"
+        "handle": "kyivindependent.com",
+        "display_name": "The Kyiv Independent",
+        "initials": "TK",
+        "did": "did:plc:yazbevg3wkzp5llnzb44tqgh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yazbevg3wkzp5llnzb44tqgh/bafkreiaqrigqmra4gjjuty4otkm7l3vpd7r3yz6pxuwbiu6tg45zx3geke@jpeg",
+        "profile_url": "https://bsky.app/profile/kyivindependent.com"
       },
-      "ratio": "1:1",
-      "controversy": 2.4,
+      "ratio": "1:2",
+      "controversy": 2.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "REUNION! The Vikings are acquiring WR Adam Thielen in a trade with the Panthers, sources say.\n\nThe two teams work out a deal to bring the Minnesota native back home, where he spent the first nine seasons of his career.",
-        "uri": "at://did:plc:bpamlmifux6wf7ryoykzlraf/app.bsky.feed.post/3lxf677yhz22g",
-        "created_at": "2025-08-27T13:48:15.651Z",
-        "url": "https://bsky.app/profile/diannarussini.bsky.social/post/3lxf677yhz22g"
+        "text": "Hungary is suing the European Union over funnelling billions of euros in interests from frozen Russian assets to aid Ukraine, a case formally accepted by the European Court of Justice on Aug. 25.",
+        "uri": "at://did:plc:yazbevg3wkzp5llnzb44tqgh/app.bsky.feed.post/3lxht4tett22d",
+        "created_at": "2025-08-28T15:08:03.380Z",
+        "url": "https://bsky.app/profile/kyivindependent.com/post/3lxht4tett22d"
       },
       "engagement": {
-        "likes": 72,
-        "replies": 5,
-        "reposts": 12,
-        "quotes": 16,
+        "likes": 37,
+        "replies": 12,
+        "reposts": 10,
+        "quotes": 5,
         "formatted": {
-          "likes": "72",
-          "replies": "5",
-          "reposts": "12",
-          "quotes": "16"
+          "likes": "37",
+          "replies": "12",
+          "reposts": "10",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "The trade terms:\n\nIt's a 2026 fifth and 2027 fourth to Carolina for Thielen, a conditional 2026...",
-        "Bryce Young right now.",
-        "Sorry Dan doesn't know how to respect your time, see you next segment.",
-        "My guess is he’ll retire as a Viking whenever this contract ends."
+        "Orban is a destructive parasite.",
+        "Kick the parasite out from NATO and EU",
+        "Maybe we should redirect all the money given to Hungary instead. Fat pig Orban.",
+        "Ridiculous. Orban is a proxy for Putin. Hungary is dependant on ruzzian petro."
       ],
       "metrics": {
-        "ratio_score": 1.8,
+        "ratio_score": 1.55,
         "time_bucket": 1,
-        "total_engagement": 61,
-        "post_age_minutes": 29.3
+        "total_engagement": 64,
+        "post_age_minutes": 21.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T14:32:04.265590+00:00",
-      "last_updated": "2025-08-27T14:32:04.265590+00:00",
+      "first_detected": "2025-08-28T15:48:47.918175+00:00",
+      "last_updated": "2025-08-28T15:48:47.918175+00:00",
       "analysis_windows": [
-        "2025-08-27T14:32:04.265590+00:00"
+        "2025-08-28T15:48:47.918175+00:00"
       ],
-      "peak_controversy": 2.4,
+      "peak_controversy": 2.6,
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -798,7 +965,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 18,
       "user": {
         "handle": "letterboxd.social",
         "display_name": "Letterboxd",
@@ -854,7 +1021,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -911,7 +1078,7 @@
       "trend": "stable"
     },
     {
-      "rank": 17,
+      "rank": 20,
       "user": {
         "handle": "bredlove.bsky.social",
         "display_name": "BRedLove",
@@ -967,7 +1134,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 21,
       "user": {
         "handle": "peark.es",
         "display_name": "George Pearkes",
@@ -1023,7 +1190,63 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 22,
+      "user": {
+        "handle": "cnn.com",
+        "display_name": "CNN",
+        "initials": "CN",
+        "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "profile_url": "https://bsky.app/profile/cnn.com"
+      },
+      "ratio": "1:1",
+      "controversy": 1.7,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "American Bitcoin’s co-founder, Eric Trump, his brother Donald Trump Jr. and Hut 8 will own a combined 98% of the newly formed entity, which will retain the name American Bitcoin and trade under the stock code ABTC.",
+        "uri": "at://did:plc:dzezcmpb3fhcpns4n4xm4ur5/app.bsky.feed.post/3lxhsqedbwp22",
+        "created_at": "2025-08-28T15:01:04.846292416Z",
+        "url": "https://bsky.app/profile/cnn.com/post/3lxhsqedbwp22"
+      },
+      "engagement": {
+        "likes": 8,
+        "replies": 28,
+        "reposts": 11,
+        "quotes": 8,
+        "formatted": {
+          "likes": "8",
+          "replies": "28",
+          "reposts": "11",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "The Trumps are such dirty slimy people",
+        "Scam",
+        "I can't wait until we can freeze all their assets and give back to the people.",
+        "I’ll rather get broke any day than own a single fake-economy bitcoin connected to that family."
+      ],
+      "metrics": {
+        "ratio_score": 3.0,
+        "time_bucket": 2,
+        "total_engagement": 55,
+        "post_age_minutes": 31.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T15:48:48.483940+00:00",
+      "last_updated": "2025-08-28T15:48:48.483940+00:00",
+      "analysis_windows": [
+        "2025-08-28T15:48:48.483940+00:00"
+      ],
+      "peak_controversy": 1.7,
+      "trend": "new"
+    },
+    {
+      "rank": 23,
       "user": {
         "handle": "amikebloomtype.bsky.social",
         "display_name": "Mike Bloom",
@@ -1079,7 +1302,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 24,
       "user": {
         "handle": "stevepeers.bsky.social",
         "display_name": "Steve Peers",
@@ -1135,7 +1358,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 25,
       "user": {
         "handle": "opensketchbook.bsky.social",
         "display_name": "Erika Chappell 🏳️‍⚧️ Stop Asking For STLs",
@@ -1191,7 +1414,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 26,
       "user": {
         "handle": "craigcalcaterra.bsky.social",
         "display_name": "Craig Calcaterra",
@@ -1247,7 +1470,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 27,
       "user": {
         "handle": "melodyschreiber.com",
         "display_name": "Melody Schreiber",
@@ -1303,7 +1526,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 28,
       "user": {
         "handle": "maustermuhle.bsky.social",
         "display_name": "Martin Austermuhle",
@@ -1359,7 +1582,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 29,
       "user": {
         "handle": "moviessilently.bsky.social",
         "display_name": "Movies Silently",
@@ -1415,7 +1638,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 30,
       "user": {
         "handle": "seanrosssapp.bsky.social",
         "display_name": "Sean Ross Sapp of Fightful",
@@ -1470,7 +1693,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 31,
       "user": {
         "handle": "notyournegro.bsky.social",
         "display_name": "Not Your Negress",
@@ -1526,7 +1749,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 32,
       "user": {
         "handle": "thedailybeast.bsky.social",
         "display_name": "The Daily Beast",
@@ -1582,62 +1805,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
-      "user": {
-        "handle": "justinbaragona.bsky.social",
-        "display_name": "Justin Baragona",
-        "initials": "JB",
-        "did": "did:plc:kjjhbsc3pp3vkqjsivk6z2yd",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kjjhbsc3pp3vkqjsivk6z2yd/bafkreiazmnjr435x7sladnkvcxakfruek62puj7zx3rwcvszz5pams5oty@jpeg",
-        "profile_url": "https://bsky.app/profile/justinbaragona.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 0.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "One America News, which was once under the threat of extinction after losing all of its cable and satellite providers, announced today that it has reached a long-term carriage deal with YouTube TV.\n\nwww.prnewswire.com/news-release...",
-        "uri": "at://did:plc:kjjhbsc3pp3vkqjsivk6z2yd/app.bsky.feed.post/3lxf6fvuqmc2a",
-        "created_at": "2025-08-27T13:51:59.934Z",
-        "url": "https://bsky.app/profile/justinbaragona.bsky.social/post/3lxf6fvuqmc2a"
-      },
-      "engagement": {
-        "likes": 19,
-        "replies": 8,
-        "reposts": 8,
-        "quotes": 5,
-        "formatted": {
-          "likes": "19",
-          "replies": "8",
-          "reposts": "8",
-          "quotes": "5"
-        }
-      },
-      "sample_replies": [
-        "That is very telling. Tells me that YouTube TV is desperate and is potentially failing.",
-        "Which means anyone over the age of 60 won't see it without help from GenX or GenZ. F*ck that.",
-        "lol that’s funny. People (on Bluesky) were getting excited about them dropping fox. Wanted to rush..."
-      ],
-      "metrics": {
-        "ratio_score": 3.33,
-        "time_bucket": 1,
-        "total_engagement": 22,
-        "post_age_minutes": 25.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T14:32:04.403772+00:00",
-      "last_updated": "2025-08-27T14:32:04.403772+00:00",
-      "analysis_windows": [
-        "2025-08-27T14:32:04.403772+00:00"
-      ],
-      "peak_controversy": 0.9,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
+      "rank": 33,
       "user": {
         "handle": "danacorn.bsky.social",
         "display_name": "uosdɯıS ɐuɐᗡ ✨🦄✨",
@@ -1692,7 +1860,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 34,
       "user": {
         "handle": "theathleticfc.bsky.social",
         "display_name": "The Athletic | Football",
@@ -1749,7 +1917,7 @@
       "trend": "rising"
     },
     {
-      "rank": 32,
+      "rank": 35,
       "user": {
         "handle": "professorpash.bsky.social",
         "display_name": "Dr. Frisky Whiskey McThicky, Ball Knower",
@@ -1805,7 +1973,7 @@
       "trend": "new"
     },
     {
-      "rank": 33,
+      "rank": 36,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -1861,7 +2029,7 @@
       "trend": "new"
     },
     {
-      "rank": 34,
+      "rank": 37,
       "user": {
         "handle": "australia.theguardian.com",
         "display_name": "Guardian Australia",
@@ -1917,7 +2085,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 38,
       "user": {
         "handle": "arrogantade.blacksky.app",
         "display_name": "Arrogant Esquire",
@@ -1973,7 +2141,7 @@
       "trend": "new"
     },
     {
-      "rank": 36,
+      "rank": 39,
       "user": {
         "handle": "cerromerussell.bsky.social",
         "display_name": "MonsterKing",
@@ -2029,7 +2197,7 @@
       "trend": "new"
     },
     {
-      "rank": 37,
+      "rank": 40,
       "user": {
         "handle": "reverendjesus.com",
         "display_name": "Reverend Jesus \"H\" Christ",
@@ -2079,6 +2247,60 @@
       "last_updated": "2025-08-27T21:21:15.764957+00:00",
       "analysis_windows": [
         "2025-08-27T21:21:15.764957+00:00"
+      ],
+      "peak_controversy": 0.5,
+      "trend": "new"
+    },
+    {
+      "rank": 41,
+      "user": {
+        "handle": "omfgrealitytv.bsky.social",
+        "display_name": "Omfgrealitytv.Bsky.Social",
+        "initials": "OM",
+        "did": "did:plc:6hl2jaa23divpzddmemqxyev",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6hl2jaa23divpzddmemqxyev/bafkreibekqwpx3tvykmbkrfl6cuvdruamb7ahe437oidpboz2yitr6hzee@jpeg",
+        "profile_url": "https://bsky.app/profile/omfgrealitytv.bsky.social"
+      },
+      "ratio": "5:0",
+      "controversy": 0.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "#RHOP Season 10 Trailer! Season Premiere, October 5th 8/7c on Bravo. (Source Bravo/NBCUniversal)",
+        "uri": "at://did:plc:6hl2jaa23divpzddmemqxyev/app.bsky.feed.post/3lxhtdo5s3s24",
+        "created_at": "2025-08-28T15:11:52.787Z",
+        "url": "https://bsky.app/profile/omfgrealitytv.bsky.social/post/3lxhtdo5s3s24"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 5,
+        "formatted": {
+          "likes": "6",
+          "replies": "2",
+          "reposts": "0",
+          "quotes": "5"
+        }
+      },
+      "sample_replies": [
+        "Source: www.eonline.com/news/1421696... #RHOP",
+        "MONIQUE!!!! MAURICIO?????"
+      ],
+      "metrics": {
+        "ratio_score": 7.0,
+        "time_bucket": 1,
+        "total_engagement": 13,
+        "post_age_minutes": 18.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T15:48:48.065765+00:00",
+      "last_updated": "2025-08-28T15:48:48.065765+00:00",
+      "analysis_windows": [
+        "2025-08-28T15:48:48.065765+00:00"
       ],
       "peak_controversy": 0.5,
       "trend": "new"
