@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T04:30:58.369165+00:00",
-    "last_metrics_update": "2025-08-28T06:32:47.583597+00:00",
+    "last_metrics_update": "2025-08-28T06:47:24.998532+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -147,13 +147,13 @@
         "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxfusplmdk2j"
       },
       "engagement": {
-        "likes": 334,
-        "replies": 24,
+        "likes": 335,
+        "replies": 25,
         "reposts": 17,
         "quotes": 9,
         "formatted": {
-          "likes": "334",
-          "replies": "24",
+          "likes": "335",
+          "replies": "25",
           "reposts": "17",
           "quotes": "9"
         }
@@ -538,14 +538,14 @@
         "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
       },
       "engagement": {
-        "likes": 621,
+        "likes": 624,
         "replies": 146,
-        "reposts": 241,
+        "reposts": 246,
         "quotes": 210,
         "formatted": {
-          "likes": "621",
+          "likes": "624",
           "replies": "146",
-          "reposts": "241",
+          "reposts": "246",
           "quotes": "210"
         }
       },
@@ -594,12 +594,12 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lxfiwzowde22"
       },
       "engagement": {
-        "likes": 278,
+        "likes": 279,
         "replies": 41,
         "reposts": 12,
         "quotes": 8,
         "formatted": {
-          "likes": "278",
+          "likes": "279",
           "replies": "41",
           "reposts": "12",
           "quotes": "8"
@@ -1046,12 +1046,12 @@
         "likes": 106,
         "replies": 17,
         "reposts": 10,
-        "quotes": 30,
+        "quotes": 31,
         "formatted": {
           "likes": "106",
           "replies": "17",
           "reposts": "10",
-          "quotes": "30"
+          "quotes": "31"
         }
       },
       "sample_replies": [
@@ -1823,15 +1823,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lxfu2d3vok2a"
       },
       "engagement": {
-        "likes": 133,
+        "likes": 135,
         "replies": 73,
         "reposts": 10,
-        "quotes": 330,
+        "quotes": 333,
         "formatted": {
-          "likes": "133",
+          "likes": "135",
           "replies": "73",
           "reposts": "10",
-          "quotes": "330"
+          "quotes": "333"
         }
       },
       "sample_replies": [
@@ -1868,7 +1868,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lia4ywzl2c2kt4dn3kzbywog/bafkreicpinejvjm66s4rmi6f7ixfr7mpvfbo5a4ncl45vg5bvvei2s3m3m@jpeg",
         "profile_url": "https://bsky.app/profile/australia.theguardian.com"
       },
-      "ratio": "5:1",
+      "ratio": "6:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -1882,12 +1882,12 @@
         "likes": 18,
         "replies": 13,
         "reposts": 2,
-        "quotes": 10,
+        "quotes": 11,
         "formatted": {
           "likes": "18",
           "replies": "13",
           "reposts": "2",
-          "quotes": "10"
+          "quotes": "11"
         }
       },
       "sample_replies": [
