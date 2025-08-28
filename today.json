@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T11:43:12.097618+00:00",
-    "last_metrics_update": "2025-08-28T13:32:53.922641+00:00",
+    "last_metrics_update": "2025-08-28T13:47:23.008186+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -35,14 +35,14 @@
         "url": "https://bsky.app/profile/parkermolloy.com/post/3lxfilmi7lk26"
       },
       "engagement": {
-        "likes": 804,
+        "likes": 809,
         "replies": 56,
-        "reposts": 102,
+        "reposts": 103,
         "quotes": 94,
         "formatted": {
-          "likes": "804",
+          "likes": "809",
           "replies": "56",
-          "reposts": "102",
+          "reposts": "103",
           "quotes": "94"
         }
       },
@@ -91,13 +91,13 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lxgbff4fok2r"
       },
       "engagement": {
-        "likes": 337,
-        "replies": 129,
+        "likes": 338,
+        "replies": 130,
         "reposts": 17,
         "quotes": 86,
         "formatted": {
-          "likes": "337",
-          "replies": "129",
+          "likes": "338",
+          "replies": "130",
           "reposts": "17",
           "quotes": "86"
         }
@@ -594,12 +594,12 @@
         "url": "https://bsky.app/profile/thefilmupdates.bsky.social/post/3lxf6h4fsc22m"
       },
       "engagement": {
-        "likes": 225,
+        "likes": 226,
         "replies": 13,
         "reposts": 29,
         "quotes": 40,
         "formatted": {
-          "likes": "225",
+          "likes": "226",
           "replies": "13",
           "reposts": "29",
           "quotes": "40"
@@ -762,12 +762,12 @@
         "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxgod7gdns2o"
       },
       "engagement": {
-        "likes": 107,
+        "likes": 108,
         "replies": 37,
         "reposts": 16,
         "quotes": 6,
         "formatted": {
-          "likes": "107",
+          "likes": "108",
           "replies": "37",
           "reposts": "16",
           "quotes": "6"
@@ -863,7 +863,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "profile_url": "https://bsky.app/profile/theguardian.com"
       },
-      "ratio": "6:1",
+      "ratio": "7:1",
       "controversy": 2.2,
       "change": "+0.4",
       "change_type": "positive",
@@ -877,12 +877,12 @@
         "likes": 30,
         "replies": 30,
         "reposts": 3,
-        "quotes": 18,
+        "quotes": 20,
         "formatted": {
           "likes": "30",
           "replies": "30",
           "reposts": "3",
-          "quotes": "18"
+          "quotes": "20"
         }
       },
       "sample_replies": [
@@ -920,7 +920,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7ewzksbibtazzkdkf3zbtpv/bafkreiclzugpwn4gztt4xnrsnmexgsu3k7lns7mb57njflh5i7uoelepru@jpeg",
         "profile_url": "https://bsky.app/profile/bredlove.bsky.social"
       },
-      "ratio": "19:1",
+      "ratio": "17:1",
       "controversy": 1.8,
       "change": "NEW",
       "change_type": "new",
@@ -931,14 +931,14 @@
         "url": "https://bsky.app/profile/bredlove.bsky.social/post/3lxg72atsy22l"
       },
       "engagement": {
-        "likes": 44,
+        "likes": 46,
         "replies": 28,
-        "reposts": 7,
+        "reposts": 8,
         "quotes": 135,
         "formatted": {
-          "likes": "44",
+          "likes": "46",
           "replies": "28",
-          "reposts": "7",
+          "reposts": "8",
           "quotes": "135"
         }
       },
@@ -1043,15 +1043,15 @@
         "url": "https://bsky.app/profile/amikebloomtype.bsky.social/post/3lxhfdcbav226"
       },
       "engagement": {
-        "likes": 93,
-        "replies": 18,
-        "reposts": 18,
-        "quotes": 29,
+        "likes": 98,
+        "replies": 19,
+        "reposts": 19,
+        "quotes": 32,
         "formatted": {
-          "likes": "93",
-          "replies": "18",
-          "reposts": "18",
-          "quotes": "29"
+          "likes": "98",
+          "replies": "19",
+          "reposts": "19",
+          "quotes": "32"
         }
       },
       "sample_replies": [
@@ -1101,12 +1101,12 @@
       "engagement": {
         "likes": 53,
         "replies": 14,
-        "reposts": 9,
+        "reposts": 10,
         "quotes": 7,
         "formatted": {
           "likes": "53",
           "replies": "14",
-          "reposts": "9",
+          "reposts": "10",
           "quotes": "7"
         }
       },
@@ -1323,12 +1323,12 @@
         "url": "https://bsky.app/profile/maustermuhle.bsky.social/post/3lxfut6lhsk2q"
       },
       "engagement": {
-        "likes": 27,
+        "likes": 28,
         "replies": 11,
         "reposts": 13,
         "quotes": 38,
         "formatted": {
-          "likes": "27",
+          "likes": "28",
           "replies": "11",
           "reposts": "13",
           "quotes": "38"
@@ -1828,12 +1828,12 @@
         "likes": 152,
         "replies": 80,
         "reposts": 11,
-        "quotes": 373,
+        "quotes": 374,
         "formatted": {
           "likes": "152",
           "replies": "80",
           "reposts": "11",
-          "quotes": "373"
+          "quotes": "374"
         }
       },
       "sample_replies": [
