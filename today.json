@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-28T04:30:58.369165+00:00",
-    "last_metrics_update": "2025-08-28T07:17:41.190029+00:00",
+    "last_full_analysis": "2025-08-28T08:26:28.741636+00:00",
+    "last_metrics_update": "2025-08-28T08:26:28.741636+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 37,
+    "main_characters_count": 36,
     "rolling_window": {
-      "last_update": "2025-08-28T04:30:58.369165+00:00",
-      "new_entries_added": 2,
-      "total_in_window": 37,
+      "last_update": "2025-08-28T08:26:28.741636+00:00",
+      "new_entries_added": 1,
+      "total_in_window": 36,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -520,62 +520,6 @@
     {
       "rank": 10,
       "user": {
-        "handle": "jdportes.bsky.social",
-        "display_name": "Jonathan Portes",
-        "initials": "JP",
-        "did": "did:plc:td7ymvnnntooulzpovf6u6sd",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:td7ymvnnntooulzpovf6u6sd/bafkreialivh3mjv46ctcpja7jky7p5bmlfkwr5ftnu53ylxbqfjhl5jcly@jpeg",
-        "profile_url": "https://bsky.app/profile/jdportes.bsky.social"
-      },
-      "ratio": "1:1",
-      "controversy": 4.9,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The Times editorial line: \"sieve\" the entire population so we can put 100s of thousands of people into camps.\n\n\"Removing a city’s worth of people would be an extended exercise. Identity cards would be a must if the population was to be sieved into legitimate and illegitimate camps\"\n\narchive.ph/78dcP",
-        "uri": "at://did:plc:td7ymvnnntooulzpovf6u6sd/app.bsky.feed.post/3lxeih2nzlk25",
-        "created_at": "2025-08-27T07:18:56.190Z",
-        "url": "https://bsky.app/profile/jdportes.bsky.social/post/3lxeih2nzlk25"
-      },
-      "engagement": {
-        "likes": 626,
-        "replies": 147,
-        "reposts": 246,
-        "quotes": 212,
-        "formatted": {
-          "likes": "626",
-          "replies": "147",
-          "reposts": "246",
-          "quotes": "212"
-        }
-      },
-      "sample_replies": [
-        "As Rafael Behr says, “are we really going to spend the next four years watching Farage leaf...",
-        "‘Sieve’ - such a banal word for evil",
-        "Farage I am meeting the Supreme Leader of Iran to work out a deal to send escaped Iranians to their...",
-        "Wouldnt yellow stars be quicker for the Times?"
-      ],
-      "metrics": {
-        "ratio_score": 1.58,
-        "time_bucket": 1,
-        "total_engagement": 122,
-        "post_age_minutes": 29.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T07:57:07.794976+00:00",
-      "last_updated": "2025-08-27T07:57:07.794976+00:00",
-      "analysis_windows": [
-        "2025-08-27T07:57:07.794976+00:00"
-      ],
-      "peak_controversy": 4.9,
-      "trend": "new"
-    },
-    {
-      "rank": 11,
-      "user": {
         "handle": "askaubry.com",
         "display_name": "AskAubry 🦝 🐆",
         "initials": "A🦝",
@@ -630,7 +574,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "thefilmupdates.bsky.social",
         "display_name": "Film Updates",
@@ -686,7 +630,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "wired.com",
         "display_name": "WIRED",
@@ -742,7 +686,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user": {
         "handle": "osinttechnical.bsky.social",
         "display_name": "OSINTtechnical",
@@ -798,7 +742,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user": {
         "handle": "diannarussini.bsky.social",
         "display_name": "Dianna Russini",
@@ -854,7 +798,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user": {
         "handle": "thedailybeast.bsky.social",
         "display_name": "The Daily Beast",
@@ -910,64 +854,7 @@
       "trend": "new"
     },
     {
-      "rank": 17,
-      "user": {
-        "handle": "theguardian.com",
-        "display_name": "The Guardian",
-        "initials": "TG",
-        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
-        "profile_url": "https://bsky.app/profile/theguardian.com"
-      },
-      "ratio": "1:1",
-      "controversy": 2.2,
-      "change": "+0.5",
-      "change_type": "positive",
-      "post": {
-        "text": "Ryanair to raise bonus to €2.50 for staff who spot oversized cabin bags",
-        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxfj5itaku22",
-        "created_at": "2025-08-27T17:04:08Z",
-        "url": "https://bsky.app/profile/theguardian.com/post/3lxfj5itaku22"
-      },
-      "engagement": {
-        "likes": 30,
-        "replies": 33,
-        "reposts": 9,
-        "quotes": 11,
-        "formatted": {
-          "likes": "30",
-          "replies": "33",
-          "reposts": "9",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "I love that corporations don't even pretend to give a shit about customers any more.  They are...",
-        "Bribe with 5 euros?",
-        "That's cute. They're charging 75 euros to the customer and acting like 2.50 to the staffer is some...",
-        "They are changing name to Stalinair."
-      ],
-      "metrics": {
-        "ratio_score": 4.14,
-        "time_bucket": 1,
-        "total_engagement": 54,
-        "post_age_minutes": 28.5
-      },
-      "previous_analysis": {
-        "controversy": 1.1,
-        "rank": 22
-      },
-      "first_detected": "2025-08-27T07:57:07.882768+00:00",
-      "last_updated": "2025-08-27T17:50:58.117477+00:00",
-      "analysis_windows": [
-        "2025-08-27T07:57:07.882768+00:00",
-        "2025-08-27T17:50:58.117477+00:00"
-      ],
-      "peak_controversy": 2.2,
-      "trend": "rising"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -1023,7 +910,7 @@
       "trend": "new"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "user": {
         "handle": "letterboxd.social",
         "display_name": "Letterboxd",
@@ -1079,7 +966,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "user": {
         "handle": "bredlove.bsky.social",
         "display_name": "BRedLove",
@@ -1135,7 +1022,63 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 19,
+      "user": {
+        "handle": "theguardian.com",
+        "display_name": "The Guardian",
+        "initials": "TG",
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "profile_url": "https://bsky.app/profile/theguardian.com"
+      },
+      "ratio": "1:1",
+      "controversy": 1.8,
+      "change": "-0.4",
+      "change_type": "negative",
+      "post": {
+        "text": "UK landlords could face tax from rents that may raise £2bn",
+        "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3lxh2bzexux2i",
+        "created_at": "2025-08-28T07:43:33Z",
+        "url": "https://bsky.app/profile/theguardian.com/post/3lxh2bzexux2i"
+      },
+      "engagement": {
+        "likes": 41,
+        "replies": 6,
+        "reposts": 7,
+        "quotes": 7,
+        "formatted": {
+          "likes": "41",
+          "replies": "6",
+          "reposts": "7",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "And if done without rent control it’ll push up rents as another uplift in the cost of living....",
+        "And they will stop landlords just passing the cost straight on to tenants, thus worsening the...",
+        "Pretty sure this will get pushed straight down to the renters.",
+        "Can't feel sorry for landlords.. and maybe this will force the return of many properties to the..."
+      ],
+      "metrics": {
+        "ratio_score": 1.62,
+        "time_bucket": 2,
+        "total_engagement": 61,
+        "post_age_minutes": 33.5
+      },
+      "previous_analysis": {
+        "controversy": 2.2,
+        "rank": 17
+      },
+      "first_detected": "2025-08-28T08:26:28.741484+00:00",
+      "last_updated": "2025-08-28T08:26:28.741484+00:00",
+      "analysis_windows": [
+        "2025-08-28T08:26:28.741484+00:00"
+      ],
+      "peak_controversy": 1.8,
+      "trend": "new"
+    },
+    {
+      "rank": 20,
       "user": {
         "handle": "peark.es",
         "display_name": "George Pearkes",
@@ -1191,7 +1134,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "user": {
         "handle": "opensketchbook.bsky.social",
         "display_name": "Erika Chappell 🏳️‍⚧️ Stop Asking For STLs",
@@ -1247,7 +1190,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "user": {
         "handle": "craigcalcaterra.bsky.social",
         "display_name": "Craig Calcaterra",
@@ -1303,7 +1246,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "user": {
         "handle": "melodyschreiber.com",
         "display_name": "Melody Schreiber",
@@ -1359,7 +1302,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "user": {
         "handle": "maustermuhle.bsky.social",
         "display_name": "Martin Austermuhle",
@@ -1415,7 +1358,7 @@
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "user": {
         "handle": "moviessilently.bsky.social",
         "display_name": "Movies Silently",
@@ -1471,7 +1414,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "user": {
         "handle": "seanrosssapp.bsky.social",
         "display_name": "Sean Ross Sapp of Fightful",
@@ -1526,7 +1469,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "user": {
         "handle": "theathleticfc.bsky.social",
         "display_name": "The Athletic | Football",
@@ -1581,7 +1524,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "user": {
         "handle": "notyournegro.bsky.social",
         "display_name": "Not Your Negress",
@@ -1637,7 +1580,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "user": {
         "handle": "justinbaragona.bsky.social",
         "display_name": "Justin Baragona",
@@ -1692,7 +1635,7 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "user": {
         "handle": "danacorn.bsky.social",
         "display_name": "uosdɯıS ɐuɐᗡ ✨🦄✨",
@@ -1747,7 +1690,7 @@
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "user": {
         "handle": "professorpash.bsky.social",
         "display_name": "Dr. Frisky Whiskey McThicky, Ball Knower",
@@ -1803,7 +1746,7 @@
       "trend": "new"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "user": {
         "handle": "sophianyx.bsky.social",
         "display_name": "Sophia_Nyx 🏳️‍⚧️",
@@ -1859,7 +1802,7 @@
       "trend": "new"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "user": {
         "handle": "australia.theguardian.com",
         "display_name": "Guardian Australia",
@@ -1915,7 +1858,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "user": {
         "handle": "arrogantade.blacksky.app",
         "display_name": "Arrogant Esquire",
@@ -1971,7 +1914,7 @@
       "trend": "new"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "user": {
         "handle": "cerromerussell.bsky.social",
         "display_name": "MonsterKing",
@@ -2027,7 +1970,7 @@
       "trend": "new"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "user": {
         "handle": "reverendjesus.com",
         "display_name": "Reverend Jesus \"H\" Christ",
