@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-28T19:19:54.193453+00:00",
-    "last_metrics_update": "2025-08-28T22:17:47.184547+00:00",
+    "last_full_analysis": "2025-08-28T23:04:46.426783+00:00",
+    "last_metrics_update": "2025-08-28T23:04:46.426783+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 40,
+    "main_characters_count": 38,
     "rolling_window": {
-      "last_update": "2025-08-28T19:19:54.193453+00:00",
-      "new_entries_added": 7,
-      "total_in_window": 40,
+      "last_update": "2025-08-28T23:04:46.426783+00:00",
+      "new_entries_added": 9,
+      "total_in_window": 38,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -129,61 +129,117 @@
     {
       "rank": 3,
       "user": {
-        "handle": "brendelbored.bsky.social",
-        "display_name": "Brendel",
-        "initials": "BR",
-        "did": "did:plc:of56nmyuqzvjta7qlf7gwht6",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:of56nmyuqzvjta7qlf7gwht6/bafkreictblhdtse26aiwqiv62ng4kjybdcl53ypic3u4nwxjhwov7mblfi@jpeg",
-        "profile_url": "https://bsky.app/profile/brendelbored.bsky.social"
+        "handle": "carlquintanilla.bsky.social",
+        "display_name": "Carl Quintanilla",
+        "initials": "CQ",
+        "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6rujpf4u56jfie7aqic2nfg/bafkreiaxx6cojdlfuqarrnccb66ozmiqlxnm2eoyfujkpptbq3da6tgct4@jpeg",
+        "profile_url": "https://bsky.app/profile/carlquintanilla.bsky.social"
       },
-      "ratio": "1:2",
-      "controversy": 9.4,
+      "ratio": "3:1",
+      "controversy": 10.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Very cool that anti-drug ads are still as embarrassing as ever",
-        "uri": "at://did:plc:of56nmyuqzvjta7qlf7gwht6/app.bsky.feed.post/3lxfusplmdk2j",
-        "created_at": "2025-08-27T20:32:51.865Z",
-        "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxfusplmdk2j"
+        "text": "“.. if, God forbid, there's a terrible tragedy, I can't think of better on-the-job training than what I've gotten over the last 200 days,” he added.\n\n@usatoday.com \nwww.usatoday.com/story/news/p...",
+        "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3lxikivtic22k",
+        "created_at": "2025-08-28T22:06:24.669Z",
+        "url": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3lxikivtic22k"
       },
       "engagement": {
-        "likes": 354,
-        "replies": 27,
-        "reposts": 17,
-        "quotes": 9,
+        "likes": 269,
+        "replies": 148,
+        "reposts": 49,
+        "quotes": 157,
         "formatted": {
-          "likes": "354",
-          "replies": "27",
-          "reposts": "17",
-          "quotes": "9"
+          "likes": "269",
+          "replies": "148",
+          "reposts": "49",
+          "quotes": "157"
         }
       },
       "sample_replies": [
-        "I smoke weed precisely to become an NPC: Not Particularly Concerned",
-        "I assure you, CDC, I am the main character",
-        "It's just a bummer we have AI now so the government no longer has to pay artists to take drugs and...",
-        "There seems to be an implication that they’ll let you know where the “real pills” are…"
+        "Leave it to a mediocre white guy to claim he's qualified to be President when his only relevant...",
+        "JD Vance 2016: Trump could be the next Hitler!\nJD Vance 2024: I could be the next Hitler!",
+        "He went to Yale and I'll bet 100% of Yalies feel they could step into the job lol",
+        "In fairness, he’s talking about replacing Trump."
       ],
       "metrics": {
-        "ratio_score": 2.25,
-        "time_bucket": 1,
-        "total_engagement": 236,
-        "post_age_minutes": 29.8
+        "ratio_score": 6.1,
+        "time_bucket": 2,
+        "total_engagement": 623,
+        "post_age_minutes": 41.2
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T21:21:14.384818+00:00",
-      "last_updated": "2025-08-27T21:21:14.384818+00:00",
+      "first_detected": "2025-08-28T23:04:45.725857+00:00",
+      "last_updated": "2025-08-28T23:04:45.725857+00:00",
       "analysis_windows": [
-        "2025-08-27T21:21:14.384818+00:00"
+        "2025-08-28T23:04:45.725857+00:00"
       ],
-      "peak_controversy": 9.4,
+      "peak_controversy": 10.0,
       "trend": "new"
     },
     {
       "rank": 4,
+      "user": {
+        "handle": "chadbourn.bsky.social",
+        "display_name": "Mark Chadbourn",
+        "initials": "MC",
+        "did": "did:plc:movn6xzezospl7lnkhy7nzpt",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:movn6xzezospl7lnkhy7nzpt/bafkreiehj532ivnv6qviejo2ilzpiov6fxq4zzdfgkgd4idgdipkv4ydoe@jpeg",
+        "profile_url": "https://bsky.app/profile/chadbourn.bsky.social"
+      },
+      "ratio": "1:3",
+      "controversy": 8.8,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ominous.\n\nJD Vance to USA Today: “I've gotten a lot of good on-the-job training over the last 200 days.\n\n“If God forbid, there's a terrible tragedy, I can't think of a better on-the-job training than what I've gotten over the last 200 days.”",
+        "uri": "at://did:plc:movn6xzezospl7lnkhy7nzpt/app.bsky.feed.post/3lxilio7jt225",
+        "created_at": "2025-08-28T22:24:10.420Z",
+        "url": "https://bsky.app/profile/chadbourn.bsky.social/post/3lxilio7jt225"
+      },
+      "engagement": {
+        "likes": 130,
+        "replies": 48,
+        "reposts": 30,
+        "quotes": 11,
+        "formatted": {
+          "likes": "130",
+          "replies": "48",
+          "reposts": "30",
+          "quotes": "11"
+        }
+      },
+      "sample_replies": [
+        "Furry faced Guinea pig. With less of a brain.",
+        "That man is even more deranged and dangerous than Trump",
+        "Just curious, did he say this while sharpening a knife?",
+        "Talk about lining himself up. Trump won’t like it. But also seems to add credibility to Trump’s..."
+      ],
+      "metrics": {
+        "ratio_score": 1.9,
+        "time_bucket": 1,
+        "total_engagement": 219,
+        "post_age_minutes": 23.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T23:04:45.180824+00:00",
+      "last_updated": "2025-08-28T23:04:45.180824+00:00",
+      "analysis_windows": [
+        "2025-08-28T23:04:45.180824+00:00"
+      ],
+      "peak_controversy": 8.8,
+      "trend": "new"
+    },
+    {
+      "rank": 5,
       "user": {
         "handle": "hankgreen.bsky.social",
         "display_name": "Hank Green",
@@ -238,7 +294,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user": {
         "handle": "daisygardner.bsky.social",
         "display_name": "Daisy Gardner",
@@ -293,7 +349,7 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user": {
         "handle": "thebulwark.com",
         "display_name": "The Bulwark",
@@ -348,7 +404,63 @@
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "user": {
+        "handle": "npr.org",
+        "display_name": "NPR",
+        "initials": "NP",
+        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln72v57ivz2g46uqf4xxqiuh/bafkreibuignib3md64nrejizb45lynj2rf2pfahys46dz3oztgtrmpeizu@jpeg",
+        "profile_url": "https://bsky.app/profile/npr.org"
+      },
+      "ratio": "1:2",
+      "controversy": 5.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Republican state Rep. Andrew Ireland says the majority party has \"constitutional right\" to redistrict in their favor.",
+        "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3lxikgnrpz72i",
+        "created_at": "2025-08-28T22:05:09.073265Z",
+        "url": "https://bsky.app/profile/npr.org/post/3lxikgnrpz72i"
+      },
+      "engagement": {
+        "likes": 83,
+        "replies": 55,
+        "reposts": 35,
+        "quotes": 14,
+        "formatted": {
+          "likes": "83",
+          "replies": "55",
+          "reposts": "35",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "Fascists",
+        "**\"Until Congress does its job, I think states have an obligation to really protect the interests...",
+        "Then so do CA, NY, MD and IL!",
+        "These dipsticks don’t know what they’re talking about, and they do so with confidence and..."
+      ],
+      "metrics": {
+        "ratio_score": 1.92,
+        "time_bucket": 2,
+        "total_engagement": 187,
+        "post_age_minutes": 42.5
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T23:04:45.863752+00:00",
+      "last_updated": "2025-08-28T23:04:45.863752+00:00",
+      "analysis_windows": [
+        "2025-08-28T23:04:45.863752+00:00"
+      ],
+      "peak_controversy": 5.6,
+      "trend": "new"
+    },
+    {
+      "rank": 9,
       "user": {
         "handle": "donmoyn.bsky.social",
         "display_name": "Don Moynihan",
@@ -404,7 +516,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "user": {
         "handle": "altcdc.altgov.info",
         "display_name": "Alt CDC (they/them)",
@@ -460,7 +572,7 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -469,54 +581,55 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vi2grzfali5xn5rh2ny2n4d4/bafkreif3ldjnr7t2boct67pfa3emagqkb6gzz5inupqimhut5yxsgnl2yu@jpeg",
         "profile_url": "https://bsky.app/profile/culturecrave.co"
       },
-      "ratio": "4:1",
-      "controversy": 3.5,
-      "change": "NEW",
-      "change_type": "new",
+      "ratio": "1:1",
+      "controversy": 3.6,
+      "change": "=",
+      "change_type": "neutral",
       "post": {
-        "text": "Ridley Scott was asked about ‘Gladiator 3’ and another ‘Alien’ film\n\n“Gladiator is in process right now. Another Alien prequel – yeah, if I get an idea, for sure”\n\n(via The Guardian)",
-        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lxhtxqcers2b",
-        "created_at": "2025-08-28T15:23:06.115Z",
-        "url": "https://bsky.app/profile/culturecrave.co/post/3lxhtxqcers2b"
+        "text": "Heidi Gardner is leaving 'Saturday Night Live' after 8 seasons",
+        "uri": "at://did:plc:vi2grzfali5xn5rh2ny2n4d4/app.bsky.feed.post/3lxilnq5pvk2f",
+        "created_at": "2025-08-28T22:27:00.226Z",
+        "url": "https://bsky.app/profile/culturecrave.co/post/3lxilnq5pvk2f"
       },
       "engagement": {
-        "likes": 203,
-        "replies": 23,
-        "reposts": 9,
-        "quotes": 40,
+        "likes": 71,
+        "replies": 6,
+        "reposts": 6,
+        "quotes": 6,
         "formatted": {
-          "likes": "203",
-          "replies": "23",
-          "reposts": "9",
-          "quotes": "40"
+          "likes": "71",
+          "replies": "6",
+          "reposts": "6",
+          "quotes": "6"
         }
       },
       "sample_replies": [
-        "Wait a minute! Alien VS Gladiator...",
-        "Alien vs Gladiator: The Gladiatoring.",
-        "🔗 \n\nwww.theguardian.com/film/2025/au...",
-        "NOOOOOOO! He’s done enough damage to the Alien IP"
+        "She was one of the few funny ones on there",
+        "If Bowen or Ego goes next, ya’ll might as well just shut it down 😭",
+        "It seems a ton of cast members are leaving SNL this offseason…",
+        "Noooooooooooooo!!!! I adore her. Shes the reason I still watch!"
       ],
       "metrics": {
-        "ratio_score": 7.0,
-        "time_bucket": 0,
-        "total_engagement": 70,
-        "post_age_minutes": 9.4
+        "ratio_score": 1.71,
+        "time_bucket": 1,
+        "total_engagement": 89,
+        "post_age_minutes": 20.5
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
       "first_detected": "2025-08-28T15:48:47.767185+00:00",
-      "last_updated": "2025-08-28T15:48:47.767185+00:00",
+      "last_updated": "2025-08-28T23:04:46.426715+00:00",
       "analysis_windows": [
-        "2025-08-28T15:48:47.767185+00:00"
+        "2025-08-28T15:48:47.767185+00:00",
+        "2025-08-28T23:04:46.426715+00:00"
       ],
-      "peak_controversy": 3.5,
-      "trend": "new"
+      "peak_controversy": 3.6,
+      "trend": "rising"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "user": {
         "handle": "colindickey.com",
         "display_name": "Colin Dickey",
@@ -572,7 +685,63 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 13,
+      "user": {
+        "handle": "politico.com",
+        "display_name": "Politico",
+        "initials": "PO",
+        "did": "did:plc:yf6hctt2ug3qyfty4in64yob",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yf6hctt2ug3qyfty4in64yob/bafkreid3rrarj36xsctgqpt7wlr2iv7yuzo3vixvtgxk4ryzx2pdnunfwu@jpeg",
+        "profile_url": "https://bsky.app/profile/politico.com"
+      },
+      "ratio": "1:1",
+      "controversy": 3.5,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Ashli Babbitt, the Jan. 6 rioter killed in the Capitol riot, has been offered military funeral honors.",
+        "uri": "at://did:plc:yf6hctt2ug3qyfty4in64yob/app.bsky.feed.post/3lxikcfbdzk2y",
+        "created_at": "2025-08-28T22:02:45.974Z",
+        "url": "https://bsky.app/profile/politico.com/post/3lxikcfbdzk2y"
+      },
+      "engagement": {
+        "likes": 37,
+        "replies": 51,
+        "reposts": 14,
+        "quotes": 16,
+        "formatted": {
+          "likes": "37",
+          "replies": "51",
+          "reposts": "14",
+          "quotes": "16"
+        }
+      },
+      "sample_replies": [
+        "It wasn't a riot, it was an attempted coup, and she wasn't a rioter, she was a traitor.",
+        "An absolute disgrace and an insult to those that have served and those currently serving!",
+        "Still a traitor to her country. When you join the US military, you pledge an oath to the US...",
+        "Disgrace"
+      ],
+      "metrics": {
+        "ratio_score": 4.47,
+        "time_bucket": 2,
+        "total_engagement": 118,
+        "post_age_minutes": 44.8
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T23:04:46.003054+00:00",
+      "last_updated": "2025-08-28T23:04:46.003054+00:00",
+      "analysis_windows": [
+        "2025-08-28T23:04:46.003054+00:00"
+      ],
+      "peak_controversy": 3.5,
+      "trend": "new"
+    },
+    {
+      "rank": 14,
       "user": {
         "handle": "newrepublic.com",
         "display_name": "The New Republic",
@@ -628,63 +797,7 @@
       "trend": "new"
     },
     {
-      "rank": 12,
-      "user": {
-        "handle": "osinttechnical.bsky.social",
-        "display_name": "OSINTtechnical",
-        "initials": "OS",
-        "did": "did:plc:2ywby725qcwv7rqdotimk7mp",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ywby725qcwv7rqdotimk7mp/bafkreicjgizo36i2yb435xsgigvqofikieboyeq2ujk5vir5cyvuipwxxy@jpeg",
-        "profile_url": "https://bsky.app/profile/osinttechnical.bsky.social"
-      },
-      "ratio": "1:2",
-      "controversy": 2.6,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "New from @truth.bsky.social, the U.S. is massing reconnaissance aircraft near Venezuela as the U.S. deploys nearly a dozen ships into the region. \n\nPuerto Rico now hosts a detachment of Navy P-8A Poseidons conducting surveillance and gathering intelligence across the Caribbean.",
-        "uri": "at://did:plc:2ywby725qcwv7rqdotimk7mp/app.bsky.feed.post/3lxfvloiboc2s",
-        "created_at": "2025-08-27T20:46:49.563Z",
-        "url": "https://bsky.app/profile/osinttechnical.bsky.social/post/3lxfvloiboc2s"
-      },
-      "engagement": {
-        "likes": 223,
-        "replies": 11,
-        "reposts": 49,
-        "quotes": 27,
-        "formatted": {
-          "likes": "223",
-          "replies": "11",
-          "reposts": "49",
-          "quotes": "27"
-        }
-      },
-      "sample_replies": [
-        "The moves come as Venezuela and its partner nations, including Russia, grow increasingly paranoid....",
-        "And late yesterday, the Ticonderoga-class guided missile cruiser USS Lake Erie and Los...",
-        "By last week, the U.S moved a trio of Arleigh-Burke-class destroyers, the USS Gravely, USS Jason...",
-        "Over the weekend, the Iwo Jima Amphibious Ready Group, consisting of the USS Iwo Jima,..."
-      ],
-      "metrics": {
-        "ratio_score": 1.67,
-        "time_bucket": 1,
-        "total_engagement": 66,
-        "post_age_minutes": 15.4
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:14.524449+00:00",
-      "last_updated": "2025-08-27T21:21:14.524449+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:14.524449+00:00"
-      ],
-      "peak_controversy": 2.6,
-      "trend": "new"
-    },
-    {
-      "rank": 13,
+      "rank": 15,
       "user": {
         "handle": "kyivindependent.com",
         "display_name": "The Kyiv Independent",
@@ -740,7 +853,7 @@
       "trend": "new"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
@@ -796,7 +909,7 @@
       "trend": "new"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -852,7 +965,7 @@
       "trend": "new"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -909,7 +1022,7 @@
       "trend": "stable"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "user": {
         "handle": "bredlove.bsky.social",
         "display_name": "BRedLove",
@@ -965,63 +1078,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
-      "user": {
-        "handle": "peark.es",
-        "display_name": "George Pearkes",
-        "initials": "GP",
-        "did": "did:plc:pnx2fjuannbdpy3337ggthpp",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreidzvakiwbiqaj324i3grmh3efa6uq7jk3kudi7ill3j362exktwbe@jpeg",
-        "profile_url": "https://bsky.app/profile/peark.es"
-      },
-      "ratio": "1:1",
-      "controversy": 1.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Chip stock out\n\n*NVIDIA 2Q REV. $46.7B, EST. $46.23B\n*NVIDIA 2Q DATA CENTER REVENUE $41.1B, EST. $41.29B\n*NVIDIA SEES 3Q REVENUE $54B PLUS OR MINUS 2%, EST. $53.46B",
-        "uri": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3lxfu6hcfns2t",
-        "created_at": "2025-08-27T20:21:32.092Z",
-        "url": "https://bsky.app/profile/peark.es/post/3lxfu6hcfns2t"
-      },
-      "engagement": {
-        "likes": 52,
-        "replies": 7,
-        "reposts": 5,
-        "quotes": 6,
-        "formatted": {
-          "likes": "52",
-          "replies": "7",
-          "reposts": "5",
-          "quotes": "6"
-        }
-      },
-      "sample_replies": [
-        "Data center revenues missed by they had zero H20 sales in the quarter, I think that's way less than...",
-        "Probably not going to be any H20 sales in 3Q either.",
-        "yeah all China though I think.",
-        "Ruh roh. Needed to be a blowout. No worries, Jensen will spin it."
-      ],
-      "metrics": {
-        "ratio_score": 3.0,
-        "time_bucket": 2,
-        "total_engagement": 55,
-        "post_age_minutes": 41.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:14.955826+00:00",
-      "last_updated": "2025-08-27T21:21:14.955826+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:14.955826+00:00"
-      ],
-      "peak_controversy": 1.7,
-      "trend": "new"
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
@@ -1077,7 +1134,7 @@
       "trend": "new"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user": {
         "handle": "amikebloomtype.bsky.social",
         "display_name": "Mike Bloom",
@@ -1133,7 +1190,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user": {
         "handle": "idothethinking.bsky.social",
         "display_name": "Darrell Owens",
@@ -1189,7 +1246,63 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 23,
+      "user": {
+        "handle": "jefftrnka.bsky.social",
+        "display_name": "JeffTrnka",
+        "initials": "JE",
+        "did": "did:plc:did5psctmmw4j4xlxu64uvzq",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:did5psctmmw4j4xlxu64uvzq/bafkreibjw5o7et2gggr64w2tsjn73z34zqdun3lgeo6xuanixalqou7xqa@jpeg",
+        "profile_url": "https://bsky.app/profile/jefftrnka.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 1.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "",
+        "uri": "at://did:plc:did5psctmmw4j4xlxu64uvzq/app.bsky.feed.post/3lxikdzagrk27",
+        "created_at": "2025-08-28T22:03:40.469Z",
+        "url": "https://bsky.app/profile/jefftrnka.bsky.social/post/3lxikdzagrk27"
+      },
+      "engagement": {
+        "likes": 29,
+        "replies": 9,
+        "reposts": 8,
+        "quotes": 7,
+        "formatted": {
+          "likes": "29",
+          "replies": "9",
+          "reposts": "8",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "www.thedailybeast.com/jd-vance-say...",
+        "The first closet gay president? The first coach f*cker president?",
+        "Bet he is. Quite the trajectory that hillbilly’s had 😳😬",
+        "Buckle up folks. The next 6 months are gonna blow your minds."
+      ],
+      "metrics": {
+        "ratio_score": 1.78,
+        "time_bucket": 2,
+        "total_engagement": 53,
+        "post_age_minutes": 43.9
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-28T23:04:46.139936+00:00",
+      "last_updated": "2025-08-28T23:04:46.139936+00:00",
+      "analysis_windows": [
+        "2025-08-28T23:04:46.139936+00:00"
+      ],
+      "peak_controversy": 1.6,
+      "trend": "new"
+    },
+    {
+      "rank": 24,
       "user": {
         "handle": "stevepeers.bsky.social",
         "display_name": "Steve Peers",
@@ -1245,63 +1358,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
-      "user": {
-        "handle": "opensketchbook.bsky.social",
-        "display_name": "Erika Chappell 🏳️‍⚧️ Stop Asking For STLs",
-        "initials": "EC",
-        "did": "did:plc:m4hhz6bkx4czs62mdjfzlq2p",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:m4hhz6bkx4czs62mdjfzlq2p/bafkreicy2nov3ukke5fwqqktlq6mwbbzkwqnyl6lhdy7vueoxtl74qyqdu@jpeg",
-        "profile_url": "https://bsky.app/profile/opensketchbook.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Tom Clancy’s Alpha Centauri",
-        "uri": "at://did:plc:m4hhz6bkx4czs62mdjfzlq2p/app.bsky.feed.post/3lxfu53eeik2o",
-        "created_at": "2025-08-27T20:20:46.017Z",
-        "url": "https://bsky.app/profile/opensketchbook.bsky.social/post/3lxfu53eeik2o"
-      },
-      "engagement": {
-        "likes": 61,
-        "replies": 8,
-        "reposts": 5,
-        "quotes": 10,
-        "formatted": {
-          "likes": "61",
-          "replies": "8",
-          "reposts": "5",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "Thanks, I fucking hate it.",
-        "now envisioning \"Tom Clancy's The State And Revolution\"",
-        "Nooooo",
-        "Tom Clancy's Leadership And The Sea"
-      ],
-      "metrics": {
-        "ratio_score": 2.5,
-        "time_bucket": 2,
-        "total_engagement": 43,
-        "post_age_minutes": 41.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:15.104648+00:00",
-      "last_updated": "2025-08-27T21:21:15.104648+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:15.104648+00:00"
-      ],
-      "peak_controversy": 1.3,
-      "trend": "new"
-    },
-    {
-      "rank": 24,
+      "rank": 25,
       "user": {
         "handle": "craigcalcaterra.bsky.social",
         "display_name": "Craig Calcaterra",
@@ -1357,63 +1414,62 @@
       "trend": "new"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "user": {
-        "handle": "maustermuhle.bsky.social",
-        "display_name": "Martin Austermuhle",
-        "initials": "MA",
-        "did": "did:plc:ytp5tjyifctp7ewazhdasteb",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ytp5tjyifctp7ewazhdasteb/bafkreifmwzxmkcakupogf63wc5wc75fqcyowbednwkm2eo37dfq2xqjhoi@jpeg",
-        "profile_url": "https://bsky.app/profile/maustermuhle.bsky.social"
+        "handle": "vulture.com",
+        "display_name": "Vulture",
+        "initials": "VU",
+        "did": "did:plc:sfvkd7mmhdpilq6zwiomisqe",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfvkd7mmhdpilq6zwiomisqe/bafkreiechbviu5bx5f6n4pntjv2g42bftsrl64y5iqendvg3pmaw7ykvda@jpeg",
+        "profile_url": "https://bsky.app/profile/vulture.com"
       },
       "ratio": "3:1",
-      "controversy": 1.2,
+      "controversy": 1.3,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Earlier this afternoon D.C. Mayor Muriel Bowser held a press conference on the federal surge in the city. \"We greatly appreciate the surge of officers that enhance what MPD has been able to do in this city,\" she said, noting that crime is generally down. (Carjackings, she highlighted, are down 80%.)",
-        "uri": "at://did:plc:ytp5tjyifctp7ewazhdasteb/app.bsky.feed.post/3lxfut6lhsk2q",
-        "created_at": "2025-08-27T20:33:07.595Z",
-        "url": "https://bsky.app/profile/maustermuhle.bsky.social/post/3lxfut6lhsk2q"
+        "text": "Vulture has confirmed that ahead of season 51, Heidi Gardner is leaving ‘SNL’ after an eight-season run on the NBC sketch-comedy series. She joined the show as a featured player in 2017.",
+        "uri": "at://did:plc:sfvkd7mmhdpilq6zwiomisqe/app.bsky.feed.post/3lxilkna6q42y",
+        "created_at": "2025-08-28T22:25:16.492Z",
+        "url": "https://bsky.app/profile/vulture.com/post/3lxilkna6q42y"
       },
       "engagement": {
-        "likes": 29,
-        "replies": 15,
-        "reposts": 14,
-        "quotes": 40,
+        "likes": 13,
+        "replies": 7,
+        "reposts": 3,
+        "quotes": 9,
         "formatted": {
-          "likes": "29",
-          "replies": "15",
-          "reposts": "14",
-          "quotes": "40"
+          "likes": "13",
+          "replies": "7",
+          "reposts": "3",
+          "quotes": "9"
         }
       },
       "sample_replies": [
-        "\"She said she appreciates the federal surge and that it's having positive results. That's not the...",
-        "Some members of the D.C. Council have responded to Bowser's press conference. @cmzparker5.bsky.socia...",
-        "Chief Smith said residents had been asking for more traffic stops, and since those are now...",
-        "Great! So we’ve found a solution—a final solution—to crime. Permanent military occupation!\n\nSoulless..."
+        "A really unfortunate loss. Gardner is fantastic and always committed to the bit. She will be missed.",
+        "It's a bloodbath at #SNL.\nOnly Keenan will be left...",
+        "Dare I say it? SNL is one of the most overhyped things in America, a country that specializes in..."
       ],
       "metrics": {
-        "ratio_score": 3.4,
+        "ratio_score": 4.0,
         "time_bucket": 1,
-        "total_engagement": 30,
-        "post_age_minutes": 29.6
+        "total_engagement": 32,
+        "post_age_minutes": 22.3
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T21:21:14.666604+00:00",
-      "last_updated": "2025-08-27T21:21:14.666604+00:00",
+      "first_detected": "2025-08-28T23:04:45.569171+00:00",
+      "last_updated": "2025-08-28T23:04:45.569171+00:00",
       "analysis_windows": [
-        "2025-08-27T21:21:14.666604+00:00"
+        "2025-08-28T23:04:45.569171+00:00"
       ],
-      "peak_controversy": 1.2,
+      "peak_controversy": 1.3,
       "trend": "new"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "user": {
         "handle": "moviessilently.bsky.social",
         "display_name": "Movies Silently",
@@ -1469,7 +1525,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "user": {
         "handle": "seanrosssapp.bsky.social",
         "display_name": "Sean Ross Sapp of Fightful",
@@ -1524,7 +1580,7 @@
       "trend": "new"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "user": {
         "handle": "notyournegro.bsky.social",
         "display_name": "Not Your Negress",
@@ -1580,7 +1636,7 @@
       "trend": "new"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "user": {
         "handle": "thedailybeast.bsky.social",
         "display_name": "The Daily Beast",
@@ -1636,7 +1692,7 @@
       "trend": "new"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "user": {
         "handle": "danacorn.bsky.social",
         "display_name": "uosdɯıS ɐuɐᗡ ✨🦄✨",
@@ -1691,116 +1747,59 @@
       "trend": "new"
     },
     {
-      "rank": 31,
-      "user": {
-        "handle": "theathleticfc.bsky.social",
-        "display_name": "The Athletic | Football",
-        "initials": "TA",
-        "did": "did:plc:fa7xejyd32fvuar5hpa2n2yi",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa7xejyd32fvuar5hpa2n2yi/bafkreieruwofoquwzw2k4pkgmmru5e43rlw45dwlvpzyufcsceruk363p4@jpeg",
-        "profile_url": "https://bsky.app/profile/theathleticfc.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 0.8,
-      "change": "-0.2",
-      "change_type": "negative",
-      "post": {
-        "text": "Newcastle United target Jorgen Strand Larsen has informed Wolves that he wants to leave.\n\nMore from @david-ornstein.bsky.social ⤵️\n\n🔗 www.nytimes.com/athletic/657...",
-        "uri": "at://did:plc:fa7xejyd32fvuar5hpa2n2yi/app.bsky.feed.post/3lxhe47cnfc25",
-        "created_at": "2025-08-28T10:39:16.192Z",
-        "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lxhe47cnfc25"
-      },
-      "engagement": {
-        "likes": 35,
-        "replies": 6,
-        "reposts": 6,
-        "quotes": 10,
-        "formatted": {
-          "likes": "35",
-          "replies": "6",
-          "reposts": "6",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "As a Mag I’m keen on us getting him, given our need, but also feel for Wolves fans. Transfers never...",
-        "Isak has been informed he isn’t moving this window either but that hasn’t stopped the likes of Orny...",
-        "In the gathering dark, the will of the agent grows strong. It works hard now to find its way back...",
-        "Oh"
-      ],
-      "metrics": {
-        "ratio_score": 2.17,
-        "time_bucket": 3,
-        "total_engagement": 38,
-        "post_age_minutes": 54.1
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:15.249297+00:00",
-      "last_updated": "2025-08-28T11:43:12.097523+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:15.249297+00:00",
-        "2025-08-28T11:43:12.097523+00:00"
-      ],
-      "peak_controversy": 1.0,
-      "trend": "rising"
-    },
-    {
       "rank": 32,
       "user": {
-        "handle": "sophianyx.bsky.social",
-        "display_name": "Sophia_Nyx 🏳️‍⚧️",
-        "initials": "S🏳",
-        "did": "did:plc:oye4xbhmn75wccbhntxuqmuo",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oye4xbhmn75wccbhntxuqmuo/bafkreidzsebnbnc3anmeauisbfxpaqsy55hpgrhfsveng4g5fgtoco7csa@jpeg",
-        "profile_url": "https://bsky.app/profile/sophianyx.bsky.social"
+        "handle": "lepetitereboot.bsky.social",
+        "display_name": "malcoholic",
+        "initials": "MA",
+        "did": "did:plc:wseth24is2z4p7qqqs5rfhe6",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wseth24is2z4p7qqqs5rfhe6/bafkreihdvaal6hx4xawle26yjufq244yuqwlkmyb6omynkjofyt4zubzdm@jpeg",
+        "profile_url": "https://bsky.app/profile/lepetitereboot.bsky.social"
       },
-      "ratio": "33:1",
-      "controversy": 0.8,
+      "ratio": "2:1",
+      "controversy": 0.9,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Without saying Rhinestone Eyes, fav Gorillaz Song?",
-        "uri": "at://did:plc:oye4xbhmn75wccbhntxuqmuo/app.bsky.feed.post/3lxfu2d3vok2a",
-        "created_at": "2025-08-27T20:19:13.426Z",
-        "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lxfu2d3vok2a"
+        "text": "i have never seen Hellboy because i thought it looked stupid",
+        "uri": "at://did:plc:wseth24is2z4p7qqqs5rfhe6/app.bsky.feed.post/3lxikztefok2b",
+        "created_at": "2025-08-28T22:15:52.497Z",
+        "url": "https://bsky.app/profile/lepetitereboot.bsky.social/post/3lxikztefok2b"
       },
       "engagement": {
-        "likes": 164,
-        "replies": 84,
-        "reposts": 12,
-        "quotes": 398,
+        "likes": 17,
+        "replies": 7,
+        "reposts": 2,
+        "quotes": 5,
         "formatted": {
-          "likes": "164",
-          "replies": "84",
-          "reposts": "12",
-          "quotes": "398"
+          "likes": "17",
+          "replies": "7",
+          "reposts": "2",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "Clint Eastwood",
-        "On Melancholy Hill.",
-        "Clint Eastwood",
-        "Clint Eastwood"
+        "ummm! I didn't watch no damn Shape of Water, either! \n\na fishman?? \n\nPlease be serious.",
+        "That looks like Gina Gershon",
+        "I said to myself, \"Self? Should i go back and watch the entire Guillermo del Toro filmography?\"...",
+        "now see i was told that i MISSED all the way OUT. (i am speaking of the Ron Perlman one. that David..."
       ],
       "metrics": {
-        "ratio_score": 13.0,
+        "ratio_score": 4.0,
         "time_bucket": 2,
-        "total_engagement": 26,
-        "post_age_minutes": 43.3
+        "total_engagement": 31,
+        "post_age_minutes": 31.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T21:21:15.398984+00:00",
-      "last_updated": "2025-08-27T21:21:15.398984+00:00",
+      "first_detected": "2025-08-28T23:04:46.276607+00:00",
+      "last_updated": "2025-08-28T23:04:46.276607+00:00",
       "analysis_windows": [
-        "2025-08-27T21:21:15.398984+00:00"
+        "2025-08-28T23:04:46.276607+00:00"
       ],
-      "peak_controversy": 0.8,
+      "peak_controversy": 0.9,
       "trend": "new"
     },
     {
@@ -1917,172 +1916,61 @@
     {
       "rank": 35,
       "user": {
-        "handle": "arrogantade.blacksky.app",
-        "display_name": "Arrogant Esquire",
-        "initials": "AE",
-        "did": "did:plc:ewu3vljnyhiokyqfd6gimq7y",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewu3vljnyhiokyqfd6gimq7y/bafkreiavwoweggqc5ihkizarlxnkakklgessih6l6kzkgmqbsdbjlxiwcq@jpeg",
-        "profile_url": "https://bsky.app/profile/arrogantade.blacksky.app"
+        "handle": "financialtimes.com",
+        "display_name": "Financial Times",
+        "initials": "FT",
+        "did": "did:plc:5u54z2qgkq43dh2nzwzdbbhb",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
+        "profile_url": "https://bsky.app/profile/financialtimes.com"
       },
-      "ratio": "1:1",
-      "controversy": 0.7,
+      "ratio": "2:1",
+      "controversy": 0.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "You can leave nut in the sheets at the hotel without them charging you extra.\n\nCan’t try that at an AirBNB.",
-        "uri": "at://did:plc:ewu3vljnyhiokyqfd6gimq7y/app.bsky.feed.post/3lxfvbvsvsc2p",
-        "created_at": "2025-08-27T20:41:21.718Z",
-        "url": "https://bsky.app/profile/arrogantade.blacksky.app/post/3lxfvbvsvsc2p"
+        "text": "Canada struggles to ease Trump tariffs despite Carney concessions on.ft.com/4mGoaOj",
+        "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3lxiky2vad72r",
+        "created_at": "2025-08-28T22:14:53.244582Z",
+        "url": "https://bsky.app/profile/financialtimes.com/post/3lxiky2vad72r"
       },
       "engagement": {
-        "likes": 8,
+        "likes": 7,
         "replies": 6,
-        "reposts": 5,
-        "quotes": 7,
+        "reposts": 2,
+        "quotes": 5,
         "formatted": {
-          "likes": "8",
+          "likes": "7",
           "replies": "6",
-          "reposts": "5",
-          "quotes": "7"
+          "reposts": "2",
+          "quotes": "5"
         }
       },
       "sample_replies": [
-        "I’m pragmatic.",
-        "I know there is a filing or some paperwork SOMEWHERE that needs to be attended to.",
-        "Say man😂😂",
-        "Ain’t nobody called me a liar for this take yet… That’s all I’m saying."
+        "That's why the concessions were a horrible idea.",
+        "Hang tough, Canada! Negotiating with terrorists never ends well.",
+        "Literally everyone who has paid attention to what Trump has done would have known that would...",
+        "\"I'm sure it will be different this time.\""
       ],
       "metrics": {
-        "ratio_score": 2.75,
-        "time_bucket": 1,
-        "total_engagement": 18,
-        "post_age_minutes": 21.3
+        "ratio_score": 3.67,
+        "time_bucket": 2,
+        "total_engagement": 20,
+        "post_age_minutes": 32.7
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-27T21:21:14.807487+00:00",
-      "last_updated": "2025-08-27T21:21:14.807487+00:00",
+      "first_detected": "2025-08-28T23:04:46.426606+00:00",
+      "last_updated": "2025-08-28T23:04:46.426606+00:00",
       "analysis_windows": [
-        "2025-08-27T21:21:14.807487+00:00"
+        "2025-08-28T23:04:46.426606+00:00"
       ],
-      "peak_controversy": 0.7,
+      "peak_controversy": 0.6,
       "trend": "new"
     },
     {
       "rank": 36,
-      "user": {
-        "handle": "cerromerussell.bsky.social",
-        "display_name": "MonsterKing",
-        "initials": "MO",
-        "did": "did:plc:gea43dvjdqehvtuewqvlq3df",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gea43dvjdqehvtuewqvlq3df/bafkreid5tmx4ebxazbc2ssfizmgb4ql4vloold4ertkjgjj375ysfoiov4@jpeg",
-        "profile_url": "https://bsky.app/profile/cerromerussell.bsky.social"
-      },
-      "ratio": "3:1",
-      "controversy": 0.7,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "The Motel 6 in Iowa? The Knights Inn in Charlotte? The American Motel in Kansas City?! I'm lucky to be here",
-        "uri": "at://did:plc:gea43dvjdqehvtuewqvlq3df/app.bsky.feed.post/3lxfuaollpc2q",
-        "created_at": "2025-08-27T20:22:46.842Z",
-        "url": "https://bsky.app/profile/cerromerussell.bsky.social/post/3lxfuaollpc2q"
-      },
-      "engagement": {
-        "likes": 9,
-        "replies": 4,
-        "reposts": 4,
-        "quotes": 11,
-        "formatted": {
-          "likes": "9",
-          "replies": "4",
-          "reposts": "4",
-          "quotes": "11"
-        }
-      },
-      "sample_replies": [
-        "you gotta fight whoever put you in the knights fr. not even gon hold you.",
-        "YES YOU ARE. I been past that American Motel, omg 😭",
-        "Inside is worst that you can imagine lmao",
-        "I have a story abt a bad experience staying in Jacksonville at Days Inn. Almost to embarrassing to..."
-      ],
-      "metrics": {
-        "ratio_score": 2.2,
-        "time_bucket": 2,
-        "total_engagement": 22,
-        "post_age_minutes": 39.9
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:15.619489+00:00",
-      "last_updated": "2025-08-27T21:21:15.619489+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:15.619489+00:00"
-      ],
-      "peak_controversy": 0.7,
-      "trend": "new"
-    },
-    {
-      "rank": 37,
-      "user": {
-        "handle": "reverendjesus.com",
-        "display_name": "Reverend Jesus \"H\" Christ",
-        "initials": "RJ",
-        "did": "did:plc:m6xkmqx5vgor7t6h2fsh4aj3",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6xkmqx5vgor7t6h2fsh4aj3/bafkreiggegquupcywobfp3olck5hbfqlicnonstbmiizsohpcytnv5ffwa@jpeg",
-        "profile_url": "https://bsky.app/profile/reverendjesus.com"
-      },
-      "ratio": "4:1",
-      "controversy": 0.5,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Ruin a book by adding “Tom Clancy’s” to the title\n\nTom Clancy's A Wrinkle in Time",
-        "uri": "at://did:plc:m6xkmqx5vgor7t6h2fsh4aj3/app.bsky.feed.post/3lxfuamyuns2i",
-        "created_at": "2025-08-27T20:22:45.177Z",
-        "url": "https://bsky.app/profile/reverendjesus.com/post/3lxfuamyuns2i"
-      },
-      "engagement": {
-        "likes": 29,
-        "replies": 3,
-        "reposts": 2,
-        "quotes": 8,
-        "formatted": {
-          "likes": "29",
-          "replies": "3",
-          "reposts": "2",
-          "quotes": "8"
-        }
-      },
-      "sample_replies": [
-        "Make a book better by adding Stephen King’s to the title\n\nStephen King’s The Hunt for Red October",
-        "Tom Clancy’s Selected Poems by Emily Dickenson",
-        "Tom Clancy’s Passage to India"
-      ],
-      "metrics": {
-        "ratio_score": 7.0,
-        "time_bucket": 2,
-        "total_engagement": 16,
-        "post_age_minutes": 40.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-27T21:21:15.764957+00:00",
-      "last_updated": "2025-08-27T21:21:15.764957+00:00",
-      "analysis_windows": [
-        "2025-08-27T21:21:15.764957+00:00"
-      ],
-      "peak_controversy": 0.5,
-      "trend": "new"
-    },
-    {
-      "rank": 38,
       "user": {
         "handle": "omfgrealitytv.bsky.social",
         "display_name": "Omfgrealitytv.Bsky.Social",
@@ -2136,7 +2024,7 @@
       "trend": "new"
     },
     {
-      "rank": 39,
+      "rank": 37,
       "user": {
         "handle": "veryghetto.posts.fyi",
         "display_name": "Xae 🪼",
@@ -2192,7 +2080,7 @@
       "trend": "new"
     },
     {
-      "rank": 40,
+      "rank": 38,
       "user": {
         "handle": "globalnews.ca",
         "display_name": "Global News (Official)",
