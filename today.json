@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T08:26:28.741636+00:00",
-    "last_metrics_update": "2025-08-28T09:47:37.933782+00:00",
+    "last_metrics_update": "2025-08-28T10:02:23.954653+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 36,
@@ -203,12 +203,12 @@
         "url": "https://bsky.app/profile/duckvalentine.bsky.social/post/3lxf6jqvqyc2f"
       },
       "engagement": {
-        "likes": 824,
+        "likes": 825,
         "replies": 143,
         "reposts": 45,
         "quotes": 25,
         "formatted": {
-          "likes": "824",
+          "likes": "825",
           "replies": "143",
           "reposts": "45",
           "quotes": "25"
@@ -371,15 +371,15 @@
         "url": "https://bsky.app/profile/nbcnews.com/post/3lxfk2lxkne2p"
       },
       "engagement": {
-        "likes": 425,
+        "likes": 426,
         "replies": 97,
         "reposts": 81,
-        "quotes": 53,
+        "quotes": 54,
         "formatted": {
-          "likes": "425",
+          "likes": "426",
           "replies": "97",
           "reposts": "81",
-          "quotes": "53"
+          "quotes": "54"
         }
       },
       "sample_replies": [
@@ -706,12 +706,12 @@
         "url": "https://bsky.app/profile/osinttechnical.bsky.social/post/3lxfvloiboc2s"
       },
       "engagement": {
-        "likes": 206,
+        "likes": 208,
         "replies": 10,
         "reposts": 42,
         "quotes": 27,
         "formatted": {
-          "likes": "206",
+          "likes": "208",
           "replies": "10",
           "reposts": "42",
           "quotes": "27"
@@ -874,13 +874,13 @@
         "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxgod7gdns2o"
       },
       "engagement": {
-        "likes": 97,
-        "replies": 30,
+        "likes": 98,
+        "replies": 31,
         "reposts": 13,
         "quotes": 6,
         "formatted": {
-          "likes": "97",
-          "replies": "30",
+          "likes": "98",
+          "replies": "31",
           "reposts": "13",
           "quotes": "6"
         }
@@ -1042,12 +1042,12 @@
         "url": "https://bsky.app/profile/theguardian.com/post/3lxh2bzexux2i"
       },
       "engagement": {
-        "likes": 61,
+        "likes": 63,
         "replies": 9,
         "reposts": 8,
         "quotes": 9,
         "formatted": {
-          "likes": "61",
+          "likes": "63",
           "replies": "9",
           "reposts": "8",
           "quotes": "9"
@@ -1322,15 +1322,15 @@
         "url": "https://bsky.app/profile/maustermuhle.bsky.social/post/3lxfut6lhsk2q"
       },
       "engagement": {
-        "likes": 21,
+        "likes": 22,
         "replies": 10,
         "reposts": 9,
-        "quotes": 33,
+        "quotes": 34,
         "formatted": {
-          "likes": "21",
+          "likes": "22",
           "replies": "10",
           "reposts": "9",
-          "quotes": "33"
+          "quotes": "34"
         }
       },
       "sample_replies": [
@@ -1822,12 +1822,12 @@
         "url": "https://bsky.app/profile/australia.theguardian.com/post/3lxgn6wynjm27"
       },
       "engagement": {
-        "likes": 19,
+        "likes": 20,
         "replies": 14,
         "reposts": 2,
         "quotes": 12,
         "formatted": {
-          "likes": "19",
+          "likes": "20",
           "replies": "14",
           "reposts": "2",
           "quotes": "12"
