@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T04:30:58.369165+00:00",
-    "last_metrics_update": "2025-08-28T05:32:19.817356+00:00",
+    "last_metrics_update": "2025-08-28T05:47:22.475367+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 37,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/parkermolloy.com/post/3lxfilmi7lk26"
       },
       "engagement": {
-        "likes": 794,
+        "likes": 795,
         "replies": 56,
         "reposts": 102,
         "quotes": 94,
         "formatted": {
-          "likes": "794",
+          "likes": "795",
           "replies": "56",
           "reposts": "102",
           "quotes": "94"
@@ -147,12 +147,12 @@
         "url": "https://bsky.app/profile/brendelbored.bsky.social/post/3lxfusplmdk2j"
       },
       "engagement": {
-        "likes": 333,
+        "likes": 334,
         "replies": 24,
         "reposts": 17,
         "quotes": 9,
         "formatted": {
-          "likes": "333",
+          "likes": "334",
           "replies": "24",
           "reposts": "17",
           "quotes": "9"
@@ -259,12 +259,12 @@
         "url": "https://bsky.app/profile/taylorlorenz.bsky.social/post/3lxfifr2xi22j"
       },
       "engagement": {
-        "likes": 359,
+        "likes": 361,
         "replies": 80,
         "reposts": 89,
         "quotes": 74,
         "formatted": {
-          "likes": "359",
+          "likes": "361",
           "replies": "80",
           "reposts": "89",
           "quotes": "74"
@@ -315,14 +315,14 @@
         "url": "https://bsky.app/profile/nytpitchbot.bsky.social/post/3lxfia3c2u223"
       },
       "engagement": {
-        "likes": 467,
-        "replies": 65,
-        "reposts": 53,
+        "likes": 470,
+        "replies": 66,
+        "reposts": 54,
         "quotes": 12,
         "formatted": {
-          "likes": "467",
-          "replies": "65",
-          "reposts": "53",
+          "likes": "470",
+          "replies": "66",
+          "reposts": "54",
           "quotes": "12"
         }
       },
@@ -594,12 +594,12 @@
         "url": "https://bsky.app/profile/askaubry.com/post/3lxfiwzowde22"
       },
       "engagement": {
-        "likes": 274,
+        "likes": 276,
         "replies": 41,
         "reposts": 12,
         "quotes": 8,
         "formatted": {
-          "likes": "274",
+          "likes": "276",
           "replies": "41",
           "reposts": "12",
           "quotes": "8"
@@ -762,14 +762,14 @@
         "url": "https://bsky.app/profile/osinttechnical.bsky.social/post/3lxfvloiboc2s"
       },
       "engagement": {
-        "likes": 184,
+        "likes": 188,
         "replies": 9,
-        "reposts": 36,
+        "reposts": 39,
         "quotes": 27,
         "formatted": {
-          "likes": "184",
+          "likes": "188",
           "replies": "9",
-          "reposts": "36",
+          "reposts": "39",
           "quotes": "27"
         }
       },
@@ -987,12 +987,12 @@
         "url": "https://bsky.app/profile/onestpress.onestnetwork.com/post/3lxgod7gdns2o"
       },
       "engagement": {
-        "likes": 80,
+        "likes": 83,
         "replies": 23,
         "reposts": 11,
         "quotes": 5,
         "formatted": {
-          "likes": "80",
+          "likes": "83",
           "replies": "23",
           "reposts": "11",
           "quotes": "5"
@@ -1546,12 +1546,12 @@
         "url": "https://bsky.app/profile/theathleticfc.bsky.social/post/3lxfurbnalc22"
       },
       "engagement": {
-        "likes": 45,
+        "likes": 46,
         "replies": 6,
         "reposts": 1,
         "quotes": 14,
         "formatted": {
-          "likes": "45",
+          "likes": "46",
           "replies": "6",
           "reposts": "1",
           "quotes": "14"
@@ -1712,12 +1712,12 @@
         "url": "https://bsky.app/profile/danacorn.bsky.social/post/3lxg7pp3xlk27"
       },
       "engagement": {
-        "likes": 33,
+        "likes": 34,
         "replies": 6,
         "reposts": 1,
         "quotes": 15,
         "formatted": {
-          "likes": "33",
+          "likes": "34",
           "replies": "6",
           "reposts": "1",
           "quotes": "15"
@@ -1823,15 +1823,15 @@
         "url": "https://bsky.app/profile/sophianyx.bsky.social/post/3lxfu2d3vok2a"
       },
       "engagement": {
-        "likes": 126,
-        "replies": 68,
+        "likes": 127,
+        "replies": 70,
         "reposts": 9,
-        "quotes": 306,
+        "quotes": 310,
         "formatted": {
-          "likes": "126",
-          "replies": "68",
+          "likes": "127",
+          "replies": "70",
           "reposts": "9",
-          "quotes": "306"
+          "quotes": "310"
         }
       },
       "sample_replies": [
@@ -1868,7 +1868,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lia4ywzl2c2kt4dn3kzbywog/bafkreicpinejvjm66s4rmi6f7ixfr7mpvfbo5a4ncl45vg5bvvei2s3m3m@jpeg",
         "profile_url": "https://bsky.app/profile/australia.theguardian.com"
       },
-      "ratio": "8:1",
+      "ratio": "9:1",
       "controversy": 0.8,
       "change": "NEW",
       "change_type": "new",
@@ -1879,15 +1879,15 @@
         "url": "https://bsky.app/profile/australia.theguardian.com/post/3lxgn6wynjm27"
       },
       "engagement": {
-        "likes": 13,
+        "likes": 14,
         "replies": 10,
         "reposts": 1,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
-          "likes": "13",
+          "likes": "14",
           "replies": "10",
           "reposts": "1",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -2047,12 +2047,12 @@
         "url": "https://bsky.app/profile/reverendjesus.com/post/3lxfuamyuns2i"
       },
       "engagement": {
-        "likes": 27,
+        "likes": 28,
         "replies": 3,
         "reposts": 2,
         "quotes": 8,
         "formatted": {
-          "likes": "27",
+          "likes": "28",
           "replies": "3",
           "reposts": "2",
           "quotes": "8"
