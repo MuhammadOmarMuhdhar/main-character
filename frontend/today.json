@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_full_analysis": "2025-08-28T23:04:46.426783+00:00",
-    "last_metrics_update": "2025-08-29T02:02:27.950260+00:00",
+    "last_full_analysis": "2025-08-29T02:32:58.127327+00:00",
+    "last_metrics_update": "2025-08-29T02:32:58.127327+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
-    "main_characters_count": 38,
+    "main_characters_count": 36,
     "rolling_window": {
-      "last_update": "2025-08-28T23:04:46.426783+00:00",
+      "last_update": "2025-08-29T02:32:58.127327+00:00",
       "new_entries_added": 9,
-      "total_in_window": 38,
+      "total_in_window": 36,
       "window_hours": 24,
       "update_interval_hours": 3
     }
@@ -16,62 +16,6 @@
   "main_characters": [
     {
       "rank": 1,
-      "user": {
-        "handle": "kevinmkruse.bsky.social",
-        "display_name": "Kevin M. Kruse",
-        "initials": "KM",
-        "did": "did:plc:cnpe7qvcyjrhm6w7w7e4atur",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cnpe7qvcyjrhm6w7w7e4atur/bafkreid7tqojotcpkaoljdayyrm3ngygep5mkkolxakjaagwx3lolvycv4@jpeg",
-        "profile_url": "https://bsky.app/profile/kevinmkruse.bsky.social"
-      },
-      "ratio": "6:1",
-      "controversy": 10.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Ruin a book by adding Tom Clancy's to the title\n\nA Farewell to Tom Clancy's Arms",
-        "uri": "at://did:plc:cnpe7qvcyjrhm6w7w7e4atur/app.bsky.feed.post/3lxgbff4fok2r",
-        "created_at": "2025-08-28T00:18:03.323Z",
-        "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lxgbff4fok2r"
-      },
-      "engagement": {
-        "likes": 378,
-        "replies": 161,
-        "reposts": 17,
-        "quotes": 94,
-        "formatted": {
-          "likes": "378",
-          "replies": "161",
-          "reposts": "17",
-          "quotes": "94"
-        }
-      },
-      "sample_replies": [
-        "Tom Clancy's Pride and Prejudice",
-        "Story of Tom Clancy’s O",
-        "To Kill Tom Clancy’s Mockingbird",
-        "I'm Glad Tom Clancy's Mom Died"
-      ],
-      "metrics": {
-        "ratio_score": 8.36,
-        "time_bucket": 0,
-        "total_engagement": 231,
-        "post_age_minutes": 14.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-28T00:48:12.759682+00:00",
-      "last_updated": "2025-08-28T00:48:12.759682+00:00",
-      "analysis_windows": [
-        "2025-08-28T00:48:12.759682+00:00"
-      ],
-      "peak_controversy": 10.0,
-      "trend": "new"
-    },
-    {
-      "rank": 2,
       "user": {
         "handle": "annabower.bsky.social",
         "display_name": "Anna Bower",
@@ -127,7 +71,7 @@
       "trend": "new"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "user": {
         "handle": "carlquintanilla.bsky.social",
         "display_name": "Carl Quintanilla",
@@ -183,7 +127,7 @@
       "trend": "new"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "user": {
         "handle": "chadbourn.bsky.social",
         "display_name": "Mark Chadbourn",
@@ -239,7 +183,7 @@
       "trend": "new"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "user": {
         "handle": "hankgreen.bsky.social",
         "display_name": "Hank Green",
@@ -294,62 +238,63 @@
       "trend": "new"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "user": {
-        "handle": "daisygardner.bsky.social",
-        "display_name": "Daisy Gardner",
-        "initials": "DG",
-        "did": "did:plc:jgvj2syqf3f4r6l7f3ppejnk",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jgvj2syqf3f4r6l7f3ppejnk/bafkreia3cycrxobzse6gkudcemj5z42ipjqjks5qew2qxqo2aetobyp6oy@jpeg",
-        "profile_url": "https://bsky.app/profile/daisygardner.bsky.social"
+        "handle": "thegodpodcast.com",
+        "display_name": "God",
+        "initials": "GO",
+        "did": "did:plc:uyh5huzxtthtkg6htsgt56lh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uyh5huzxtthtkg6htsgt56lh/bafkreihi24rmivwkrlebwafvuxsodvsgizivs6bnitr64acsb46pl4nyxq@jpeg",
+        "profile_url": "https://bsky.app/profile/thegodpodcast.com"
       },
-      "ratio": "1:4",
-      "controversy": 6.5,
+      "ratio": "1:6",
+      "controversy": 8.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "They’re in an airport, dude. You’re looking at kids who are bored in an airport.",
-        "uri": "at://did:plc:jgvj2syqf3f4r6l7f3ppejnk/app.bsky.feed.post/3lxg75dr5yk2j",
-        "created_at": "2025-08-27T23:37:45.978Z",
-        "url": "https://bsky.app/profile/daisygardner.bsky.social/post/3lxg75dr5yk2j"
+        "text": "Do you feel powerless? \n\nDo you feel like you’re just one person and wonder what you can do?",
+        "uri": "at://did:plc:uyh5huzxtthtkg6htsgt56lh/app.bsky.feed.post/3lxivmxcpac2n",
+        "created_at": "2025-08-29T01:25:31.597Z",
+        "url": "https://bsky.app/profile/thegodpodcast.com/post/3lxivmxcpac2n"
       },
       "engagement": {
-        "likes": 352,
-        "replies": 53,
-        "reposts": 27,
+        "likes": 497,
+        "replies": 71,
+        "reposts": 35,
         "quotes": 6,
         "formatted": {
-          "likes": "352",
-          "replies": "53",
-          "reposts": "27",
+          "likes": "497",
+          "replies": "71",
+          "reposts": "35",
           "quotes": "6"
         }
       },
       "sample_replies": [
-        "Is mitochondrial challenges the new quack buzzword?",
-        "The same thing can be said about every person sitting in that press conference.",
-        "“Your childish spark is missing!!” \n\n- me & RFK throwing out all of the meds of the kids who had to..."
+        "I am moving across the country to start working for an elected official who is standing up against...",
+        "I can go to the Subway at 14th and U dressed like this -",
+        "I do, but I also try to have tough conversations with others. Especially the people who have their...",
+        "Someone with a bit more insight than I, told me yesterday, \"The Shire didn't know what the..."
       ],
       "metrics": {
-        "ratio_score": 1.88,
+        "ratio_score": 2.14,
         "time_bucket": 3,
-        "total_engagement": 324,
-        "post_age_minutes": 54.8
+        "total_engagement": 609,
+        "post_age_minutes": 52.3
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-28T00:48:13.709951+00:00",
-      "last_updated": "2025-08-28T00:48:13.709951+00:00",
+      "first_detected": "2025-08-29T02:32:58.127115+00:00",
+      "last_updated": "2025-08-29T02:32:58.127115+00:00",
       "analysis_windows": [
-        "2025-08-28T00:48:13.709951+00:00"
+        "2025-08-29T02:32:58.127115+00:00"
       ],
-      "peak_controversy": 6.5,
+      "peak_controversy": 8.0,
       "trend": "new"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "user": {
         "handle": "thebulwark.com",
         "display_name": "The Bulwark",
@@ -404,7 +349,7 @@
       "trend": "new"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user": {
         "handle": "npr.org",
         "display_name": "NPR",
@@ -460,63 +405,63 @@
       "trend": "new"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "user": {
-        "handle": "donmoyn.bsky.social",
-        "display_name": "Don Moynihan",
-        "initials": "DM",
-        "did": "did:plc:2rrp7amblhg3xoly5n5huiqv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2rrp7amblhg3xoly5n5huiqv/bafkreibsmfy5cp2coq2ybxi4k4vnv43oebrgzmvubjtogwlwdbvztaneky@jpeg",
-        "profile_url": "https://bsky.app/profile/donmoyn.bsky.social"
+        "handle": "kylec.bsky.social",
+        "display_name": "Kyle Clark",
+        "initials": "KC",
+        "did": "did:plc:h55nabz5glwdanw73qqzmfag",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h55nabz5glwdanw73qqzmfag/bafkreibvtr3hu3lsvkqhpepx3cmtwafqzok672vdoiost33toxsgmjcoje@jpeg",
+        "profile_url": "https://bsky.app/profile/kylec.bsky.social"
       },
-      "ratio": "13:1",
-      "controversy": 5.0,
+      "ratio": "1:1",
+      "controversy": 4.6,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Ruin a book by adding Tom Clancy's to the title\n\nTom Cancy's Administrative Burdens",
-        "uri": "at://did:plc:2rrp7amblhg3xoly5n5huiqv/app.bsky.feed.post/3lxgajwfiyk2q",
-        "created_at": "2025-08-28T00:02:41.923Z",
-        "url": "https://bsky.app/profile/donmoyn.bsky.social/post/3lxgajwfiyk2q"
+        "text": "NEW: RFK Jr's purge of CDC leadership isn't shaking Democratic Gov Jared Polis' enthusiastic support of Kennedy to lead America's health policy. Today, Polis praised his collaboration with Kennedy, saying \"We hope to work on making America healthier.\" #copolitics",
+        "uri": "at://did:plc:h55nabz5glwdanw73qqzmfag/app.bsky.feed.post/3lxixymfkkc2a",
+        "created_at": "2025-08-29T02:07:50.293Z",
+        "url": "https://bsky.app/profile/kylec.bsky.social/post/3lxixymfkkc2a"
       },
       "engagement": {
-        "likes": 77,
-        "replies": 62,
-        "reposts": 5,
-        "quotes": 67,
+        "likes": 47,
+        "replies": 24,
+        "reposts": 11,
+        "quotes": 10,
         "formatted": {
-          "likes": "77",
-          "replies": "62",
-          "reposts": "5",
-          "quotes": "67"
+          "likes": "47",
+          "replies": "24",
+          "reposts": "11",
+          "quotes": "10"
         }
       },
       "sample_replies": [
-        "Tom Clancy's What to Expect when You are Expecting",
-        "Tom Clancy's Fear and Loathing in Las Vegas",
-        "Tom Clancy’s Little Women",
-        "tom clancy's interview with a vampire"
+        "Hope Polis has no higher political aspirations because this is disqualifying",
+        "Polis sold out months ago. A disgrace of a man.",
+        "I can’t wait until he is out of office. What a spectacular disappointment.",
+        "Used to like Polis.  He has proven himself to anti-science by supporting this crackpot Kennedy. ..."
       ],
       "metrics": {
-        "ratio_score": 10.57,
-        "time_bucket": 1,
-        "total_engagement": 124,
-        "post_age_minutes": 29.9
+        "ratio_score": 2.83,
+        "time_bucket": 0,
+        "total_engagement": 92,
+        "post_age_minutes": 10.0
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-28T00:48:12.893827+00:00",
-      "last_updated": "2025-08-28T00:48:12.893827+00:00",
+      "first_detected": "2025-08-29T02:32:57.169586+00:00",
+      "last_updated": "2025-08-29T02:32:57.169586+00:00",
       "analysis_windows": [
-        "2025-08-28T00:48:12.893827+00:00"
+        "2025-08-29T02:32:57.169586+00:00"
       ],
-      "peak_controversy": 5.0,
+      "peak_controversy": 4.6,
       "trend": "new"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "user": {
         "handle": "altcdc.altgov.info",
         "display_name": "Alt CDC (they/them)",
@@ -572,7 +517,7 @@
       "trend": "new"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "user": {
         "handle": "culturecrave.co",
         "display_name": "Culture Crave 🍿",
@@ -629,7 +574,7 @@
       "trend": "rising"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user": {
         "handle": "colindickey.com",
         "display_name": "Colin Dickey",
@@ -685,7 +630,7 @@
       "trend": "new"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user": {
         "handle": "politico.com",
         "display_name": "Politico",
@@ -739,6 +684,63 @@
       ],
       "peak_controversy": 3.5,
       "trend": "new"
+    },
+    {
+      "rank": 13,
+      "user": {
+        "handle": "sickoscommittee.org",
+        "display_name": "Sickos Committee",
+        "initials": "SC",
+        "did": "did:plc:upyx3raxzpwlnzojrncogd7y",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:upyx3raxzpwlnzojrncogd7y/bafkreiema6hpmysc65cb3ialzkkddvtj6vi6sutplt2iymo2fsq4y3nqoq@jpeg",
+        "profile_url": "https://bsky.app/profile/sickoscommittee.org"
+      },
+      "ratio": "1:1",
+      "controversy": 3.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "",
+        "uri": "at://did:plc:upyx3raxzpwlnzojrncogd7y/app.bsky.feed.post/3lxiwhxg5w222",
+        "created_at": "2025-08-29T01:40:37.669Z",
+        "url": "https://bsky.app/profile/sickoscommittee.org/post/3lxiwhxg5w222"
+      },
+      "engagement": {
+        "likes": 75,
+        "replies": 6,
+        "reposts": 9,
+        "quotes": 12,
+        "formatted": {
+          "likes": "75",
+          "replies": "6",
+          "reposts": "9",
+          "quotes": "12"
+        }
+      },
+      "sample_replies": [
+        "When you notice that Cincinnati’s coach is still Scott Satterfield",
+        "“He really does think he’s Mahomes”",
+        "Wildly underrated comment",
+        "The most famous pop star in the world having her first post-engagement appearance at a week 0.5..."
+      ],
+      "metrics": {
+        "ratio_score": 1.8,
+        "time_bucket": 2,
+        "total_engagement": 102,
+        "post_age_minutes": 37.2
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-29T02:32:57.294405+00:00",
+      "last_updated": "2025-08-29T02:32:58.127239+00:00",
+      "analysis_windows": [
+        "2025-08-29T02:32:57.294405+00:00",
+        "2025-08-29T02:32:58.127239+00:00"
+      ],
+      "peak_controversy": 3.1,
+      "trend": "rising"
     },
     {
       "rank": 14,
@@ -855,6 +857,118 @@
     {
       "rank": 16,
       "user": {
+        "handle": "washingtonpost.com",
+        "display_name": "The Washington Post",
+        "initials": "TW",
+        "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
+        "profile_url": "https://bsky.app/profile/washingtonpost.com"
+      },
+      "ratio": "2:1",
+      "controversy": 2.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "The Air Force will offer military funeral honors to Ashli Babbitt, the Trump supporter and Air Force veteran who was fatally shot by police during the Jan. 6, 2021, attack on the Capitol, according to a statement from military officials.",
+        "uri": "at://did:plc:k5nskatzhyxersjilvtnz4lh/app.bsky.feed.post/3lxixkuasmu2z",
+        "created_at": "2025-08-29T02:00:08.743063039Z",
+        "url": "https://bsky.app/profile/washingtonpost.com/post/3lxixkuasmu2z"
+      },
+      "engagement": {
+        "likes": 6,
+        "replies": 39,
+        "reposts": 7,
+        "quotes": 14,
+        "formatted": {
+          "likes": "6",
+          "replies": "39",
+          "reposts": "7",
+          "quotes": "14"
+        }
+      },
+      "sample_replies": [
+        "The air force is giving a military funeral to a traitor who tried to overthrow the US government.",
+        "Utter bullshit",
+        "Ashley Babbit was crawling through a window into the halls of Congress, where US reps were huddled...",
+        "Fatally shot as she was breaking the law and assaulting federal officers within the capital..."
+      ],
+      "metrics": {
+        "ratio_score": 6.62,
+        "time_bucket": 1,
+        "total_engagement": 66,
+        "post_age_minutes": 17.7
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-29T02:32:57.411829+00:00",
+      "last_updated": "2025-08-29T02:32:57.411829+00:00",
+      "analysis_windows": [
+        "2025-08-29T02:32:57.411829+00:00"
+      ],
+      "peak_controversy": 2.6,
+      "trend": "new"
+    },
+    {
+      "rank": 17,
+      "user": {
+        "handle": "awfulannouncing.bsky.social",
+        "display_name": "Awful Announcing",
+        "initials": "AA",
+        "did": "did:plc:f5oj3h5yslnl5ymnvya5aecv",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5oj3h5yslnl5ymnvya5aecv/bafkreiey3opf5eqzwuscafvddutyqdyxi24wvroaqt2t3fctrbwq7f7ty4@jpeg",
+        "profile_url": "https://bsky.app/profile/awfulannouncing.bsky.social"
+      },
+      "ratio": "1:1",
+      "controversy": 2.6,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Taylor Swift and Travis Kelce are at the Nebraska-Cincinnati game at Arrowhead Stadium, as shown on the ESPN broadcast.",
+        "uri": "at://did:plc:f5oj3h5yslnl5ymnvya5aecv/app.bsky.feed.post/3lxix3y4i522k",
+        "created_at": "2025-08-29T01:51:49.500Z",
+        "url": "https://bsky.app/profile/awfulannouncing.bsky.social/post/3lxix3y4i522k"
+      },
+      "engagement": {
+        "likes": 41,
+        "replies": 8,
+        "reposts": 7,
+        "quotes": 8,
+        "formatted": {
+          "likes": "41",
+          "replies": "8",
+          "reposts": "7",
+          "quotes": "8"
+        }
+      },
+      "sample_replies": [
+        "I don't care",
+        "an indication of how famous Taylor Swift is: Patrick Mahomes is sitting right next to them and...",
+        "I can't believe I got an ESPN app notification about it. I'm turning off all notifications for that...",
+        "To be fair the broadcast did talk about him first but iirc mostly about whatever weird friendship..."
+      ],
+      "metrics": {
+        "ratio_score": 2.0,
+        "time_bucket": 1,
+        "total_engagement": 64,
+        "post_age_minutes": 26.0
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-29T02:32:57.531214+00:00",
+      "last_updated": "2025-08-29T02:32:57.531214+00:00",
+      "analysis_windows": [
+        "2025-08-29T02:32:57.531214+00:00"
+      ],
+      "peak_controversy": 2.6,
+      "trend": "new"
+    },
+    {
+      "rank": 18,
+      "user": {
         "handle": "onestpress.onestnetwork.com",
         "display_name": "Olga Nesterova",
         "initials": "ON",
@@ -909,7 +1023,64 @@
       "trend": "new"
     },
     {
-      "rank": 17,
+      "rank": 19,
+      "user": {
+        "handle": "realtuckfrumper.bsky.social",
+        "display_name": "Tuck The Frumpers",
+        "initials": "TT",
+        "did": "did:plc:wjatbj4hiinxfqaeixaw2bcp",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjatbj4hiinxfqaeixaw2bcp/bafkreih43pafyvgdfns6bk7kmo4kbbr5fdqff3m4mv2qgr4xpmc2mzjw2m@jpeg",
+        "profile_url": "https://bsky.app/profile/realtuckfrumper.bsky.social"
+      },
+      "ratio": "1:2",
+      "controversy": 2.1,
+      "change": "NEW",
+      "change_type": "new",
+      "post": {
+        "text": "Jan. 6 Rioter Killed As She Stormed Capitol Will Receive Military Funeral Honors",
+        "uri": "at://did:plc:wjatbj4hiinxfqaeixaw2bcp/app.bsky.feed.post/3lxiwlan76t2d",
+        "created_at": "2025-08-29T01:42:27.000Z",
+        "url": "https://bsky.app/profile/realtuckfrumper.bsky.social/post/3lxiwlan76t2d"
+      },
+      "engagement": {
+        "likes": 21,
+        "replies": 30,
+        "reposts": 12,
+        "quotes": 7,
+        "formatted": {
+          "likes": "21",
+          "replies": "30",
+          "reposts": "12",
+          "quotes": "7"
+        }
+      },
+      "sample_replies": [
+        "That is sacrilegious!! How DARE they dishonor all those who actually gave their life for the...",
+        "What a lot of bullshit!",
+        "That's disgusting. She was trying to get through the broken door window, acting like a rabid...",
+        "She's a f****** nobody. She went there cuz Trump said it would be wild and these trigger happy..."
+      ],
+      "metrics": {
+        "ratio_score": 2.85,
+        "time_bucket": 2,
+        "total_engagement": 70,
+        "post_age_minutes": 35.4
+      },
+      "previous_analysis": {
+        "controversy": 0,
+        "rank": null
+      },
+      "first_detected": "2025-08-29T02:32:57.647113+00:00",
+      "last_updated": "2025-08-29T02:32:58.127239+00:00",
+      "analysis_windows": [
+        "2025-08-29T02:32:57.647113+00:00",
+        "2025-08-29T02:32:58.127239+00:00"
+      ],
+      "peak_controversy": 2.1,
+      "trend": "rising"
+    },
+    {
+      "rank": 20,
       "user": {
         "handle": "nytimes.com",
         "display_name": "The New York Times",
@@ -965,7 +1136,7 @@
       "trend": "new"
     },
     {
-      "rank": 18,
+      "rank": 21,
       "user": {
         "handle": "theguardian.com",
         "display_name": "The Guardian",
@@ -1022,63 +1193,7 @@
       "trend": "stable"
     },
     {
-      "rank": 19,
-      "user": {
-        "handle": "bredlove.bsky.social",
-        "display_name": "BRedLove",
-        "initials": "BR",
-        "did": "did:plc:d7ewzksbibtazzkdkf3zbtpv",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7ewzksbibtazzkdkf3zbtpv/bafkreiclzugpwn4gztt4xnrsnmexgsu3k7lns7mb57njflh5i7uoelepru@jpeg",
-        "profile_url": "https://bsky.app/profile/bredlove.bsky.social"
-      },
-      "ratio": "12:1",
-      "controversy": 1.8,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "LMFAOOOO YALL. This is local to me and I screaming",
-        "uri": "at://did:plc:d7ewzksbibtazzkdkf3zbtpv/app.bsky.feed.post/3lxg72atsy22l",
-        "created_at": "2025-08-27T23:36:02.253Z",
-        "url": "https://bsky.app/profile/bredlove.bsky.social/post/3lxg72atsy22l"
-      },
-      "engagement": {
-        "likes": 63,
-        "replies": 30,
-        "reposts": 12,
-        "quotes": 146,
-        "formatted": {
-          "likes": "63",
-          "replies": "30",
-          "reposts": "12",
-          "quotes": "146"
-        }
-      },
-      "sample_replies": [
-        "LOOK AT THIS FUCKING POTATO YALL",
-        "He doesnt have access to the internet? Can he not read directions and look at pictures? \n\nAlso...",
-        "Nice of him to make some food. That is where I stop because fake ssa KRAB on the plate, string...",
-        "he tried & i can’t really fault him for that."
-      ],
-      "metrics": {
-        "ratio_score": 24.33,
-        "time_bucket": 3,
-        "total_engagement": 92,
-        "post_age_minutes": 56.5
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-28T00:48:13.847035+00:00",
-      "last_updated": "2025-08-28T00:48:13.847035+00:00",
-      "analysis_windows": [
-        "2025-08-28T00:48:13.847035+00:00"
-      ],
-      "peak_controversy": 1.8,
-      "trend": "new"
-    },
-    {
-      "rank": 20,
+      "rank": 22,
       "user": {
         "handle": "cnn.com",
         "display_name": "CNN",
@@ -1134,7 +1249,7 @@
       "trend": "new"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "user": {
         "handle": "amikebloomtype.bsky.social",
         "display_name": "Mike Bloom",
@@ -1190,7 +1305,7 @@
       "trend": "new"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "user": {
         "handle": "idothethinking.bsky.social",
         "display_name": "Darrell Owens",
@@ -1246,7 +1361,7 @@
       "trend": "new"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "user": {
         "handle": "jefftrnka.bsky.social",
         "display_name": "JeffTrnka",
@@ -1302,7 +1417,7 @@
       "trend": "new"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "user": {
         "handle": "stevepeers.bsky.social",
         "display_name": "Steve Peers",
@@ -1358,63 +1473,7 @@
       "trend": "new"
     },
     {
-      "rank": 25,
-      "user": {
-        "handle": "craigcalcaterra.bsky.social",
-        "display_name": "Craig Calcaterra",
-        "initials": "CC",
-        "did": "did:plc:vevk6lgrt6o4wncrbp7joij3",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vevk6lgrt6o4wncrbp7joij3/bafkreidhccwd5vifm373yc7cpdvgbovb2por22qoeu6f372x5r2tbab624@jpeg",
-        "profile_url": "https://bsky.app/profile/craigcalcaterra.bsky.social"
-      },
-      "ratio": "10:0",
-      "controversy": 1.3,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Ruin a book by adding Tom Clancy's to the title\n\nTom Cancy's Jonathan Livingston Seagull\n\nbsky.app/profile/donm...",
-        "uri": "at://did:plc:vevk6lgrt6o4wncrbp7joij3/app.bsky.feed.post/3lxgau3ch5c2s",
-        "created_at": "2025-08-28T00:08:22.609Z",
-        "url": "https://bsky.app/profile/craigcalcaterra.bsky.social/post/3lxgau3ch5c2s"
-      },
-      "engagement": {
-        "likes": 29,
-        "replies": 17,
-        "reposts": 0,
-        "quotes": 10,
-        "formatted": {
-          "likes": "29",
-          "replies": "17",
-          "reposts": "0",
-          "quotes": "10"
-        }
-      },
-      "sample_replies": [
-        "tom clancy’s holy bible",
-        "sorry you said ruin not make awesome",
-        "Tom Clancy’s The Book of Mormon…",
-        "Listen. I know you’re having some fun here but you’ve only enhanced the offerings available.  If..."
-      ],
-      "metrics": {
-        "ratio_score": 12.0,
-        "time_bucket": 1,
-        "total_engagement": 32,
-        "post_age_minutes": 24.2
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-28T00:48:13.027516+00:00",
-      "last_updated": "2025-08-28T00:48:13.027516+00:00",
-      "analysis_windows": [
-        "2025-08-28T00:48:13.027516+00:00"
-      ],
-      "peak_controversy": 1.3,
-      "trend": "new"
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "user": {
         "handle": "vulture.com",
         "display_name": "Vulture",
@@ -1469,174 +1528,7 @@
       "trend": "new"
     },
     {
-      "rank": 27,
-      "user": {
-        "handle": "moviessilently.bsky.social",
-        "display_name": "Movies Silently",
-        "initials": "MS",
-        "did": "did:plc:tpg3qzw3niphci6ne5wdprfr",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tpg3qzw3niphci6ne5wdprfr/bafkreih4dbtlr53ablpx262fguxkjuqae4dozina37xypxma2fpyo3f45i@jpeg",
-        "profile_url": "https://bsky.app/profile/moviessilently.bsky.social"
-      },
-      "ratio": "13:1",
-      "controversy": 1.2,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Ruin a book by adding Tom Clancy's to the title\n\n\"Tom Clancy's IT\"",
-        "uri": "at://did:plc:tpg3qzw3niphci6ne5wdprfr/app.bsky.feed.post/3lxgawqlcf22c",
-        "created_at": "2025-08-28T00:09:52.028Z",
-        "url": "https://bsky.app/profile/moviessilently.bsky.social/post/3lxgawqlcf22c"
-      },
-      "engagement": {
-        "likes": 39,
-        "replies": 9,
-        "reposts": 1,
-        "quotes": 13,
-        "formatted": {
-          "likes": "39",
-          "replies": "9",
-          "reposts": "1",
-          "quotes": "13"
-        }
-      },
-      "sample_replies": [
-        "I naturally refer to the Elinor Glyn novel and don't know what that King person is on about.",
-        "I honestly don't remember! I think I might have done, I usually do for film reviews",
-        "have you read that novel? I admit I've been tempted to hunt it down just to see what it's like....",
-        "I borrowed a copy of Edith Wharton's one jazz age novel, which I need to read"
-      ],
-      "metrics": {
-        "ratio_score": 11.0,
-        "time_bucket": 1,
-        "total_engagement": 30,
-        "post_age_minutes": 22.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-28T00:48:13.162672+00:00",
-      "last_updated": "2025-08-28T00:48:13.162672+00:00",
-      "analysis_windows": [
-        "2025-08-28T00:48:13.162672+00:00"
-      ],
-      "peak_controversy": 1.2,
-      "trend": "new"
-    },
-    {
       "rank": 28,
-      "user": {
-        "handle": "seanrosssapp.bsky.social",
-        "display_name": "Sean Ross Sapp of Fightful",
-        "initials": "SR",
-        "did": "did:plc:p42p6sf72zmlx3bwukcvoiuy",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p42p6sf72zmlx3bwukcvoiuy/bafkreifpggupnqnn7j7vnmculcrhr6ljbtstozhvy7gtnx7nidezdsanli@jpeg",
-        "profile_url": "https://bsky.app/profile/seanrosssapp.bsky.social"
-      },
-      "ratio": "4:1",
-      "controversy": 1.1,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Toru Yano has been gaining influence and responsibility within NJPW, FightfulSelect.com reported this week.\n\nMore details for subscribers",
-        "uri": "at://did:plc:p42p6sf72zmlx3bwukcvoiuy/app.bsky.feed.post/3lxgay3g5l22n",
-        "created_at": "2025-08-28T00:10:36.947Z",
-        "url": "https://bsky.app/profile/seanrosssapp.bsky.social/post/3lxgay3g5l22n"
-      },
-      "engagement": {
-        "likes": 34,
-        "replies": 11,
-        "reposts": 2,
-        "quotes": 7,
-        "formatted": {
-          "likes": "34",
-          "replies": "11",
-          "reposts": "2",
-          "quotes": "7"
-        }
-      },
-      "sample_replies": [
-        "He will do anything to duck that rematch with Moxley!",
-        "A new golden age of New Japan incoming",
-        "That's the same exact face I make whenever I'm given any semblance of responsibility whatsoever"
-      ],
-      "metrics": {
-        "ratio_score": 5.5,
-        "time_bucket": 1,
-        "total_engagement": 28,
-        "post_age_minutes": 22.0
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-28T00:48:13.299076+00:00",
-      "last_updated": "2025-08-28T00:48:13.299076+00:00",
-      "analysis_windows": [
-        "2025-08-28T00:48:13.299076+00:00"
-      ],
-      "peak_controversy": 1.1,
-      "trend": "new"
-    },
-    {
-      "rank": 29,
-      "user": {
-        "handle": "notyournegro.bsky.social",
-        "display_name": "Not Your Negress",
-        "initials": "NY",
-        "did": "did:plc:wrkiixesrxrk7ttfjrduevmd",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wrkiixesrxrk7ttfjrduevmd/bafkreibq3b5narrjdlgds6aee2epbccmn7ylsgjlyoo6aqonrrbtdvvcnq@jpeg",
-        "profile_url": "https://bsky.app/profile/notyournegro.bsky.social"
-      },
-      "ratio": "2:1",
-      "controversy": 1.0,
-      "change": "NEW",
-      "change_type": "new",
-      "post": {
-        "text": "Black people:\n\nThis Hurricane Katrina Netflix documentary is gonna piss you off.",
-        "uri": "at://did:plc:wrkiixesrxrk7ttfjrduevmd/app.bsky.feed.post/3lxg7rcvmj22h",
-        "created_at": "2025-08-27T23:48:56.173Z",
-        "url": "https://bsky.app/profile/notyournegro.bsky.social/post/3lxg7rcvmj22h"
-      },
-      "engagement": {
-        "likes": 53,
-        "replies": 6,
-        "reposts": 8,
-        "quotes": 16,
-        "formatted": {
-          "likes": "53",
-          "replies": "6",
-          "reposts": "8",
-          "quotes": "16"
-        }
-      },
-      "sample_replies": [
-        "I saw it…could only smh",
-        "I refuse to watch it. I do have one question. Are Hurricane Katrina tours still a thing there?",
-        "JFC!!! But they just HAD to get that fucking football stadium up and running before the season...",
-        "Yes."
-      ],
-      "metrics": {
-        "ratio_score": 1.8,
-        "time_bucket": 2,
-        "total_engagement": 35,
-        "post_age_minutes": 43.7
-      },
-      "previous_analysis": {
-        "controversy": 0,
-        "rank": null
-      },
-      "first_detected": "2025-08-28T00:48:13.434992+00:00",
-      "last_updated": "2025-08-28T00:48:13.434992+00:00",
-      "analysis_windows": [
-        "2025-08-28T00:48:13.434992+00:00"
-      ],
-      "peak_controversy": 1.0,
-      "trend": "new"
-    },
-    {
-      "rank": 30,
       "user": {
         "handle": "thedailybeast.bsky.social",
         "display_name": "The Daily Beast",
@@ -1692,62 +1584,63 @@
       "trend": "new"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "user": {
-        "handle": "danacorn.bsky.social",
-        "display_name": "uosdɯıS ɐuɐᗡ ✨🦄✨",
-        "initials": "UⱯ",
-        "did": "did:plc:waqe556efk24vfis4kanj2ie",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:waqe556efk24vfis4kanj2ie/bafkreibcfhewd3qhenufwuxmi3txfgkkr5e6zzomzdflrjbmbhg6innhru@jpeg",
-        "profile_url": "https://bsky.app/profile/danacorn.bsky.social"
+        "handle": "fabrizioromano.yopro20.com",
+        "display_name": "Fabrizio Romano (MIRROR)",
+        "initials": "FR",
+        "did": "did:plc:e35lo4qxz5vo6n5k3m7v5fox",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e35lo4qxz5vo6n5k3m7v5fox/bafkreigns4qrlmiasr4s3bkaksdgohns3xxwhv4bpl6zh4tooui3qa56oi@jpeg",
+        "profile_url": "https://bsky.app/profile/fabrizioromano.yopro20.com"
       },
-      "ratio": "8:1",
-      "controversy": 0.9,
+      "ratio": "5:1",
+      "controversy": 1.0,
       "change": "NEW",
       "change_type": "new",
       "post": {
-        "text": "Ruin a book by adding “Tom Clancy’s” to the title:\n\nTom Clancy’s Phoebe and Her Unicorn",
-        "uri": "at://did:plc:waqe556efk24vfis4kanj2ie/app.bsky.feed.post/3lxg7pp3xlk27",
-        "created_at": "2025-08-27T23:48:01.855Z",
-        "url": "https://bsky.app/profile/danacorn.bsky.social/post/3lxg7pp3xlk27"
+        "text": "🚨💣 EXCLUSIVE: Tottenham agree €60m fee with RB Leipzig for Xavi Simons! Official bid accepted, green light after #THFC sent formal bid following player’s encouragement. Spurs want deal done today also on player side + medical in the next hours. Here we go, expected soon 🧨",
+        "uri": "at://did:plc:e35lo4qxz5vo6n5k3m7v5fox/app.bsky.feed.post/3lxiwtjo4z72u",
+        "created_at": "2025-08-29T01:47:05.850400+00:00",
+        "url": "https://bsky.app/profile/fabrizioromano.yopro20.com/post/3lxiwtjo4z72u"
       },
       "engagement": {
-        "likes": 40,
-        "replies": 7,
+        "likes": 20,
+        "replies": 2,
         "reposts": 2,
-        "quotes": 15,
+        "quotes": 10,
         "formatted": {
-          "likes": "40",
-          "replies": "7",
+          "likes": "20",
+          "replies": "2",
           "reposts": "2",
-          "quotes": "15"
+          "quotes": "10"
         }
       },
       "sample_replies": [
-        "Fun fact: about a decade ago, after an event in the Chicago area, I spent some time with the lady...",
-        "cmon you know you wanna do a technothriller with teenage Phoebe in the middle of it, who still has...",
-        "Change \"Her\" to \"the\" and it's the first of these that's a plausible Clancy title... \n\n....but now..."
+        "Don’t do this “Here we go soon” thing to me again.",
+        "Spurs found a club they can boss around. 😂",
+        "Warra trophy,  a beautiful European trophy 🏆",
+        "I'm hating \"Here we go, expected soon\"... save the HWG until it's actually HWG.\nSpurs fans are in..."
       ],
       "metrics": {
-        "ratio_score": 5.5,
+        "ratio_score": 4.0,
         "time_bucket": 2,
-        "total_engagement": 31,
-        "post_age_minutes": 44.5
+        "total_engagement": 34,
+        "post_age_minutes": 30.8
       },
       "previous_analysis": {
         "controversy": 0,
         "rank": null
       },
-      "first_detected": "2025-08-28T00:48:13.573175+00:00",
-      "last_updated": "2025-08-28T00:48:13.573175+00:00",
+      "first_detected": "2025-08-29T02:32:57.997695+00:00",
+      "last_updated": "2025-08-29T02:32:57.997695+00:00",
       "analysis_windows": [
-        "2025-08-28T00:48:13.573175+00:00"
+        "2025-08-29T02:32:57.997695+00:00"
       ],
-      "peak_controversy": 0.9,
+      "peak_controversy": 1.0,
       "trend": "new"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "user": {
         "handle": "lepetitereboot.bsky.social",
         "display_name": "malcoholic",
@@ -1803,7 +1696,7 @@
       "trend": "new"
     },
     {
-      "rank": 33,
+      "rank": 31,
       "user": {
         "handle": "australia.theguardian.com",
         "display_name": "Guardian Australia",
@@ -1859,7 +1752,7 @@
       "trend": "new"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "user": {
         "handle": "spookycoochiegawd.blacksky.app",
         "display_name": "Crazy • Scary • Spooky • Hilarious",
@@ -1914,7 +1807,7 @@
       "trend": "new"
     },
     {
-      "rank": 35,
+      "rank": 33,
       "user": {
         "handle": "financialtimes.com",
         "display_name": "Financial Times",
@@ -1970,7 +1863,7 @@
       "trend": "new"
     },
     {
-      "rank": 36,
+      "rank": 34,
       "user": {
         "handle": "omfgrealitytv.bsky.social",
         "display_name": "Omfgrealitytv.Bsky.Social",
@@ -2024,7 +1917,7 @@
       "trend": "new"
     },
     {
-      "rank": 37,
+      "rank": 35,
       "user": {
         "handle": "veryghetto.posts.fyi",
         "display_name": "Xae 🪼",
@@ -2080,7 +1973,7 @@
       "trend": "new"
     },
     {
-      "rank": 38,
+      "rank": 36,
       "user": {
         "handle": "globalnews.ca",
         "display_name": "Global News (Official)",
