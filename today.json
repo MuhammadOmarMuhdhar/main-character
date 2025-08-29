@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_full_analysis": "2025-08-28T23:04:46.426783+00:00",
-    "last_metrics_update": "2025-08-29T01:32:37.280850+00:00",
+    "last_metrics_update": "2025-08-29T01:47:43.673283+00:00",
     "collection_period_hours": 3,
     "window_period_hours": 24,
     "main_characters_count": 38,
@@ -35,12 +35,12 @@
         "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3lxgbff4fok2r"
       },
       "engagement": {
-        "likes": 377,
+        "likes": 378,
         "replies": 161,
         "reposts": 17,
         "quotes": 94,
         "formatted": {
-          "likes": "377",
+          "likes": "378",
           "replies": "161",
           "reposts": "17",
           "quotes": "94"
@@ -91,7 +91,7 @@
         "url": "https://bsky.app/profile/annabower.bsky.social/post/3lxhtwjzu7k25"
       },
       "engagement": {
-        "likes": 1241,
+        "likes": 1243,
         "replies": 253,
         "reposts": 129,
         "quotes": 157,
@@ -147,15 +147,15 @@
         "url": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3lxikivtic22k"
       },
       "engagement": {
-        "likes": 1250,
-        "replies": 612,
-        "reposts": 290,
-        "quotes": 833,
+        "likes": 1304,
+        "replies": 626,
+        "reposts": 306,
+        "quotes": 850,
         "formatted": {
-          "likes": "1.2K",
-          "replies": "612",
-          "reposts": "290",
-          "quotes": "833"
+          "likes": "1.3K",
+          "replies": "626",
+          "reposts": "306",
+          "quotes": "850"
         }
       },
       "sample_replies": [
@@ -203,14 +203,14 @@
         "url": "https://bsky.app/profile/chadbourn.bsky.social/post/3lxilio7jt225"
       },
       "engagement": {
-        "likes": 233,
-        "replies": 78,
-        "reposts": 55,
+        "likes": 237,
+        "replies": 79,
+        "reposts": 56,
         "quotes": 26,
         "formatted": {
-          "likes": "233",
-          "replies": "78",
-          "reposts": "55",
+          "likes": "237",
+          "replies": "79",
+          "reposts": "56",
           "quotes": "26"
         }
       },
@@ -259,12 +259,12 @@
         "url": "https://bsky.app/profile/hankgreen.bsky.social/post/3lxi5ct5njc2g"
       },
       "engagement": {
-        "likes": 931,
+        "likes": 935,
         "replies": 157,
         "reposts": 14,
         "quotes": 10,
         "formatted": {
-          "likes": "931",
+          "likes": "935",
           "replies": "157",
           "reposts": "14",
           "quotes": "10"
@@ -369,12 +369,12 @@
         "url": "https://bsky.app/profile/thebulwark.com/post/3lxhtr4z6wl2j"
       },
       "engagement": {
-        "likes": 265,
+        "likes": 268,
         "replies": 226,
         "reposts": 71,
         "quotes": 66,
         "formatted": {
-          "likes": "265",
+          "likes": "268",
           "replies": "226",
           "reposts": "71",
           "quotes": "66"
@@ -424,12 +424,12 @@
         "url": "https://bsky.app/profile/npr.org/post/3lxikgnrpz72i"
       },
       "engagement": {
-        "likes": 139,
+        "likes": 140,
         "replies": 76,
         "reposts": 50,
         "quotes": 21,
         "formatted": {
-          "likes": "139",
+          "likes": "140",
           "replies": "76",
           "reposts": "50",
           "quotes": "21"
@@ -525,7 +525,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xtrzqicesfwterpbweugpl4u/bafkreid2qlxqmwis5lcu4nvquafv6pl6q3j2amfh4fqdpazaktu4cqhfre@jpeg",
         "profile_url": "https://bsky.app/profile/altcdc.altgov.info"
       },
-      "ratio": "1:5",
+      "ratio": "1:6",
       "controversy": 4.1,
       "change": "NEW",
       "change_type": "new",
@@ -536,14 +536,14 @@
         "url": "https://bsky.app/profile/altcdc.altgov.info/post/3lxhso7ym7k2d"
       },
       "engagement": {
-        "likes": 280,
+        "likes": 284,
         "replies": 36,
-        "reposts": 49,
+        "reposts": 50,
         "quotes": 9,
         "formatted": {
-          "likes": "280",
+          "likes": "284",
           "replies": "36",
-          "reposts": "49",
+          "reposts": "50",
           "quotes": "9"
         }
       },
@@ -592,15 +592,15 @@
         "url": "https://bsky.app/profile/culturecrave.co/post/3lxilnq5pvk2f"
       },
       "engagement": {
-        "likes": 165,
+        "likes": 170,
         "replies": 13,
         "reposts": 14,
-        "quotes": 18,
+        "quotes": 19,
         "formatted": {
-          "likes": "165",
+          "likes": "170",
           "replies": "13",
           "reposts": "14",
-          "quotes": "18"
+          "quotes": "19"
         }
       },
       "sample_replies": [
@@ -649,15 +649,15 @@
         "url": "https://bsky.app/profile/colindickey.com/post/3lxhsbgkat22t"
       },
       "engagement": {
-        "likes": 1516,
+        "likes": 1560,
         "replies": 87,
-        "reposts": 239,
-        "quotes": 178,
+        "reposts": 249,
+        "quotes": 182,
         "formatted": {
-          "likes": "1.5K",
+          "likes": "1.6K",
           "replies": "87",
-          "reposts": "239",
-          "quotes": "178"
+          "reposts": "249",
+          "quotes": "182"
         }
       },
       "sample_replies": [
@@ -706,12 +706,12 @@
       },
       "engagement": {
         "likes": 87,
-        "replies": 130,
+        "replies": 133,
         "reposts": 40,
         "quotes": 44,
         "formatted": {
           "likes": "87",
-          "replies": "130",
+          "replies": "133",
           "reposts": "40",
           "quotes": "44"
         }
@@ -1768,12 +1768,12 @@
       },
       "engagement": {
         "likes": 26,
-        "replies": 8,
+        "replies": 9,
         "reposts": 3,
         "quotes": 6,
         "formatted": {
           "likes": "26",
-          "replies": "8",
+          "replies": "9",
           "reposts": "3",
           "quotes": "6"
         }
@@ -1934,12 +1934,12 @@
         "url": "https://bsky.app/profile/financialtimes.com/post/3lxiky2vad72r"
       },
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "replies": 7,
         "reposts": 2,
         "quotes": 8,
         "formatted": {
-          "likes": "18",
+          "likes": "19",
           "replies": "7",
           "reposts": "2",
           "quotes": "8"
@@ -2033,7 +2033,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:aax2d4gyu4vmlccwdtgci474/bafkreifx563x4oi2phx5zgh52bqsyfpw3jhdgw2v3qk56ev466lr2evgna@jpeg",
         "profile_url": "https://bsky.app/profile/veryghetto.posts.fyi"
       },
-      "ratio": "8:1",
+      "ratio": "9:1",
       "controversy": 0.5,
       "change": "NEW",
       "change_type": "new",
@@ -2047,12 +2047,12 @@
         "likes": 3,
         "replies": 4,
         "reposts": 1,
-        "quotes": 8,
+        "quotes": 9,
         "formatted": {
           "likes": "3",
           "replies": "4",
           "reposts": "1",
-          "quotes": "8"
+          "quotes": "9"
         }
       },
       "sample_replies": [
@@ -2101,12 +2101,12 @@
       },
       "engagement": {
         "likes": 7,
-        "replies": 11,
+        "replies": 12,
         "reposts": 8,
         "quotes": 6,
         "formatted": {
           "likes": "7",
-          "replies": "11",
+          "replies": "12",
           "reposts": "8",
           "quotes": "6"
         }
