@@ -6,7 +6,7 @@ from datetime import datetime
 import time
 import os
 
-class SenateScraper:
+class Scraper:
     def __init__(self):
         self.url = "https://en.wikipedia.org/wiki/List_of_current_United_States_senators"
         self.senators = []
@@ -73,7 +73,7 @@ class SenateScraper:
         return self.senators
 
 if __name__ == "__main__":
-    scraper = SenateScraper()
+    scraper = Scraper()
     senators = scraper.run()
     
     # Print senator names
