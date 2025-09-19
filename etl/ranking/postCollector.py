@@ -9,7 +9,7 @@ from typing import Dict, List
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
-from ETL.ranking.config import DEFAULT_TIME_HOURS
+from etl.ranking.config import DEFAULT_TIME_HOURS
 from rankingAlgos.neighborhoodAlgo.scoring import collect_neighbor_content
 from rankingAlgos.networkAlgo.scoring import collect_mutual_content
 
@@ -36,20 +36,18 @@ def collect_posts_for_user(user_id: str, user_data: Dict, bq_client, redis_clien
         collected_posts = []
         
         # Get both taste neighbors and mutual connections from user profile data (discovered during ETL)
-        user_keywords = user_data.get('keywords', {})
         
-        # Extract taste neighbors
-        taste_neighbors = []
-        if isinstance(user_keywords, dict) and 'taste_neighbors' in user_keywords:
-            taste_neighbors = user_keywords['taste_neighbors']
+        # Extract taste neighbors from dedicated column
+        taste_neighbors = user_data.get('taste_neighbors', [])
+        if taste_neighbors:
             logger.info(f"Found {len(taste_neighbors)} taste neighbors for user {user_id}")
         else:
             logger.warning(f"No taste neighbors found for user {user_id}")
         
-        # Extract mutual connections
+        # Extract mutual connections from dedicated column
         mutual_connections = []
-        if isinstance(user_keywords, dict) and 'network_relationships' in user_keywords:
-            network_data = user_keywords['network_relationships']
+        network_data = user_data.get('network_relationships', {})
+        if network_data and isinstance(network_data, dict):
             mutual_connections = network_data.get('mutual_connections', [])
             logger.info(f"Found {len(mutual_connections)} mutual connections for user {user_id}")
         else:

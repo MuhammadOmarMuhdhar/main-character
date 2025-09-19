@@ -59,10 +59,7 @@ class UserDataProcessor:
             # all_posts = embed_posts(user_engagement_data)
             
             # PLACEHOLDER: Return both neighborhood and network data until new algorithm is implemented
-            enhanced_keywords = {
-                'taste_neighbors': taste_neighbors,
-                'network_relationships': network_relationships
-            }
+            enhanced_keywords = {}  # Keep for future algorithm data
             reading_level = 8  # Default reading level
             user_embedding = None
             
@@ -73,13 +70,15 @@ class UserDataProcessor:
                 logger.warning(f"No taste neighbors or mutual connections found for user {user_profile.get('handle')}")
                 return None
             
-            # Prepare user data for BigQuery
+            # Prepare user data for BigQuery (matching your schema)
             processed_user = {
                 'user_id': user_did,
                 'handle': user_profile.get('handle', ''),
-                'keywords': enhanced_keywords,  # Store enhanced keywords as JSON dict
+                'keywords': enhanced_keywords,  # Future algorithm keywords
                 'embeddings': user_embedding,  # Single embedding vector
                 'reading_level': reading_level,  # User's reading level
+                'taste_neighbors': taste_neighbors,  # Store in dedicated column
+                'network_relationships': network_relationships,  # Store in dedicated column
                 'updated_at': datetime.utcnow()
             }
             
